@@ -397,12 +397,6 @@ struct GameDetailView: View {
     }
 }
 
-// Routing payload for opening canvas from a specific play
-struct CanvasContext: Hashable {
-    let game: Game
-    let play: Play?
-}
-
 #if DEBUG
 #Preview {
     NavigationStack {

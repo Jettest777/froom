@@ -2,28 +2,81 @@
 # Copy to config.yml and fill in secrets. config.yml is gitignored.
 
 x:
-  # Either provide an OAuth2 Bearer Token (recommended for read-only news collection)
+  # X API v2 Bearer Token (read-only is fine)
+  # Get yours at https://developer.x.com/en/portal/dashboard
   bearer_token: "REPLACE_ME"
-  # Curated list of NFL insiders & official team accounts to monitor
-  watch_accounts:
-    insiders:
-      - AdamSchefter      # ESPN, breaking news (highest reliability)
-      - RapSheet          # Ian Rapoport, NFL Network
-      - mortreport        # Chris Mortensen (historical)
-      - DBondy            # Diana Russini
-      - JFowlerESPN       # Jeremy Fowler
-    teams:
-      - Chiefs
-      - BuffaloBills
-      - 49ers
-      - dallascowboys
-      # ... add the rest of 32 teams
-    beat_writers:
-      - MattMaiocco       # SF
-      - calvinwatkins     # DAL
-      - MikeReiss         # NE
-      # ...
 
+  # Curated list of NFL accounts to monitor.
+  # Higher tier = more reliable. We pull recent tweets from all of them.
+  watch_accounts:
+
+    # === TIER 1: Top NFL insiders (95%+ reliability) ===
+    insiders:
+      - AdamSchefter        # ESPN, the #1 source for trades/signings
+      - RapSheet            # Ian Rapoport, NFL Network
+      - JFowlerESPN         # Jeremy Fowler, ESPN
+      - TomPelissero        # NFL Network
+      - DBondy              # Diana Russini, The Athletic
+      - MikeGarafolo        # NFL Network
+      - JaySchroeder        # CBS Sports
+      - JosinaAnderson      # Independent
+
+    # === TIER 2: All 32 NFL team official accounts ===
+    teams:
+      # AFC East
+      - BuffaloBills
+      - MiamiDolphins
+      - Patriots
+      - nyjets
+      # AFC North
+      - Ravens
+      - Bengals
+      - Browns
+      - steelers
+      # AFC South
+      - HoustonTexans
+      - Colts
+      - Jaguars
+      - Titans
+      # AFC West
+      - Broncos
+      - Chiefs
+      - Raiders
+      - chargers
+      # NFC East
+      - dallascowboys
+      - Giants
+      - Eagles
+      - Commanders
+      # NFC North
+      - ChicagoBears
+      - Lions
+      - packers
+      - Vikings
+      # NFC South
+      - AtlantaFalcons
+      - Panthers
+      - Saints
+      - Buccaneers
+      # NFC West
+      - AZCardinals
+      - RamsNFL
+      - 49ers
+      - Seahawks
+
+    # === TIER 3: Beat writers (per-team specialists, 70-85% reliability) ===
+    beat_writers:
+      - MattMaiocco         # 49ers (NBC Sports Bay Area)
+      - calvinwatkins       # Cowboys (Dallas Morning News)
+      - MikeReiss           # Patriots (ESPN)
+      - JeffHoward11        # Bills
+      - NateAtkins_         # Lions (Detroit Free Press)
+      - JeremyFowler        # ESPN national
+      - JosinaAnderson      # Independent
+      - JosephSalvador      # Sports Illustrated
+      - PFF                 # Pro Football Focus (analysis-heavy)
+
+# === NFL.com / ESPN web scrapers ===
 nfl_official:
   base: "https://www.nfl.com"
   endpoints:
@@ -33,31 +86,42 @@ nfl_official:
 espn:
   base: "https://www.espn.com/nfl"
 
+# === Translation (optional, off by default) ===
 translation:
   enabled: false
   provider: deepl    # deepl | google | openai
   api_key: "REPLACE_ME"
   target_lang: ja
 
+# === Reliability scoring ===
 reliability:
-  # weights used to compute the 0-1 reliability score
+  # Per-account baseline reliability score (0..1)
   source_weight:
-    AdamSchefter: 0.96
-    RapSheet: 0.94
+    # Insiders (95%+)
+    AdamSchefter: 0.98
+    RapSheet: 0.96
+    JFowlerESPN: 0.94
+    TomPelissero: 0.94
     DBondy: 0.92
+    MikeGarafolo: 0.90
+    # Team official always 100% for their own news
     official_team: 0.98
+    # National outlets
     nfl_com: 0.95
-    espn: 0.90
+    espn: 0.92
+    pff: 0.88
+    # Beat writers
     beat_writer: 0.78
+    # Unknown sources fallback
     unknown: 0.50
-  # bonus for cross-source confirmation
+  # Bonus when N distinct sources confirm the same story
+  # final_score = min(1.0, base + (n_sources - 1) * bonus)
   multi_source_bonus: 0.04
 
+# === Output ===
 output:
-  # Directory where collected JSON lands (also published via GitHub Actions)
   dir: "./output"
-  # Filename pattern
-  filename: "intel-{date}.json"
+  filename: "intel-latest.json"   # iOS app fetches this from GitHub Raw
 
 storage:
   sqlite_path: "./storage/froom.db"

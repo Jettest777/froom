@@ -10,6 +10,7 @@ import SwiftUI
 struct HomeView: View {
     @State private var selectedFilter: NewsFilter = .all
     @State private var translatedIds: Set<UUID> = []
+    @State private var feed = FeedClient()
 
     enum NewsFilter: String, CaseIterable {
         case all = "All"
@@ -32,6 +33,12 @@ struct HomeView: View {
                 .padding(.bottom, 24)
             }
             .background(FRTheme.Color.bg1)
+            .refreshable {
+                await feed.refresh()
+            }
+        }
+        .task {
+            await feed.refresh()
         }
     }
 
@@ -59,8 +66,19 @@ struct HomeView: View {
         }
     }
 
+    private var newsItems: [NewsItem] {
+        switch selectedFilter {
+        case .all: return feed.items
+        case .signings: return feed.items.filter { $0.kind == .signing }
+        case .trades: return feed.items.filter { $0.kind == .trade }
+        case .injury: return feed.items.filter { $0.kind == .injury }
+        case .presser: return feed.items.filter { $0.kind == .presser }
+        case .rumor: return feed.items.filter { $0.kind == .rumor }
+        }
+    }
+
     private var breakingHero: some View {
-        let topItem = MockData.news.first { $0.kind == .trade } ?? MockData.news[0]
+        let topItem = feed.items.first { $0.kind == .trade } ?? feed.items.first ?? MockData.news[0]
         return ZStack(alignment: .bottomLeading) {
             LinearGradient(
                 colors: [Color(red: 0.110, green: 0.039, blue: 0.020),
@@ -117,7 +135,12 @@ struct HomeView: View {
                 .padding(.horizontal, 16)
 
             VStack(spacing: 12) {
-                ForEach(MockData.news) { item in
+                if feed.isLoading && feed.items.isEmpty {
+                    ProgressView()
+                        .tint(FRTheme.Color.rust)
+                        .padding(.vertical, 40)
+                }
+                ForEach(newsItems) { item in
                     NewsCardView(item: item, isTranslated: translatedIds.contains(item.id)) {
                         if translatedIds.contains(item.id) {
                             translatedIds.remove(item.id)
@@ -125,6 +148,14 @@ struct HomeView: View {
                             translatedIds.insert(item.id)
                         }
                     }
+                }
+                if let error = feed.lastError {
+                    Text("⚠️ 取得失敗: \(error)\nモックデータで表示中。")
+                        .font(.system(size: 10, design: .monospaced))
+                        .foregroundColor(FRTheme.Color.text2)
+                        .multilineTextAlignment(.center)
+                        .frame(maxWidth: .infinity)
+                        .padding(.vertical, 16)
                 }
             }
             .padding(.horizontal, 16)

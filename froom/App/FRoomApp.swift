@@ -2,10 +2,11 @@
 //  FRoomApp.swift
 //  f/Room
 //
-//  Application entry point.
+//  Application entry point. Sets up SwiftData container and splash → root flow.
 //
 
 import SwiftUI
+import SwiftData
 
 @main
 struct FRoomApp: App {
@@ -19,7 +20,6 @@ struct FRoomApp: App {
                     SplashView()
                         .transition(.opacity)
                         .onAppear {
-                            // Auto-dismiss splash after 1.6s
                             DispatchQueue.main.asyncAfter(deadline: .now() + 1.6) {
                                 withAnimation(.easeOut(duration: 0.4)) {
                                     showSplash = false
@@ -33,6 +33,7 @@ struct FRoomApp: App {
             }
             .preferredColorScheme(.dark)
         }
+        .modelContainer(for: [ScoutNote.self])  // SwiftData container for canvas notes
     }
 }
 

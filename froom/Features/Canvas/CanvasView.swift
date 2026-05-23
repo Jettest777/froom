@@ -2,7 +2,7 @@
 //  CanvasView.swift
 //  f/Room
 //
-//  Three-zone scouting canvas (iPad-focused).
+//  Three-zone scouting canvas (iPad-focused) backed by SwiftData ScoutNote.
 //
 //  Layout (vertical stack):
 //    ┌──────────────────────────────┐
@@ -14,22 +14,30 @@
 //    │  always upright              │   <- memo area (40%)
 //    └──────────────────────────────┘
 //
-//  Memo area is a SEPARATE PKCanvasView so it never flips when FLIP V/H/180° is applied.
+//  Drawings auto-save to ScoutNote (SwiftData) on a 500ms debounce.
 //
 
 import SwiftUI
+import SwiftData
 import PencilKit
+import Combine
 
 struct CanvasView: View {
     let context: CanvasContext
 
+    @Environment(\.modelContext) private var modelContext
+    @State private var note: ScoutNote?
     @State private var playDrawing = PKDrawing()
     @State private var memoDrawing = PKDrawing()
     @State private var flipV: Bool = false
     @State private var flipH: Bool = false
     @State private var selectedTool: CanvasTool = .pen
-    @State private var inkColor: Color = Color(red: 0.102, green: 0.078, blue: 0.063)  // #1a1410
+    @State private var inkColor: Color = Color(red: 0.102, green: 0.078, blue: 0.063)
     @State private var perspective: Perspective = .offense
+    @State private var saveDebouncer = SaveDebouncer()
+    @State private var availableTags: [String] = ["PA", "SHOTGUN", "11 PERS", "TRIPS R", "RED ZONE", "RPO", "BLITZ", "COVER 1"]
+    @State private var activeTags: Set<String> = ["PA", "SHOTGUN", "11 PERS", "TRIPS R"]
+    @State private var memoText: String = ""
 
     enum CanvasTool: String, CaseIterable {
         case pen, marker, highlighter, eraser, lasso
@@ -49,7 +57,53 @@ struct CanvasView: View {
             rightRail
         }
         .background(FRTheme.Color.bg1)
-        .navigationBarBackButtonHidden(false)
+        .onAppear { loadOrCreateNote() }
+        .onDisappear { savePending() }
+    }
+
+    // MARK: - Load / Save
+
+    private func loadOrCreateNote() {
+        let store = ScoutNoteStore(context: modelContext)
+        // Try to find an existing note for this play
+        if let playId = context.play?.id {
+            let existing = store.notes(for: context.game.id).first { $0.playId == playId }
+            if let existing = existing {
+                bindToNote(existing)
+                return
+            }
+        }
+        // Otherwise create a fresh one
+        let newNote = store.newNote(for: context.game, play: context.play, perspective: perspective)
+        bindToNote(newNote)
+    }
+
+    private func bindToNote(_ n: ScoutNote) {
+        note = n
+        playDrawing = n.playDrawing
+        memoDrawing = n.memoDrawing
+        perspective = n.perspective
+        if !n.tags.isEmpty {
+            activeTags = Set(n.tags)
+        }
+        memoText = n.notes ?? ""
+    }
+
+    private func savePending() {
+        guard let n = note else { return }
+        n.playDrawingData = playDrawing.dataRepresentation()
+        n.memoDrawingData = memoDrawing.dataRepresentation()
+        n.tags = Array(activeTags).sorted()
+        n.perspective = perspective
+        n.notes = memoText
+        n.updatedAt = Date()
+        try? modelContext.save()
+    }
+
+    private func scheduleSave() {
+        saveDebouncer.schedule {
+            savePending()
+        }
     }
 
     // MARK: - Top Bar
@@ -74,14 +128,27 @@ struct CanvasView: View {
                     .overlay(RoundedRectangle(cornerRadius: 6).strokeBorder(FRTheme.Color.line, lineWidth: 1))
                     .clipShape(RoundedRectangle(cornerRadius: 6))
             }
+            // Save indicator
+            saveIndicator
             Spacer()
-            FRIconButton(systemName: "square.and.arrow.down") { saveDrawing() }
+            FRIconButton(systemName: "square.and.arrow.down") { savePending() }
             FRIconButton(systemName: "square.and.arrow.up") { }
         }
         .padding(.horizontal, 18)
         .frame(height: 56)
         .background(FRTheme.Color.bg2)
         .overlay(alignment: .bottom) { Rectangle().fill(FRTheme.Color.line).frame(height: 1) }
+    }
+
+    private var saveIndicator: some View {
+        HStack(spacing: 6) {
+            Circle().fill(saveDebouncer.isPending ? FRTheme.Color.bronze : FRTheme.Color.good)
+                .frame(width: 6, height: 6)
+            Text(saveDebouncer.isPending ? "Saving..." : "Saved")
+                .font(.system(size: 10, weight: .medium))
+                .foregroundColor(FRTheme.Color.text2)
+                .tracking(1)
+        }
     }
 
     // MARK: - Left tool rail
@@ -103,8 +170,8 @@ struct CanvasView: View {
                 .buttonStyle(.plain)
             }
             Spacer()
-            FRIconButton(systemName: "arrow.uturn.backward") { undo() }
-            FRIconButton(systemName: "arrow.uturn.forward") { redo() }
+            FRIconButton(systemName: "arrow.uturn.backward") { }
+            FRIconButton(systemName: "arrow.uturn.forward") { }
         }
         .frame(width: 64)
         .padding(.vertical, 14)
@@ -138,20 +205,18 @@ struct CanvasView: View {
     }
 
     private let inkColors: [Color] = [
-        Color(red: 0.102, green: 0.078, blue: 0.063), // black/ink
-        Color(red: 0.612, green: 0.271, blue: 0.137), // rust
-        Color(red: 0.082, green: 0.314, blue: 0.549), // navy
-        Color(red: 0.722, green: 0.518, blue: 0.227), // bronze
-        Color(red: 0.365, green: 0.541, blue: 0.290)  // good (green)
+        Color(red: 0.102, green: 0.078, blue: 0.063),
+        Color(red: 0.612, green: 0.271, blue: 0.137),
+        Color(red: 0.082, green: 0.314, blue: 0.549),
+        Color(red: 0.722, green: 0.518, blue: 0.227),
+        Color(red: 0.365, green: 0.541, blue: 0.290)
     ]
 
-    // MARK: - Canvas Stack (3 zones)
+    // MARK: - Canvas Stack
 
     private var canvasStack: some View {
         VStack(spacing: 0) {
-            // Play area: 60%
             playArea
-            // Memo area: 40%
             memoArea
         }
     }
@@ -159,9 +224,7 @@ struct CanvasView: View {
     private var playArea: some View {
         GeometryReader { geo in
             ZStack {
-                // Whiteboard surface
                 FRTheme.Color.whiteboard
-                // Zone labels
                 Text("O# · OFFENSE")
                     .font(.system(size: 10, weight: .heavy)).tracking(3)
                     .foregroundColor(FRTheme.Color.rust.opacity(0.6))
@@ -170,7 +233,6 @@ struct CanvasView: View {
                     .font(.system(size: 10, weight: .heavy)).tracking(3)
                     .foregroundColor(Color(red: 0.29, green: 0.47, blue: 0.84).opacity(0.7))
                     .position(x: 90, y: geo.size.height - 18)
-                // LOS horizontal line
                 HStack {
                     Text("LOS").font(.system(size: 11, design: .monospaced)).foregroundColor(Color.black.opacity(0.45)).tracking(2)
                     Spacer()
@@ -186,11 +248,11 @@ struct CanvasView: View {
                 .strokedPath(StrokeStyle(lineWidth: 1.5, dash: [6, 4]))
                 .foregroundColor(Color.black.opacity(0.3))
 
-                // PencilKit ink (flippable)
                 CanvasInkView(
                     drawing: $playDrawing,
                     tool: selectedTool,
-                    inkColor: inkColor
+                    inkColor: inkColor,
+                    onChange: { scheduleSave() }
                 )
                 .scaleEffect(x: flipH ? -1 : 1, y: flipV ? -1 : 1)
                 .animation(.easeInOut(duration: 0.4), value: flipV)
@@ -206,7 +268,6 @@ struct CanvasView: View {
     private var memoArea: some View {
         GeometryReader { geo in
             ZStack(alignment: .topLeading) {
-                // Lined memo pad background
                 ZStack {
                     FRTheme.Color.memoPad
                     Path { path in
@@ -221,7 +282,6 @@ struct CanvasView: View {
                     .strokedPath(StrokeStyle(lineWidth: 1))
                     .foregroundColor(Color.black.opacity(0.06))
 
-                    // Red margin on the left
                     Path { path in
                         path.move(to: CGPoint(x: 36, y: 0))
                         path.addLine(to: CGPoint(x: 36, y: geo.size.height))
@@ -230,17 +290,16 @@ struct CanvasView: View {
                     .foregroundColor(FRTheme.Color.rust.opacity(0.4))
                 }
 
-                // Label
                 Text("NOTES · 手書きメモ")
                     .font(.system(size: 10, weight: .heavy)).tracking(3)
                     .foregroundColor(Color.black.opacity(0.5))
                     .padding(.leading, 50).padding(.top, 8)
 
-                // Independent PencilKit canvas (never flips)
                 CanvasInkView(
                     drawing: $memoDrawing,
                     tool: selectedTool,
-                    inkColor: inkColor
+                    inkColor: inkColor,
+                    onChange: { scheduleSave() }
                 )
             }
         }
@@ -251,7 +310,7 @@ struct CanvasView: View {
         .clipped()
     }
 
-    // MARK: - Perspective badge & flip controls
+    // MARK: - Perspective / Flip
 
     private var perspectiveBadge: some View {
         VStack {
@@ -328,6 +387,7 @@ struct CanvasView: View {
 
     private func updatePerspective() {
         perspective = flipV ? .defense : .offense
+        scheduleSave()
     }
 
     // MARK: - Right Rail
@@ -348,27 +408,32 @@ struct CanvasView: View {
             .clipShape(RoundedRectangle(cornerRadius: 8))
 
             rightTitle("Play Tags")
-            HStack {
-                Text("PA").modifier(TagOnStyle())
-                Text("SHOTGUN").modifier(TagOnStyle())
+            FlowLayout(spacing: 4) {
+                ForEach(availableTags, id: \.self) { tag in
+                    Button(action: { toggleTag(tag) }) {
+                        Text(tag)
+                            .font(.system(size: 10, weight: .semibold)).tracking(1.5)
+                            .foregroundColor(activeTags.contains(tag) ? .white : FRTheme.Color.text1)
+                            .padding(.horizontal, 10).padding(.vertical, 4)
+                            .background(activeTags.contains(tag) ? FRTheme.Color.rust : FRTheme.Color.bg3)
+                            .overlay(RoundedRectangle(cornerRadius: 4).strokeBorder(activeTags.contains(tag) ? FRTheme.Color.rust : FRTheme.Color.line, lineWidth: 1))
+                            .clipShape(RoundedRectangle(cornerRadius: 4))
+                    }
+                    .buttonStyle(.plain)
+                }
             }
-            Text("+ ADD").modifier(TagOffStyle())
 
-            rightTitle("Result")
-            HStack(spacing: 8) {
-                Text("+12 YDS").modifier(ResultChip(bg: FRTheme.Color.good))
-                Text("1ST DOWN").modifier(ResultChip(bg: FRTheme.Color.bg3))
-            }
-
-            rightTitle("Notes")
-            Text("LB #44 stepped up on PA fake. Worthy's skinny post pulls FS off the hash, dig hits in vacated zone.")
+            rightTitle("Text Notes")
+            TextEditor(text: $memoText)
+                .scrollContentBackground(.hidden)
+                .background(FRTheme.Color.bg2)
                 .font(.system(size: 12))
                 .foregroundColor(FRTheme.Color.text0)
-                .padding(10)
-                .frame(maxWidth: .infinity, alignment: .leading)
-                .background(FRTheme.Color.bg2)
+                .frame(minHeight: 80, maxHeight: 140)
+                .padding(8)
                 .overlay(RoundedRectangle(cornerRadius: 8).strokeBorder(FRTheme.Color.line, lineWidth: 1))
                 .clipShape(RoundedRectangle(cornerRadius: 8))
+                .onChange(of: memoText) { _, _ in scheduleSave() }
             Spacer()
         }
         .padding(16)
@@ -377,18 +442,16 @@ struct CanvasView: View {
         .overlay(alignment: .leading) { Rectangle().fill(FRTheme.Color.line).frame(width: 1) }
     }
 
+    private func toggleTag(_ tag: String) {
+        if activeTags.contains(tag) { activeTags.remove(tag) }
+        else { activeTags.insert(tag) }
+        scheduleSave()
+    }
+
     private func rightTitle(_ s: String) -> some View {
         Text(s.uppercased())
             .font(.system(size: 10, weight: .heavy)).tracking(3)
             .foregroundColor(FRTheme.Color.text2)
-    }
-
-    // MARK: - Actions
-
-    private func undo() { /* PKCanvasView.undoManager?.undo() — wired in UIKit wrapper */ }
-    private func redo() { /* same as above */ }
-    private func saveDrawing() {
-        // TODO: persist playDrawing + memoDrawing to CanvasNote storage.
     }
 }
 
@@ -398,13 +461,14 @@ struct CanvasInkView: UIViewRepresentable {
     @Binding var drawing: PKDrawing
     let tool: CanvasView.CanvasTool
     let inkColor: Color
+    let onChange: () -> Void
 
     func makeUIView(context: Context) -> PKCanvasView {
         let canvas = PKCanvasView()
         canvas.drawing = drawing
         canvas.backgroundColor = .clear
         canvas.isOpaque = false
-        canvas.drawingPolicy = .anyInput   // allow finger + pencil
+        canvas.drawingPolicy = .anyInput
         canvas.tool = currentTool()
         canvas.delegate = context.coordinator
         return canvas
@@ -435,51 +499,79 @@ struct CanvasInkView: UIViewRepresentable {
         init(_ parent: CanvasInkView) { self.parent = parent }
         func canvasViewDrawingDidChange(_ canvasView: PKCanvasView) {
             parent.drawing = canvasView.drawing
+            parent.onChange()
         }
     }
 }
 
-// MARK: - small styles
-struct TagOnStyle: ViewModifier {
-    func body(content: Content) -> some View {
-        content
-            .font(.system(size: 10, weight: .semibold)).tracking(1.5)
-            .foregroundColor(.white)
-            .padding(.horizontal, 10).padding(.vertical, 4)
-            .background(FRTheme.Color.rust)
-            .overlay(RoundedRectangle(cornerRadius: 4).strokeBorder(FRTheme.Color.rust, lineWidth: 1))
-            .clipShape(RoundedRectangle(cornerRadius: 4))
-    }
-}
-struct TagOffStyle: ViewModifier {
-    func body(content: Content) -> some View {
-        content
-            .font(.system(size: 10, weight: .semibold)).tracking(1.5)
-            .foregroundColor(FRTheme.Color.text1)
-            .padding(.horizontal, 10).padding(.vertical, 4)
-            .background(FRTheme.Color.bg3)
-            .overlay(RoundedRectangle(cornerRadius: 4).strokeBorder(FRTheme.Color.line, lineWidth: 1))
-            .clipShape(RoundedRectangle(cornerRadius: 4))
-    }
-}
-struct ResultChip: ViewModifier {
-    let bg: Color
-    func body(content: Content) -> some View {
-        content
-            .font(.system(size: 11, design: .monospaced))
-            .foregroundColor(bg == FRTheme.Color.good ? .white : FRTheme.Color.text1)
-            .padding(.horizontal, 10).padding(.vertical, 4)
-            .background(bg)
-            .overlay(RoundedRectangle(cornerRadius: 6).strokeBorder(FRTheme.Color.line, lineWidth: 1))
-            .clipShape(RoundedRectangle(cornerRadius: 6))
+// MARK: - Save Debouncer
+
+@Observable
+final class SaveDebouncer {
+    private var workItem: DispatchWorkItem?
+    private(set) var isPending: Bool = false
+    let interval: TimeInterval = 0.5
+
+    func schedule(_ block: @escaping () -> Void) {
+        workItem?.cancel()
+        isPending = true
+        let item = DispatchWorkItem { [weak self] in
+            block()
+            self?.isPending = false
+        }
+        workItem = item
+        DispatchQueue.main.asyncAfter(deadline: .now() + interval, execute: item)
     }
 }
 
-#if DEBUG
-#Preview {
-    NavigationStack {
-        CanvasView(context: CanvasContext(game: MockData.sampleGame, play: MockData.sampleGame.playByPlay[2]))
-            .preferredColorScheme(.dark)
+// MARK: - FlowLayout (simple tag wrap)
+
+struct FlowLayout: Layout {
+    var spacing: CGFloat = 4
+
+    func sizeThatFits(proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) -> CGSize {
+        let width = proposal.width ?? .infinity
+        var height: CGFloat = 0
+        var currentX: CGFloat = 0
+        var currentRowHeight: CGFloat = 0
+
+        for view in subviews {
+            let viewSize = view.sizeThatFits(.unspecified)
+            if currentX + viewSize.width > width {
+                height += currentRowHeight + spacing
+                currentX = viewSize.width + spacing
+                currentRowHeight = viewSize.height
+            } else {
+                currentX += viewSize.width + spacing
+                currentRowHeight = max(currentRowHeight, viewSize.height)
+            }
+        }
+        height += currentRowHeight
+        return CGSize(width: width, height: height)
+    }
+
+    func placeSubviews(in bounds: CGRect, proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) {
+        var x: CGFloat = bounds.minX
+        var y: CGFloat = bounds.minY
+        var currentRowHeight: CGFloat = 0
+
+        for view in subviews {
+            let viewSize = view.sizeThatFits(.unspecified)
+            if x + viewSize.width > bounds.maxX {
+                x = bounds.minX
+                y += currentRowHeight + spacing
+                currentRowHeight = 0
+            }
+            view.place(at: CGPoint(x: x, y: y), proposal: ProposedViewSize(viewSize))
+            x += viewSize.width + spacing
+            currentRowHeight = max(currentRowHeight, viewSize.height)
+        }
     }
 }
-#endif
+
+// MARK: - Routing context
+
+struct CanvasContext: Hashable {
+    let game: Game
+    let play: Play?
+}

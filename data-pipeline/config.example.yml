@@ -1,0 +1,63 @@
+# f/Room data pipeline configuration
+# Copy to config.yml and fill in secrets. config.yml is gitignored.
+
+x:
+  # Either provide an OAuth2 Bearer Token (recommended for read-only news collection)
+  bearer_token: "REPLACE_ME"
+  # Curated list of NFL insiders & official team accounts to monitor
+  watch_accounts:
+    insiders:
+      - AdamSchefter      # ESPN, breaking news (highest reliability)
+      - RapSheet          # Ian Rapoport, NFL Network
+      - mortreport        # Chris Mortensen (historical)
+      - DBondy            # Diana Russini
+      - JFowlerESPN       # Jeremy Fowler
+    teams:
+      - Chiefs
+      - BuffaloBills
+      - 49ers
+      - dallascowboys
+      # ... add the rest of 32 teams
+    beat_writers:
+      - MattMaiocco       # SF
+      - calvinwatkins     # DAL
+      - MikeReiss         # NE
+      # ...
+
+nfl_official:
+  base: "https://www.nfl.com"
+  endpoints:
+    news: "/news"
+    teams: "/teams"
+
+espn:
+  base: "https://www.espn.com/nfl"
+
+translation:
+  enabled: false
+  provider: deepl    # deepl | google | openai
+  api_key: "REPLACE_ME"
+  target_lang: ja
+
+reliability:
+  # weights used to compute the 0-1 reliability score
+  source_weight:
+    AdamSchefter: 0.96
+    RapSheet: 0.94
+    DBondy: 0.92
+    official_team: 0.98
+    nfl_com: 0.95
+    espn: 0.90
+    beat_writer: 0.78
+    unknown: 0.50
+  # bonus for cross-source confirmation
+  multi_source_bonus: 0.04
+
+output:
+  # Directory where collected JSON lands (also published via GitHub Actions)
+  dir: "./output"
+  # Filename pattern
+  filename: "intel-{date}.json"
+
+storage:
+  sqlite_path: "./storage/froom.db"

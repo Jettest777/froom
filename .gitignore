@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+*.swp
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+Package.resolved
+
+# Node
+node_modules/
+npm-debug.log
+
+# Python (data-pipeline)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.local
+
+# Secrets
+secrets.json
+*.pem
+*.key
+config/secrets.yml
+
+# Outputs / cache
+data-pipeline/cache/
+data-pipeline/storage/*.db
+data-pipeline/output/*.json
+*.log
+
+# IDE
+.idea/
+.vscode/settings.json

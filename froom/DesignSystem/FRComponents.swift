@@ -157,15 +157,19 @@ struct FRAppIcon: View {
 
 enum FRTab: String, CaseIterable {
     case home = "Home"
+    case games = "Games"
     case teams = "Teams"
     case coach = "Coach"
+    case cap = "Cap"
     case notes = "Notes"
 
     var systemImage: String {
         switch self {
         case .home: return "house.fill"
+        case .games: return "football.fill"
         case .teams: return "shield.fill"
         case .coach: return "person.line.dotted.person.fill"
+        case .cap: return "dollarsign.circle.fill"
         case .notes: return "pencil.tip.crop.circle"
         }
     }
@@ -175,15 +179,15 @@ struct FRTabBar: View {
     @Binding var selection: FRTab
 
     var body: some View {
-        HStack {
+        HStack(spacing: 0) {
             ForEach(FRTab.allCases, id: \.self) { tab in
                 Button(action: { selection = tab }) {
-                    VStack(spacing: 4) {
+                    VStack(spacing: 3) {
                         Image(systemName: tab.systemImage)
-                            .font(.system(size: 18, weight: .regular))
+                            .font(.system(size: 16, weight: .regular))
                         Text(tab.rawValue.uppercased())
-                            .font(.system(size: 10, weight: .semibold))
-                            .tracking(1.5)
+                            .font(.system(size: 8.5, weight: .semibold))
+                            .tracking(1)
                     }
                     .foregroundColor(selection == tab ? FRTheme.Color.rustBright : FRTheme.Color.text2)
                     .frame(maxWidth: .infinity)
@@ -191,8 +195,8 @@ struct FRTabBar: View {
                 .buttonStyle(.plain)
             }
         }
-        .padding(.top, 12)
-        .padding(.bottom, 28)
+        .padding(.top, 10)
+        .padding(.bottom, 26)
         .background(.ultraThinMaterial)
         .overlay(alignment: .top) {
             Rectangle().fill(FRTheme.Color.line).frame(height: 1)

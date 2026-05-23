@@ -24,6 +24,9 @@ final class ScoutNote {
 
     // MARK: - Play context (optional — note can be a free-floating game note)
     var playId: UUID?
+    /// External play ID from ESPN's play-by-play. Used to link a ScoutNote
+    /// back to a specific play in the live game feed.
+    var externalPlayId: String?
     var quarter: Int?
     var gameClock: String?         // "8:42"
     var down: Int?
@@ -59,6 +62,7 @@ final class ScoutNote {
         week: Int,
         season: Int,
         playId: UUID? = nil,
+        externalPlayId: String? = nil,
         quarter: Int? = nil,
         gameClock: String? = nil,
         down: Int? = nil,
@@ -81,6 +85,7 @@ final class ScoutNote {
         self.week = week
         self.season = season
         self.playId = playId
+        self.externalPlayId = externalPlayId
         self.quarter = quarter
         self.gameClock = gameClock
         self.down = down

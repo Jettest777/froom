@@ -59,10 +59,14 @@ struct TabContent: View {
         switch tab {
         case .home:
             HomeView()
+        case .games:
+            GameTabView()
         case .teams:
             TeamsView()
         case .coach:
             CoachTreeView()
+        case .cap:
+            CapTabView()
         case .notes:
             NotebookView()
         }

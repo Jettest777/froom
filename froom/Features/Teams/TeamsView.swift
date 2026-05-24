@@ -2,10 +2,12 @@
 //  TeamsView.swift
 //  f/Room
 //
-//  Teams list → team detail (depth chart, news, injury).
+//  32-team list → Team detail with 4 sub-tabs (Roster / Players / Coaches / Cap).
 //
 
 import SwiftUI
+
+// MARK: - Top-level: 32-team list
 
 struct TeamsView: View {
     @State private var selectedConference: String = "All"
@@ -30,6 +32,9 @@ struct TeamsView: View {
             .background(FRTheme.Color.bg1)
             .navigationDestination(for: Team.self) { team in
                 TeamDetailView(team: team)
+            }
+            .navigationDestination(for: Coach.self) { coach in
+                CoachDetailView(coach: coach)
             }
         }
     }
@@ -65,6 +70,8 @@ struct TeamsView: View {
         return MockData.teams.filter { $0.conference == selectedConference }
     }
 }
+
+// MARK: - Team row (used in the list)
 
 struct TeamRow: View {
     let team: Team
@@ -105,83 +112,46 @@ struct TeamRow: View {
         .overlay(RoundedRectangle(cornerRadius: 8).strokeBorder(FRTheme.Color.line, lineWidth: 1))
         .clipShape(RoundedRectangle(cornerRadius: 8))
     }
-
-    private func hex(_ h: String) -> Color {
-        var s = h
-        if s.hasPrefix("#") { s.removeFirst() }
-        var rgb: UInt64 = 0
-        Scanner(string: s).scanHexInt64(&rgb)
-        let r = Double((rgb & 0xFF0000) >> 16) / 255
-        let g = Double((rgb & 0x00FF00) >> 8) / 255
-        let b = Double(rgb & 0x0000FF) / 255
-        return Color(red: r, green: g, blue: b)
-    }
 }
 
-// MARK: - Team Detail (depth chart placeholder)
+// Shared helper
+func hex(_ h: String) -> Color {
+    var s = h
+    if s.hasPrefix("#") { s.removeFirst() }
+    var rgb: UInt64 = 0
+    Scanner(string: s).scanHexInt64(&rgb)
+    let r = Double((rgb & 0xFF0000) >> 16) / 255
+    let g = Double((rgb & 0x00FF00) >> 8) / 255
+    let b = Double(rgb & 0x0000FF) / 255
+    return Color(red: r, green: g, blue: b)
+}
+
+// MARK: - Team Detail with 4 sub-tabs
 
 struct TeamDetailView: View {
     let team: Team
+    @State private var section: TeamSection = .roster
+
+    enum TeamSection: String, CaseIterable {
+        case roster = "Roster"
+        case players = "Players"
+        case coaches = "Coaches"
+        case cap = "Cap"
+    }
 
     var body: some View {
-        ScrollView {
-            VStack(alignment: .leading, spacing: 0) {
-                // hero
-                ZStack(alignment: .bottomLeading) {
-                    LinearGradient(colors: [Color.black.opacity(0.5), Color.clear], startPoint: .bottomLeading, endPoint: .topTrailing)
-                    HStack(spacing: 14) {
-                        RoundedRectangle(cornerRadius: 14)
-                            .fill(LinearGradient(
-                                colors: [hex(team.primaryColorHex), hex(team.primaryColorHex).opacity(0.6)],
-                                startPoint: .topLeading, endPoint: .bottomTrailing
-                            ))
-                            .frame(width: 56, height: 56)
-                            .overlay(Text(team.id).font(FRTheme.Font.bebas(size: 22)).foregroundColor(.white))
-                        VStack(alignment: .leading, spacing: 4) {
-                            Text(team.nickname.uppercased())
-                                .font(FRTheme.Font.bebas(size: 28))
-                                .tracking(3)
-                                .foregroundColor(FRTheme.Color.text0)
-                            Text("\(team.record) · \(team.conference) \(team.division)")
-                                .font(.system(size: 12, design: .monospaced))
-                                .foregroundColor(FRTheme.Color.text1)
-                        }
-                        Spacer()
-                    }
-                    .padding(18)
-                }
-                .frame(height: 110)
-                .background(FRTheme.Color.bg2)
-
-                Text("Depth chart, injuries, and team news coming next.")
-                    .font(.system(size: 13))
-                    .foregroundColor(FRTheme.Color.text2)
-                    .padding(24)
-
-                ForEach(["OFFENSE", "DEFENSE", "SPECIAL TEAMS"], id: \.self) { section in
-                    VStack(alignment: .leading) {
-                        Text(section)
-                            .font(.system(size: 11, weight: .heavy))
-                            .tracking(3)
-                            .foregroundColor(FRTheme.Color.rust)
-                            .padding(.bottom, 6)
-                        ForEach(["QB", "RB", "WR", "TE"], id: \.self) { pos in
-                            HStack {
-                                Text(pos)
-                                    .font(FRTheme.Font.bebas(size: 14))
-                                    .foregroundColor(FRTheme.Color.bronze)
-                                    .frame(width: 40, alignment: .leading)
-                                Text("Starter · Backup · 3rd")
-                                    .font(.system(size: 11))
-                                    .foregroundColor(FRTheme.Color.text2)
-                            }
-                            .padding(.vertical, 6)
-                            .overlay(alignment: .bottom) { Rectangle().fill(FRTheme.Color.line).frame(height: 1) }
-                        }
-                    }
-                    .padding(.horizontal, 16)
-                    .padding(.vertical, 12)
-                }
+        VStack(spacing: 0) {
+            heroPanel
+            subTabBar
+            switch section {
+            case .roster:
+                TeamRosterView(team: team)
+            case .players:
+                TeamPlayersView(team: team)
+            case .coaches:
+                TeamCoachesView(team: team)
+            case .cap:
+                TeamCapView(team: team)
             }
         }
         .background(FRTheme.Color.bg1)
@@ -196,15 +166,498 @@ struct TeamDetailView: View {
         }
     }
 
-    private func hex(_ h: String) -> Color {
-        var s = h
-        if s.hasPrefix("#") { s.removeFirst() }
-        var rgb: UInt64 = 0
-        Scanner(string: s).scanHexInt64(&rgb)
-        let r = Double((rgb & 0xFF0000) >> 16) / 255
-        let g = Double((rgb & 0x00FF00) >> 8) / 255
-        let b = Double(rgb & 0x0000FF) / 255
-        return Color(red: r, green: g, blue: b)
+    private var heroPanel: some View {
+        HStack(spacing: 14) {
+            RoundedRectangle(cornerRadius: 14)
+                .fill(LinearGradient(
+                    colors: [hex(team.primaryColorHex), hex(team.primaryColorHex).opacity(0.6)],
+                    startPoint: .topLeading, endPoint: .bottomTrailing
+                ))
+                .frame(width: 56, height: 56)
+                .overlay(Text(team.id).font(FRTheme.Font.bebas(size: 22)).foregroundColor(.white))
+            VStack(alignment: .leading, spacing: 4) {
+                Text(team.nickname.uppercased())
+                    .font(FRTheme.Font.bebas(size: 28))
+                    .tracking(3)
+                    .foregroundColor(FRTheme.Color.text0)
+                Text("\(team.record) · \(team.conference) \(team.division)")
+                    .font(.system(size: 12, design: .monospaced))
+                    .foregroundColor(FRTheme.Color.text1)
+            }
+            Spacer()
+        }
+        .padding(18)
+        .background(FRTheme.Color.bg2)
+        .overlay(alignment: .bottom) {
+            Rectangle().fill(FRTheme.Color.line).frame(height: 1)
+        }
+    }
+
+    private var subTabBar: some View {
+        HStack(spacing: 0) {
+            ForEach(TeamSection.allCases, id: \.self) { s in
+                Button(action: { section = s }) {
+                    Text(s.rawValue.uppercased())
+                        .font(.system(size: 11, weight: .heavy))
+                        .tracking(2)
+                        .foregroundColor(section == s ? FRTheme.Color.text0 : FRTheme.Color.text2)
+                        .frame(maxWidth: .infinity)
+                        .padding(.vertical, 12)
+                        .overlay(alignment: .bottom) {
+                            Rectangle().fill(section == s ? FRTheme.Color.rust : .clear)
+                                .frame(height: 2)
+                        }
+                }
+                .buttonStyle(.plain)
+            }
+        }
+        .background(FRTheme.Color.bg1)
+        .overlay(alignment: .bottom) {
+            Rectangle().fill(FRTheme.Color.line).frame(height: 1)
+        }
+    }
+}
+
+// MARK: - Sub: Roster (depth chart)
+
+struct TeamRosterView: View {
+    let team: Team
+    @State private var sideFilter: SideFilter = .offense
+
+    enum SideFilter: String, CaseIterable {
+        case offense = "Offense"
+        case defense = "Defense"
+        case specialTeams = "Special Teams"
+    }
+
+    var body: some View {
+        VStack(spacing: 0) {
+            ScrollView(.horizontal, showsIndicators: false) {
+                HStack(spacing: 8) {
+                    ForEach(SideFilter.allCases, id: \.self) { side in
+                        FRChip(side.rawValue, isActive: sideFilter == side) { sideFilter = side }
+                    }
+                }
+                .padding(.horizontal, 16)
+            }
+            .padding(.vertical, 10)
+
+            ScrollView {
+                VStack(alignment: .leading, spacing: 14) {
+                    let positions = positionsForSide
+                    ForEach(positions, id: \.self) { pos in
+                        positionGroup(pos: pos)
+                    }
+                }
+                .padding(.horizontal, 16)
+                .padding(.vertical, 14)
+            }
+        }
+    }
+
+    private var positionsForSide: [String] {
+        switch sideFilter {
+        case .offense: return ["QB", "RB", "WR", "TE", "LT", "LG", "C", "RG", "RT"]
+        case .defense: return ["DE", "DT", "LB", "CB", "S"]
+        case .specialTeams: return ["K", "P", "LS", "PR/KR"]
+        }
+    }
+
+    private func positionGroup(pos: String) -> some View {
+        VStack(alignment: .leading, spacing: 6) {
+            Text(pos)
+                .font(FRTheme.Font.bebas(size: 16))
+                .tracking(2)
+                .foregroundColor(FRTheme.Color.bronze)
+            HStack(spacing: 8) {
+                ForEach(0..<3) { rank in
+                    rosterCard(rank: rank + 1)
+                }
+            }
+        }
+    }
+
+    private func rosterCard(rank: Int) -> some View {
+        VStack(alignment: .leading, spacing: 2) {
+            HStack {
+                Text("#\(rank)").font(.system(size: 9, weight: .heavy)).tracking(1)
+                    .foregroundColor(rank == 1 ? FRTheme.Color.rustBright : FRTheme.Color.text2)
+                Spacer()
+                if rank == 1 {
+                    Text("STARTER")
+                        .font(.system(size: 8, weight: .heavy)).tracking(1)
+                        .foregroundColor(.white)
+                        .padding(.horizontal, 4).padding(.vertical, 1)
+                        .background(FRTheme.Color.rust).clipShape(Capsule())
+                }
+            }
+            Text("Player \(rank)")
+                .font(.system(size: 12, weight: .semibold))
+                .foregroundColor(FRTheme.Color.text0)
+            Text("6'2\" · 215 LB · 4 YR")
+                .font(.system(size: 9, design: .monospaced))
+                .foregroundColor(FRTheme.Color.text2)
+        }
+        .padding(8)
+        .frame(maxWidth: .infinity, minHeight: 56, alignment: .topLeading)
+        .background(FRTheme.Color.bg2)
+        .overlay(RoundedRectangle(cornerRadius: 6).strokeBorder(rank == 1 ? FRTheme.Color.rust : FRTheme.Color.line, lineWidth: 1))
+        .clipShape(RoundedRectangle(cornerRadius: 6))
+    }
+}
+
+// MARK: - Sub: Players list
+
+struct TeamPlayersView: View {
+    let team: Team
+
+    var body: some View {
+        ScrollView {
+            LazyVStack(spacing: 10) {
+                ForEach(MockData.players.filter { $0.teamId == team.id }) { player in
+                    NavigationLink(value: PlayerDetail.mockMahomes) {  // wire to real player in next phase
+                        playerRow(player)
+                    }
+                    .buttonStyle(.plain)
+                }
+                if MockData.players.filter({ $0.teamId == team.id }).isEmpty {
+                    Text("選手データを読み込み中…")
+                        .font(.system(size: 12))
+                        .foregroundColor(FRTheme.Color.text2)
+                        .padding(40)
+                }
+            }
+            .padding(.horizontal, 16)
+            .padding(.vertical, 14)
+        }
+        .navigationDestination(for: PlayerDetail.self) { detail in
+            PlayerDetailView(detail: detail)
+        }
+    }
+
+    private func playerRow(_ p: Player) -> some View {
+        HStack(spacing: 12) {
+            Text("#\(p.jerseyNumber)")
+                .font(FRTheme.Font.bebas(size: 22))
+                .foregroundColor(FRTheme.Color.bronze)
+                .frame(width: 50)
+            VStack(alignment: .leading, spacing: 2) {
+                Text("\(p.firstName) \(p.lastName)")
+                    .font(.system(size: 14, weight: .semibold))
+                    .foregroundColor(FRTheme.Color.text0)
+                Text("\(p.position) · \(p.height) · \(p.weight) LB · \(p.yearsInLeague) YR")
+                    .font(.system(size: 10, design: .monospaced))
+                    .foregroundColor(FRTheme.Color.text2)
+            }
+            Spacer()
+            if p.isStarter {
+                Text("STARTER")
+                    .font(.system(size: 9, weight: .heavy)).tracking(1)
+                    .foregroundColor(.white)
+                    .padding(.horizontal, 6).padding(.vertical, 2)
+                    .background(FRTheme.Color.rust)
+                    .clipShape(Capsule())
+            }
+            if let _ = p.injuryStatus {
+                Text("IR")
+                    .font(.system(size: 9, weight: .heavy)).tracking(1)
+                    .foregroundColor(.white)
+                    .padding(.horizontal, 6).padding(.vertical, 2)
+                    .background(FRTheme.Color.bad)
+                    .clipShape(Capsule())
+            }
+            Image(systemName: "chevron.right")
+                .font(.system(size: 11, weight: .semibold))
+                .foregroundColor(FRTheme.Color.text2)
+        }
+        .padding(12)
+        .background(FRTheme.Color.bg2)
+        .overlay(RoundedRectangle(cornerRadius: 8).strokeBorder(FRTheme.Color.line, lineWidth: 1))
+        .clipShape(RoundedRectangle(cornerRadius: 8))
+    }
+}
+
+// MARK: - Sub: Coaches list
+
+struct TeamCoachesView: View {
+    let team: Team
+
+    var body: some View {
+        ScrollView {
+            LazyVStack(spacing: 10) {
+                ForEach(teamCoaches) { coach in
+                    NavigationLink(value: coach) {
+                        coachRow(coach)
+                    }
+                    .buttonStyle(.plain)
+                }
+                if teamCoaches.isEmpty {
+                    Text("コーチデータを読み込み中…")
+                        .font(.system(size: 12))
+                        .foregroundColor(FRTheme.Color.text2)
+                        .padding(40)
+                }
+            }
+            .padding(.horizontal, 16)
+            .padding(.vertical, 14)
+        }
+    }
+
+    private var teamCoaches: [Coach] {
+        MockData.coaches.filter { $0.teamId == team.id }
+    }
+
+    private func coachRow(_ c: Coach) -> some View {
+        HStack(spacing: 12) {
+            Text(c.role.rawValue)
+                .font(FRTheme.Font.bebas(size: 16))
+                .tracking(2)
+                .foregroundColor(FRTheme.Color.bronze)
+                .frame(width: 50, alignment: .leading)
+            VStack(alignment: .leading, spacing: 2) {
+                Text(c.name)
+                    .font(.system(size: 14, weight: .semibold))
+                    .foregroundColor(FRTheme.Color.text0)
+                if let scheme = c.scheme {
+                    Text(scheme.uppercased())
+                        .font(.system(size: 9, weight: .heavy)).tracking(1)
+                        .foregroundColor(FRTheme.Color.rustBright)
+                }
+                if let yr = c.yearsSince {
+                    Text("Since \(yr)")
+                        .font(.system(size: 10, design: .monospaced))
+                        .foregroundColor(FRTheme.Color.text2)
+                }
+            }
+            Spacer()
+            Image(systemName: "chevron.right")
+                .font(.system(size: 11, weight: .semibold))
+                .foregroundColor(FRTheme.Color.text2)
+        }
+        .padding(12)
+        .background(FRTheme.Color.bg2)
+        .overlay(RoundedRectangle(cornerRadius: 8).strokeBorder(FRTheme.Color.line, lineWidth: 1))
+        .clipShape(RoundedRectangle(cornerRadius: 8))
+    }
+}
+
+// MARK: - Sub: Cap (re-uses CapClient inside team scope)
+
+struct TeamCapView: View {
+    let team: Team
+    @State private var capClient = CapClient()
+    @State private var includesDeadMoney = true
+
+    var body: some View {
+        if let summary = capClient.summary(for: team.id) {
+            ScrollView {
+                VStack(spacing: 14) {
+                    capSummaryPanel(summary)
+                    filterRow
+                    rosterList(summary)
+                }
+                .padding(.horizontal, 16)
+                .padding(.vertical, 14)
+            }
+            .refreshable { await capClient.refresh() }
+            .task { await capClient.refresh() }
+        } else {
+            VStack(spacing: 10) {
+                ProgressView().tint(FRTheme.Color.rust)
+                Text("キャップデータを読み込み中…")
+                    .font(.system(size: 12))
+                    .foregroundColor(FRTheme.Color.text2)
+            }
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .task { await capClient.refresh() }
+        }
+    }
+
+    // The cap summary + roster UI mirrors CapTabView but scoped to this team.
+
+    private func capSummaryPanel(_ s: TeamCapSummary) -> some View {
+        VStack(alignment: .leading, spacing: 14) {
+            HStack {
+                Text("\(s.season) SALARY CAP")
+                    .font(.system(size: 10, weight: .heavy)).tracking(2)
+                    .foregroundColor(FRTheme.Color.bronze)
+                Spacer()
+                Text("Updated \(s.updatedAt.formatted(.relative(presentation: .named)))")
+                    .font(.system(size: 9, design: .monospaced))
+                    .foregroundColor(FRTheme.Color.text2)
+            }
+            VStack(alignment: .leading, spacing: 4) {
+                HStack {
+                    Text("CAP SPENT").font(.system(size: 9, weight: .heavy)).tracking(2)
+                        .foregroundColor(FRTheme.Color.text2)
+                    Spacer()
+                    Text(formatMillions(s.totalCapSpent)).font(.system(size: 11, design: .monospaced))
+                        .foregroundColor(FRTheme.Color.text0)
+                    Text("/ \(formatMillions(s.salaryCap))")
+                        .font(.system(size: 11, design: .monospaced))
+                        .foregroundColor(FRTheme.Color.text2)
+                }
+                GeometryReader { geo in
+                    ZStack(alignment: .leading) {
+                        Rectangle().fill(FRTheme.Color.bg3).frame(height: 8)
+                        HStack(spacing: 0) {
+                            Rectangle()
+                                .fill(LinearGradient(colors: [FRTheme.Color.rust, FRTheme.Color.bronze],
+                                                     startPoint: .leading, endPoint: .trailing))
+                                .frame(width: geo.size.width * activePct(s), height: 8)
+                            Rectangle()
+                                .fill(FRTheme.Color.bad)
+                                .frame(width: geo.size.width * deadPct(s), height: 8)
+                        }
+                    }
+                    .clipShape(RoundedRectangle(cornerRadius: 4))
+                }
+                .frame(height: 8)
+            }
+
+            HStack(spacing: 0) {
+                statTile("Cap Space", value: formatMillions(s.capSpace),
+                          accent: s.capSpace < 5 ? FRTheme.Color.bad : FRTheme.Color.good)
+                Divider().background(FRTheme.Color.line)
+                statTile("Dead Cap", value: formatMillions(s.deadCap),
+                          accent: s.deadCap > 20 ? FRTheme.Color.bad : FRTheme.Color.text1)
+                Divider().background(FRTheme.Color.line)
+                statTile("Contracts", value: "\(s.activeContracts)", accent: FRTheme.Color.text0)
+            }
+            .background(FRTheme.Color.bg3)
+            .clipShape(RoundedRectangle(cornerRadius: 6))
+        }
+        .padding(14)
+        .background(FRTheme.Color.bg2)
+        .overlay(RoundedRectangle(cornerRadius: 10).strokeBorder(FRTheme.Color.line, lineWidth: 1))
+        .clipShape(RoundedRectangle(cornerRadius: 10))
+    }
+
+    private func activePct(_ s: TeamCapSummary) -> Double {
+        guard s.salaryCap > 0 else { return 0 }
+        return max(0, min(1, (s.totalCapSpent - s.deadCap) / s.salaryCap))
+    }
+    private func deadPct(_ s: TeamCapSummary) -> Double {
+        guard s.salaryCap > 0 else { return 0 }
+        return max(0, min(1, s.deadCap / s.salaryCap))
+    }
+
+    private func statTile(_ label: String, value: String, accent: Color) -> some View {
+        VStack(spacing: 4) {
+            Text(value).font(FRTheme.Font.bebas(size: 16))
+                .foregroundColor(accent)
+            Text(label.uppercased())
+                .font(.system(size: 9, weight: .semibold)).tracking(1)
+                .foregroundColor(FRTheme.Color.text2)
+        }
+        .frame(maxWidth: .infinity)
+        .padding(.vertical, 10)
+    }
+
+    private var filterRow: some View {
+        HStack {
+            Text("ROSTER")
+                .font(.system(size: 11, weight: .heavy)).tracking(3)
+                .foregroundColor(FRTheme.Color.text0)
+            Spacer()
+            Toggle(isOn: $includesDeadMoney) {
+                Text("DEAD MONEY")
+                    .font(.system(size: 10, weight: .semibold)).tracking(1)
+                    .foregroundColor(FRTheme.Color.text1)
+            }
+            .toggleStyle(SwitchToggleStyle(tint: FRTheme.Color.bad))
+            .scaleEffect(0.85)
+        }
+    }
+
+    private func rosterList(_ s: TeamCapSummary) -> some View {
+        let players = s.topCapHits.filter { includesDeadMoney ? true : !$0.isDeadMoney }
+        return VStack(spacing: 4) {
+            ForEach(Array(players.enumerated()), id: \.element.id) { (idx, p) in
+                playerRow(rank: idx + 1, player: p, salaryCap: s.salaryCap)
+            }
+        }
+    }
+
+    private func playerRow(rank: Int, player: PlayerCapHit, salaryCap: Double) -> some View {
+        let tierColor = colorForTier(player.tier)
+        let pct = salaryCap > 0 ? player.capHit / salaryCap : 0
+
+        return HStack(spacing: 12) {
+            Text("#\(rank)")
+                .font(.system(size: 11, weight: .heavy, design: .monospaced))
+                .foregroundColor(FRTheme.Color.text2)
+                .frame(width: 28, alignment: .trailing)
+
+            VStack(alignment: .leading, spacing: 2) {
+                HStack(spacing: 6) {
+                    Text(player.playerName)
+                        .font(.system(size: 13, weight: .semibold))
+                        .foregroundColor(player.isDeadMoney ? FRTheme.Color.text2 : FRTheme.Color.text0)
+                    Text(player.position)
+                        .font(.system(size: 10, design: .monospaced))
+                        .foregroundColor(FRTheme.Color.text2)
+                    if player.isDeadMoney {
+                        Text("DEAD")
+                            .font(.system(size: 9, weight: .heavy)).tracking(1)
+                            .foregroundColor(.white)
+                            .padding(.horizontal, 5).padding(.vertical, 1)
+                            .background(FRTheme.Color.bad)
+                            .clipShape(Capsule())
+                    } else if player.isTopHeavy {
+                        Text("TOP-5")
+                            .font(.system(size: 9, weight: .heavy)).tracking(1)
+                            .foregroundColor(Color(red: 0.1, green: 0.07, blue: 0))
+                            .padding(.horizontal, 5).padding(.vertical, 1)
+                            .background(FRTheme.Color.bronze)
+                            .clipShape(Capsule())
+                    }
+                }
+                GeometryReader { geo in
+                    ZStack(alignment: .leading) {
+                        Rectangle().fill(FRTheme.Color.bg3).frame(height: 3)
+                        Rectangle().fill(tierColor).frame(width: max(2, geo.size.width * pct), height: 3)
+                    }
+                    .clipShape(RoundedRectangle(cornerRadius: 2))
+                }
+                .frame(height: 3)
+            }
+
+            VStack(alignment: .trailing, spacing: 2) {
+                Text(formatMillions(player.capHit))
+                    .font(.system(size: 13, weight: .heavy, design: .monospaced))
+                    .foregroundColor(player.isDeadMoney ? FRTheme.Color.bad : tierColor)
+                Text(String(format: "%.1f%% cap", pct * 100))
+                    .font(.system(size: 9, design: .monospaced))
+                    .foregroundColor(FRTheme.Color.text2)
+            }
+        }
+        .padding(.horizontal, 12).padding(.vertical, 10)
+        .background(player.isDeadMoney
+                    ? AnyShapeStyle(FRTheme.Color.bad.opacity(0.08))
+                    : AnyShapeStyle(FRTheme.Color.bg2))
+        .overlay(alignment: .leading) {
+            Rectangle().fill(tierColor).frame(width: 3)
+        }
+        .overlay(RoundedRectangle(cornerRadius: 6).strokeBorder(FRTheme.Color.line, lineWidth: 1))
+        .clipShape(RoundedRectangle(cornerRadius: 6))
+    }
+
+    private func colorForTier(_ tier: CapTier) -> Color {
+        switch tier {
+        case .megaContract: return Color(red: 0.96, green: 0.42, blue: 0.15)
+        case .topPaid: return FRTheme.Color.bronze
+        case .midTier: return FRTheme.Color.rust
+        case .baseline: return FRTheme.Color.text2
+        case .deadMoney: return FRTheme.Color.bad
+        }
+    }
+
+    private func formatMillions(_ value: Double) -> String {
+        if value >= 1 {
+            return String(format: "$%.1fM", value)
+        }
+        return String(format: "$%.0fK", value * 1000)
     }
 }
 

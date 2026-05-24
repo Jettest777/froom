@@ -156,20 +156,16 @@ struct FRAppIcon: View {
 // MARK: - Tab Bar
 
 enum FRTab: String, CaseIterable {
-    case home = "Home"
-    case games = "Games"
-    case teams = "Teams"
-    case coach = "Coach"
-    case cap = "Cap"
-    case notes = "Notes"
+    case news = "News"
+    case games = "Game"
+    case teams = "Team"
+    case notes = "Note"
 
     var systemImage: String {
         switch self {
-        case .home: return "house.fill"
+        case .news: return "newspaper.fill"
         case .games: return "football.fill"
         case .teams: return "shield.fill"
-        case .coach: return "person.line.dotted.person.fill"
-        case .cap: return "dollarsign.circle.fill"
         case .notes: return "pencil.tip.crop.circle"
         }
     }
@@ -179,15 +175,15 @@ struct FRTabBar: View {
     @Binding var selection: FRTab
 
     var body: some View {
-        HStack(spacing: 0) {
+        HStack {
             ForEach(FRTab.allCases, id: \.self) { tab in
                 Button(action: { selection = tab }) {
-                    VStack(spacing: 3) {
+                    VStack(spacing: 4) {
                         Image(systemName: tab.systemImage)
-                            .font(.system(size: 16, weight: .regular))
+                            .font(.system(size: 18, weight: .regular))
                         Text(tab.rawValue.uppercased())
-                            .font(.system(size: 8.5, weight: .semibold))
-                            .tracking(1)
+                            .font(.system(size: 10, weight: .semibold))
+                            .tracking(1.5)
                     }
                     .foregroundColor(selection == tab ? FRTheme.Color.rustBright : FRTheme.Color.text2)
                     .frame(maxWidth: .infinity)
@@ -195,8 +191,8 @@ struct FRTabBar: View {
                 .buttonStyle(.plain)
             }
         }
-        .padding(.top, 10)
-        .padding(.bottom, 26)
+        .padding(.top, 12)
+        .padding(.bottom, 28)
         .background(.ultraThinMaterial)
         .overlay(alignment: .top) {
             Rectangle().fill(FRTheme.Color.line).frame(height: 1)

@@ -40,7 +40,7 @@ struct FRoomApp: App {
 // MARK: - RootView (tab navigation)
 
 struct RootView: View {
-    @State private var selectedTab: FRTab = .home
+    @State private var selectedTab: FRTab = .news
 
     var body: some View {
         VStack(spacing: 0) {
@@ -57,16 +57,12 @@ struct TabContent: View {
 
     var body: some View {
         switch tab {
-        case .home:
+        case .news:
             HomeView()
         case .games:
             GameTabView()
         case .teams:
             TeamsView()
-        case .coach:
-            CoachTreeView()
-        case .cap:
-            CapTabView()
         case .notes:
             NotebookView()
         }

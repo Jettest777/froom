@@ -45,7 +45,7 @@ struct NotebookView: View {
 
     private var header: some View {
         HStack {
-            FRoomLogo(.header)
+            RZTLogo(style: .inline, size: .header, showsSubtitle: false)
             Spacer()
             // Quick-create new note from sample game (in real app: open game picker)
             NavigationLink(value: CanvasContext(game: MockData.sampleGame, play: nil)) {

@@ -25,7 +25,7 @@ struct CoachTreeView: View {
 
     private var header: some View {
         HStack {
-            FRoomLogo(.header)
+            RZTLogo(style: .inline, size: .header, showsSubtitle: false)
             Spacer()
             HStack(spacing: 8) {
                 FRIconButton(systemName: "magnifyingglass") { }

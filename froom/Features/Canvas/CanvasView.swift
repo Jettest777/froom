@@ -111,7 +111,7 @@ struct CanvasView: View {
     private var topBar: some View {
         HStack(spacing: 14) {
             HStack(spacing: 8) {
-                FRAppIcon(size: 24)
+                RZTLogo(style: .mark, size: .header, showsSubtitle: false)
                 HStack(spacing: 6) {
                     Text(context.game.awayTeamId).font(FRTheme.Font.bebas(size: 18)).tracking(2)
                     Text("vs").foregroundColor(FRTheme.Color.rustBright).italic().font(.system(size: 12))

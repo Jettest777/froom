@@ -42,7 +42,7 @@ struct TeamsView: View {
     private var header: some View {
         VStack(spacing: 0) {
             HStack {
-                FRoomLogo(.header)
+                RZTLogo(style: .inline, size: .header, showsSubtitle: false)
                 Spacer()
                 FRIconButton(systemName: "magnifyingglass") { }
             }
@@ -424,7 +424,7 @@ struct TeamCoachesView: View {
                         .foregroundColor(FRTheme.Color.rustBright)
                 }
                 if let yr = c.yearsSince {
-                    Text("Since \(yr)")
+                    Text("Since \(String(yr))")
                         .font(.system(size: 10, design: .monospaced))
                         .foregroundColor(FRTheme.Color.text2)
                 }
@@ -478,7 +478,7 @@ struct TeamCapView: View {
     private func capSummaryPanel(_ s: TeamCapSummary) -> some View {
         VStack(alignment: .leading, spacing: 14) {
             HStack {
-                Text("\(s.season) SALARY CAP")
+                Text("\(String(s.season)) SALARY CAP")
                     .font(.system(size: 10, weight: .heavy)).tracking(2)
                     .foregroundColor(FRTheme.Color.bronze)
                 Spacer()

@@ -99,7 +99,7 @@ struct GameTabView: View {
 
     private var header: some View {
         HStack {
-            FRoomLogo(.header)
+            RZTLogo(style: .inline, size: .header, showsSubtitle: false)
             Spacer()
             FRIconButton(systemName: "magnifyingglass") { }
             FRIconButton(systemName: "arrow.clockwise") {
@@ -117,11 +117,11 @@ struct GameTabView: View {
             // Season picker
             Menu {
                 ForEach((2020...2030), id: \.self) { yr in
-                    Button("\(yr)") { season = yr }
+                    Button(String(yr)) { season = yr }
                 }
             } label: {
                 HStack(spacing: 6) {
-                    Text("\(season)").font(FRTheme.Font.bebas(size: 20)).foregroundColor(FRTheme.Color.text0)
+                    Text(String(season)).font(FRTheme.Font.bebas(size: 20)).foregroundColor(FRTheme.Color.text0)
                     Image(systemName: "chevron.down").font(.system(size: 10, weight: .semibold)).foregroundColor(FRTheme.Color.text2)
                 }
                 .padding(.horizontal, 12).padding(.vertical, 6)

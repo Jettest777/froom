@@ -9,16 +9,35 @@ import SwiftUI
 
 struct PlayerDetailView: View {
     let detail: PlayerDetail
+    @State private var section: Section = .profile
+    @State private var rasClient = RASClient()
+
+    enum Section: String, CaseIterable {
+        case profile = "Profile"
+        case athleticism = "Athleticism"
+        case career = "Career"
+    }
 
     var body: some View {
-        ScrollView {
-            VStack(spacing: 0) {
-                hero
-                statGrid
-                contractCard
-                draftSection
-                teamHistorySection
-                careerStatsSection
+        VStack(spacing: 0) {
+            hero
+            subTabBar
+            ScrollView {
+                switch section {
+                case .profile:
+                    VStack(spacing: 0) {
+                        contractCard
+                        draftSection
+                        teamHistorySection
+                    }
+                case .athleticism:
+                    AthleticismView(entry: rasClient.entry(for: detail.fullName))
+                case .career:
+                    VStack(spacing: 0) {
+                        statGrid
+                        careerStatsSection
+                    }
+                }
             }
         }
         .background(FRTheme.Color.bg1)
@@ -29,6 +48,30 @@ struct PlayerDetailView: View {
                     .font(FRTheme.Font.bebas(size: 18)).tracking(3)
                     .foregroundColor(FRTheme.Color.text0)
             }
+        }
+        .task { await rasClient.refresh() }
+    }
+
+    private var subTabBar: some View {
+        HStack(spacing: 0) {
+            ForEach(Section.allCases, id: \.self) { s in
+                Button(action: { section = s }) {
+                    Text(s.rawValue.uppercased())
+                        .font(.system(size: 11, weight: .heavy)).tracking(2)
+                        .foregroundColor(section == s ? FRTheme.Color.text0 : FRTheme.Color.text2)
+                        .frame(maxWidth: .infinity)
+                        .padding(.vertical, 12)
+                        .overlay(alignment: .bottom) {
+                            Rectangle().fill(section == s ? FRTheme.Color.rzRed : .clear)
+                                .frame(height: 2)
+                        }
+                }
+                .buttonStyle(.plain)
+            }
+        }
+        .background(FRTheme.Color.bg1)
+        .overlay(alignment: .bottom) {
+            Rectangle().fill(FRTheme.Color.line).frame(height: 1)
         }
     }
 
@@ -133,7 +176,7 @@ struct PlayerDetailView: View {
                             .font(.system(size: 14, weight: .heavy, design: .monospaced))
                             .foregroundColor(FRTheme.Color.text0)
                         Spacer()
-                        Text("\(c.endYear) まで")
+                        Text("\(String(c.endYear)) まで")
                             .font(.system(size: 12, design: .monospaced))
                             .foregroundColor(FRTheme.Color.bronze)
                     }
@@ -149,11 +192,11 @@ struct PlayerDetailView: View {
                     }
                     .frame(height: 6)
                     HStack {
-                        Text("\(c.signedYear)").font(.system(size: 10, design: .monospaced))
+                        Text(String(c.signedYear)).font(.system(size: 10, design: .monospaced))
                         Spacer()
                         Text("進行中").font(.system(size: 10, design: .monospaced)).foregroundColor(FRTheme.Color.bronze)
                         Spacer()
-                        Text("\(c.endYear)").font(.system(size: 10, design: .monospaced))
+                        Text(String(c.endYear)).font(.system(size: 10, design: .monospaced))
                     }
                     .foregroundColor(FRTheme.Color.text2)
                     HStack {
@@ -207,7 +250,7 @@ struct PlayerDetailView: View {
                     .clipShape(RoundedRectangle(cornerRadius: 6))
 
                     VStack(alignment: .leading, spacing: 4) {
-                        Text("\(d.year) NFL Draft")
+                        Text("\(String(d.year)) NFL Draft")
                             .font(.system(size: 13, weight: .semibold)).foregroundColor(FRTheme.Color.text0)
                         Text("Rd \(d.round), Pick \(d.pick)")
                             .font(.system(size: 11, design: .monospaced)).foregroundColor(FRTheme.Color.text1)

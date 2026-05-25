@@ -73,7 +73,7 @@ struct CoachDetailView: View {
                     .clipShape(Capsule())
             }
             if let since = coach.yearsSince {
-                Text("Since \(since)")
+                Text("Since \(String(since))")
                     .font(.system(size: 10, design: .monospaced))
                     .foregroundColor(FRTheme.Color.text2)
             }

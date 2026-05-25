@@ -44,7 +44,7 @@ struct CapTabView: View {
 
     private var header: some View {
         HStack {
-            FRoomLogo(.header)
+            RZTLogo(style: .inline, size: .header, showsSubtitle: false)
             Spacer()
             if capClient.isLoading {
                 ProgressView().tint(FRTheme.Color.rust).scaleEffect(0.7)
@@ -108,7 +108,7 @@ struct CapTabView: View {
                 Text(selectedTeamId)
                     .font(FRTheme.Font.bebas(size: 28)).tracking(3)
                     .foregroundColor(FRTheme.Color.text0)
-                Text("\(s.season) SALARY CAP")
+                Text("\(String(s.season)) SALARY CAP")
                     .font(.system(size: 10, weight: .heavy)).tracking(2)
                     .foregroundColor(FRTheme.Color.bronze)
                 Spacer()

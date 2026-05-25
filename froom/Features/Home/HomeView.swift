@@ -11,6 +11,7 @@ struct HomeView: View {
     @State private var selectedFilter: NewsFilter = .all
     @State private var translatedIds: Set<UUID> = []
     @State private var feed = FeedClient()
+    @State private var digest = DigestClient()
 
     enum NewsFilter: String, CaseIterable {
         case all = "All"
@@ -26,6 +27,7 @@ struct HomeView: View {
             header
             ScrollView {
                 VStack(alignment: .leading, spacing: 0) {
+                    digestSection
                     breakingHero
                     filterChips
                     sectionLatest
@@ -35,18 +37,28 @@ struct HomeView: View {
             .background(FRTheme.Color.bg1)
             .refreshable {
                 await feed.refresh()
+                await digest.refresh()
             }
         }
         .task {
             await feed.refresh()
+            await digest.refresh()
+        }
+    }
+
+    @ViewBuilder
+    private var digestSection: some View {
+        if let env = digest.envelope {
+            DailyDigestCard(envelope: env)
+                .padding(.horizontal, 16)
+                .padding(.top, 16)
         }
     }
 
     private var header: some View {
         HStack {
             HStack(spacing: 10) {
-                FRAppIcon(size: 32)
-                FRoomLogo(.header)
+                RZTLogo(style: .inline, size: .header, showsSubtitle: false)
             }
             Spacer()
             HStack(spacing: 8) {

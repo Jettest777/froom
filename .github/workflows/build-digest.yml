@@ -85,7 +85,10 @@ jobs:
           ARGS="--feed output/intel-latest.json --out output/digest-latest.json"
           ARGS="$ARGS --time-of-day ${{ steps.tod.outputs.tod }}"
           ARGS="$ARGS --model ${{ steps.model.outputs.name }}"
-          if [ "${{ inputs.force }}" = "true" ]; then
+          # Manual runs (workflow_dispatch) ALWAYS force a fresh generation so the
+          # user never has to remember the toggle. Scheduled runs still respect the
+          # cache to keep API cost low.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ inputs.force }}" = "true" ]; then
             ARGS="$ARGS --force"
           fi
           python -m api.build_digest $ARGS

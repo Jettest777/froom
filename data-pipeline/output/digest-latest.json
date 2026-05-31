@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-31T15:11:50.396113+00:00",
+  "generated_at": "2026-05-31T15:20:49.971965+00:00",
   "time_of_day": "morning",
   "model": "claude-haiku-4-5-20251001",
   "skipped": false,
@@ -10,8 +10,8 @@
   "digest": {
     "headline_en": "Digest generation failed",
     "headline_ja": "ダイジェスト生成に失敗しました",
-    "lead_en": "Claude API call failed: Unterminated string starting at: line 29 column 18 (char 7003)",
-    "lead_ja": "Claude API 呼び出しに失敗しました: Unterminated string starting at: line 29 column 18 (char 7003)",
+    "lead_en": "Claude API call failed: Unterminated string starting at: line 29 column 18 (char 7436)",
+    "lead_ja": "Claude API 呼び出しに失敗しました: Unterminated string starting at: line 29 column 18 (char 7436)",
     "body_en": "",
     "body_ja": "",
     "topics": [],

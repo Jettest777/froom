@@ -87,6 +87,19 @@ def should_skip(out_path: Path, current_fp: str) -> bool:
             prev = json.load(f)
     except Exception:
         return False
+    # Never skip if the previous digest was a fallback / error placeholder.
+    # Otherwise a one-time "API key missing" result would stick for SKIP_HOURS
+    # even after the key is fixed. A real digest always has body text.
+    prev_digest = prev.get("digest", {})
+    prev_body = (prev_digest.get("body_en") or "") + (prev_digest.get("body_ja") or "")
+    prev_headline = prev_digest.get("headline_en", "")
+    looks_like_fallback = (
+        not prev_body.strip()
+        or prev_headline == "Digest temporarily unavailable"
+    )
+    if looks_like_fallback:
+        return False
+
     prev_fp = prev.get("source_fingerprint")
     prev_at = prev.get("generated_at")
     if not prev_fp or not prev_at:

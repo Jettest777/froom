@@ -25,8 +25,8 @@ final class RASClient {
     private(set) var lastFetchedAt: Date?
 
     init() {
-        // Provide mock entry for offline development
-        entries = ["Patrick Mahomes": .mockMahomes]
+        // Provide mock entries for offline / first-run development.
+        entries = RASEntry.allMocks
     }
 
     @MainActor

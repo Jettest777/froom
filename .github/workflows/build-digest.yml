@@ -2,9 +2,9 @@ name: AI Daily Digest
 
 on:
   schedule:
-    # Morning digest: 22:00 UTC (~ 7am JST / 5pm ET)
+    # Morning digest: 22:00 UTC (~ 7am JST)
     - cron: "0 22 * * *"
-    # Evening digest: 11:00 UTC (~ 8pm JST / 6am ET)
+    # Evening digest: 11:00 UTC (~ 8pm JST)
     - cron: "0 11 * * *"
   workflow_dispatch:
     inputs:
@@ -13,6 +13,17 @@ on:
         type: choice
         options: [morning, evening]
         default: morning
+      model:
+        description: "Model (haiku is much cheaper)"
+        type: choice
+        options:
+          - "claude-haiku-4-5-20251001"
+          - "claude-sonnet-4-5"
+        default: "claude-haiku-4-5-20251001"
+      force:
+        description: "Force regenerate even if cached"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -31,7 +42,7 @@ jobs:
         working-directory: data-pipeline
         run: |
           python -m pip install --upgrade pip
-          pip install requests pyyaml pydantic
+          pip install requests pyyaml pydantic beautifulsoup4 lxml
 
       - name: Determine time of day
         id: tod
@@ -44,20 +55,45 @@ jobs:
             echo "tod=evening" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Determine model
+        id: model
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "name=${{ inputs.model }}" >> "$GITHUB_OUTPUT"
+          else
+            # Default to Haiku for scheduled runs (cost optimisation)
+            echo "name=claude-haiku-4-5-20251001" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build feed (RSS + others)
+        working-directory: data-pipeline
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: |
+          # Provision a minimal config so the feed builder runs.
+          if [ ! -f config.yml ]; then
+            cp config.example.yml config.yml
+            sed -i "s|REPLACE_ME|${X_BEARER_TOKEN:-}|" config.yml
+          fi
+          python -m api.build_feed --config config.yml --out output/intel-latest.json
+
       - name: Build digest
         working-directory: data-pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          python -m api.build_digest \
-            --feed output/intel-latest.json \
-            --out output/digest-latest.json \
-            --time-of-day "${{ steps.tod.outputs.tod }}"
+          ARGS="--feed output/intel-latest.json --out output/digest-latest.json"
+          ARGS="$ARGS --time-of-day ${{ steps.tod.outputs.tod }}"
+          ARGS="$ARGS --model ${{ steps.model.outputs.name }}"
+          if [ "${{ inputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          python -m api.build_digest $ARGS
 
       - name: Commit and push
         run: |
           git config user.name "rzt-bot"
           git config user.email "rzt-bot@users.noreply.github.com"
-          git add data-pipeline/output/digest-latest.json || true
-          git diff --cached --quiet || git commit -m "chore: refresh daily digest [skip ci]"
+          git add data-pipeline/output/intel-latest.json data-pipeline/output/digest-latest.json || true
+          git diff --cached --quiet || git commit -m "chore: refresh digest [skip ci]"
           git push || true

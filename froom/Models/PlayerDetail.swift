@@ -72,7 +72,7 @@ struct Draft: Codable, Hashable {
     let draftedByTeamId: String
 
     var displayLabel: String {
-        "\(year) · Rd \(round), Pick \(pick) (Overall \(overallPick))"
+        "\(String(year)) · Rd \(round), Pick \(pick) (Overall \(overallPick))"
     }
 }
 
@@ -94,7 +94,7 @@ struct Contract: Codable, Hashable {
     }
 
     var displayHeadline: String {
-        "\(years)YR / $\(Int(totalValueUSD))M"
+        "\(String(years))YR / $\(String(Int(totalValueUSD)))M"
     }
 }
 
@@ -108,8 +108,8 @@ struct TeamStint: Identifiable, Codable, Hashable {
 
     var isCurrent: Bool { endYear == nil }
     var displayYears: String {
-        if let end = endYear { return "\(startYear)–\(end)" }
-        return "\(startYear)–present"
+        if let end = endYear { return "\(String(startYear))–\(String(end))" }
+        return "\(String(startYear))–present"
     }
 }
 
@@ -151,6 +151,63 @@ struct ExternalIds: Codable, Hashable {
     var espnId: String?
     var pfrId: String?            // Pro Football Reference identifier
     var nflId: String?
+}
+
+// MARK: - Converters
+
+extension PlayerDetail {
+    /// Build a lightweight PlayerDetail from the roster-level `Player` model.
+    /// Used when navigating from team rosters to the detail page before the
+    /// full ESPN-backed profile is loaded.
+    static func from(player p: Player) -> PlayerDetail {
+        // Parse "6'3\"" style height back to inches
+        let inches: Int = {
+            let cleaned = p.height.replacingOccurrences(of: "\"", with: "")
+            let parts = cleaned.split(separator: "'")
+            if parts.count == 2,
+               let ft = Int(parts[0]),
+               let inch = Int(parts[1]) {
+                return ft * 12 + inch
+            }
+            return 72
+        }()
+
+        return PlayerDetail(
+            id: p.id,
+            firstName: p.firstName,
+            lastName: p.lastName,
+            position: p.position,
+            jerseyNumber: p.jerseyNumber,
+            currentTeamId: p.teamId,
+            heightInches: inches,
+            weightPounds: p.weight,
+            dateOfBirth: nil,
+            college: p.collegeName,
+            highSchool: nil,
+            draft: nil,
+            yearsInLeague: p.yearsInLeague,
+            isStarter: p.isStarter,
+            injuryStatus: p.injuryStatus,
+            contract: Contract(
+                years: p.contractYears,
+                totalValueUSD: p.contractTotal,
+                guaranteedUSD: p.contractGuaranteed,
+                signedYear: max(2020, Calendar.current.component(.year, from: Date()) - 2),
+                endYear: max(2020, Calendar.current.component(.year, from: Date()) - 2) + p.contractYears,
+                avgPerYearUSD: p.contractTotal / Double(max(1, p.contractYears)),
+                capHitCurrentYear: nil,
+                voidYears: nil
+            ),
+            teamHistory: [
+                TeamStint(id: UUID(), teamId: p.teamId,
+                          startYear: max(2015, Calendar.current.component(.year, from: Date()) - p.yearsInLeague),
+                          endYear: nil, endReason: nil, acquisitionType: .draft)
+            ],
+            careerStats: nil,
+            externalIds: ExternalIds(espnId: nil, pfrId: nil, nflId: nil),
+            lastSyncedAt: Date()
+        )
+    }
 }
 
 // MARK: - Mock detail

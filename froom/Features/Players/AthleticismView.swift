@@ -90,24 +90,70 @@ struct AthleticismView: View {
     // MARK: - Radar chart
 
     private func radarSection(_ e: RASEntry) -> some View {
-        VStack(alignment: .leading, spacing: 12) {
+        // Only include dimensions that have data; radar chart degrades gracefully.
+        let dimensions: [(String, Double)] = [
+            ("SIZE", e.rasSize),
+            ("SPEED", e.rasSpeed),
+            ("EXPLOSION", e.rasExplosion),
+            ("AGILITY", e.rasAgility),
+            ("STRENGTH", e.rasStrength),
+        ]
+        .compactMap { (label, val) in val.map { (label, $0) } }
+
+        return VStack(alignment: .leading, spacing: 12) {
             Text("ATHLETIC PROFILE")
                 .font(.system(size: 11, weight: .heavy)).tracking(3)
                 .foregroundColor(FRTheme.Color.text1)
-            RadarChart(values: [
-                ("SIZE", e.rasSize ?? 0),
-                ("SPEED", e.rasSpeed ?? 0),
-                ("EXPLOSION", e.rasExplosion ?? 0),
-                ("AGILITY", e.rasAgility ?? 0),
-                ("STRENGTH", e.rasStrength ?? 0),
-            ])
-            .frame(height: 260)
-            .padding(.top, 8)
+
+            if dimensions.count >= 3 {
+                RadarChart(values: dimensions)
+                    .frame(height: 280)
+                    .padding(.top, 8)
+            } else {
+                // Fallback bars for very thin data
+                VStack(spacing: 8) {
+                    ForEach(dimensions, id: \.0) { (label, val) in
+                        athleticBar(label: label, value: val)
+                    }
+                    if dimensions.isEmpty {
+                        Text("プロファイルデータ未取得")
+                            .font(.system(size: 11))
+                            .foregroundColor(FRTheme.Color.text2)
+                            .padding(.vertical, 30)
+                    }
+                }
+            }
         }
         .padding(16)
         .background(FRTheme.Color.bg2)
         .overlay(RoundedRectangle(cornerRadius: 12).strokeBorder(FRTheme.Color.line, lineWidth: 1))
         .clipShape(RoundedRectangle(cornerRadius: 12))
+    }
+
+    private func athleticBar(label: String, value: Double) -> some View {
+        HStack(spacing: 10) {
+            Text(label)
+                .font(.system(size: 10, weight: .heavy)).tracking(2)
+                .foregroundColor(FRTheme.Color.text2)
+                .frame(width: 80, alignment: .leading)
+            GeometryReader { geo in
+                ZStack(alignment: .leading) {
+                    Rectangle().fill(FRTheme.Color.bg3).frame(height: 8)
+                    Rectangle()
+                        .fill(LinearGradient(
+                            colors: [FRTheme.Color.elecBlue, FRTheme.Color.ezGold, FRTheme.Color.rzRed],
+                            startPoint: .leading, endPoint: .trailing
+                        ))
+                        .frame(width: geo.size.width * (value / 10), height: 8)
+                }
+                .clipShape(RoundedRectangle(cornerRadius: 4))
+            }
+            .frame(height: 8)
+            Text(String(format: "%.1f", value))
+                .font(.system(size: 10, weight: .heavy, design: .monospaced))
+                .foregroundColor(FRTheme.Color.text0)
+                .frame(width: 30, alignment: .trailing)
+        }
     }
 
     // MARK: - Combine numbers

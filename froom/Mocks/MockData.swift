@@ -173,9 +173,10 @@ enum MockData {
         ),
     ]
 
-    // MARK: - Players (KC sample roster)
+    // MARK: - Players (sample roster across multiple teams)
 
     static let players: [Player] = [
+        // KC Chiefs
         Player(id: UUID(), firstName: "Patrick", lastName: "Mahomes", position: "QB", jerseyNumber: 15,
                teamId: "KC", height: "6'3\"", weight: 230, yearsInLeague: 8, collegeName: "Texas Tech",
                contractYears: 10, contractTotal: 450, contractGuaranteed: 141, isStarter: true, injuryStatus: nil),
@@ -185,6 +186,49 @@ enum MockData {
         Player(id: UUID(), firstName: "Isiah", lastName: "Pacheco", position: "RB", jerseyNumber: 10,
                teamId: "KC", height: "5'10\"", weight: 216, yearsInLeague: 4, collegeName: "Rutgers",
                contractYears: 4, contractTotal: 4, contractGuaranteed: 0.8, isStarter: true, injuryStatus: nil),
+        Player(id: UUID(), firstName: "Chris", lastName: "Jones", position: "DT", jerseyNumber: 95,
+               teamId: "KC", height: "6'6\"", weight: 310, yearsInLeague: 11, collegeName: "Mississippi State",
+               contractYears: 5, contractTotal: 158, contractGuaranteed: 95, isStarter: true, injuryStatus: nil),
+        Player(id: UUID(), firstName: "Rashee", lastName: "Rice", position: "WR", jerseyNumber: 4,
+               teamId: "KC", height: "6'1\"", weight: 203, yearsInLeague: 3, collegeName: "SMU",
+               contractYears: 4, contractTotal: 5, contractGuaranteed: 3, isStarter: true, injuryStatus: nil),
+
+        // BUF Bills
+        Player(id: UUID(), firstName: "Josh", lastName: "Allen", position: "QB", jerseyNumber: 17,
+               teamId: "BUF", height: "6'5\"", weight: 237, yearsInLeague: 8, collegeName: "Wyoming",
+               contractYears: 6, contractTotal: 250, contractGuaranteed: 150, isStarter: true, injuryStatus: nil),
+        Player(id: UUID(), firstName: "James", lastName: "Cook", position: "RB", jerseyNumber: 28,
+               teamId: "BUF", height: "5'11\"", weight: 199, yearsInLeague: 4, collegeName: "Georgia",
+               contractYears: 4, contractTotal: 4, contractGuaranteed: 1, isStarter: true, injuryStatus: nil),
+
+        // SF 49ers
+        Player(id: UUID(), firstName: "Christian", lastName: "McCaffrey", position: "RB", jerseyNumber: 23,
+               teamId: "SF", height: "5'11\"", weight: 210, yearsInLeague: 9, collegeName: "Stanford",
+               contractYears: 2, contractTotal: 38, contractGuaranteed: 24, isStarter: true, injuryStatus: nil),
+        Player(id: UUID(), firstName: "Brock", lastName: "Purdy", position: "QB", jerseyNumber: 13,
+               teamId: "SF", height: "6'1\"", weight: 220, yearsInLeague: 4, collegeName: "Iowa State",
+               contractYears: 5, contractTotal: 265, contractGuaranteed: 181, isStarter: true, injuryStatus: nil),
+
+        // DAL Cowboys
+        Player(id: UUID(), firstName: "Dak", lastName: "Prescott", position: "QB", jerseyNumber: 4,
+               teamId: "DAL", height: "6'2\"", weight: 238, yearsInLeague: 10, collegeName: "Mississippi State",
+               contractYears: 4, contractTotal: 240, contractGuaranteed: 231, isStarter: true, injuryStatus: nil),
+        Player(id: UUID(), firstName: "Micah", lastName: "Parsons", position: "LB", jerseyNumber: 11,
+               teamId: "DAL", height: "6'3\"", weight: 246, yearsInLeague: 5, collegeName: "Penn State",
+               contractYears: 4, contractTotal: 188, contractGuaranteed: 120, isStarter: true, injuryStatus: nil),
+
+        // PHI Eagles
+        Player(id: UUID(), firstName: "Jalen", lastName: "Hurts", position: "QB", jerseyNumber: 1,
+               teamId: "PHI", height: "6'1\"", weight: 223, yearsInLeague: 6, collegeName: "Oklahoma",
+               contractYears: 5, contractTotal: 255, contractGuaranteed: 179, isStarter: true, injuryStatus: nil),
+        Player(id: UUID(), firstName: "Saquon", lastName: "Barkley", position: "RB", jerseyNumber: 26,
+               teamId: "PHI", height: "6'0\"", weight: 232, yearsInLeague: 8, collegeName: "Penn State",
+               contractYears: 3, contractTotal: 37, contractGuaranteed: 26, isStarter: true, injuryStatus: nil),
+
+        // BAL Ravens
+        Player(id: UUID(), firstName: "Lamar", lastName: "Jackson", position: "QB", jerseyNumber: 8,
+               teamId: "BAL", height: "6'2\"", weight: 212, yearsInLeague: 8, collegeName: "Louisville",
+               contractYears: 5, contractTotal: 260, contractGuaranteed: 185, isStarter: true, injuryStatus: nil),
     ]
 
     // MARK: - Sample game

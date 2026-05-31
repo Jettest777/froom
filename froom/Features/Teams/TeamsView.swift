@@ -11,6 +11,7 @@ import SwiftUI
 
 struct TeamsView: View {
     @State private var selectedConference: String = "All"
+    @State private var league = LeagueClient.shared
 
     var body: some View {
         NavigationStack {
@@ -28,7 +29,9 @@ struct TeamsView: View {
                     .padding(.horizontal, 16)
                     .padding(.vertical, 12)
                 }
+                .refreshable { await league.loadTeams(force: true) }
             }
+            .task { await league.loadTeams() }
             .background(FRTheme.Color.bg1)
             .navigationDestination(for: Team.self) { team in
                 TeamDetailView(team: team)
@@ -66,8 +69,8 @@ struct TeamsView: View {
     }
 
     private var filteredTeams: [Team] {
-        if selectedConference == "All" { return MockData.teams }
-        return MockData.teams.filter { $0.conference == selectedConference }
+        if selectedConference == "All" { return league.teams }
+        return league.teams.filter { $0.conference == selectedConference }
     }
 }
 
@@ -223,6 +226,7 @@ struct TeamDetailView: View {
 struct TeamRosterView: View {
     let team: Team
     @State private var sideFilter: SideFilter = .offense
+    @State private var league = LeagueClient.shared
 
     enum SideFilter: String, CaseIterable {
         case offense = "Offense"
@@ -243,63 +247,78 @@ struct TeamRosterView: View {
             .padding(.vertical, 10)
 
             ScrollView {
-                VStack(alignment: .leading, spacing: 14) {
-                    let positions = positionsForSide
-                    ForEach(positions, id: \.self) { pos in
-                        positionGroup(pos: pos)
+                let roster = league.roster(for: team.id)
+                if roster.isEmpty {
+                    VStack(spacing: 10) {
+                        ProgressView().tint(FRTheme.Color.rust)
+                        Text("ロスターを読み込み中…")
+                            .font(.system(size: 12))
+                            .foregroundColor(FRTheme.Color.text2)
                     }
+                    .frame(maxWidth: .infinity)
+                    .padding(40)
+                } else {
+                    VStack(alignment: .leading, spacing: 14) {
+                        ForEach(positionsForSide, id: \.self) { pos in
+                            let group = roster.filter { $0.position == pos }
+                            if !group.isEmpty {
+                                positionGroup(pos: pos, players: group)
+                            }
+                        }
+                    }
+                    .padding(.horizontal, 16)
+                    .padding(.vertical, 14)
                 }
-                .padding(.horizontal, 16)
-                .padding(.vertical, 14)
             }
+            .task { await league.loadRoster(teamAbbrev: team.id) }
+            .refreshable { await league.loadRoster(teamAbbrev: team.id, force: true) }
         }
     }
 
     private var positionsForSide: [String] {
         switch sideFilter {
-        case .offense: return ["QB", "RB", "WR", "TE", "LT", "LG", "C", "RG", "RT"]
-        case .defense: return ["DE", "DT", "LB", "CB", "S"]
-        case .specialTeams: return ["K", "P", "LS", "PR/KR"]
+        case .offense: return ["QB", "RB", "FB", "WR", "TE", "LT", "LG", "C", "RG", "RT", "OL", "OT", "G", "T"]
+        case .defense: return ["DE", "DT", "NT", "DL", "OLB", "ILB", "MLB", "LB", "CB", "S", "FS", "SS", "DB"]
+        case .specialTeams: return ["K", "P", "LS", "PK"]
         }
     }
 
-    private func positionGroup(pos: String) -> some View {
+    private func positionGroup(pos: String, players: [Player]) -> some View {
         VStack(alignment: .leading, spacing: 6) {
             Text(pos)
                 .font(FRTheme.Font.bebas(size: 16))
                 .tracking(2)
                 .foregroundColor(FRTheme.Color.bronze)
-            HStack(spacing: 8) {
-                ForEach(0..<3) { rank in
-                    rosterCard(rank: rank + 1)
+            VStack(spacing: 6) {
+                ForEach(Array(players.enumerated()), id: \.element.id) { (idx, p) in
+                    rosterCard(rank: idx + 1, player: p)
                 }
             }
         }
     }
 
-    private func rosterCard(rank: Int) -> some View {
-        VStack(alignment: .leading, spacing: 2) {
-            HStack {
-                Text("#\(rank)").font(.system(size: 9, weight: .heavy)).tracking(1)
-                    .foregroundColor(rank == 1 ? FRTheme.Color.rustBright : FRTheme.Color.text2)
-                Spacer()
-                if rank == 1 {
-                    Text("STARTER")
-                        .font(.system(size: 8, weight: .heavy)).tracking(1)
-                        .foregroundColor(.white)
-                        .padding(.horizontal, 4).padding(.vertical, 1)
-                        .background(FRTheme.Color.rust).clipShape(Capsule())
-                }
-            }
-            Text("Player \(rank)")
-                .font(.system(size: 12, weight: .semibold))
+    private func rosterCard(rank: Int, player p: Player) -> some View {
+        HStack(spacing: 10) {
+            Text("#\(rank)").font(.system(size: 10, weight: .heavy)).tracking(1)
+                .foregroundColor(rank == 1 ? FRTheme.Color.rustBright : FRTheme.Color.text2)
+                .frame(width: 26, alignment: .leading)
+            Text("\(p.jerseyNumber > 0 ? "#\(String(p.jerseyNumber)) " : "")\(p.firstName) \(p.lastName)")
+                .font(.system(size: 13, weight: .semibold))
                 .foregroundColor(FRTheme.Color.text0)
-            Text("6'2\" · 215 LB · 4 YR")
+            Spacer()
+            Text("\(p.height) · \(String(p.weight)) LB · \(String(p.yearsInLeague)) YR")
                 .font(.system(size: 9, design: .monospaced))
                 .foregroundColor(FRTheme.Color.text2)
+            if rank == 1 {
+                Text("STARTER")
+                    .font(.system(size: 8, weight: .heavy)).tracking(1)
+                    .foregroundColor(.white)
+                    .padding(.horizontal, 4).padding(.vertical, 1)
+                    .background(FRTheme.Color.rust).clipShape(Capsule())
+            }
         }
-        .padding(8)
-        .frame(maxWidth: .infinity, minHeight: 56, alignment: .topLeading)
+        .padding(10)
+        .frame(maxWidth: .infinity, alignment: .leading)
         .background(FRTheme.Color.bg2)
         .overlay(RoundedRectangle(cornerRadius: 6).strokeBorder(rank == 1 ? FRTheme.Color.rust : FRTheme.Color.line, lineWidth: 1))
         .clipShape(RoundedRectangle(cornerRadius: 6))
@@ -310,29 +329,105 @@ struct TeamRosterView: View {
 
 struct TeamPlayersView: View {
     let team: Team
+    @State private var league = LeagueClient.shared
+
+    private var players: [Player] {
+        league.roster(for: team.id)
+            .sorted { positionRank($0.position) < positionRank($1.position) }
+    }
 
     var body: some View {
         ScrollView {
             LazyVStack(spacing: 10) {
-                ForEach(MockData.players.filter { $0.teamId == team.id }) { player in
-                    NavigationLink(value: PlayerDetail.mockMahomes) {  // wire to real player in next phase
+                ForEach(players) { player in
+                    NavigationLink(value: playerDetail(from: player)) {
                         playerRow(player)
                     }
                     .buttonStyle(.plain)
                 }
-                if MockData.players.filter({ $0.teamId == team.id }).isEmpty {
-                    Text("選手データを読み込み中…")
-                        .font(.system(size: 12))
-                        .foregroundColor(FRTheme.Color.text2)
-                        .padding(40)
+                if players.isEmpty {
+                    VStack(spacing: 10) {
+                        ProgressView().tint(FRTheme.Color.rust)
+                        Text("選手データを読み込み中…")
+                            .font(.system(size: 12))
+                            .foregroundColor(FRTheme.Color.text2)
+                    }
+                    .padding(40)
                 }
             }
             .padding(.horizontal, 16)
             .padding(.vertical, 14)
         }
+        .task { await league.loadRoster(teamAbbrev: team.id) }
+        .refreshable { await league.loadRoster(teamAbbrev: team.id, force: true) }
         .navigationDestination(for: PlayerDetail.self) { detail in
             PlayerDetailView(detail: detail)
         }
+    }
+
+    /// Order players by a sensible depth-chart-ish position grouping.
+    private func positionRank(_ pos: String) -> Int {
+        let order = ["QB","RB","FB","WR","TE","LT","LG","C","RG","RT","OL",
+                     "DE","DT","NT","DL","OLB","ILB","MLB","LB",
+                     "CB","S","FS","SS","DB","K","P","LS"]
+        return order.firstIndex(of: pos) ?? 99
+    }
+
+    /// Lightweight converter (inlined here to avoid cross-file extension visibility issues
+    /// when the conversion helper hasn't been added to the Xcode target yet).
+    private func playerDetail(from p: Player) -> PlayerDetail {
+        let inches: Int = {
+            let cleaned = p.height.replacingOccurrences(of: "\"", with: "")
+            let parts = cleaned.split(separator: "'")
+            if parts.count == 2,
+               let ft = Int(parts[0]),
+               let inch = Int(parts[1]) {
+                return ft * 12 + inch
+            }
+            return 72
+        }()
+        let signed = max(2020, Calendar.current.component(.year, from: Date()) - 2)
+
+        return PlayerDetail(
+            id: p.id,
+            firstName: p.firstName,
+            lastName: p.lastName,
+            position: p.position,
+            jerseyNumber: p.jerseyNumber,
+            currentTeamId: p.teamId,
+            heightInches: inches,
+            weightPounds: p.weight,
+            dateOfBirth: nil,
+            college: p.collegeName,
+            highSchool: nil,
+            draft: nil,
+            yearsInLeague: p.yearsInLeague,
+            isStarter: p.isStarter,
+            injuryStatus: p.injuryStatus,
+            contract: Contract(
+                years: p.contractYears,
+                totalValueUSD: p.contractTotal,
+                guaranteedUSD: p.contractGuaranteed,
+                signedYear: signed,
+                endYear: signed + p.contractYears,
+                avgPerYearUSD: p.contractTotal / Double(max(1, p.contractYears)),
+                capHitCurrentYear: nil,
+                voidYears: nil
+            ),
+            teamHistory: [
+                TeamStint(
+                    id: UUID(),
+                    teamId: p.teamId,
+                    startYear: max(2015, Calendar.current.component(.year, from: Date()) - p.yearsInLeague),
+                    endYear: nil,
+                    endReason: nil,
+                    acquisitionType: .draft
+                )
+            ],
+            careerStats: nil,
+            externalIds: ExternalIds(espnId: nil, pfrId: nil, nflId: nil),
+            lastSyncedAt: Date()
+        )
     }
 
     private func playerRow(_ p: Player) -> some View {

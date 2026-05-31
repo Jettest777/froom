@@ -85,7 +85,7 @@ struct PlayerDetailView: View {
             ], startPoint: .topLeading, endPoint: .bottomTrailing)
 
             // Faded jersey number background
-            Text("\(detail.jerseyNumber)")
+            Text(String(detail.jerseyNumber))
                 .font(FRTheme.Font.bebas(size: 200))
                 .foregroundColor(.white.opacity(0.12))
                 .position(x: UIScreen.main.bounds.width - 80, y: 90)
@@ -200,7 +200,7 @@ struct PlayerDetailView: View {
                     }
                     .foregroundColor(FRTheme.Color.text2)
                     HStack {
-                        statTile(label: "Guaranteed", value: "$\(Int(c.guaranteedUSD))M")
+                        statTile(label: "Guaranteed", value: "$\(String(Int(c.guaranteedUSD)))M")
                         statTile(label: "Avg/Yr", value: "$\(String(format: "%.1f", c.avgPerYearUSD))M")
                         if let cap = c.capHitCurrentYear {
                             statTile(label: "Cap Hit", value: "$\(String(format: "%.1f", cap))M")
@@ -237,7 +237,7 @@ struct PlayerDetailView: View {
             if let d = detail.draft {
                 HStack(spacing: 14) {
                     VStack {
-                        Text("\(d.overallPick)")
+                        Text(String(d.overallPick))
                             .font(FRTheme.Font.bebas(size: 36))
                             .foregroundColor(FRTheme.Color.bronze)
                         Text("OVR")
@@ -252,7 +252,7 @@ struct PlayerDetailView: View {
                     VStack(alignment: .leading, spacing: 4) {
                         Text("\(String(d.year)) NFL Draft")
                             .font(.system(size: 13, weight: .semibold)).foregroundColor(FRTheme.Color.text0)
-                        Text("Rd \(d.round), Pick \(d.pick)")
+                        Text("Rd \(String(d.round)), Pick \(String(d.pick))")
                             .font(.system(size: 11, design: .monospaced)).foregroundColor(FRTheme.Color.text1)
                         Text("by \(d.draftedByTeamId)")
                             .font(.system(size: 11, design: .monospaced)).foregroundColor(FRTheme.Color.text2)

@@ -21,6 +21,7 @@ struct DailyDigestCard: View {
             heroBlock
             if isExpanded {
                 Divider().background(FRTheme.Color.line).padding(.top, 4)
+                bodyArticle
                 topicsList
                 watchTomorrow
             }
@@ -99,6 +100,36 @@ struct DailyDigestCard: View {
         }
         .padding(.horizontal, 14)
         .padding(.bottom, 14)
+    }
+
+    // MARK: - Body article (long-form analysis paragraphs)
+
+    @ViewBuilder
+    private var bodyArticle: some View {
+        let text = (isJapanese ? d.bodyJA : d.bodyEN) ?? ""
+        if !text.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+            VStack(alignment: .leading, spacing: 10) {
+                Text(isJapanese ? "詳しい分析" : "DEEP DIVE")
+                    .font(.system(size: 10, weight: .heavy)).tracking(2)
+                    .foregroundColor(FRTheme.Color.text2)
+                ForEach(paragraphs(of: text), id: \.self) { para in
+                    Text(para)
+                        .font(.system(size: 13))
+                        .foregroundColor(FRTheme.Color.text0)
+                        .lineSpacing(5)
+                        .fixedSize(horizontal: false, vertical: true)
+                }
+            }
+            .padding(.horizontal, 14)
+            .padding(.top, 12)
+            .padding(.bottom, 4)
+        }
+    }
+
+    private func paragraphs(of text: String) -> [String] {
+        text.components(separatedBy: "\n\n")
+            .map { $0.trimmingCharacters(in: .whitespacesAndNewlines) }
+            .filter { !$0.isEmpty }
     }
 
     // MARK: - Topics

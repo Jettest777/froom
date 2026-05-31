@@ -1,17 +1,23 @@
 {
-  "comment": "List of players to fetch RAS data for. Extend as your study list grows.",
+  "comment": "Players to fetch RAS data for via ras.football. Add more as your study list grows.",
   "players": [
     {"first": "Patrick", "last": "Mahomes"},
+    {"first": "Travis", "last": "Kelce"},
+    {"first": "Isiah", "last": "Pacheco"},
+    {"first": "Chris", "last": "Jones"},
+    {"first": "Rashee", "last": "Rice"},
     {"first": "Josh", "last": "Allen"},
+    {"first": "James", "last": "Cook"},
+    {"first": "Christian", "last": "McCaffrey"},
+    {"first": "Brock", "last": "Purdy"},
+    {"first": "Dak", "last": "Prescott"},
+    {"first": "Micah", "last": "Parsons"},
+    {"first": "Jalen", "last": "Hurts"},
+    {"first": "Saquon", "last": "Barkley"},
     {"first": "Lamar", "last": "Jackson"},
     {"first": "Joe", "last": "Burrow"},
-    {"first": "Christian", "last": "McCaffrey"},
-    {"first": "Saquon", "last": "Barkley"},
-    {"first": "Travis", "last": "Kelce"},
     {"first": "Justin", "last": "Jefferson"},
     {"first": "Tyreek", "last": "Hill"},
-    {"first": "Micah", "last": "Parsons"},
-    {"first": "Chris", "last": "Jones"},
     {"first": "T.J.", "last": "Watt"}
   ]
 }

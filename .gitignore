@@ -42,7 +42,15 @@ config/secrets.yml
 # Outputs / cache
 data-pipeline/cache/
 data-pipeline/storage/*.db
+# NOTE: intermediate output JSONs are ignored, BUT the published feeds the iOS
+# app fetches MUST be committed. They are un-ignored explicitly below.
 data-pipeline/output/*.json
+!data-pipeline/output/intel-latest.json
+!data-pipeline/output/digest-latest.json
+!data-pipeline/output/ras-latest.json
+!data-pipeline/output/cap-latest.json
+!data-pipeline/output/cap-*.json
+!data-pipeline/output/rosters-latest.json
 *.log
 
 # IDE

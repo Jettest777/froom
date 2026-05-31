@@ -45,7 +45,10 @@ import requests
 CLAUDE_API_URL = "https://api.anthropic.com/v1/messages"
 DEFAULT_MODEL = "claude-haiku-4-5-20251001"
 MAX_INPUT_ITEMS = 25
-MAX_OUTPUT_TOKENS = 3000
+# The digest asks for two full bilingual articles (EN + JA, 4-6 paragraphs each)
+# plus several topics. 3000 tokens was too small and caused truncated JSON
+# ("Unterminated string"). Allow override via env for tuning.
+MAX_OUTPUT_TOKENS = int(os.environ.get("DIGEST_MAX_TOKENS", "8192"))
 SKIP_HOURS = 6  # don't regenerate if last digest is fresher than this
 
 
@@ -163,7 +166,7 @@ matching this schema:
       "team_abbrev": "<KC / BUF / nil>",
       "importance": "high|medium|low"
     }}
-    // 4-6 topics ordered by importance
+    // AT MOST 5 topics, ordered by importance
   ],
   "watch_tomorrow_en": "<one sharp sentence on what to watch next>",
   "watch_tomorrow_ja": "<日本語で同じ>"
@@ -173,7 +176,9 @@ Rules:
 - Be analytical, not promotional. Don't sugarcoat.
 - Connect dots across stories when relevant (e.g., 'with X out, Y's role grows').
 - For Japanese: use natural NFLファン用語. Don't directly translate idioms.
-- Output JSON ONLY. No markdown fences."""
+- Output JSON ONLY. No markdown fences.
+- Keep it COMPACT: at most 5 topics; body paragraphs concise.
+- The entire response MUST be complete, valid JSON (no trailing truncation)."""
 
 
 def call_claude(prompt: str, api_key: str, model: str) -> dict:
@@ -187,7 +192,11 @@ def call_claude(prompt: str, api_key: str, model: str) -> dict:
         json={
             "model": model,
             "max_tokens": MAX_OUTPUT_TOKENS,
-            "messages": [{"role": "user", "content": prompt}],
+            "messages": [
+                {"role": "user", "content": prompt},
+                # Prefill the assistant turn so the model continues valid JSON.
+                {"role": "assistant", "content": "{"},
+            ],
         },
         timeout=90,
     )
@@ -196,13 +205,29 @@ def call_claude(prompt: str, api_key: str, model: str) -> dict:
         # (e.g. "credit balance is too low", "invalid x-api-key", model not found).
         raise RuntimeError(f"HTTP {response.status_code}: {response.text[:400]}")
     body = response.json()
+    stop_reason = body.get("stop_reason")
     text = body["content"][0]["text"].strip()
+    # Strip any accidental markdown fences.
     if text.startswith("```"):
         text = text.split("```", 2)[1]
         if text.startswith("json"):
             text = text[4:]
         text = text.strip()
-    return json.loads(text)
+    # We prefilled "{" — prepend it back unless the model already opened one.
+    if not text.startswith("{"):
+        text = "{" + text
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError as exc:
+        if stop_reason == "max_tokens":
+            raise RuntimeError(
+                "Claude response was cut off by max_tokens "
+                f"(MAX_OUTPUT_TOKENS={MAX_OUTPUT_TOKENS}). "
+                "Raise DIGEST_MAX_TOKENS or shorten the prompt."
+            ) from exc
+        raise RuntimeError(
+            f"Could not parse Claude JSON ({exc}); stop_reason={stop_reason}."
+        ) from exc
 
 
 def build(feed_path: Path, out_path: Path, time_of_day: str, model: str, force: bool = False) -> None:

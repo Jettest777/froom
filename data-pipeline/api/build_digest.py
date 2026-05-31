@@ -191,7 +191,10 @@ def call_claude(prompt: str, api_key: str, model: str) -> dict:
         },
         timeout=90,
     )
-    response.raise_for_status()
+    if response.status_code >= 400:
+        # Include the API's own error body — it states the real cause
+        # (e.g. "credit balance is too low", "invalid x-api-key", model not found).
+        raise RuntimeError(f"HTTP {response.status_code}: {response.text[:400]}")
     body = response.json()
     text = body["content"][0]["text"].strip()
     if text.startswith("```"):
@@ -235,8 +238,23 @@ def build(feed_path: Path, out_path: Path, time_of_day: str, model: str, force: 
             digest_payload = call_claude(prompt, api_key, model)
             skipped = False
         except Exception as e:
-            print(f"[digest] Claude call failed: {e}")
-            return
+            # Don't silently exit — surface the real reason in the published file
+            # so the app (and we) can see exactly why it failed (auth, billing,
+            # rate limit, bad model name, etc.) instead of a generic message.
+            detail = str(e)
+            print(f"[digest] Claude call failed: {detail}")
+            digest_payload = {
+                "headline_en": "Digest generation failed",
+                "headline_ja": "ダイジェスト生成に失敗しました",
+                "lead_en": f"Claude API call failed: {detail[:300]}",
+                "lead_ja": f"Claude API 呼び出しに失敗しました: {detail[:300]}",
+                "body_en": "",
+                "body_ja": "",
+                "topics": [],
+                "watch_tomorrow_en": "",
+                "watch_tomorrow_ja": "",
+            }
+            skipped = False
 
     output = {
         "version": 2,

@@ -129,8 +129,21 @@ def load_players_draft_index() -> dict[str, dict]:
         except (TypeError, ValueError):
             return default
 
+    def norm_espn(v: str) -> str:
+        v = (v or "").strip()
+        if not v:
+            return ""
+        # players.csv espn_id can be float-like ("12345.0"); normalise to int str.
+        try:
+            return str(int(float(v)))
+        except (TypeError, ValueError):
+            return v
+
     index: dict[str, dict] = {}
     reader = csv.DictReader(io.StringIO(text))
+    # Log the actual header once, so we can see real column names in CI logs.
+    if reader.fieldnames:
+        print(f"[roster] players.csv columns: {reader.fieldnames}")
     for row in reader:
         year = to_int(row.get("draft_year"))
         rnd = to_int(row.get("draft_round"))
@@ -140,13 +153,16 @@ def load_players_draft_index() -> dict[str, dict]:
             continue
         rec = {"year": year, "round": rnd, "pick": pick, "team": team}
         gsis = (row.get("gsis_id") or "").strip()
-        espn = (row.get("espn_id") or "").strip()
+        espn = norm_espn(row.get("espn_id", ""))
+        name = (row.get("display_name") or row.get("full_name") or "").strip().lower()
         if gsis:
             index[f"gsis:{gsis}"] = rec
         if espn:
-            # players.csv espn_id can be a float-like string ("12345.0").
-            espn_norm = str(to_int(espn)) if espn.replace(".", "").isdigit() else espn
-            index[f"espn:{espn_norm}"] = rec
+            index[f"espn:{espn}"] = rec
+        if name:
+            # Name collisions are possible but rare; first writer wins which is
+            # fine for a display-only fallback.
+            index.setdefault(f"name:{name}", rec)
     print(f"[roster] loaded draft index for {len(index)} player keys from players.csv")
     return index
 
@@ -196,6 +212,16 @@ def build(out_path: str, season: int | None = None) -> None:
 
     # Authoritative draft data (round/pick/team) keyed by gsis_id and espn_id.
     draft_index = load_players_draft_index()
+    draft_matched = 0
+
+    def norm_espn(v: str) -> str:
+        v = (v or "").strip()
+        if not v:
+            return ""
+        try:
+            return str(int(float(v)))
+        except (TypeError, ValueError):
+            return v
 
     reader = csv.DictReader(io.StringIO(text))
     teams: dict[str, list[dict]] = {}
@@ -235,16 +261,20 @@ def build(out_path: str, season: int | None = None) -> None:
         draft_round = 0
 
         # ...then enrich from players.csv (authoritative round/pick/team), which
-        # the roster file frequently leaves blank. Match by gsis_id, then espn_id.
+        # the roster file frequently leaves blank. Match by gsis_id, then
+        # espn_id, then full name as a last resort.
         gsis = (row.get("gsis_id") or "").strip()
-        espn = (row.get("espn_id") or "").strip()
+        espn = norm_espn(row.get("espn_id", ""))
+        full_name = (row.get("full_name") or f"{first} {last}").strip().lower()
         rec = None
         if gsis and f"gsis:{gsis}" in draft_index:
             rec = draft_index[f"gsis:{gsis}"]
-        elif espn:
-            espn_norm = str(to_int(espn)) if espn.replace(".", "").isdigit() else espn
-            rec = draft_index.get(f"espn:{espn_norm}")
+        elif espn and f"espn:{espn}" in draft_index:
+            rec = draft_index[f"espn:{espn}"]
+        elif full_name and f"name:{full_name}" in draft_index:
+            rec = draft_index[f"name:{full_name}"]
         if rec:
+            draft_matched += 1
             draft_year = rec["year"] or draft_year
             draft_round = rec["round"] or draft_round
             draft_pick = rec["pick"] or draft_pick
@@ -301,6 +331,7 @@ def build(out_path: str, season: int | None = None) -> None:
         json.dump(payload, f, ensure_ascii=False, indent=2)
     total = sum(len(v) for v in teams.values())
     print(f"[roster] wrote {total} players across {len(teams)} teams (season {used_season}) -> {out}")
+    print(f"[roster] draft info matched for {draft_matched}/{total} players")
 
 
 if __name__ == "__main__":

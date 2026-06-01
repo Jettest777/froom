@@ -46,6 +46,9 @@ from pathlib import Path
 import requests
 
 NFLVERSE_URL = "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_{season}.csv"
+# Player-level dataset carries authoritative draft_year / draft_round /
+# draft_pick / draft_team, which the roster file often leaves blank.
+NFLVERSE_PLAYERS_URL = "https://github.com/nflverse/nflverse-data/releases/download/players/players.csv"
 
 # nflverse team code -> app team code. nflverse mostly matches us; these are the
 # historical aliases that differ.
@@ -101,6 +104,53 @@ def _inches_to_ft(height_raw: str) -> str:
         return h
 
 
+def load_players_draft_index() -> dict[str, dict]:
+    """
+    Download nflverse players.csv and build a draft lookup keyed by BOTH
+    gsis_id and espn_id, so we can enrich roster rows that lack draft data.
+
+    Each value: {"year": int, "round": int, "pick": int, "team": str}.
+    Returns an empty dict if the file can't be loaded (we degrade gracefully).
+    """
+    try:
+        r = requests.get(NFLVERSE_PLAYERS_URL, timeout=60, allow_redirects=True)
+        r.raise_for_status()
+        text = r.text
+        if not text or "gsis_id" not in text[:2000]:
+            print("[roster] players.csv missing expected columns; skipping draft enrich.")
+            return {}
+    except Exception as e:
+        print(f"[roster] players.csv fetch failed: {e}; skipping draft enrich.")
+        return {}
+
+    def to_int(v, default=0):
+        try:
+            return int(float(v))
+        except (TypeError, ValueError):
+            return default
+
+    index: dict[str, dict] = {}
+    reader = csv.DictReader(io.StringIO(text))
+    for row in reader:
+        year = to_int(row.get("draft_year"))
+        rnd = to_int(row.get("draft_round"))
+        pick = to_int(row.get("draft_pick"))
+        team = normalise_team(row.get("draft_team", "")) if row.get("draft_team") else ""
+        if not (year or rnd or pick or team):
+            continue
+        rec = {"year": year, "round": rnd, "pick": pick, "team": team}
+        gsis = (row.get("gsis_id") or "").strip()
+        espn = (row.get("espn_id") or "").strip()
+        if gsis:
+            index[f"gsis:{gsis}"] = rec
+        if espn:
+            # players.csv espn_id can be a float-like string ("12345.0").
+            espn_norm = str(to_int(espn)) if espn.replace(".", "").isdigit() else espn
+            index[f"espn:{espn_norm}"] = rec
+    print(f"[roster] loaded draft index for {len(index)} player keys from players.csv")
+    return index
+
+
 def _round_from_pick(pick: int) -> int:
     """Approximate draft round from overall pick number (modern 32-team draft:
     32 picks/round, plus compensatory picks push later rounds slightly).
@@ -144,6 +194,9 @@ def build(out_path: str, season: int | None = None) -> None:
     # Statuses that mean the player has LEFT the team — always drop these.
     departed = {"CUT", "RET", "FA", "DEV-RET", "TRC", "UDF", "WAI", "EXP"}
 
+    # Authoritative draft data (round/pick/team) keyed by gsis_id and espn_id.
+    draft_index = load_players_draft_index()
+
     reader = csv.DictReader(io.StringIO(text))
     teams: dict[str, list[dict]] = {}
     for row in reader:
@@ -175,14 +228,31 @@ def build(out_path: str, season: int | None = None) -> None:
         pos = (row.get("position") or row.get("depth_chart_position") or "").strip().upper()
         depth = (row.get("depth_chart_position") or "").strip()
 
-        # Draft info (nflverse roster carries these directly).
+        # Draft info. Start from whatever the roster row carries...
         draft_year = to_int(row.get("entry_year"), 0)
         draft_pick = to_int(row.get("draft_number"), 0)
         draft_club = normalise_team(row.get("draft_club", "")) if row.get("draft_club") else ""
-        # Round can be derived from the overall pick number (picks are sequential
-        # within rounds; this matches nflverse's own draft_round for modern
-        # 7-round, 32-team drafts closely enough for display).
-        draft_round = _round_from_pick(draft_pick)
+        draft_round = 0
+
+        # ...then enrich from players.csv (authoritative round/pick/team), which
+        # the roster file frequently leaves blank. Match by gsis_id, then espn_id.
+        gsis = (row.get("gsis_id") or "").strip()
+        espn = (row.get("espn_id") or "").strip()
+        rec = None
+        if gsis and f"gsis:{gsis}" in draft_index:
+            rec = draft_index[f"gsis:{gsis}"]
+        elif espn:
+            espn_norm = str(to_int(espn)) if espn.replace(".", "").isdigit() else espn
+            rec = draft_index.get(f"espn:{espn_norm}")
+        if rec:
+            draft_year = rec["year"] or draft_year
+            draft_round = rec["round"] or draft_round
+            draft_pick = rec["pick"] or draft_pick
+            draft_club = rec["team"] or draft_club
+
+        # If round is still unknown but we have an overall pick, approximate it.
+        if not draft_round and draft_pick:
+            draft_round = _round_from_pick(draft_pick)
 
         player = {
             "first": first,

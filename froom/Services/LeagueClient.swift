@@ -315,6 +315,10 @@ private struct RosterPlayer: Decodable {
     let status: String?
     let espn_id: String?
     let depth: String?
+    let draft_year: Int?
+    let draft_round: Int?
+    let draft_pick: Int?
+    let draft_club: String?
 
     func toPlayer(teamId: String) -> Player {
         // nflverse heights are like "6-2"; convert to 6'2" for display.
@@ -351,7 +355,11 @@ private struct RosterPlayer: Decodable {
             contractTotal: 0,
             contractGuaranteed: 0,
             isStarter: isStarter,
-            injuryStatus: injury
+            injuryStatus: injury,
+            draftYear: draft_year,
+            draftRound: draft_round,
+            draftPick: draft_pick,
+            draftClub: (draft_club?.isEmpty == false) ? draft_club : nil
         )
     }
 }

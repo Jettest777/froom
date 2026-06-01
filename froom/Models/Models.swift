@@ -73,6 +73,32 @@ struct Player: Identifiable, Codable, Hashable {
     let contractGuaranteed: Double
     let isStarter: Bool
     let injuryStatus: InjuryStatus?
+
+    // Draft info (optional; populated from the nflverse roster feed).
+    // 0 / nil means undrafted or unknown.
+    var draftYear: Int? = nil
+    var draftRound: Int? = nil
+    var draftPick: Int? = nil
+    var draftClub: String? = nil
+
+    /// Human-readable draft summary, e.g. "2017 · Rd 1 · Pick 10 · KC".
+    /// Returns "Undrafted" when we have a year but no pick, or nil when unknown.
+    var draftSummary: String? {
+        // If we have nothing at all, return nil so the UI can hide the row.
+        let hasAny = (draftYear ?? 0) > 0 || (draftPick ?? 0) > 0 || (draftClub?.isEmpty == false)
+        guard hasAny else { return nil }
+        if (draftPick ?? 0) <= 0 && (draftClub?.isEmpty ?? true) {
+            // Year known but no pick/club -> treat as undrafted free agent.
+            if let y = draftYear, y > 0 { return "Undrafted (\(y))" }
+            return "Undrafted"
+        }
+        var parts: [String] = []
+        if let y = draftYear, y > 0 { parts.append(String(y)) }
+        if let r = draftRound, r > 0 { parts.append("Rd \(r)") }
+        if let p = draftPick, p > 0 { parts.append("Pick \(p)") }
+        if let c = draftClub, !c.isEmpty { parts.append(c) }
+        return parts.joined(separator: " · ")
+    }
 }
 
 enum InjuryStatus: String, Codable {

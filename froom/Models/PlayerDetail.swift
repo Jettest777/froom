@@ -184,7 +184,24 @@ extension PlayerDetail {
             dateOfBirth: nil,
             college: p.collegeName,
             highSchool: nil,
-            draft: nil,
+            draft: {
+                // Build a Draft from the nflverse-sourced fields when present.
+                let year = p.draftYear ?? 0
+                let pick = p.draftPick ?? 0
+                let round = p.draftRound ?? 0
+                let club = p.draftClub ?? ""
+                guard year > 0 || pick > 0 || !club.isEmpty else { return nil }
+                // Year known but no pick/club → undrafted; leave draft nil so the
+                // section shows the "undrafted" empty state rather than fake picks.
+                guard pick > 0 || !club.isEmpty else { return nil }
+                return Draft(
+                    year: year,
+                    round: round,
+                    pick: pick,
+                    overallPick: pick,
+                    draftedByTeamId: club.isEmpty ? (p.teamId) : club
+                )
+            }(),
             yearsInLeague: p.yearsInLeague,
             isStarter: p.isStarter,
             injuryStatus: p.injuryStatus,

@@ -71,12 +71,49 @@ def fetch_csv(season: int) -> str | None:
     try:
         r = requests.get(url, timeout=30, allow_redirects=True)
         r.raise_for_status()
-        if r.text and "full_name" in r.text[:2000]:
+        # Require a real header AND a meaningful number of data rows, so we never
+        # accept an empty / placeholder file for a season nflverse hasn't
+        # actually published yet (this was the bug that produced bogus
+        # "season 2026" rosters with non-existent players).
+        if r.text and "full_name" in r.text[:2000] and r.text.count("\n") > 500:
             return r.text
+        print(f"[roster] season {season}: file present but looks empty/placeholder; skipping.")
         return None
     except Exception as e:
         print(f"[roster] season {season} fetch failed: {e}")
         return None
+
+
+def _inches_to_ft(height_raw: str) -> str:
+    """nflverse stores height as total inches (character), e.g. '74' -> '6-2'.
+    Some rows may already be in 'ft-in' form; pass those through."""
+    h = (height_raw or "").strip()
+    if not h:
+        return ""
+    if "-" in h:  # already ft-in
+        return h
+    try:
+        inches = int(float(h))
+        if inches <= 0:
+            return ""
+        return f"{inches // 12}-{inches % 12}"
+    except (TypeError, ValueError):
+        return h
+
+
+def _round_from_pick(pick: int) -> int:
+    """Approximate draft round from overall pick number (modern 32-team draft:
+    32 picks/round, plus compensatory picks push later rounds slightly).
+    Returns 0 when pick is unknown/undrafted."""
+    if not pick or pick <= 0:
+        return 0
+    # Rounds 1-7 boundaries are roughly multiples of 32, but comp picks extend
+    # rounds 3-7. Use cumulative thresholds that match recent drafts well.
+    thresholds = [32, 64, 105, 144, 180, 220, 262]
+    for i, t in enumerate(thresholds, start=1):
+        if pick <= t:
+            return i
+    return 7
 
 
 def build(out_path: str, season: int | None = None) -> None:
@@ -86,9 +123,11 @@ def build(out_path: str, season: int | None = None) -> None:
     if season:
         candidates = [season]
     else:
-        # NFL league year starts in March; before September the "current" roster
-        # may still be last season's file.
-        candidates = [now.year, now.year - 1]
+        # Detect the latest season nflverse has ACTUALLY published. We probe
+        # from the current year downward; fetch_csv rejects empty/placeholder
+        # files, so the first one with real data wins. Going back a few years
+        # guarantees we never end up with an empty roster.
+        candidates = [now.year, now.year - 1, now.year - 2]
 
     text = None
     used_season = None
@@ -136,18 +175,32 @@ def build(out_path: str, season: int | None = None) -> None:
         pos = (row.get("position") or row.get("depth_chart_position") or "").strip().upper()
         depth = (row.get("depth_chart_position") or "").strip()
 
+        # Draft info (nflverse roster carries these directly).
+        draft_year = to_int(row.get("entry_year"), 0)
+        draft_pick = to_int(row.get("draft_number"), 0)
+        draft_club = normalise_team(row.get("draft_club", "")) if row.get("draft_club") else ""
+        # Round can be derived from the overall pick number (picks are sequential
+        # within rounds; this matches nflverse's own draft_round for modern
+        # 7-round, 32-team drafts closely enough for display).
+        draft_round = _round_from_pick(draft_pick)
+
         player = {
             "first": first,
             "last": last,
             "pos": pos or "—",
             "jersey": jersey,
-            "height": (row.get("height") or "").strip(),
+            "height": _inches_to_ft(row.get("height") or ""),
             "weight": weight,
             "college": (row.get("college") or "").strip(),
             "years": years,
             "status": status or "ACT",
             "espn_id": (row.get("espn_id") or "").strip(),
             "depth": depth,
+            # Draft (0 / empty when undrafted or unknown).
+            "draft_year": draft_year,
+            "draft_round": draft_round,
+            "draft_pick": draft_pick,
+            "draft_club": draft_club,
         }
         teams.setdefault(team, []).append(player)
 

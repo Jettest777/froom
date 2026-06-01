@@ -175,10 +175,23 @@ matching this schema:
 Rules:
 - Be analytical, not promotional. Don't sugarcoat.
 - Connect dots across stories when relevant (e.g., 'with X out, Y's role grows').
-- For Japanese: use natural NFLファン用語. Don't directly translate idioms.
 - Output JSON ONLY. No markdown fences.
 - Keep it COMPACT: at most 5 topics; body paragraphs concise.
-- The entire response MUST be complete, valid JSON (no trailing truncation)."""
+- The entire response MUST be complete, valid JSON (no trailing truncation).
+
+Japanese translation rules (CRITICAL — the JA fields are read by Japanese NFL fans):
+- KEEP all proper nouns in their original English/Latin script: player names
+  (Patrick Mahomes, not パトリック・マホームズ), team names and cities
+  (Chiefs, Kansas City, KC), coach names, stadium names, and league terms.
+- Do NOT transliterate names into katakana. Names stay in English inside the
+  Japanese sentences.
+- Translate for MEANING, not word-for-word. Render American-football concepts so
+  they make sense to a Japanese fan — use established 日本語のアメフト用語 where one
+  exists (例: salary cap→サラリーキャップ, free agency→フリーエージェント,
+  snap count→スナップ数, depth chart→デプスチャート, red zone→レッドゾーン), and
+  paraphrase idioms rather than translating them literally.
+- The Japanese must read like it was written by a Japanese NFL writer, not like a
+  machine translation. Natural, fluent, football-literate Japanese."""
 
 
 def call_claude(prompt: str, api_key: str, model: str) -> dict:

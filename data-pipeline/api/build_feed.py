@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -24,6 +25,32 @@ import yaml
 
 from collectors import x_collector, nfl_official, rss_collector
 from scorers.reliability_scorer import score_items
+
+try:
+    from api.translate import translate_batch
+except ImportError:  # when run as a script from inside data-pipeline/
+    from translate import translate_batch
+
+
+def _translate_items(items: list) -> None:
+    """Fill title_ja / excerpt_ja on the given items via Claude (in place)."""
+    if not items:
+        return
+    # Build one flat list of strings: [title0, excerpt0, title1, excerpt1, ...]
+    texts: list[str] = []
+    for it in items:
+        texts.append(it.title or "")
+        texts.append(it.excerpt or "")
+    translations = translate_batch(texts)
+    for idx, it in enumerate(items):
+        t_ja = translations[idx * 2] if idx * 2 < len(translations) else None
+        e_ja = translations[idx * 2 + 1] if idx * 2 + 1 < len(translations) else None
+        if t_ja:
+            it.title_ja = t_ja
+        if e_ja:
+            it.excerpt_ja = e_ja
+    done = sum(1 for it in items if it.title_ja)
+    print(f"[build] translated {done}/{len(items)} items to Japanese")
 
 
 def build(config_path: str, out_path: str) -> None:
@@ -58,6 +85,12 @@ def build(config_path: str, out_path: str) -> None:
 
     # Sort newest first
     items.sort(key=lambda i: i.published_at, reverse=True)
+
+    # Japanese translation (Claude). Only the items the app actually shows are
+    # translated, to keep cost low. Falls back silently to English if the API
+    # key is missing or the call fails.
+    translate_top_n = int(os.environ.get("FEED_TRANSLATE_TOP_N", "40"))
+    _translate_items(items[:translate_top_n])
 
     payload = {
         "version": 1,

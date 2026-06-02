@@ -1,8 +1,392 @@
 {
   "version": 1,
-  "generated_at": "2026-06-02T12:45:42.860148+00:00",
-  "count": 113,
+  "generated_at": "2026-06-02T14:48:56.698496+00:00",
+  "count": 116,
   "items": [
+    {
+      "kind": "signing",
+      "title": "Steelers sign former Buffalo Bills safety",
+      "title_ja": null,
+      "excerpt": "The Steelers add safety depth.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 14:36:16 +0000",
+      "url": "https://sports.yahoo.com/articles/steelers-sign-former-buffalo-bills-143616336.html"
+    },
+    {
+      "kind": "other",
+      "title": "Where do the Detroit Lions rank in the NFC?",
+      "title_ja": null,
+      "excerpt": "Ranking the Detroit Lions’ overall roster compared to the rest of the NFC.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 14:32:30 +0000",
+      "url": "https://sports.yahoo.com/articles/where-detroit-lions-rank-nfc-143230823.html"
+    },
+    {
+      "kind": "other",
+      "title": "Patriots links 6/02/26: What can Brown do for Pats? Fit, grades, analysis",
+      "title_ja": null,
+      "excerpt": "Daily news and links for Tuesday",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 14:26:24 +0000",
+      "url": "https://sports.yahoo.com/articles/patriots-links-6-02-26-142624152.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Tuesday Cheese Curds: Trades complicate Packers 2026 schedule",
+      "title_ja": null,
+      "excerpt": "Two blockbuster trades add new layers to two (or more) Packers games this season.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 14:18:33 +0000",
+      "url": "https://sports.yahoo.com/articles/tuesday-cheese-curds-trades-complicate-141833094.html"
+    },
+    {
+      "kind": "trade",
+      "title": "NFL power rankings updated after Myles Garrett, A.J. Brown trades",
+      "title_ja": null,
+      "excerpt": "Let’s rank every NFL team by their championship chances after the Myles Garrett and AJ Brown trades.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 14:13:45 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-power-rankings-updated-myles-141345305.html"
+    },
+    {
+      "kind": "other",
+      "title": "Do Raiders have a primetime problem?",
+      "title_ja": null,
+      "excerpt": "The bad trend really stars this year",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 14:07:00 +0000",
+      "url": "https://sports.yahoo.com/articles/raiders-primetime-problem-140700747.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Report: Rams first inquired about trading for Myles Garrett in 2022",
+      "title_ja": null,
+      "excerpt": "The blockbuster trade that sent Myles Garrett from the Browns to the Rams on Monday has sent some shockwaves through the NFL.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 14:02:16 +0000",
+      "url": "https://sports.yahoo.com/articles/report-rams-first-inquired-trading-140216613.html"
+    },
+    {
+      "kind": "other",
+      "title": "Colts’ QB Daniel Jones takes another step forward in Achilles recovery during OTAs",
+      "title_ja": null,
+      "excerpt": "Colts QB Daniel Jones continues to make strides in his ongoing Achilles recovery.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 14:02:00 +0000",
+      "url": "https://sports.yahoo.com/articles/colts-qb-daniel-jones-takes-140200033.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Irv Charles trade shows how Seahawks value special teams differently",
+      "title_ja": null,
+      "excerpt": "﻿Seattle paid almost nothing for one of the NFL’s best special teams specialists.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 14:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/irv-charles-trade-shows-seahawks-140000159.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Uncertainty at inside linebacker could help this UDFA rookie’s chances",
+      "title_ja": null,
+      "excerpt": "In a new defense, an undrafted rookie looks to make an early impact",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:56:03 +0000",
+      "url": "https://sports.yahoo.com/articles/uncertainty-inside-linebacker-could-help-135603607.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chargers Daily Links: Tuesday Open Thread",
+      "title_ja": null,
+      "excerpt": "Your source for all Chargers and NFL news from around the web.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:50:00 +0000",
+      "url": "https://sports.yahoo.com/articles/chargers-daily-links-tuesday-open-135000235.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Steelers sign S Darnell Savage",
+      "title_ja": null,
+      "excerpt": "The start of the new league year saw a flurry of reports about free agents agreeing to contracts with teams and most of those were followed up by news of an official contract signing within the next few days.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:40:27 +0000",
+      "url": "https://sports.yahoo.com/articles/steelers-sign-darnell-savage-134027892.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Kyler Murray Durability Reality Check: What Vikings Fans Need to Know",
+      "title_ja": null,
+      "excerpt": "Forness: Murray’s injury concerns are overblown — here’s the data every Vikings fan needs to hear.﻿",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:36:21 +0000",
+      "url": "https://sports.yahoo.com/articles/kyler-murray-durability-reality-check-133621948.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Eagles News: A.J. Brown trade grades",
+      "title_ja": null,
+      "excerpt": "Philadelphia Eagles news and links for 6/2/26.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:36:16 +0000",
+      "url": "https://sports.yahoo.com/articles/eagles-news-j-brown-trade-133616472.html"
+    },
+    {
+      "kind": "other",
+      "title": "Sam Mackenzie gives his early Saints record predictions",
+      "title_ja": null,
+      "excerpt": "CSC’s British writer is cautiously optimistic about making the postseason.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NO",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/sam-mackenzie-gives-early-saints-133000718.html"
+    },
+    {
+      "kind": "injury",
+      "title": "NFL Cutdown Deadline moved up for 2026",
+      "title_ja": null,
+      "excerpt": "The NFL moved the 2026 cutdown deadline to Aug. 30. That might help the 49ers with their Australia plans.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-cutdown-deadline-moved-2026-133000031.html"
+    },
+    {
+      "kind": "other",
+      "title": "Random Ramsdom: No Super Bowl Champions in June",
+      "title_ja": null,
+      "excerpt": "Los Angeles Rams News and Links for 6/2/26",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:17:00 +0000",
+      "url": "https://sports.yahoo.com/articles/random-ramsdom-no-super-bowl-131700454.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Colts’ Gardner adds his two cents on the blockbuster NFL trade",
+      "title_ja": null,
+      "excerpt": "Sauce Gardner throws his stamp of approval on the Myles Garrett trade.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:04:00 +0000",
+      "url": "https://sports.yahoo.com/articles/colts-gardner-adds-two-cents-130400418.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chicago Bears 2026 Offseason Superlatives: Most Worried About",
+      "title_ja": null,
+      "excerpt": "The WCG crew makes our picks for some 2026 Bears superlatives, and we wrap up the series with what we’re most worried about.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/chicago-bears-2026-offseason-superlatives-130000868.html"
+    },
+    {
+      "kind": "injury",
+      "title": "The endless identity crisis of the Cowboys linebackers",
+      "title_ja": null,
+      "excerpt": "The Cowboys will try to finally solve their LB issues",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/endless-identity-crisis-cowboys-linebackers-130000419.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Russell Wilson chooses a TV career over the Jets",
+      "title_ja": null,
+      "excerpt": "One lingering question from the Jets offseason was whether veteran quarterback Russell Wilson would sign as Geno Smith’s backup quarterback. Wilson conducted a free agent visit in late April and indicated he had an offer in hand from the Jets. At the same time, Wilson was considering an offer to wor",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/russell-wilson-chooses-tv-career-130000158.html"
+    },
+    {
+      "kind": "other",
+      "title": "Pre-Snap Reads 5/2: The Seahawks are still better than the Rams",
+      "title_ja": null,
+      "excerpt": "Curious tho, to see how the Seahawks respond.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 13:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/pre-snap-reads-5-2-130000639.html"
+    },
+    {
+      "kind": "other",
+      "title": "Odell Beckham Jr. 2.0: Can the Giants get the 2023 version of OBJ?",
+      "title_ja": null,
+      "excerpt": "What can Beckham bring to the Giants at 33, and after a year away from the game?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 12:38:48 +0000",
+      "url": "https://sports.yahoo.com/articles/odell-beckham-jr-2-0-123848260.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Detroit Lions’ biggest need for 2026: Injury luck",
+      "title_ja": null,
+      "excerpt": "They say injuries aren’t an excuse, but the Detroit Lions’ lack of health has undoubtedly held them back.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 12:28:53 +0000",
+      "url": "https://sports.yahoo.com/articles/detroit-lions-biggest-2026-injury-122853141.html"
+    },
     {
       "kind": "other",
       "title": "Adam Schefter: Bengals are “dangerous” and positioned for “big year”",
@@ -68,372 +452,164 @@
       "url": "https://sports.yahoo.com/articles/kind-roster-problem-every-coach-120000551.html"
     },
     {
-      "kind": "other",
-      "title": "Carolina Panthers 2026 off-season fan mailbag: One more month down into the offseason",
+      "kind": "trade",
+      "title": "A.J. Brown on Jalen Hurts: Nothing happened, you just drift away sometimes",
       "title_ja": null,
-      "excerpt": "Hello CSR! Welcome to Ask Brian, part one of your weekly Panthers fan mailbag for everyone! We’re firmly into OTA season, and eventually mini camp this month. That’s the small amount of football news we get to consume prior to ramping up the preseason, where we’ll get into full on training camp in J",
+      "excerpt": "Brown opened up about his relationship with the Eagles QB after Monday's trade.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CAR",
+      "team_abbrev": "PHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 12:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/carolina-panthers-2026-off-season-120000950.html"
+      "published_at": "Tue, 02 Jun 2026 10:22:34 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-on-jalen-hurts-nothing-happened-you-just-drift-away-sometimes"
     },
     {
       "kind": "trade",
-      "title": "Comparing the cost of A.J. Brown to Patriots and DJ Moore to Bills trades",
+      "title": "NFL Confidential: Execs, Scouts Crown Winners In Myles Garrett, A.J. Brown Trades",
       "title_ja": null,
-      "excerpt": "Which team came out better from a cost perspective in these two trades?",
+      "excerpt": "Who won the Myles Garrett and A.J. Brown trades? From praising the Rams to questioning the Browns, here's what execs and scouts told us about the moves.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 11:53:38 +0000",
-      "url": "https://sports.yahoo.com/articles/comparing-cost-j-brown-patriots-115338627.html"
-    },
-    {
-      "kind": "other",
-      "title": "Rams are first team with reigning MVP QB and reigning Defensive Player of the Year",
-      "title_ja": null,
-      "excerpt": "With reigning NFL Defensive Player of the Year Myles Garrett joining reigning league MVP Matthew Stafford, the 2026 Rams will occupy a unique place in NFL history.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 11:40:03 +0000",
-      "url": "https://sports.yahoo.com/articles/rams-first-team-reigning-mvp-114003629.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "3 positions Titans could target in post-June NFL world",
-      "title_ja": null,
-      "excerpt": "It’s already getting crazy around the NFL, so what might the Tennessee Titans do to join the league-wide fun?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 11:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/3-positions-titans-could-target-113000744.html"
-    },
-    {
-      "kind": "other",
-      "title": "New Browns DE Jared Verse: Everything you need to know about the young star",
-      "title_ja": null,
-      "excerpt": "Cleveland Browns focused on adding Jared Verse when trading Myles Garrett. Everything you need to know about Verse, here",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": "CLE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 11:27:13 +0000",
-      "url": "https://sports.yahoo.com/articles/browns-jared-verse-everything-know-112713184.html"
+      "published_at": "Tue, 02 Jun 2026 10:14:26 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-confidential-execs-scouts-crown-winners-myles-garrett-a-j-brown-trades"
     },
     {
-      "kind": "injury",
-      "title": "Denver Broncos updated salary cap space",
+      "kind": "trade",
+      "title": "Dontrelle Willis: I 'Would Love' To See Brewers Acquire Tigers Ace Tarik Skubal",
       "title_ja": null,
-      "excerpt": "The Denver Broncos added some space to their salary cap on June 1st with the release of Dre Greenlaw officially hitting the books on Monday. As Parker Gabriel of The Denver Post noted yesterday, they’ll carry just over $2 million in dead money both this year and next year, but get an immediate $8 mi",
+      "excerpt": "If the Tigers listen to offers on star left-hander Tarik Skubal, who should make the trade? Dontrelle Willis opines the Brewers.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DEN",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/denver-broncos-updated-salary-cap-110000962.html"
+      "published_at": "Tue, 02 Jun 2026 10:05:15 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/tarik-skubal-trade-rumors-tigers-brewers-mlb-news"
+    },
+    {
+      "kind": "trade",
+      "title": "Report: Rams first inquired about trading for Myles Garrett in 2022",
+      "title_ja": null,
+      "excerpt": "The blockbuster trade that sent Myles Garrett from the Browns to the Rams on Monday has sent some shockwaves through the NFL.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 10:02:16 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rams-first-inquired-about-trading-for-myles-garrett-in-2022"
     },
     {
       "kind": "signing",
-      "title": "New York Jets Flight Connections 06/02/26",
+      "title": "Steelers sign S Darnell Savage",
       "title_ja": null,
-      "excerpt": "Happy Tuesday, Jets fans! Here are your links for this second day of the work week. Jack Bell – Jets Veteran LB Demario Davis: ‘Just Where I’m Meant to Be’ Randy Lange – Jets Sign Their Third Selection of Round 1, WR Omar Cooper Jr. Eric Allen – Jets Sign LB Chase Wilson and WR […]",
+      "excerpt": "The start of the new league year saw a flurry of reports about free agents agreeing to contracts with teams and most of those were followed up by news of an official contract signing within the next few days.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/york-jets-flight-connections-06-110000094.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Cowboys news: NFC undergoes change with trades and signings",
-      "title_ja": null,
-      "excerpt": "The latest Cowboys news",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-news-nfc-undergoes-change-110000108.html"
-    },
-    {
-      "kind": "other",
-      "title": "Bengals Tuesday Trenches: The stars are aligning",
-      "title_ja": null,
-      "excerpt": "Everything’s coming up Milhouse",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bengals-tuesday-trenches-stars-aligning-110000614.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Do the Lions need to make more moves like the Myles Garrett trade?",
-      "title_ja": null,
-      "excerpt": "Do the Detroit Lions need to turn up the aggressiveness and start making trades like the Rams did for Myles Garrett?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 10:34:51 +0000",
-      "url": "https://sports.yahoo.com/articles/lions-more-moves-myles-garrett-103451946.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Chiefs News 6/2: Juju Smith-Schuster signs with New York Giants",
-      "title_ja": null,
-      "excerpt": "The latest Chiefs news, brought fresh to you every morning!",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 10:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/chiefs-news-6-2-juju-103000675.html"
-    },
-    {
-      "kind": "trade",
-      "title": "NFL power rankings by Super Bowl odds after Myles Garrett, AJ Brown trades",
-      "title_ja": null,
-      "excerpt": "Myles Garrett and A.J. Brown were traded to the Rams and Patriots respectively on June 1. Here&#39;s how those deals shook up the NFL&#39;s Super Bowl odds.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 10:16:43 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-power-rankings-super-bowl-101643796.html"
-    },
-    {
-      "kind": "other",
-      "title": "NY Giants news, 6/2: OBJ returns as Giants add 3 wide receivers",
-      "title_ja": null,
-      "excerpt": "New York Giants headlines for Tuesday",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/ny-giants-news-6-2-100000609.html"
-    },
-    {
-      "kind": "trade",
-      "title": "A tale of two Jareds: Rams have twice skipped developmental arc",
-      "title_ja": null,
-      "excerpt": "Why the Myles Garrett trade is the same move the Rams made for Matthew Stafford",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/tale-two-jareds-rams-twice-100000430.html"
-    },
-    {
-      "kind": "other",
-      "title": "Horse Tracks: Additions to Denver’s opponents will put Broncos to bigger test",
-      "title_ja": null,
-      "excerpt": "With superstar additions on two of Denver’s 2026 opponents, the stakes just went up.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/horse-tracks-additions-denver-opponents-100000459.html"
-    },
-    {
-      "kind": "other",
-      "title": "Bengals News (6/2): Myles Garrett leaves the AFC North",
-      "title_ja": null,
-      "excerpt": "A big threat has left the division.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bengals-news-6-2-myles-100000084.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Which Steeler could break out in 2026?",
-      "title_ja": null,
-      "excerpt": "Who will be the next Steelers star?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
+      "reliability": 0.54,
       "team_abbrev": "PIT",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/steeler-could-break-2026-100000627.html"
+      "published_at": "Tue, 02 Jun 2026 09:40:27 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-sign-s-darnell-savage"
     },
     {
-      "kind": "trade",
-      "title": "Trade Myles Garrett? The Cleveland Browns are nuts. And suckers | Opinion",
+      "kind": "rumor",
+      "title": "Myles Garrett's could lose nearly $3 million in taxes on his option bonus",
       "title_ja": null,
-      "excerpt": "The bombshell deal that sent the NFL&#39;s top defender to the Rams is the latest example of the Browns&#39; ineptitude. Columnist Jarrett Bell explains.",
+      "excerpt": "New Rams defensive end Myles Garrett may wish he'd gotten his $29.2 million option bonus when it was originally due.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CLE",
+      "team_abbrev": "LAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 09:15:38 +0000",
-      "url": "https://sports.yahoo.com/articles/trade-myles-garrett-cleveland-browns-091538327.html"
-    },
-    {
-      "kind": "trade",
-      "title": "6 reasons why it was time for Browns to trade Myles Garrett to Rams",
-      "title_ja": null,
-      "excerpt": "The timing was right for the Cleveland Browns to offload the longtime face of their franchise. here&#39;s why their GM felt he had to make the move.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 09:11:51 +0000",
-      "url": "https://sports.yahoo.com/articles/6-reasons-why-time-browns-091151025.html"
+      "published_at": "Tue, 02 Jun 2026 09:38:25 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garretts-could-lose-nearly-3-million-in-taxes-on-his-option-bonus"
     },
     {
       "kind": "other",
-      "title": "8 winners and losers from the Patriots trading for A.J. Brown",
+      "title": "A.J. Brown: Mike Vrabel being tough on me pushed me to become the player I am",
       "title_ja": null,
-      "excerpt": "Drake Maye, Kyle Williams and Kayshon Boutte are among the players impacted by A.J. Brown coming to New England.",
+      "excerpt": "New Patriots wide receiver A.J.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "NE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 09:01:17 +0000",
-      "url": "https://sports.yahoo.com/articles/8-winners-losers-patriots-trading-090117894.html"
+      "published_at": "Tue, 02 Jun 2026 09:33:03 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-mike-vrabel-being-tough-on-me-pushed-me-to-become-the-player-i-am"
+    },
+    {
+      "kind": "injury",
+      "title": "2026 World Cup Odds: Who Will Score the Most Goals For Their Countries??",
+      "title_ja": null,
+      "excerpt": "Which players will lead their teams in goals scored during the 2026 FIFA World Cup? Here's the latest.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 09:21:50 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-top-goalscorer-each-team"
     },
     {
       "kind": "other",
-      "title": "49ers News: This is why you extend Trent Williams",
+      "title": "2026 World Cup Odds: Which Player Will Lead the Tournament in Assists?",
       "title_ja": null,
-      "excerpt": "Your daily San Francisco 49ers news for Tuesday, June 2nd, 2026",
+      "excerpt": "The world's biggest playmakers are set to shine at the 2026 FIFA World Cup. Check out who is favored to notch the most assists.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "SF",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 09:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/49ers-news-why-extend-trent-090000797.html"
+      "published_at": "Tue, 02 Jun 2026 09:20:45 -0400",
+      "url": "https://www.foxsports.com/stories/betting/2026-world-cup-odds-who-will-have-most-assists"
     },
     {
       "kind": "other",
-      "title": "What to watch for at Dolphins minicamp – The Splash Zone 6/2/26",
+      "title": "2026 World Cup Quarterfinal Odds: Which Squads Will Make Final 8?",
       "title_ja": null,
-      "excerpt": "Welcome to the Splash Zone, the quickest way to get your day started off right. We bring you a rundown of Miami Dolphins news from the last 24 hours.",
+      "excerpt": "Which countries will make it to the quarterfinals? Check out the latests odds.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "MIA",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 09:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/watch-dolphins-minicamp-splash-zone-090000424.html"
-    },
-    {
-      "kind": "trade",
-      "title": "A.J. Brown Next Team 2026 Odds: The Foxborough Inevitability Becomes Reality",
-      "title_ja": null,
-      "excerpt": "The A.J. Brown saga is over. Following a June 1 trade to the New England Patriots, Kalshi prediction markets have resolved to &#39;Yes&#39; for New England.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 08:05:00 +0000",
-      "url": "https://sports.yahoo.com/articles/j-brown-next-team-odds-140500336.html"
+      "published_at": "Tue, 02 Jun 2026 09:17:29 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-quarterfinal-odds-which-squads-will-make-final-8"
     },
     {
       "kind": "injury",
@@ -452,22 +628,6 @@
       "url": "https://www.foxsports.com/stories/nfl/whats-next-odell-beckhams-giants-reunion-futile-trip-down-memory-lane"
     },
     {
-      "kind": "trade",
-      "title": "What Myles Garrett trade means for Puka Nacua’s Rams future",
-      "title_ja": null,
-      "excerpt": "The former fifth-round pick has developed into one of the NFL&#39;s elite receivers and is coming off a historic 2025 campaign.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 08:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/myles-garrett-trade-means-puka-080000704.html"
-    },
-    {
       "kind": "other",
       "title": "Rams are first team with reigning MVP QB and reigning Defensive Player of the Year",
       "title_ja": null,
@@ -476,7 +636,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "LAR",
       "player_name": null,
       "coach_name": null,
@@ -644,38 +804,6 @@
       "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code"
     },
     {
-      "kind": "other",
-      "title": "5 questions for another glimpse at Eagles&#39; 2026 OTAs",
-      "title_ja": null,
-      "excerpt": "Here are five questions as we gear up for another glimpse at Eagles OTAs on Tuesday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 07:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/5-questions-another-glimpse-eagles-070000679.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Why Howie Roseman is OK that the 1st-round pick in the A.J. deal is in 2028",
-      "title_ja": null,
-      "excerpt": "If there’s one thing about the A.J. Brown trade that might seem frustrating, it’s that the 1st-round pick the Eagles got from the Patriots is in 2028.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 07:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/why-howie-roseman-ok-1st-070000046.html"
-    },
-    {
       "kind": "rumor",
       "title": "Report: Texans LB E.J. Speed is expected to miss entire season with torn quadriceps",
       "title_ja": null,
@@ -802,6 +930,22 @@
       "coach_name": null,
       "published_at": "Tue, 02 Jun 2026 01:02:57 -0400",
       "url": "https://www.foxsports.com/stories/soccer/wales-vs-ghana-how-watch-prediction-odds-friendly-preview"
+    },
+    {
+      "kind": "signing",
+      "title": "Rams get second-round TE Max Klare under contract",
+      "title_ja": null,
+      "excerpt": "The Rams signed second-round tight end Max Klare to his four-year rookie deal.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 30 May 2026 18:14:58 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-get-second-round-te-max-klare-under-contract"
     },
     {
       "kind": "injury",
@@ -981,22 +1125,6 @@
     },
     {
       "kind": "other",
-      "title": "theScore Bet Promo Code: Get $1,000 Bet Reset",
-      "title_ja": null,
-      "excerpt": "theScore Bet Promo Code: Get $1,000 Bet Reset.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 20:34:39 -0400",
-      "url": "https://www.foxsports.com/stories/betting/thescore-bet-promo-code"
-    },
-    {
-      "kind": "other",
       "title": "Howie Roseman on taking a 2028 first-round pick for A.J. Brown: \"A pick is a pick\"",
       "title_ja": null,
       "excerpt": "Are all first-round picks the same?",
@@ -1010,22 +1138,6 @@
       "coach_name": null,
       "published_at": "Mon, 01 Jun 2026 20:16:23 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-on-taking-a-2028-first-round-pick-for-a-j-brown-a-pick-is-a-pick"
-    },
-    {
-      "kind": "other",
-      "title": "Messi And Rashford? England International Spotted At Inter Miami Facility",
-      "title_ja": null,
-      "excerpt": "Marcus Rashford has taken his World Cup preparations to the United States, linking up with Inter Miami's state-of-the-art facilities ahead of the tournament.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 20:10:52 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/why-is-marcus-rashford-training-at-inter-miami-england-forward-sharing-facilities-used-by-lionel-messi-mls-cup-winners-as-transfer-talk-rages-around-him"
     },
     {
       "kind": "signing",
@@ -1042,6 +1154,22 @@
       "coach_name": null,
       "published_at": "Mon, 01 Jun 2026 19:37:27 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-skipping-otas-as-he-seeks-a-long-term-deal"
+    },
+    {
+      "kind": "trade",
+      "title": "Super Bowl 61 odds: Los Angeles Rams move to clear Super Bowl favorites after Myles Garrett trade",
+      "title_ja": null,
+      "excerpt": "The Rams are the clear Super Bowl favorites after trading for Myles Garrett.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 19:09:44 +0000",
+      "url": "https://sports.yahoo.com/nfl/betting/article/super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-myles-garrett-trade-190944730.html"
     },
     {
       "kind": "other",
@@ -1109,38 +1237,6 @@
     },
     {
       "kind": "trade",
-      "title": "Patriots place TE Julian Hill on IR",
-      "title_ja": null,
-      "excerpt": "The Patriots officially acquired wide receiver A.J.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 17:25:33 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-place-te-julian-hill-on-ir"
-    },
-    {
-      "kind": "rumor",
-      "title": "Cowboys PR staff wins Rozelle Award",
-      "title_ja": null,
-      "excerpt": "The Cowboys public relations staff, lauded for overall professionalism with reporters who cover the franchise, were selected as the 2026 Pete Rozelle Award winner by the Professional Football Writers of America.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 16:57:56 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-pr-staff-wins-rozelle-award"
-    },
-    {
-      "kind": "trade",
       "title": "Report: Browns wouldn't consider trade without Jared Verse being part of deal",
       "title_ja": null,
       "excerpt": "Browns General Manager Andrew Berry called Myles Garrett \"a career Brown\" in March.",
@@ -1154,22 +1250,6 @@
       "coach_name": null,
       "published_at": "Mon, 01 Jun 2026 16:41:35 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-browns-wouldnt-consider-trade-without-jared-verse-being-part-of-deal"
-    },
-    {
-      "kind": "trade",
-      "title": "Eagles trade A.J. Brown to Patriots",
-      "title_ja": null,
-      "excerpt": "The Patriots will send a 2028 first-round pick and a 2027 fifth-round pick to Philadelphia",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 16:28:55 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-trade-a-j-brown-to-patriots"
     },
     {
       "kind": "other",
@@ -1188,68 +1268,20 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dee-and-jimmy-haslam-trading-myles-garrett-wasnt-our-intent-but-this-is-the-right-move-for-us"
     },
     {
-      "kind": "other",
-      "title": "Texans waive G Sidy Sow",
+      "kind": "injury",
+      "title": "Here are the 10 things we&#39;re most excited about for fantasy football in the 2026 NFL season",
       "title_ja": null,
-      "excerpt": "The Texans parted ways with offensive lineman Sidy Sow on Monday.",
+      "excerpt": "With 100 days to go until the 2026 NFL season, Joel Smyth shares what he&#39;s amped up about for fantasy football.",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "HOU",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 16:09:05 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-waive-g-sidy-sow"
-    },
-    {
-      "kind": "other",
-      "title": "College Football Playoff first round will again go head-to-head with Saturday NFL games",
-      "title_ja": null,
-      "excerpt": "The NFL and college football will once again go head-to-head on a Saturday in December, as two College Football Playoff games will be played simultaneously with NFL games.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 15:40:35 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/college-football-playoff-first-round-will-again-go-head-to-head-with-saturday-nfl-games"
-    },
-    {
-      "kind": "trade",
-      "title": "Report: Browns a \"hard no\" on Denzel Ward being available for trade",
-      "title_ja": null,
-      "excerpt": "Cleveland's best defensive player is on the way out of Northeast Ohio after the Browns agreed to trade Myles Garrett to the Rams on Monday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 15:35:05 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-browns-a-hard-no-on-denzel-ward-being-available-for-trade"
-    },
-    {
-      "kind": "injury",
-      "title": "Vikings announce Nolan Teasley as their new GM",
-      "title_ja": null,
-      "excerpt": "Nolan Teasley officially became the new General Manager of the Vikings on Monday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 15:33:33 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-announce-nolan-teasley-as-their-new-gm"
+      "published_at": "Mon, 01 Jun 2026 16:20:54 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/here-are-the-10-things-were-most-excited-about-for-fantasy-football-in-the-2026-nfl-season-162054022.html"
     },
     {
       "kind": "trade",
@@ -1285,51 +1317,195 @@
     },
     {
       "kind": "signing",
-      "title": "Andrew Berry on Myles Garrett: Nothing is final at this point, we're hopeful we close a deal soon",
+      "title": "Giants to sign JuJu Smith-Schuster as well",
       "title_ja": null,
-      "excerpt": "Is Myles Garrett really headed to the Rams?",
+      "excerpt": "The Giants found what they were looking for three times over during a wide receiver tryout on Monday.",
       "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "LAR",
+      "team_abbrev": "NYG",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 13:46:07 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andrew-berry-on-myles-garrett-nothing-is-final-at-this-point-were-hopeful-we-close-a-deal-soon"
+      "published_at": "Mon, 01 Jun 2026 13:47:58 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-to-sign-juju-smith-schuster-as-well"
     },
     {
-      "kind": "trade",
-      "title": "Browns will trade Myles Garrett to the Rams for Jared Verse and more",
+      "kind": "signing",
+      "title": "Giants sign Odell Beckham Jr.",
       "title_ja": null,
-      "excerpt": "The 2025 defensive player of the year gets a shot at a Super Bowl.",
+      "excerpt": "Beckham will return to the team that made him a first-round pick in 2014.",
       "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 12:32:41 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-to-sign-odell-beckham-jr"
+    },
+    {
+      "kind": "other",
+      "title": "Russell Wilson picks TV over continuing his playing career",
+      "title_ja": null,
+      "excerpt": "Wilson passes on chance to be Geno Smith's backup with the Jets.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 12:25:38 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/russell-wilson-picks-tv-over-continuing-his-playing-career"
+    },
+    {
+      "kind": "signing",
+      "title": "Giants agree to sign Braxton Berrios to one-year deal",
+      "title_ja": null,
+      "excerpt": "The Giants are looking at a few veteran receivers, but they already know one player at the position they want on their roster.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 11:58:55 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-agree-to-sign-braxton-berrios-to-one-year-deal"
+    },
+    {
+      "kind": "other",
+      "title": "NFC East win totals predictions: Back the Cowboys and fade the Commanders",
+      "title_ja": null,
+      "excerpt": "Examining the Over/Under win totals for each team in the NFC East",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 02 Jun 2026 14:18:34 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfc-east-win-totals-predictions-back-the-cowboys-and-fade-the-commanders/"
+    },
+    {
+      "kind": "other",
+      "title": "Betting the Steelers in 2026: See how Pittsburgh's win total, Super Bowl odds are trending and our best bets",
+      "title_ja": null,
+      "excerpt": "We're breaking down Steelers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 02 Jun 2026 14:13:25 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-steelers-in-2026-see-how-pittsburghs-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "kind": "other",
+      "title": "100 days until kickoff: The 100 most important players for the 2026 NFL season",
+      "title_ja": null,
+      "excerpt": "With 100 days until kickoff, we break down the players who will define the 2026 season",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 02 Jun 2026 13:57:10 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/100-most-important-nfl-players-2026/"
+    },
+    {
+      "kind": "other",
+      "title": "Betting the Browns in 2026: See how Cleveland's win total, Super Bowl odds are trending and our best bets",
+      "title_ja": null,
+      "excerpt": "We're breaking down Browns futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": "CLE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 13:28:04 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-will-trade-myles-garrett-to-the-rams-for-jared-verse-and-more"
+      "published_at": "\n                        Tue, 02 Jun 2026 13:48:24 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-browns-in-2026-see-how-clevelands-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "kind": "other",
+      "title": "Betting the Packers in 2026: See how Green Bay's win total, Super Bowl odds are trending and our best bets",
+      "title_ja": null,
+      "excerpt": "We're breaking down Packers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 02 Jun 2026 13:45:38 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-packers-in-2026-see-how-green-bays-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "kind": "other",
+      "title": "One undrafted free agent rookie to watch for every NFL team in minicamp, OTAs",
+      "title_ja": null,
+      "excerpt": "History suggests larger guarantees matter for UDFAs, and these are the names worth tracking across all 32 teams",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 02 Jun 2026 13:09:23 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/draft/news/2026-nfl-undrafted-free-agents-rookies-to-watch/"
     },
     {
       "kind": "trade",
-      "title": "Todd Monken: I wasn't assured Myles Garrett would be here when I took the job",
+      "title": "Grading the Myles Garrett, A.J. Brown blockbuster NFL trades; Stanley Cup Final preview",
       "title_ja": null,
-      "excerpt": "With the calendar flipped to June, there is more smoke around the possibility that the Browns could trade NFL sack king Myles Garrett.",
+      "excerpt": "Plus Serena Williams returns and Odell Beckham Jr. is back with Giants",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CLE",
+      "team_abbrev": "NYG",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 13:06:36 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-i-wasnt-assured-myles-garrett-would-be-here-when-i-took-the-job"
+      "published_at": "\n                        Tue, 02 Jun 2026 12:59:13 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/grading-the-myles-garrett-a-j-brown-blockbuster-nfl-trades-stanley-cup-final-preview/"
+    },
+    {
+      "kind": "other",
+      "title": "Betting the Lions in 2026: See how Detroit's win total, Super Bowl odds are trending and our best bets",
+      "title_ja": null,
+      "excerpt": "We're breaking down Lions futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 02 Jun 2026 12:50:29 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-lions-in-2026-see-how-detroits-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
     },
     {
       "kind": "signing",
@@ -1637,22 +1813,6 @@
     },
     {
       "kind": "other",
-      "title": "100 days until kickoff: The 100 most important players for the 2026 NFL season",
-      "title_ja": null,
-      "excerpt": "With 100 days until kickoff, we break down the players who will define the 2026 season",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Mon, 01 Jun 2026 17:42:30 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/100-most-important-nfl-players-2026/"
-    },
-    {
-      "kind": "other",
       "title": "100 days until NFL kickoff: 100 facts, questions and storylines for the 2026 season",
       "title_ja": null,
       "excerpt": "From international games and holiday matchups to MVP odds and quarterback questions, here's what to know",
@@ -1698,118 +1858,6 @@
       "coach_name": null,
       "published_at": "\n                        Mon, 01 Jun 2026 17:08:07 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/aj-brown-trade-post-june-1-100-days-nfl-kickoff/"
-    },
-    {
-      "kind": "signing",
-      "title": "2026 NFL Draft first-round pick contract tracker: Arvell Reese, Omar Cooper Jr. among recent signees",
-      "title_ja": null,
-      "excerpt": "A rundown of the rookie contracts for the first-round picks of the 2026 class",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Mon, 01 Jun 2026 16:18:41 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-draft-first-round-pick-contract-tracker/"
-    },
-    {
-      "kind": "other",
-      "title": "Raymond Berry, Hall of Fame receiver and former NFL head coach, dies at 93",
-      "title_ja": null,
-      "excerpt": "Berry starred alongside Johnny Unitas, won two NFL titles and later led the Patriots to a Super Bowl as a coach",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Mon, 01 Jun 2026 16:06:43 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/raymond-berry-dies-hall-of-famer-colts-legend/"
-    },
-    {
-      "kind": "other",
-      "title": "Betting the Giants in 2026: See how New York's win total, Super Bowl odds are trending and our best bets",
-      "title_ja": null,
-      "excerpt": "We're breaking down Giants futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Mon, 01 Jun 2026 15:48:36 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-giants-in-2026-see-how-new-yorks-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "kind": "other",
-      "title": "Betting the Dolphins in 2026: See how Miami's win total, Super Bowl odds are trending and our best bets",
-      "title_ja": null,
-      "excerpt": "We're breaking down Dolphins futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Mon, 01 Jun 2026 15:17:22 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-dolphins-in-2026-see-how-miamis-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "kind": "other",
-      "title": "Tom Brady under attack: NFL players lash out at retired QB for his debatable take on practice squad players",
-      "title_ja": null,
-      "excerpt": "Several current and former NFL players are calling out Brady's controversial take on practice squad players",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Mon, 01 Jun 2026 15:07:44 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/nfl-players-lash-out-at-tom-brady-for-debatable-take-practice-squad-players/"
-    },
-    {
-      "kind": "other",
-      "title": "Betting the Cowboys in 2026: See how Dallas' win total, Super Bowl odds are trending and our best bets",
-      "title_ja": null,
-      "excerpt": "We're breaking down Cowboys futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Mon, 01 Jun 2026 14:34:51 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-cowboys-in-2026-see-how-dallas-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "kind": "other",
-      "title": "Falcons' Week 1 QB competition: Tua Tagovailoa odds-on favorite to win battle of lefties vs. Michael Penix Jr.",
-      "title_ja": null,
-      "excerpt": "Who wins the Atlanta Falcons' QB competition?",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Mon, 01 Jun 2026 13:21:35 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/falcons-week-1-qb-competition-tua-tagovailoa-odds-on-favorite-to-win-battle-of-lefties-vs-michael-penix-jr/"
     }
   ]
 }

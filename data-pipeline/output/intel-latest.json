@@ -1,14 +1,366 @@
 {
   "version": 1,
-  "generated_at": "2026-06-01T23:52:07.905008+00:00",
-  "count": 118,
+  "generated_at": "2026-06-02T04:17:36.144436+00:00",
+  "count": 132,
   "items": [
+    {
+      "kind": "trade",
+      "title": "Rams Super Bowl Odds Shorten After Myles Garrett Trade",
+      "title_ja": "Myles Garrett トレードでRamsのスーパーボウル優勝オッズが短縮",
+      "excerpt": "Latest Rams Super Bowl odds after acquiring Myles Garrett. See how the blockbuster trade impacted Los Angeles&#39; championship chances and where the Rams rank among the NFL favorites.",
+      "excerpt_ja": "Myles Garrett 獲得後のRamsの最新スーパーボウルオッズ。大型トレードがロサンゼルスの優勝可能性にどう影響し、Ramsが全NFL優勝候補の中でどのランクに位置するかを見ていこう。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 02:12:00 +0000",
+      "url": "https://sports.yahoo.com/articles/latest-super-bowl-odds-rams-183300385.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Rams had been working on Myles Garrett trade for weeks",
+      "title_ja": "Ramsは数週間前からMyles Garrett トレードに動いていた",
+      "excerpt": "The massive trade between the Los Angeles Rams and the Cleveland Browns didn’t happen overnight",
+      "excerpt_ja": "Los Angeles RamsとCleveland Brownsの大型トレードは一朝一夕には成立しなかった",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 02:01:01 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-had-working-myles-garrett-020101412.html"
+    },
+    {
+      "kind": "trade",
+      "title": "What Myles Garrett going to the Rams means for the Cardinals",
+      "title_ja": "Myles GarrettのRams移籍がCardinalsにもたらすもの",
+      "excerpt": "﻿Huge trade places an advantage in the division",
+      "excerpt_ja": "大型トレードがディビジョン内に優位性をもたらす",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 02 Jun 2026 00:05:42 +0000",
+      "url": "https://sports.yahoo.com/articles/myles-garrett-going-rams-means-000542125.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Eagles trade star WR Brown to Pats for two picks",
+      "title_ja": "EaglesがスターWR Brown をPatriiotsにトレード、見返りに2ピック獲得",
+      "excerpt": "The Eagles are trading star wide receiver A.J. Brown to the Patriots for a first-round draft pick in 2028 and a 2027 fifth-round pick.",
+      "excerpt_ja": "EaglesはスターワイドレシーバーのA.J. Brownを、2028年の1巡目指名権と2027年の5巡目指名権と引き換えにPatriotsへトレードする。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 20:59:52 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48937845/sources-eagles-agree-trade-aj-brown-patriots-2-picks"
+    },
+    {
+      "kind": "trade",
+      "title": "Copy of Sources: Garrett traded to Rams in blockbuster",
+      "title_ja": "情報:GarrettがRamsにビッグトレードで移籍",
+      "excerpt": "The Browns have traded Myles Garrett to the Rams for Jared Verse and multiple draft picks, including a 2027 first-rounder.",
+      "excerpt_ja": "BrownsはMyles GarrettをRamsにトレード。見返りにJared Verseと2027年の1巡目指名権を含む複数の指名権を獲得。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 20:59:52 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48939456/sources-browns-rams-finalizing-myles-garrett-blockbuster-trade"
+    },
+    {
+      "kind": "signing",
+      "title": "Sources: QB Wilson set to leave NFL for CBS job",
+      "title_ja": "情報:QBウィルソンがNFLを離れ、CBSに転職か",
+      "excerpt": "Quarterback Russell Wilson is finalizing a deal to become a CBS Sports analyst, sources told ESPN's Adam Schefter on Monday.",
+      "excerpt_ja": "QBラッセル・ウィルソンがCBS Sportsのアナリストになる契約を進めており、ESPN のAdam Schefterが月曜日にこの情報を報じた。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 20:59:52 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48939305/sources-qb-russell-wilson-finalizing-deal-join-cbs-sports"
+    },
+    {
+      "kind": "signing",
+      "title": "Back in Blue: Giants sign OBJ to boost WR room",
+      "title_ja": "ギャイアンツがOBJと契約、WRグループを強化",
+      "excerpt": "The New York Giants have signed wide receiver Odell Beckham Jr., the team announced Monday.",
+      "excerpt_ja": "New York GiantsはワイドレシーバーのOdell Beckham Jr.と契約を交わしたことを月曜日に発表した。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 20:59:52 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48939355/giants-sign-odell-beckham-jr-bolster-wr-room"
+    },
+    {
+      "kind": "other",
+      "title": "Larry Fitzgerald Sr., longtime sportswriter, dies ...",
+      "title_ja": "長年のスポーツジャーナリストLarry Fitzgerald Sr.が逝去...",
+      "excerpt": "Larry Fitzgerald Sr., the longtime Minnesota sportswriter and father of Hall of Fame wide receiver Larry Fitzgerald Jr., died Monday, according to his family. He was 71.",
+      "excerpt_ja": "Minnesotaの著名なスポーツジャーナリストで、殿堂入りWRのLarry Fitzgerald Jr.の父親であるLarry Fitzgerald Sr.が月曜日に亡くなった。71歳だった。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 20:59:52 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48942600/larry-fitzgerald-sr-long-minnesota-sportswriter-father-hall-fame-receiver-dies-71"
+    },
+    {
+      "kind": "signing",
+      "title": "Congress asks Goodell to testify about TV deals",
+      "title_ja": "議会がGoodellに放映権契約について証言するよう求める",
+      "excerpt": "NFL commissioner Roger Goodell has been summoned by Congress to testify about the league's broadcast contracts and whether they are harming American consumers.",
+      "excerpt_ja": "NFL コミッショナーのRoger Goodellが議会に召喚され、リーグの放映権契約がアメリカの消費者に害を与えているかについて証言する見込み。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 20:59:52 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48941023/congress-asks-roger-goodell-testify-nfl-broadcast-deals"
+    },
+    {
+      "kind": "other",
+      "title": "HOF receiver, ex-coach Raymond Berry dies at 93",
+      "title_ja": "殿堂入りWR で元コーチのRaymond Berry氏が93歳で逝去",
+      "excerpt": "Raymond Berry, a Hall of Fame receiver with the Baltimore Colts who led the NFL in catches three times and who later coached the Patriots, has died at the age of 93.",
+      "excerpt_ja": "Baltimore Colts の殿堂入りワイドレシーバーで、NFL 史上3度キャッチ数でリードし、後にPatriotsのコーチを務めたRaymond Berryが93歳で亡くなった。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 20:59:52 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48938330/hall-fame-receiver-nfl-coach-raymond-berry-dies-93"
+    },
+    {
+      "kind": "signing",
+      "title": "Colts' Jones takes another step with 7-on-7 work",
+      "title_ja": "Coltsの Jonesが7on7ドリルで次のステップへ",
+      "excerpt": "Colts quarterback Daniel Jones was cleared to participate in seven-on-seven drills Monday, marking yet another significant step in his comeback from a torn right Achilles tendon.",
+      "excerpt_ja": "Colts のQB Daniel Jonesは月曜日に7on7ドリル参加の許可が出、右アキレス腱損傷からの復帰で大きな一歩を踏み出した。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 20:59:52 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48941883/colts-daniel-jones-cleared-7-7-work-looked-good"
+    },
+    {
+      "kind": "trade",
+      "title": "🏈 Simulating trades for Coleman, Kmet, more",
+      "title_ja": "🏈 Coleman、Kmet、その他のトレード案を検証",
+      "excerpt": "We proposed trade offers for Keon Coleman, Cole Kmet, Anthony Richardson Sr. and Kayvon Thibodeaux. Could any of them be on the move?",
+      "excerpt_ja": "Keon Coleman、Cole Kmet、Anthony Richardson Sr.、Kayvon Thibodemaxのトレード候補を提案。彼らは実際に動く可能性があるか？",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 20:59:52 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48816864/2026-nfl-offseason-trade-offers-best-deals-coleman-kmet-richardson-thibodeaux"
+    },
+    {
+      "kind": "trade",
+      "title": "Barnwell makes sense of the Myles Garrett blockbus...",
+      "title_ja": "Barnwell、Myles Garrett ビッグトレードを分析...",
+      "excerpt": "Does Myles Garrett really put the Rams over the top? Will the Browns regret the move? And how does Jared Verse fit in? Let's size up this massive trade.",
+      "excerpt_ja": "Myles Garrett がぐっと優勝を引き寄せるか？Brownsは後悔するか？Jared Verse はどう機能するか？この大型トレードを詳しく見てみよう。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 19:41:46 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48939835/2026-nfl-offseason-trade-myles-garrett-jared-verse-rams-browns-draft-picks-barnwell"
+    },
+    {
+      "kind": "trade",
+      "title": "Garrett is off to the Rams: How did it come to thi...",
+      "title_ja": "Garrett、Ramsへ移籍:その経緯は...",
+      "excerpt": "Answering seven questions and grading the Myles Garrett and Jared Verse trade.",
+      "excerpt_ja": "Myles GarrettとJared Verse のトレードについて7つの質問に答え、評価を下す。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 19:41:46 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48939542/myles-garrett-los-angeles-rams-cleveland-browns-jared-verse-trade-big-questions"
+    },
+    {
+      "kind": "other",
+      "title": "Did New England finally get its WR1 in A.J. Brown?...",
+      "title_ja": "New England はついにWR1をA.J. Brownで獲得したか?...",
+      "excerpt": "A.J. Brown is heading to New England at long last. Does he put the Patriots over the top, and how does he fit in the offense? And what now for the Eagles?",
+      "excerpt_ja": "A.J. BrownがついにNew Englandに向かう。彼がチームを優勝候補に押し上げるか、オフェンスにどう適合するか、そしてEaglesはどうなるのか。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 18:18:08 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48912173/2026-nfl-offseason-aj-brown-trade-patriots-eagles-receiver-draft-picks-barnwell"
+    },
+    {
+      "kind": "trade",
+      "title": "Brown trade: Answering top questions on Eagles' de...",
+      "title_ja": "Brown トレード:Eaglesの選択肢に関する主要な質問に答える...",
+      "excerpt": "Philly sent its No. 1 receiver to New England. How the trade impacts both teams, plus your fantasy league.",
+      "excerpt_ja": "PhillyのナンバーワンレシーバーがNew Englandへ。トレードが両チームに与える影響、およびファンタジー面での影響。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "PHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 18:18:08 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48894633/philadelphia-eagles-aj-brown-traded-patriots-new-england-next"
+    },
+    {
+      "kind": "trade",
+      "title": "NFL futures: How blockbuster trades for Myles Garr...",
+      "title_ja": "NFL 将来の展望:Myles Garrett らのビッグトレードが...",
+      "excerpt": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
+      "excerpt_ja": "全NFLチームの通算勝ち数、ディビジョン優勝、カンファレンス優勝、スーパーボウル LXI 優勝のオッズ。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 17:54:56 EST",
+      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
+    },
+    {
+      "kind": "other",
+      "title": "Buzz: Don't believe the player -- McCaffrey will s...",
+      "title_ja": "ウワサ:選手の言葉は信じるな — McCaffrey は 2026 年も...",
+      "excerpt": "Eric Karabell explains why you shouldn't put any stock in Christian McCaffrey's thoughts about his 2026 workload.",
+      "excerpt_ja": "Eric Karabell が、Christian McCaffrey の 2026 年のワークロードに関する発言を信じるべきではない理由を解説。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 11:47:22 EST",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+    },
+    {
+      "kind": "other",
+      "title": "Why Cam Ward feels like Brian Daboll is 'perfect f...",
+      "title_ja": "Cam Ward がBrian Daboll を「完璧な存在」と感じる理由",
+      "excerpt": "Tennessee's newest offensive coordinator is clicking well with the second-year quarterback early on.",
+      "excerpt_ja": "Tennessee の新人オフェンシブ・コーディネーターは2年目のQBとの相性が早期に確立されている。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 11:11:14 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48901690/tennessee-titans-cam-ward-brian-daboll-perfect-fit"
+    },
+    {
+      "kind": "other",
+      "title": "'Ego at the door': How Dolphins went from flashy t...",
+      "title_ja": "「自我を脇に置く」:Dolphins がど派手なチームから...",
+      "excerpt": "In a short span, Miami transformed from a team of stars to a roster and staff emphasizing the basics.",
+      "excerpt_ja": "短期間で、Miamiはタレント豊かなチームから基本を重視するロスターとスタッフへと変身を遂行した。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "MIA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 11:11:14 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48933195/miami-dolphins-rebuild-trades-offseason-otas-jeff-hafley-roster-nfl-draft"
+    },
+    {
+      "kind": "injury",
+      "title": "Our way-too-early look at the NFL season: Biggest ...",
+      "title_ja": "シーズン開幕100日前の大胆予想:最も注目すべき点は...",
+      "excerpt": "The NFL season is 100 days away. Let's celebrate with 100 things to know, including bold predictions, fantasy sleepers and injury buzz.",
+      "excerpt_ja": "NFLシーズンは100日後に迫る。大胆予想、ファンタジー穴場、そして怪我情報など、知っておくべき100項目を祝して確認しよう。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 09:24:23 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48894110/2026-nfl-season-100-days-nuggets-mvp-predictions-fantasy-rookies"
+    },
+    {
+      "kind": "other",
+      "title": "Solak picks the 10 most improved units through off...",
+      "title_ja": "Solak が選ぶ:オフシーズンを通じて最も成長した10ユニット",
+      "excerpt": "Let's stack the 10 biggest upgrades at specific positions since the end of last season.",
+      "excerpt_ja": "昨シーズン終了以降の主要ポジション別の10大アップグレードをランキング。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 1 Jun 2026 09:24:23 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48903726/2026-nfl-offseason-ranking-top-10-biggest-position-upgrades-improvements"
+    },
     {
       "kind": "signing",
       "title": "Christian Gonzalez skipping OTAs as he seeks a long-term deal",
-      "title_ja": "Christian Gonzalez、長期契約を求めてOTAを欠席",
+      "title_ja": "Christian Gonzalez が長期契約を求めてOTAsを欠場",
       "excerpt": "Patriots cornerback Christian Gonzalez is staying away from the team&#39;s organized team activities as he seeks a contract extension.",
-      "excerpt_ja": "Patriots のコーナーバック Christian Gonzalez は、契約延長を求めており、チームのOTA（オーガナイズド・チーム・アクティビティ）に参加していない。",
+      "excerpt_ja": "Patriotsのコーナーバック Christian Gonzalez は契約延長を求めて、チームのOrganized Team Activities から遠ざかっている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -22,9 +374,9 @@
     {
       "kind": "trade",
       "title": "Cowboys had interest in trade for Myles Garrett, should move to this new target",
-      "title_ja": "Cowboys は Myles Garrett のトレード獲得に関心を示すも、新たなターゲットに注力すべき",
+      "title_ja": "Cowboys は Myles Garrett トレードに関心、新たなターゲットに舵を切るべき",
       "excerpt": "Do you think the Cowboys will trade for a pass rusher before training camp?",
-      "excerpt_ja": "Cowboys がトレーニングキャンプ前にパスラッシャーをトレード獲得すると思いますか？",
+      "excerpt_ja": "Cowboys はトレーニングキャンプ前にパスラッシャーをトレードで獲得すると思いますか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -36,11 +388,27 @@
       "url": "https://sports.yahoo.com/articles/cowboys-had-interest-trade-myles-233000899.html"
     },
     {
+      "kind": "injury",
+      "title": "France, Arsenal Star William Saliba Doubtful For World Cup Due To Back Injury",
+      "title_ja": "フランス、Arsenal スター William Saliba が背中の怪我でワールドカップ出場困難に",
+      "excerpt": "France face a massive World Cup blow as Arsenal defender William Saliba is highly doubtful after aggravating a back injury in the Champions League final.",
+      "excerpt_ja": "Franceはワールドカップで大きな打撃を被る可能性がある。Arsenalのディフェンダー William Saliba はチャンピオンズリーグ決勝で背中の怪我を悪化させ、出場が危ぶまれている。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 23:11:46 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/france-arsenal-star-william-saliba-doubtful-world-cup-due-back-injury"
+    },
+    {
       "kind": "trade",
       "title": "Browns: Jared Verse was the key that unlocked the Myles Garrett trade",
-      "title_ja": "Browns: Jared Verse が Myles Garrett トレード成功の鍵だった",
+      "title_ja": "Browns:Jared Verse がMyles Garrett トレードのカギ",
       "excerpt": "Cleveland GM Andrew Berry held firm that he needed more than just draft picks if he was going to trade Garrett.",
-      "excerpt_ja": "Browns の GM Andrew Berry は、Garrett をトレードするなら、ドラフトピックだけでは不十分だと譲らなかった。",
+      "excerpt_ja": "Cleveland GM Andrew Berry は、Garrett をトレードに出すためには単なる指名権以上が必要だと譲らなかった。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -52,11 +420,59 @@
       "url": "https://sports.yahoo.com/articles/browns-jared-verse-key-unlocked-230442530.html"
     },
     {
+      "kind": "signing",
+      "title": "NFL Commissioner Roger Goodell asked to testify to Congress about league’s broadcast deals",
+      "title_ja": "NFL コミッショナー Roger Goodell に議会での放映権契約に関する証言を要請",
+      "excerpt": "The hearing will examine “the extent to which” the law “has been used by the professional sports leagues to harm consumers and whether potential legislative remedies may be needed to address that harm,” Rep. Jordan wrote Goodell.",
+      "excerpt_ja": "この公聴会では、当該法律が「職業スポーツリーグによって消費者に危害を加えるために使用された範囲」と「その危害に対処するために必要とされる潜在的な立法救済」について検証される予定。Jordan 下院議員がGoodell に宛てた書簡にはそう記されている。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 22:59:24 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-commissioner-roger-goodell-asked-225924400.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Fully healed from his neck injury, Jalen McMillan ready to help replace Mike Evans",
+      "title_ja": "首の怪我から完全回復、Jalen McMillan が Mike Evans 後継者として貢献の準備",
+      "excerpt": "Buccaneers receiver Jalen McMillan played only four games last season after a scary neck injury that not only nearly ended his season but also jeopardized his career.",
+      "excerpt_ja": "Buccaneers のレシーバー Jalen McMillan は昨シーズン、恐ろしい首の怪我で4試合しかプレーできず、シーズン途中で終わるだけでなくキャリアを脅かす事態に直面した。",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 22:46:07 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fully-healed-from-his-neck-injury-jalen-mcmillan-ready-to-help-replace-mike-evans"
+    },
+    {
+      "kind": "other",
+      "title": "2026 College Basketball Transfer Portal Tracker: Momcilovic's Decision Is In",
+      "title_ja": "2026年カレッジバスケットボール トランスファーポータルトラッカー:Momcilovic の決定が下る",
+      "excerpt": "The college basketball transfer portal officially opened on April 7, and we're keeping up with all the moves here.",
+      "excerpt_ja": "カレッジバスケットボール トランスファーポータルは4月7日に公式オープンし、全ての移籍情報をここで追跡している。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 22:43:46 -0400",
+      "url": "https://www.foxsports.com/stories/college-basketball/2026-college-basketball-transfer-portal-tracker"
+    },
+    {
       "kind": "trade",
       "title": "Will Myles Garrett trade inspire Aaron Donald to end retirement? Rams player hopes so",
-      "title_ja": "Myles Garrett トレードが Aaron Donald の現役復帰を促す？Rams のプレイヤーは期待している",
+      "title_ja": "Myles Garrett トレードが Aaron Donald の現役復帰を促すか？Rams の選手が期待",
       "excerpt": "The Rams made a blockbuster trade for Myles Garrett and one of their cornerbacks is hoping that might convince Aaron Donald to unretire.",
-      "excerpt_ja": "Rams が Myles Garrett をトレード獲得し、チームのコーナーバックが Aaron Donald の現役復帰を促す可能性に期待を寄せている。",
+      "excerpt_ja": "Rams が Myles Garrett の大型トレードを成立させたことで、彼らのコーナーバック の一人は Aaron Donald が現役復帰するかもしれないと期待している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -68,11 +484,27 @@
       "url": "https://sports.yahoo.com/articles/myles-garrett-trade-inspire-aaron-223800351.html"
     },
     {
+      "kind": "injury",
+      "title": "MLB's Biggest Surprises From May And Bold Predictions For June",
+      "title_ja": "MLB の5月の最大サプライズと6月の大胆予想",
+      "excerpt": "During MLB on FOX, Eric Karros and Dontrell Willis revealed their biggest surprises from May and their bold predictions for June.",
+      "excerpt_ja": "MLB on FOX で、Eric Karros と Dontrell Willis が5月の最大のサプライズと6月への大胆予想を発表した。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 22:36:27 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-fox-reveals-biggest-may-surprises-bold-june-predictions"
+    },
+    {
       "kind": "trade",
       "title": "Garrett joins Rams as Beckham Jr returns to Giants",
-      "title_ja": "Garrett が Rams に加入、Beckham Jr が Giants に復帰",
+      "title_ja": "Garrett が Rams へ、Beckham Jr.が Giants に復帰",
       "excerpt": "Myles Garrett will join the Los Angeles Rams from the Cleveland Browns in one of the biggest defensive trades in NFL history, while Odell Beckham Jr returns to the New York Giants.",
-      "excerpt_ja": "Myles Garrett が Cleveland Browns から Los Angeles Rams へトレード移籍する。NFLの歴史的な大型ディフェンストレードとなる。一方、Odell Beckham Jr は New York Giants への復帰が決まった。",
+      "excerpt_ja": "Myles Garrett が Cleveland Browns から Los Angeles Rams に移籍するディフェンシブトレードの歴史的大型取引が成立する一方で、Odell Beckham Jr.は New York Giants への復帰を果たす。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -84,11 +516,27 @@
       "url": "https://sports.yahoo.com/articles/wide-receiver-beckham-jr-returns-185724221.html"
     },
     {
+      "kind": "other",
+      "title": "Top 100 Players",
+      "title_ja": "トップ100選手",
+      "excerpt": "Our experts ranked the best players competing in the 2026 FIFA World Cup this summer.",
+      "excerpt_ja": "専門家が今夏開催される2026年 FIFA ワールドカップに出場する最高の選手をランキング。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 22:28:14 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/top-100-players"
+    },
+    {
       "kind": "trade",
       "title": "Seahawks will see A.J. Brown on opening night after Patriots make big trade",
-      "title_ja": "Seahawks は Patriots の大型トレードによりオープニングナイトで A.J. Brown と対戦することになる",
+      "title_ja": "Seahawks はPatriots がビッグトレードを成立させたため、開幕戦で A.J. Brown と対戦",
       "excerpt": "The Seahawks will face A.J. Brown on opening night when the Patriots come to town.",
-      "excerpt_ja": "Seahawks は、Patriots がシアトルを訪問するオープニングナイトで A.J. Brown と対戦する。",
+      "excerpt_ja": "Seahawks は Patriots がタウンにやってくるオープニングナイトで A.J. Brown と顔を合わせることになる。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +550,9 @@
     {
       "kind": "injury",
       "title": "Rams are operating like another Super Bowl is their destiny – why not? | Opinion",
-      "title_ja": "Rams は別のスーパーボウル優勝が運命だと考えているかのように動いている—なぜ違うのか？| オピニオン",
+      "title_ja": "Rams はもう一つのスーパーボウルが宿命と言わんばかり — そう考えない理由は？| 論評",
       "excerpt": "Beware NFL, the Rams are were already the Super Bowl 61 favorite. Then they got a lot better with the addition of All-Pro Myles Garrett.",
-      "excerpt_ja": "NFL は警戒すべき。Rams はすでに Super Bowl 61 の優勝候補筆頭だったが、All-Pro の Myles Garrett 獲得でさらに強化された。",
+      "excerpt_ja": "注意せよ、NFL よ。Rams はすでにスーパーボウル LXI の優勝候補筆頭だった。それが All-Pro の Myles Garrett 獲得でさらに強化された。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +566,9 @@
     {
       "kind": "other",
       "title": "Giants roster moves: Long-snapper Zach Triner a surprise cut",
-      "title_ja": "Giants のロスター変更：ロングスナッパー Zach Triner が意外なカット対象に",
+      "title_ja": "Giants ロスター動向:ロングスナッパー Zach Triner が意外な放出対象に",
       "excerpt": "Giants make a series of moves following wide receiver splurge.",
-      "excerpt_ja": "Giants はワイドレシーバー補強に続く一連のロスター変更を実施。",
+      "excerpt_ja": "Giants はワイドレシーバー大型補強の後、一連のロスター調整を実行。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +582,9 @@
     {
       "kind": "other",
       "title": "30 Day Challenge: Earliest Chicago Bears Memory",
-      "title_ja": "30日チャレンジ：Chicago Bears の最古の思い出",
+      "title_ja": "30日チャレンジ:Chicago Bears ファンの最も古い思い出",
       "excerpt": "What is your earliest memory as a Chicago Bears fan? Our own @ryandroste writes about his!",
-      "excerpt_ja": "Chicago Bears ファンとしての最初の思い出は何ですか？当社の @ryandroste がその思い出について執筆しました！",
+      "excerpt_ja": "Chicago Bears ファンとしてのあなたの最も古い思い出は何ですか？当サイトの @ryandroste がその思い出について綴っています！",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +598,9 @@
     {
       "kind": "signing",
       "title": "Giants release LS Zach Triner among their five moves",
-      "title_ja": "Giants、ロングスナッパー Zach Triner を含む5つの動きを発表",
+      "title_ja": "Giants が5つの動きの中で LS Zach Triner を解放",
       "excerpt": "The Giants made official their signings of wide receivers Odell Beckham and Braxton Berrios, announcing both moves.",
-      "excerpt_ja": "Giants は、ワイドレシーバーの Odell Beckham と Braxton Berrios の獲得を公式発表した。",
+      "excerpt_ja": "Giants はワイドレシーバー Odell Beckham と Braxton Berrios の両選手との契約を正式に発表した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +614,9 @@
     {
       "kind": "trade",
       "title": "How A.J. Brown trade changes the Patriots wide receiver group",
-      "title_ja": "A.J. Brown トレードが Patriots のワイドレシーバー陣にもたらす影響",
+      "title_ja": "A.J. Brown トレードが Patriotsのワイドレシーバー グループをどう変えるか",
       "excerpt": "The Patriots added a bona fide No. 1 wide receiver via trade.",
-      "excerpt_ja": "Patriots はトレードで本物のナンバー1ワイドレシーバーを獲得した。",
+      "excerpt_ja": "Patriots はトレードで本物の No.1 ワイドレシーバーを獲得した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +630,9 @@
     {
       "kind": "other",
       "title": "How has Fernando Mendoza looked during Las Vegas Raiders’ OTAs?",
-      "title_ja": "Las Vegas Raiders のOTAで Fernando Mendoza はどのように見えているか？",
+      "title_ja": "Fernando Mendoza は Las Vegas Raiders の OTAs でどのようにパフォーマンスしているか？",
       "excerpt": "Offensive coordinator Andrew Janocko talks about the rookie’s early progress in practice.",
-      "excerpt_ja": "オフェンシブコーディネーター Andrew Janocko が、ルーキーの初期段階での進捗について語る。",
+      "excerpt_ja": "オフェンシブ・コーディネーター Andrew Janocko が、ルーキーのプラクティスでの早期の成長について語る。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -196,11 +644,27 @@
       "url": "https://sports.yahoo.com/articles/fernando-mendoza-looked-during-las-214000353.html"
     },
     {
+      "kind": "rumor",
+      "title": "Larry Fitzgerald Sr. dies at 71",
+      "title_ja": null,
+      "excerpt": "Larry Fitzgerald Sr., a long-time Minnesota sports reporter and the father of soon-to-be Hall of Fame receiver Larry Fitzgerald Jr., has died.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 21:38:58 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/larry-fitzgerald-sr-dies-at-71"
+    },
+    {
       "kind": "other",
       "title": "Jacksonville’s Deep Passing Game Takes Center Stage on OTA Day 4",
-      "title_ja": "Jacksonville のディープパッシングゲームが OTA 第4日目で中心的役割",
+      "title_ja": null,
       "excerpt": "The deep ball is officially back on the menu in Duval. We break down everything that happened on a competitive and telling OTA Day 4 for the Jacksonville Jaguars.",
-      "excerpt_ja": "Duval ではディープボールが正式にメニューに戻った。Jacksonville Jaguars のOTA第4日目で起きたすべてを分析する。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +678,9 @@
     {
       "kind": "trade",
       "title": "Mike Vrabel, Jalen Hurts and more winners and losers after A.J. Brown trade",
-      "title_ja": "Mike Vrabel、Jalen Hurts ほか、A.J. Brown トレード後の勝者と敗者",
+      "title_ja": null,
       "excerpt": "In a swap held up for months by financial ramifications, the Eagles finally shipped WR AJ Brown to New England. Who came out ahead?",
-      "excerpt_ja": "数ヶ月間の資金繰りの問題で遅延していたトレードが、Eagles から New England へのワイドレシーバー A.J. Brown トレード成立。どちらが得をしたのか？",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +694,9 @@
     {
       "kind": "trade",
       "title": "Myles Garrett’s Browns career in numbers: Stats, wins, honors, and contract salary",
-      "title_ja": "Myles Garrett の Browns 時代の成績：スタッツ、勝利、栄誉、契約サラリー",
+      "title_ja": null,
       "excerpt": "From the 1st overall pick in the 2017 NFL draft to the LA Rams trade, Myles Garrett’s Cleveland Browns career in numbers",
-      "excerpt_ja": "2017年NFLドラフト全体1位指名から LA Rams へのトレード移籍まで、Myles Garrett の Cleveland Browns 時代を数字で振り返る。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +710,9 @@
     {
       "kind": "trade",
       "title": "Patriots place TE Julian Hill on IR",
-      "title_ja": "Patriots、TE Julian Hill をIR登録",
+      "title_ja": null,
       "excerpt": "The Patriots officially acquired wide receiver A.J.",
-      "excerpt_ja": "Patriots が正式にワイドレシーバー A.J. Brown を獲得。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -260,11 +724,59 @@
       "url": "https://sports.yahoo.com/articles/patriots-place-te-julian-hill-212533685.html"
     },
     {
+      "kind": "rumor",
+      "title": "Big Bets Report: Bettor Loses $1.5 Million Via Arsenal UCL Title Loss",
+      "title_ja": null,
+      "excerpt": "While one bettor took home $625k via PSG's UCL title win, another lost more than double that amount. Patrick Everson has that and more.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 21:25:20 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/big-bets-report-bettor-loses-1-5-million-via-arsenal-ucl-title-loss"
+    },
+    {
+      "kind": "rumor",
+      "title": "Rosenthal: NL Could Assemble 'The Greatest' Pitching Staff For All-Star Game",
+      "title_ja": null,
+      "excerpt": "Take a look at the historic pitching staff FOX Sports' Ken Rosenthal believes the National League could bring to the All-Star Game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 21:22:34 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/rosenthal-nl-could-assemble-the-greatest-pitching-staff-all-star-game"
+    },
+    {
+      "kind": "other",
+      "title": "Illinois Governor J.B. Pritzker wasn't willing to \"foist\" billions onto taxpayers",
+      "title_ja": null,
+      "excerpt": "The Illinois legislature failed to pass a measure that would keep the Bears in the state.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 21:21:35 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/illinois-governor-j-b-pritzker-wasnt-willing-to-foist-billions-onto-taxpayers"
+    },
+    {
       "kind": "trade",
       "title": "What A.J. Brown’s history with Mike Vrabel tells us about Patriots WR plans",
-      "title_ja": "A.J. Brown と Mike Vrabel の過去の関係から見る Patriots のワイドレシーバー戦略",
+      "title_ja": null,
       "excerpt": "The New England Patriots&#39; A.J. Brown trade reunites the receiver with head coach Mike Vrabel. See Brown&#39;s stats from the last time they were together.",
-      "excerpt_ja": "New England Patriots の A.J. Brown トレードは、レシーバーをヘッドコーチ Mike Vrabel と再び結び付けた。彼らが前回共にいた時代の Brown のスタッツを確認。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -278,9 +790,9 @@
     {
       "kind": "injury",
       "title": "Keep an eye on Chig Okonkwo, Frankie Luvu and others at Commanders OTAs",
-      "title_ja": "Commanders のOTAで注目すべき Chig Okonkwo、Frankie Luvu ら",
+      "title_ja": null,
       "excerpt": "The Washington Commanders will conduct their second OTA session open to the media on Tuesday.",
-      "excerpt_ja": "Washington Commanders は火曜日に2番目のメディア公開OTAセッションを開催する。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +806,9 @@
     {
       "kind": "other",
       "title": "The Buffalo Bills will now face A.J. Brown at least twice a season",
-      "title_ja": "Buffalo Bills は現在、A.J. Brown と少なくとも週2回対戦することになる",
+      "title_ja": null,
       "excerpt": "The Buffalo Bills will now face A.J. Brown at least twice a season.",
-      "excerpt_ja": "Buffalo Bills は現在、A.J. Brown と少なくとも週2回対戦することになる。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -309,10 +821,26 @@
     },
     {
       "kind": "trade",
+      "title": "Todd Monken dropped truth bomb about Myles Garrett before Rams trade became reality",
+      "title_ja": null,
+      "excerpt": "The Los Angeles Rams may have completed the biggest trade of the NFL offseason, but comments from Cleveland Browns head coach Todd Monken suggest the groundwork for the deal was laid long before it became official.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 21:16:09 +0000",
+      "url": "https://sports.yahoo.com/articles/todd-monken-dropped-truth-bomb-211609161.html"
+    },
+    {
+      "kind": "trade",
       "title": "A.J. Brown trade leaves him and the Eagles in a healthier place",
-      "title_ja": "A.J. Brown トレードは本人と Eagles の双方に健全な状況をもたらす",
+      "title_ja": null,
       "excerpt": "What had been rumored for months, starting with the news Bleeding Green Nation broke in January, finally came to fruition when A.J. Brown was traded on Monday, June 1, to the New England Patriots for a first-round pick in the 2028 NFL Draft and a fifth-round pick in the 2027 NFL Draft. It the worst ",
-      "excerpt_ja": "1月に Bleeding Green Nation がスクープした報道に始まり、数ヶ月間うわさされていたトレードが、6月1日月曜日に A.J. Brown が New England Patriots へトレード移籍することで実現。見返りは2028年NFLドラフト1巡目指名権と2027年ドラフト5巡目指名権。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -324,11 +852,27 @@
       "url": "https://sports.yahoo.com/articles/j-brown-trade-leaves-him-211100035.html"
     },
     {
+      "kind": "trade",
+      "title": "Perry: Why Patriots&#39; trade for A.J. Brown was an ‘overpay&#39;",
+      "title_ja": null,
+      "excerpt": "Did the Patriots overpay for A.J. Brown? Phil Perry explains why he believes they gave too much to the Eagles in their blockbuster deal.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 21:01:43 +0000",
+      "url": "https://sports.yahoo.com/articles/perry-why-patriots-trade-j-210143441.html"
+    },
+    {
       "kind": "injury",
       "title": "Patriots place TE Julian Hill on IR after trading for A.J. Brown",
-      "title_ja": "Patriots、A.J. Brown トレード獲得後に TE Julian Hill をIR登録",
+      "title_ja": null,
       "excerpt": "Hill’s 2026 season is now over.",
-      "excerpt_ja": "Hill の2026シーズンはここに終わった。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -342,9 +886,9 @@
     {
       "kind": "injury",
       "title": "How Cowboys fared against their 2026 opponents last time they played each team",
-      "title_ja": "Cowboys が2026年度の対戦相手と前回対戦した時の成績",
+      "title_ja": null,
       "excerpt": "Here is how the Cowboys did last time they played each of their 2026 opponents.",
-      "excerpt_ja": "Cowboys が2026年シーズンの各対戦相手と前回対戦した時の成績を紹介。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -358,9 +902,9 @@
     {
       "kind": "rumor",
       "title": "Cowboys PR staff wins Rozelle Award",
-      "title_ja": "Cowboys の広報スタッフが Rozelle Award を受賞",
+      "title_ja": null,
       "excerpt": "The Cowboys public relations staff, lauded for overall professionalism with reporters who cover the franchise, were selected as the 2026 Pete Rozelle Award winner by the Professional Football Writers of America.",
-      "excerpt_ja": "Cowboys の広報スタッフが、取材陣に対する全体的なプロフェッショナリズムで称賛を受け、Professional Football Writers of America によって2026年の Pete Rozelle Award に選出された。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -374,9 +918,9 @@
     {
       "kind": "trade",
       "title": "Todd Monken believes it&#39;d be &#39;slippery slope&#39; for Browns to acquire Brendan Sorsby considering QB&#39;s gambling issues",
-      "title_ja": "Todd Monken、Browns が Brendan Sorsby 獲得は『危険な坂道』と指摘——QBのギャンブル問題を理由に",
+      "title_ja": null,
       "excerpt": "If Sorsby isn&#39;t granted an injunction, and his college career is in fact over, he can file for entry into the NFL supplemental draft",
-      "excerpt_ja": "Sorsby が差し止め命令を獲得できず、大学キャリアが終わる場合、NFL の補充ドラフトへの参加を申請できる。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -388,107 +932,155 @@
       "url": "https://sports.yahoo.com/nfl/article/todd-monken-believes-itd-be-slippery-slope-for-browns-to-acquire-brendan-sorsby-considering-qbs-gambling-issues-205555564.html"
     },
     {
-      "kind": "trade",
-      "title": "NFC East News: Philadelphia Eagles trade WR A.J. Brown to the Patriots",
-      "title_ja": "NFC イースト ニュース：Philadelphia Eagles がワイドレシーバー A.J. Brown を Patriots にトレード",
-      "excerpt": "A.J. Brown is done in Philly, and out of the NFC East after being traded to the New England Patriots",
-      "excerpt_ja": "A.J. Brown が Philadelphia を離れ、New England Patriots へのトレード移籍で NFC イースト から出ることになった。",
+      "kind": "rumor",
+      "title": "Myles Garrett bids farewell to Cleveland: I wish I could have done more for you",
+      "title_ja": null,
+      "excerpt": "The Browns drafted Myles Garrett with the first overall pick in 2017.",
+      "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NE",
+      "team_abbrev": "CLE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 20:51:58 +0000",
-      "url": "https://sports.yahoo.com/articles/nfc-east-news-philadelphia-eagles-205158264.html"
+      "published_at": "Mon, 01 Jun 2026 20:39:43 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-bids-farewell-to-cleveland-i-wish-i-could-have-done-more-for-you"
     },
     {
-      "kind": "trade",
-      "title": "From Ohtani to Luka to Myles Garrett, LA gets what it wants | Opinion",
-      "title_ja": "大谷からルカから Myles Garrett まで、LA は欲しいものを手に入れる | オピニオン",
-      "excerpt": "The blockbuster trade bringing Myles Garrett to Los Angeles reinforced this city&#39;s reputation as almost unstoppable in landing superstars.",
-      "excerpt_ja": "Myles Garrett を Los Angeles に招く大型トレードは、この都市のスーパースターを獲得する能力はほぼ無敵であるという評判を強化した。",
+      "kind": "other",
+      "title": "House Judiciary Committee invites Roger Goodell to testify at hearing on Sports Broadcasting Act",
+      "title_ja": null,
+      "excerpt": "The government continues to turn the screws on the NFL, regarding the broadcast antitrust exemption created by the Sports Broadcasting Act of 1961.",
+      "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 20:49:42 +0000",
-      "url": "https://sports.yahoo.com/articles/ohtani-luka-myles-garrett-la-204942226.html"
-    },
-    {
-      "kind": "trade",
-      "title": "A.J. Brown traded to the New England Patriots",
-      "title_ja": "A.J. Brown が New England Patriots にトレード移籍",
-      "excerpt": "After 4 years, A.J. and Vrabes are back together.",
-      "excerpt_ja": "4年ぶり、A.J. と Vrabes（Mike Vrabel）が再び共にいる。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 20:47:20 +0000",
-      "url": "https://sports.yahoo.com/articles/j-brown-traded-england-patriots-204720935.html"
+      "published_at": "Mon, 01 Jun 2026 20:37:36 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/house-judiciary-committee-invites-roger-goodell-to-testify-at-hearing-on-sports-broadcasting-act"
     },
     {
       "kind": "other",
-      "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
-      "title_ja": "Patriots 最新デプスチャート：現在のロスター構成は？",
-      "excerpt": "An updated look at the Patriots’ roster in 2026.",
-      "excerpt_ja": "2026年シーズンの Patriots ロスターの最新情報。",
+      "title": "theScore Bet Promo Code: Get $1,000 Bet Reset",
+      "title_ja": null,
+      "excerpt": "theScore Bet Promo Code: Get $1,000 Bet Reset.",
+      "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NE",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 20:46:19 +0000",
-      "url": "https://sports.yahoo.com/articles/patriots-date-depth-chart-roster-223841876.html"
+      "published_at": "Mon, 01 Jun 2026 20:34:39 -0400",
+      "url": "https://www.foxsports.com/stories/betting/thescore-bet-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Howie Roseman on taking a 2028 first-round pick for A.J. Brown: \"A pick is a pick\"",
+      "title_ja": null,
+      "excerpt": "Are all first-round picks the same?",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 20:16:23 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-on-taking-a-2028-first-round-pick-for-a-j-brown-a-pick-is-a-pick"
+    },
+    {
+      "kind": "other",
+      "title": "Messi And Rashford? England International Spotted At Inter Miami Facility",
+      "title_ja": null,
+      "excerpt": "Marcus Rashford has taken his World Cup preparations to the United States, linking up with Inter Miami's state-of-the-art facilities ahead of the tournament.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 20:10:52 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/why-is-marcus-rashford-training-at-inter-miami-england-forward-sharing-facilities-used-by-lionel-messi-mls-cup-winners-as-transfer-talk-rages-around-him"
+    },
+    {
+      "kind": "rumor",
+      "title": "PSG President Dismisses Luis Enrique Exit Rumors After Champions League Victory",
+      "title_ja": null,
+      "excerpt": "Paris Saint-Germain president Nasser Al-Khelaifi has reiterated the club's stance regarding the long-term future of head coach Luis Enrique.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 20:10:21 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/psg-president-laughs-off-doubts-over-luis-enriques-future-as-blockbuster-renewal-looms-in-wake-of-champions-league-final-success"
     },
     {
       "kind": "trade",
-      "title": "What does A.J. Brown trade mean for Patriots, Eagles? Grading the deal",
-      "title_ja": "A.J. Brown トレードが Patriots、Eagles に意味すること。トレードを評価する",
-      "excerpt": "The A.J. Brown trade many expected has finally happened. How do the New England Patriots and Philadelphia Eagles grade out after the blockbuster?",
-      "excerpt_ja": "多くが予想していた A.J. Brown トレードがようやく実現した。大型トレードで New England Patriots と Philadelphia Eagles はどう評価されるか？",
+      "title": "Polymarket Promo Code FOX: Unlock a $50 Trade Bonus for the Stanley Cup and NBA Finals",
+      "title_ja": null,
+      "excerpt": "Polymarket Promo Code FOX: Unlock a $50 Trade Bonus for the Stanley Cup and NBA Finals.",
+      "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NE",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 20:44:07 +0000",
-      "url": "https://sports.yahoo.com/articles/does-j-brown-trade-mean-204407482.html"
+      "published_at": "Mon, 01 Jun 2026 19:58:57 -0400",
+      "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code-fox-unlock-50-trade-bonus-stanley-cup-nba-finals"
     },
     {
       "kind": "trade",
-      "title": "Eagles trade A.J. Brown to Patriots. How does it impact Philly&#39;s WR depth chart?",
-      "title_ja": "Eagles が A.J. Brown を Patriots にトレード。Philly のワイドレシーバー陣にはどう影響するか？",
-      "excerpt": "The Eagles have traded A.J. Brown after an offseason of speculation. Here&#39;s how their depth chart will look in 2026 without the veteran.",
-      "excerpt_ja": "Eagles は、オフシーズンの憶測の後に A.J. Brown をトレード移籍させた。ベテランを失った2026年のデプスチャートがこうなる。",
+      "title": "Top 10 Biggest Trades In NFL History: Where Does Myles Garrett Deal Rank?",
+      "title_ja": null,
+      "excerpt": "Is the Myles Garrett trade the NFL's most shocking deal ever? See where that blockbuster lands among the top 10 biggest trades in NFL history.",
+      "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NE",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 20:42:43 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-trade-j-brown-patriots-204243114.html"
+      "published_at": "Mon, 01 Jun 2026 19:56:12 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/top-10-biggest-trades-nfl-history-myles-garrett"
+    },
+    {
+      "kind": "rumor",
+      "title": "USA's Benjamin Cremaschi Completes Permanent Move To Parma From Inter Miami",
+      "title_ja": null,
+      "excerpt": "Former Inter Miami midfielder Benjamin Cremaschi has reportedly made his Parma move permanent, after the Serie A club picked up his buy option for just under $5 million.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 01 Jun 2026 19:55:38 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/former-inter-miami-star-benjamin-cremaschi-reportedly-makes-parma-move-permanent-after-serie-a-club-activates-buy-option"
     },
     {
       "kind": "signing",
       "title": "Liverpool Could Miss On Mo Salah Successor As Yan Diomande Agrees To PSG Transfer",
-      "title_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "title_ja": null,
       "excerpt": "Liverpool's search for a long-term successor to Mohamed Salah has hit a significant roadblock as Paris Saint-Germain appear to have moved into pole position for one of Europe's brightest talents.",
-      "excerpt_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -502,9 +1094,9 @@
     {
       "kind": "signing",
       "title": "Christian Gonzalez skipping OTAs as he seeks a long-term deal",
-      "title_ja": "Christian Gonzalez、長期契約を求めてOTAを欠席",
+      "title_ja": null,
       "excerpt": "Patriots cornerback Christian Gonzalez is staying away from the team's organized team activities as he seeks a contract extension.",
-      "excerpt_ja": "Patriots のコーナーバック Christian Gonzalez は、契約延長を求めており、チームのOTA（オーガナイズド・チーム・アクティビティ）に参加していない。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -518,9 +1110,9 @@
     {
       "kind": "injury",
       "title": "2026 World Cup Group Stage Odds: Spain, Argentina Heavily Favored",
-      "title_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "title_ja": null,
       "excerpt": "The 2026 World Cup groups are set. See the odds for which countries are favored to win their respective groups.",
-      "excerpt_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -534,9 +1126,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Round of 16 Odds: Which Teams Will Make It?",
-      "title_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "title_ja": null,
       "excerpt": "Which squads are favored to make it to the Round of 16 in the expanded field? See the latest odds.",
-      "excerpt_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -550,9 +1142,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Odds: Will There Be a First-Time Winner?",
-      "title_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "title_ja": null,
       "excerpt": "Can a new nation win the FIFA World Cup for the first time since Spain in 2010? Check out the latest odds.",
-      "excerpt_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -566,9 +1158,9 @@
     {
       "kind": "rumor",
       "title": "MLBPA Chief Bruce Meyer: Union ‘Has Never Been Broken,’ Will Fight Salary Cap",
-      "title_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "title_ja": null,
       "excerpt": "MLBPA Chief Bruce Meyer insisted his union will fight management's salary cap proposal as long as it takes as negotiations proceed with the threat of a lockout that could cancel games next season.",
-      "excerpt_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -582,9 +1174,9 @@
     {
       "kind": "rumor",
       "title": "2026 World Cup Odds: Which Will Be Highest, Lowest-Scoring Countries?",
-      "title_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "title_ja": null,
       "excerpt": "A few teams are expected to find the back of the net often, while others ... not so much. See the goal scoring odds.",
-      "excerpt_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -598,9 +1190,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Odds: How Far Will Team USA Go?",
-      "title_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "title_ja": null,
       "excerpt": "At which stage will Team USA be eliminated? Or, will it not be eliminated at all? See the odds.",
-      "excerpt_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -614,9 +1206,9 @@
     {
       "kind": "trade",
       "title": "Eagles Or Patriots: Who Emerges As The A.J. Brown Trade Winner?",
-      "title_ja": "Eagles と Patriots：誰が A.J. Brown トレードの勝者となるのか？",
+      "title_ja": null,
       "excerpt": "FOX Sports First Things First discussed the fallout of the A.J. Brown trade.",
-      "excerpt_ja": "FOX Sports First Things First が A.J. Brown トレードの波紋について論じた。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -630,9 +1222,9 @@
     {
       "kind": "trade",
       "title": "Kalshi Promo Code FOXSPORTS: Get a $10 Trade Bonus Ahead of the Stanley Cup Finals and NBA Finals",
-      "title_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "title_ja": null,
       "excerpt": "Kalshi Promo Code FOXSPORTS: Get a $10 Trade Bonus Ahead of the Stanley Cup Finals and NBA Finals.",
-      "excerpt_ja": "このセクションはNFLニュースではないため、翻訳対象外です。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -661,70 +1253,6 @@
     },
     {
       "kind": "other",
-      "title": "Inside Tim Ream's Path To Becoming USA's 2026 World Cup Captain",
-      "title_ja": null,
-      "excerpt": "Get to know USA defender Tim Ream, who will wear the captain's armband at the World Cup.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 18:47:25 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/usmnt-tim-ream-world-cup-captain"
-    },
-    {
-      "kind": "other",
-      "title": "Why Marquinhos Hugged Gabriel After Arsenal's Champions League Final Penalty Miss",
-      "title_ja": null,
-      "excerpt": "Paris Saint-Germain captain Marquinhos has opened up on his decision to console Gabriel Magalhães following the Arsenal defender's heartbreaking penalty miss in the Champions League final.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 18:45:26 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/marquinhos-explains-why-he-gave-gabriel-a-hug-after-seeing-fellow-brazilian-miss-a-decisive-penalty-for-arsenal-in-their-champions-league-final-defeat-to-psg"
-    },
-    {
-      "kind": "trade",
-      "title": "3 Takeaways From Patriots' Trade For A.J. Brown With Eagles",
-      "title_ja": null,
-      "excerpt": "A win-win deal: The Patriots are better off with WR A.J. Brown on their roster. The Eagles might be better off without him, too.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 18:33:21 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/3-takeaways-from-patriots-trade-a-j-brown-eagles"
-    },
-    {
-      "kind": "other",
-      "title": "4 Takeaways From Mexico's World Cup Roster Selection",
-      "title_ja": null,
-      "excerpt": "Mexico has the distinct pleasure (and pressure) of co-hosting the World Cup. Can this squad make this tournament special?",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 18:27:15 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/mexicos-world-cup-roster-selection"
-    },
-    {
-      "kind": "other",
       "title": "A.J. Brown will wear No. 1 with Patriots",
       "title_ja": null,
       "excerpt": "A.J.",
@@ -741,22 +1269,6 @@
     },
     {
       "kind": "other",
-      "title": "Should USA Have 'Higher Expectations' As World Cup Co-Hosts?",
-      "title_ja": null,
-      "excerpt": "Less about being an underdog, and more about achieving some lofty goals. That should be the narrative surrounding the USA ahead of the World Cup.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 18:15:12 -0400",
-      "url": "https://www.foxsports.com/stories/the-herd-with-colin-cowherd/alexi-lalas-usa-should-have-higher-expectations-world-cup-home-soil"
-    },
-    {
-      "kind": "other",
       "title": "A.J. Brown: I’m thankful for every moment I had in midnight green",
       "title_ja": null,
       "excerpt": "A.J.",
@@ -770,54 +1282,6 @@
       "coach_name": null,
       "published_at": "Mon, 01 Jun 2026 18:11:19 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-im-thankful-for-every-moment-i-had-in-midnight-green"
-    },
-    {
-      "kind": "trade",
-      "title": "Kalshi Promo Code FOXSPORTS: Get a $10 Trade Bonus for MLB Sunday",
-      "title_ja": null,
-      "excerpt": "Kalshi Promo Code FOXSPORTS: Get a $10 Trade Bonus for MLB Sunday.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 18:08:53 -0400",
-      "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code-foxsports-get-10-trade-bonus-mlb-sunday"
-    },
-    {
-      "kind": "other",
-      "title": "DraftKings Promo Code: Bet $5 Get $200 Instantly for the Stanley Cup or NBA Finals",
-      "title_ja": null,
-      "excerpt": "DraftKings Promo: Bet $5 Get $200 Instantly for the Stanley Cup or NBA Finals.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 18:05:55 -0400",
-      "url": "https://www.foxsports.com/stories/betting/draftkings-promo-code-bet-5-get-200-instantly-stanley-cup-nba-finals"
-    },
-    {
-      "kind": "trade",
-      "title": "'F Them Picks' In Action: Rams' History Of Dealing Picks For Star Players",
-      "title_ja": null,
-      "excerpt": "After completing the Myles Garrett trade, he's a closer look at all the notable deals Los Angeles has made to acquire veteran players.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 18:02:32 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/f-them-picks-action-rams-history-dealing-picks-star-players"
     },
     {
       "kind": "signing",
@@ -837,38 +1301,6 @@
     },
     {
       "kind": "other",
-      "title": "Best New Sportsbook Promos: Claim a Bet Reset Up to $1,000 for NBA or Stanley Cup Finals Starting This Week",
-      "title_ja": null,
-      "excerpt": "Best New Sportsbook Promos: Claim a Bet Reset Up to $1,000 for NBA or Stanley Cup Finals Starting This Week.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 17:47:54 -0400",
-      "url": "https://www.foxsports.com/stories/betting/best-new-sportsbook-promos-claim-bet-reset-up-1000-nba-stanley-cup-finals-starting-week"
-    },
-    {
-      "kind": "other",
-      "title": "2026–27 College Football Playoff Schedule: Dates, Times and Networks Revealed",
-      "title_ja": null,
-      "excerpt": "The College Football Playoff, ESPN and TNT Sports on Monday announced kickoff times and broadcast information for the 2026-27 CFP.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 17:47:25 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/2026-27-college-football-playoff-schedule-dates-times-networks-revealed"
-    },
-    {
-      "kind": "other",
       "title": "Orlando Storm playoff game pivots from Columbus back to Florida",
       "title_ja": null,
       "excerpt": "The Orlando Storm's home playoff game will be played in Florida, after all.",
@@ -885,22 +1317,6 @@
     },
     {
       "kind": "trade",
-      "title": "Colin Cowherd Praises Myles Garrett Trade: Rams ‘Overwhelming Super Bowl Favorite’",
-      "title_ja": null,
-      "excerpt": "Colin Cowherd wasted no time praising the Rams' trade for Myles Garrett, who he compared to Lawrence Taylor.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 17:33:31 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/colin-cowherd-praises-myles-garrett-trade-rams-overwhelming-super-bowl-favorite"
-    },
-    {
-      "kind": "trade",
       "title": "Patriots place TE Julian Hill on IR",
       "title_ja": null,
       "excerpt": "The Patriots officially acquired wide receiver A.J.",
@@ -914,118 +1330,6 @@
       "coach_name": null,
       "published_at": "Mon, 01 Jun 2026 17:25:33 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-place-te-julian-hill-on-ir"
-    },
-    {
-      "kind": "other",
-      "title": "Ruling Looming After Judge Hears Texas Tech QB Brendan Sorsby’s Eligibility Case",
-      "title_ja": null,
-      "excerpt": "Attorneys for Brendan Sorsby and the NCAA presented arguments before a district judge Monday as the Texas Tech transfer quarterback seeks an injunction to allow him to play next season.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 17:24:01 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/ruling-looming-after-judge-hears-texas-tech-qb-brendan-sorsbys-eligibility-case"
-    },
-    {
-      "kind": "other",
-      "title": "Top 100 Players",
-      "title_ja": null,
-      "excerpt": "Our experts ranked the best players competing in the 2026 FIFA World Cup this summer.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 17:19:30 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/top-100-players"
-    },
-    {
-      "kind": "signing",
-      "title": "Betr Promo Code FOXSPORTS: Unlock $210 in Bonus Bets",
-      "title_ja": null,
-      "excerpt": "Use the Betr promo code FOXSPORTS to unlock $10 in Betr Bucks plus a 50% deposit match up to $200 extra. Sign up, claim your rewards, and start making picks today.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 17:16:09 -0400",
-      "url": "https://www.foxsports.com/stories/betting/betr-promo-code"
-    },
-    {
-      "kind": "signing",
-      "title": "Dabble Promo Code FOX: $10 No Deposit Bonus for New Users",
-      "title_ja": null,
-      "excerpt": "Use promo code 'FOX' on Dabble Fantasy to get a $10 No-Deposit Bonus. Sign up free, copy top picks, and start playing today — no payment needed.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 17:15:33 -0400",
-      "url": "https://www.foxsports.com/stories/betting/dabble-promo-code"
-    },
-    {
-      "kind": "other",
-      "title": "Bryson DeChambeau Turns to Google Gemini AI to Fix Swing: ‘I Was Frustrated’",
-      "title_ja": null,
-      "excerpt": "Searching for ways to improve his swing, Bryson DeChambeau has taken an unconventional approach using Google Gemini.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 17:14:38 -0400",
-      "url": "https://www.foxsports.com/stories/golf/bryson-dechambeau-turns-google-gemini-ai-fix-swing-i-frustrated"
-    },
-    {
-      "kind": "other",
-      "title": "Underdog Promo Code FOXSPORTS: Play $5 Get $50 in Bonus Entries",
-      "title_ja": null,
-      "excerpt": "Claim the Underdog Fantasy promo code and unlock $50 in bonus cash when you play just $5. Learn how to claim, terms, app features, and more.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 17:13:27 -0400",
-      "url": "https://www.foxsports.com/stories/betting/underdog-promo-code"
-    },
-    {
-      "kind": "other",
-      "title": "Best DFS Apps 2026: Daily Fantasy Sports Platforms Reviewed",
-      "title_ja": null,
-      "excerpt": "Compare the best DFS apps for 2026. Explore reviews of UnderDog, DraftKings, Sleeper, and more, including bonuses, features, and contest types.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 17:12:57 -0400",
-      "url": "https://www.foxsports.com/stories/betting/best-dfs-apps"
     },
     {
       "kind": "rumor",
@@ -1284,22 +1588,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andrew-berry-on-myles-garrett-nothing-is-final-at-this-point-were-hopeful-we-close-a-deal-soon"
     },
     {
-      "kind": "signing",
-      "title": "Jets sign LB Chase Wilson, WR Da'Quan Felton",
-      "title_ja": null,
-      "excerpt": "The Jets signed a couple of players to their 90-man roster on Monday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 13:36:07 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-sign-lb-chase-wilson-wr-daquan-felton"
-    },
-    {
       "kind": "trade",
       "title": "Browns will trade Myles Garrett to the Rams for Jared Verse and more",
       "title_ja": null,
@@ -1314,22 +1602,6 @@
       "coach_name": null,
       "published_at": "Mon, 01 Jun 2026 13:28:04 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-will-trade-myles-garrett-to-the-rams-for-jared-verse-and-more"
-    },
-    {
-      "kind": "signing",
-      "title": "Cowboys sign WR Romello Brinson",
-      "title_ja": null,
-      "excerpt": "The retirement of Parris Campbell opened a spot on the Cowboys' 90-man roster when he retired last week and the team filled it on Monday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 13:16:39 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-sign-wr-romello-brinson"
     },
     {
       "kind": "trade",
@@ -1348,68 +1620,20 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-i-wasnt-assured-myles-garrett-would-be-here-when-i-took-the-job"
     },
     {
-      "kind": "signing",
-      "title": "Bills sign WR Mac Dalena, waive CB Daryl Porter",
-      "title_ja": null,
-      "excerpt": "The Bills announced a couple of roster moves on Monday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 13:02:28 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-sign-wr-mac-dalena-waive-cb-daryl-porter"
-    },
-    {
-      "kind": "rumor",
-      "title": "Report: Eagles will get a 2028 first-round pick from the Patriots for A.J. Brown",
-      "title_ja": null,
-      "excerpt": "As soon as 4:01 p.m.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 12:47:49 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-eagles-will-get-a-2028-first-round-pick-from-the-patriots-for-a-j-brown"
-    },
-    {
-      "kind": "signing",
-      "title": "Giants sign Odell Beckham Jr.",
-      "title_ja": null,
-      "excerpt": "Beckham will return to the team that made him a first-round pick in 2014.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 01 Jun 2026 12:32:41 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-to-sign-odell-beckham-jr"
-    },
-    {
       "kind": "other",
-      "title": "Abdul Carter: \"Some things are bigger than football\"",
+      "title": "Let's evaluate every NFC team's offseason: 16 team...",
       "title_ja": null,
-      "excerpt": "\"Stand on what you believe in, but it can't be a problem when I stand on what I believe in.\"",
+      "excerpt": "We're picking out the offseason's highs (Vikings getting Kyler Murray on the veterans minimum) and lows (Niners taking Kaelon Black in Round 3) for every NFC team.",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "ESPN NFL"
       ],
-      "reliability": 0.5,
-      "team_abbrev": null,
+      "reliability": 0.92,
+      "team_abbrev": "MIN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 29 May 2026 15:23:10 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/abdul-carter-some-things-are-bigger-than-football"
+      "published_at": "Fri, 29 May 2026 07:52:25 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48866785/2026-nfl-offseason-nfc-teams-best-worst-moves-trades-signings-draft-picks-contracts"
     },
     {
       "kind": "other",

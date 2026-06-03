@@ -1,14 +1,782 @@
 {
   "version": 1,
-  "generated_at": "2026-06-03T06:57:18.886311+00:00",
+  "generated_at": "2026-06-03T12:00:34.788236+00:00",
   "count": 119,
   "items": [
     {
+      "kind": "injury",
+      "title": "Report: Lions hire long-time NFL GM to their front office",
+      "title_ja": null,
+      "excerpt": "Former MIami Dolphins GM Chris Grier is joining the Detroit Lions as a personnel executive.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 11:43:33 +0000",
+      "url": "https://sports.yahoo.com/articles/report-lions-hire-long-time-114333389.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Titans need CB Alontae Taylor to live up to his contract",
+      "title_ja": null,
+      "excerpt": "The Tennessee Titans signed cornerback Alontae Taylor to a pretty sizable contract in NFL free agency.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 11:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/titans-cb-alontae-taylor-live-113000825.html"
+    },
+    {
+      "kind": "other",
+      "title": "Fleur-de-links, June 3: An update on the Alvin Kamara situation revealed",
+      "title_ja": null,
+      "excerpt": "Here are today&#39;s Saints news links",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NO",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 11:15:00 +0000",
+      "url": "https://sports.yahoo.com/articles/fleur-links-june-3-more-111500867.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Will Campbell: I feel I did a good job rebuilding strength in my knee",
+      "title_ja": null,
+      "excerpt": "Patriots left tackle Will Campbell offered an update on how his knee is feeling when he spoke to reporters from the team&#39;s facility on Tuesday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 11:13:39 +0000",
+      "url": "https://sports.yahoo.com/articles/campbell-feel-did-good-job-111339260.html"
+    },
+    {
+      "kind": "other",
+      "title": "Which Detroit Lions player do you wish came out of retirement?",
+      "title_ja": null,
+      "excerpt": "With Aaron Donald considering a return from retirement, which Detroit Lions legend do you wish came back?﻿",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 11:11:07 +0000",
+      "url": "https://sports.yahoo.com/articles/detroit-lions-player-wish-came-111107767.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Cowboys news: The Dallas point of view on the Myles Garrett trade",
+      "title_ja": null,
+      "excerpt": "The latest Cowboys news",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-news-dallas-point-view-110000259.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Patriots scouting report: A.J. Brown is the missing piece on offense",
+      "title_ja": null,
+      "excerpt": "Previewing the Patriots wide receiver heading into his eighth NFL season.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/patriots-scouting-report-j-brown-110000924.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Erick All continues working his way back from injury",
+      "title_ja": null,
+      "excerpt": "All is back on the field during OTA’s.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 10:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/erick-continues-working-way-back-103000083.html"
+    },
+    {
+      "kind": "other",
+      "title": "Mike Vrabel anticipates Christian Gonzalez return for Patriots minicamp",
+      "title_ja": null,
+      "excerpt": "Gonzalez has been absent from offseason workouts in recent weeks.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/mike-vrabel-anticipates-christian-gonzalez-100000704.html"
+    },
+    {
+      "kind": "other",
+      "title": "Giants news, 6/3: Odell Beckham expectations; PK Jason Sanders cut",
+      "title_ja": null,
+      "excerpt": "New York Giants headlines for Wednesday",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/giants-news-6-3-odell-100000419.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Wednesday links: How would you grade the Nick Herbig extension?",
+      "title_ja": null,
+      "excerpt": "﻿A weekly Steelers (and AFC North) links roundup.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/wednesday-links-grade-nick-herbig-100000853.html"
+    },
+    {
+      "kind": "other",
+      "title": "The Denver Broncos take care of players that show up big",
+      "title_ja": null,
+      "excerpt": "Patrick Surtain II got a raise from the Denver Broncos because they know how to treat great players.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/denver-broncos-care-players-show-100000658.html"
+    },
+    {
+      "kind": "other",
+      "title": "Bengals News (6/3): Joe Burrow and Zac Taylor don’t fare well in NFL QB/HC rankings",
+      "title_ja": null,
+      "excerpt": "Your daily dose of Bengals news.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/bengals-news-6-3-joe-100000089.html"
+    },
+    {
+      "kind": "other",
+      "title": "Aaron Brewer present for mandatory minicamp – The Splash Zone 6/3/26",
+      "title_ja": null,
+      "excerpt": "Welcome to the Splash Zone, the quickest way to get your day started off right. We bring you a rundown of Miami Dolphins news from the last 24 hours.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 09:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/aaron-brewer-present-mandatory-minicamp-090000165.html"
+    },
+    {
+      "kind": "other",
+      "title": "49ers News: Welcome to the Bay, Ashytn Davis!",
+      "title_ja": null,
+      "excerpt": "Your daily San Francisco 49ers news for Wednesday, June 3rd, 2026",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 09:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/49ers-news-welcome-bay-ashytn-090000679.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Will Campbell: I feel I did a good job rebuilding strength in my knee",
+      "title_ja": null,
+      "excerpt": "Patriots left tackle Will Campbell offered an update on how his knee is feeling when he spoke to reporters from the team's facility on Tuesday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 07:13:39 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-campbell-i-feel-i-did-a-good-job-rebuilding-strength-in-my-knee"
+    },
+    {
+      "kind": "other",
+      "title": "Fanatics Sportsbook Promo Code: Get Up to $1,000 in FanCash",
+      "title_ja": null,
+      "excerpt": "Fanatics Sportsbook Promo: 10 x $100 Bet Matches In FanCash. New customers get a 100% bet match up to $100 in FanCash for 10 days.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 07:00:51 -0400",
+      "url": "https://www.foxsports.com/stories/betting/fanatics-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "BetMGM Bonus Code FOXSPORTS: $1500 in Bonus Bets if Your First Bet Loses",
+      "title_ja": null,
+      "excerpt": "Use BetMGM Bonus Code FOXSPORTS to get up to $1,500 back in Bonus Bets if your first wager loses. Claim your BetMGM welcome offer today.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 07:00:50 -0400",
+      "url": "https://www.foxsports.com/stories/betting/betmgm-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "FanDuel Promo Code: Get $150 in Bonus Bets If Your Bet Wins!",
+      "title_ja": null,
+      "excerpt": "Bet $5, get $150 in Bonus Bets If Your Bet Wins with our FanDuel sportsbook offer for new users.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 07:00:44 -0400",
+      "url": "https://www.foxsports.com/stories/betting/fanduel-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "bet365 Bonus Code: Bet $10, Get $200 in Bonus Bets Win or Lose with Promo Code FOX365",
+      "title_ja": null,
+      "excerpt": "Claim the bet365 Sportsbook promo code which give you $365 in bonus bets.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 07:00:39 -0400",
+      "url": "https://www.foxsports.com/stories/betting/bet365-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Underdog Promo Code FOXSPORTS: Play $5 Get $50 in Bonus Entries",
+      "title_ja": null,
+      "excerpt": "Claim the Underdog Fantasy promo code and unlock $50 in bonus cash when you play just $5. Learn how to claim, terms, app features, and more.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 07:00:24 -0400",
+      "url": "https://www.foxsports.com/stories/betting/underdog-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Caesars Promo Code FOXDYW: 10 × 100% Profit Boost Tokens",
+      "title_ja": null,
+      "excerpt": "Caesars Sportsbook Promo Code 'FOXDYW' Bet $1, Double Your Winnings Your Next 10 Wagers.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 07:00:14 -0400",
+      "url": "https://www.foxsports.com/stories/betting/caesars-sportsbook-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Part of A.J. Brown&#39;s Eagles legacy is his impact on young defensive studs",
+      "title_ja": null,
+      "excerpt": "A.J. Brown leaves a legacy in Philly and part of it is the impact he had on Quinyon Mitchell and Cooper DeJean.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 07:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/part-j-browns-eagles-legacy-070000865.html"
+    },
+    {
+      "kind": "other",
+      "title": "Why DeVonta Smith doesn&#39;t want to hear he&#39;s now Eagles&#39; No. 1 wide receiver",
+      "title_ja": null,
+      "excerpt": "DeVonta Smith isn&#39;t focused on labels, but with A.J. Brown gone, the Eagles star enters 2026 as the team&#39;s top wide receiver.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 07:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/why-devonta-smith-doesnt-want-070000364.html"
+    },
+    {
+      "kind": "other",
+      "title": "Marvin Harrison: I support Jacoby Brissett, but can't build chemistry while he holds out",
+      "title_ja": null,
+      "excerpt": "Cardinals quarterback Jacoby Brissett is sitting out voluntary offseason practices while he seeks a new contract, which means he's not building chemistry with wide receiver Marvin Harrison Jr.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 06:57:17 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-harrison-i-support-jacoby-brissett-but-cant-build-chemistry-while-he-holds-out"
+    },
+    {
+      "kind": "signing",
+      "title": "Dolphins sign 10 of their draft picks",
+      "title_ja": null,
+      "excerpt": "The Dolphins took their time before starting the process of signing their 2026 draft picks, but they made up for their slow start by getting a lot of work done all at once.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 06:49:38 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-10-of-their-draft-picks"
+    },
+    {
+      "kind": "trade",
+      "title": "Les Snead spent months of the offseason trying to get the Browns to trade Myles Garrett",
+      "title_ja": null,
+      "excerpt": "The Rams' General Manager says he was hard at work all offseason trying to get Garrett in Los Angeles.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 06:13:09 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/les-snead-spent-months-of-the-offseason-trying-to-get-the-browns-to-trade-myles-garrett"
+    },
+    {
+      "kind": "signing",
+      "title": "Arizona Sports Betting: Best AZ Sportsbook Promos & Apps",
+      "title_ja": null,
+      "excerpt": "Compare the best Arizona sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in AZ.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 06:00:55 -0400",
+      "url": "https://www.foxsports.com/stories/betting/arizona-sports-betting"
+    },
+    {
+      "kind": "signing",
+      "title": "North Carolina Sports Betting: Sportsbooks, Apps And Promos",
+      "title_ja": null,
+      "excerpt": "Compare the best North Carolina sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in NC.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 06:00:36 -0400",
+      "url": "https://www.foxsports.com/stories/betting/north-carolina-sports-betting"
+    },
+    {
+      "kind": "signing",
+      "title": "Colorado Sports Betting: CO Sportsbook Promos & Apps",
+      "title_ja": null,
+      "excerpt": "Compare the best Colorado sportsbooks and their promos. Learn how to sign up, claim sportsbook promos, and legally bet on sports in CO.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 06:00:35 -0400",
+      "url": "https://www.foxsports.com/stories/betting/colorado-sports-betting"
+    },
+    {
+      "kind": "other",
+      "title": "DraftKings Promo Code: Bet $5 and Get $200 in Bonus Bets Instantly",
+      "title_ja": null,
+      "excerpt": "Bet $5 and Get $200 in Bonus Bets Instantly for New Users.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 06:00:17 -0400",
+      "url": "https://www.foxsports.com/stories/betting/draftkings-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Best NASCAR Betting Sites, Apps, Sportsbook Promos, and How to Bet",
+      "title_ja": null,
+      "excerpt": "Learn how to bet on NASCAR races, including odds, bet types, and NASCAR betting strategies. Find the best sportsbooks for NASCAR betting and race markets.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:20:28 -0400",
+      "url": "https://www.foxsports.com/stories/betting/nascar-betting-guide"
+    },
+    {
+      "kind": "other",
+      "title": "Best Boxing Betting Sites, Apps, and Sportsbook Promos (2026)",
+      "title_ja": null,
+      "excerpt": "Compare the best boxing betting sites and apps in 2026. Find top sportsbooks for boxing odds, fight props, live betting, and sportsbook promos.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:10:58 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-boxing-betting-sites"
+    },
+    {
+      "kind": "signing",
+      "title": "Michigan Sports Betting: MI Sportsbook Promos & Apps",
+      "title_ja": null,
+      "excerpt": "Compare the best Michigan sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in MI.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:02:10 -0400",
+      "url": "https://www.foxsports.com/stories/betting/michigan-sports-betting"
+    },
+    {
+      "kind": "other",
+      "title": "Best Parlay Betting Sites and Apps: Top Sportsbooks for Parlays",
+      "title_ja": null,
+      "excerpt": "Compare the best parlay betting sites and apps in 2026. Find top same game parlay builders, parlay boosts, insurance offers, and the best apps for multi-leg bets.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:59 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-parlay-betting-sites"
+    },
+    {
+      "kind": "other",
+      "title": "Best NBA Betting Sites 2026: Top Sportsbooks & Bonuses",
+      "title_ja": null,
+      "excerpt": "Discover the best NBA betting sites in 2026. Compare trusted sportsbooks, welcome bonuses, live betting options, and futures odds for basketball fans.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:58 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-nba-betting-sites-sportsbook-bonuses"
+    },
+    {
+      "kind": "other",
+      "title": "Best Prop Betting Sites 2026: Top Sportsbook Apps and Promos",
+      "title_ja": null,
+      "excerpt": "Compare the best prop betting sites and apps in 2026. Find sportsbooks with the best player props, prop bet markets, odds boosts, and sportsbook promos.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:58 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-prop-betting-sites"
+    },
+    {
+      "kind": "other",
+      "title": "Best NHL Betting Sites & Hockey Sportsbook Promos 2026",
+      "title_ja": null,
+      "excerpt": "Discover the best NHL betting sites in 2026. Compare top sportsbooks, hockey betting bonuses, live betting options, and Stanley Cup futures odds.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:55 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-nhl-betting-sites"
+    },
+    {
+      "kind": "other",
+      "title": "Best Sportsbook Promos & Bonus Bets - June 2026 Top Offers",
+      "title_ja": null,
+      "excerpt": "Discover the best sportsbook promos and bonus bets for June 2026. Compare welcome offers and top bonuses from leading betting sites.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:51 -0400",
+      "url": "https://www.foxsports.com/stories/betting/sportsbook-promo-bonus"
+    },
+    {
+      "kind": "other",
+      "title": "Best FIFA World Cup Betting Sites & Sportsbook Promos (2026)",
+      "title_ja": null,
+      "excerpt": "Compare the best FIFA World Cup betting sites for 2026. Find sportsbook promos, odds, live betting options, and soccer betting markets explained.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:40 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-fifa-world-cup-betting-sites"
+    },
+    {
+      "kind": "signing",
+      "title": "Illinois Sports Betting: Best IL Sportsbook Promos & Apps",
+      "title_ja": null,
+      "excerpt": "Compare the best Illinois sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in IL.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:40 -0400",
+      "url": "https://www.foxsports.com/stories/betting/illinois-sports-betting"
+    },
+    {
+      "kind": "signing",
+      "title": "Kentucky Sports Betting: Best KY Sportsbook Promos & Apps",
+      "title_ja": null,
+      "excerpt": "Compare the best Kentucky sportsbooks for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in KY.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:31 -0400",
+      "url": "https://www.foxsports.com/stories/betting/kentucky-sports-betting"
+    },
+    {
+      "kind": "other",
+      "title": "Best Sports Betting Apps 2026: Top Betting Sites Reviewed",
+      "title_ja": null,
+      "excerpt": "Compare the best sports betting apps and sites for 2026. See reviews, bonuses, and features to help choose the right sportsbook for your needs.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:29 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-betting-apps"
+    },
+    {
+      "kind": "signing",
+      "title": "Pennsylvania Sports Betting: Best Legal PA Sportsbooks & Promos",
+      "title_ja": null,
+      "excerpt": "Compare the best Pennsylvania sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in PA.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:21 -0400",
+      "url": "https://www.foxsports.com/stories/betting/pennsylvania-sports-betting"
+    },
+    {
+      "kind": "signing",
+      "title": "Tennessee Sports Betting: Best Legal TN Sportsbooks & Promos",
+      "title_ja": null,
+      "excerpt": "Compare the best Tennessee sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in TN.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:19 -0400",
+      "url": "https://www.foxsports.com/stories/betting/tennessee-sports-betting"
+    },
+    {
+      "kind": "signing",
+      "title": "New Jersey Sports Betting: NJ Sportsbook Promos & Apps",
+      "title_ja": null,
+      "excerpt": "Compare the best New Jersey sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in NJ.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:16 -0400",
+      "url": "https://www.foxsports.com/stories/betting/new-jersey-sports-betting"
+    },
+    {
+      "kind": "other",
+      "title": "Best MLB Betting Sites & Promos 2026: Top Sportsbooks and Bonuses",
+      "title_ja": null,
+      "excerpt": "Discover the best MLB betting sites in 2026. Compare trusted sportsbooks, welcome bonuses, live betting options, and futures odds for baseball fans.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:10 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-mlb-betting-sites"
+    },
+    {
+      "kind": "other",
+      "title": "Best UFC Betting Sites 2026 – Top Sportsbooks & Bonuses",
+      "title_ja": null,
+      "excerpt": "Discover the best UFC betting sites in 2026. Compare trusted sportsbooks, welcome bonuses, live betting options, and fight odds for MMA fans.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 05:00:00 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-ufc-betting-sites"
+    },
+    {
       "kind": "other",
       "title": "The Patriots called about A.J. Brown for 2 years and were &#39;laughed at.&#39; Now, the ex-Eagles WR is practicing with them",
-      "title_ja": "Patriotsは過去2年間、A.J. Brownについて問い合わせていたが、『相手にされなかった』。今、元Eagles WRは彼らと練習をしている",
+      "title_ja": null,
       "excerpt": "Patriots executive Eliot Wolf is relishing the opportunity work with a receiver he&#39;s had his eye on since his college days. &quot;All right, he&#39;s still got some juice.&#39;&quot;",
-      "excerpt_ja": "Patriots経営幹部Eliot Wolfは、大学時代から目をつけていたレシーバーと仕事をする機会を心待ちにしている。『彼はまだ力を持っている』",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -20,11 +788,75 @@
       "url": "https://sports.yahoo.com/nfl/article/the-patriots-called-about-aj-brown-for-2-years-and-were-laughed-at-now-the-ex-eagles-wr-is-practicing-with-them-041459096.html"
     },
     {
+      "kind": "other",
+      "title": "Josh Jacobs practicing with Packers despite disturbing allegations emerging after arrest",
+      "title_ja": null,
+      "excerpt": "It’s status quo for the Packers this week.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 04:03:42 +0000",
+      "url": "https://sports.yahoo.com/articles/josh-jacobs-practicing-packers-despite-040342300.html"
+    },
+    {
+      "kind": "other",
+      "title": "Best College Football Betting Sites & Sportsbook Promos 2026",
+      "title_ja": null,
+      "excerpt": "Discover the best college football betting sites in 2026. Compare top sportsbooks, welcome bonuses, live betting options, and futures odds for NCAA football.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 04:00:17 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-college-football-betting-sites-sportsbook-promos"
+    },
+    {
+      "kind": "other",
+      "title": "Myles Garrett says it cost him \"more than a couple bucks\" to get the Rams' No. 95 jersey",
+      "title_ja": null,
+      "excerpt": "Garrett purchased the 95 jersey from new teammate Poona Ford.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 03:51:22 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-says-it-cost-him-more-than-a-couple-bucks-to-get-the-rams-no-95-jersey"
+    },
+    {
+      "kind": "injury",
+      "title": "Aaron Glenn has simple message to Jets over lack of primetime games",
+      "title_ja": null,
+      "excerpt": "The Jets are one of five teams that have no primetime games on their schedule this season, but coach Aaron Glenn is telling his players they have to earn those games under the lights.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 03 Jun 2026 03:34:44 +0000",
+      "url": "https://sports.yahoo.com/articles/aaron-glenn-simple-message-jets-033444127.html"
+    },
+    {
       "kind": "rumor",
       "title": "Report: Roger Goodell will &quot;politely decline&quot; invitation to testify on Sport Broadcasting Act",
-      "title_ja": "報道によると、Roger Goodellはスポーツ放映法についての証言招待に『丁寧に辞退する』見通し",
+      "title_ja": null,
       "excerpt": "The House Judiciary Committee has asked NFL Commissioner Roger Goodell to testify at a hearing next week regarding the Sports Broadcasting Act of 1961.",
-      "excerpt_ja": "下院司法委員会はNFLコミッショナーRoger Goodellに対し、1961年スポーツ放映法に関する公聴会での証言を求めている",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +870,9 @@
     {
       "kind": "other",
       "title": "Latest highlights from Bengals OTAs include Tee Higgins making a Tee Higgins grab",
-      "title_ja": "Bengalsのオフシーズン体験入団参加から最新ハイライト。Tee Higginsが見事なキャッチを決めた",
+      "title_ja": null,
       "excerpt": "Offseason workouts continue in Cincinnati.",
-      "excerpt_ja": "シンシナティではオフシーズンのワークアウトが続いている",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +886,9 @@
     {
       "kind": "other",
       "title": "A.J. Brown says his knees are fine: Nothing to worry about",
-      "title_ja": "A.J. Brownは膝の状態は問題ないと語る—心配することはない",
+      "title_ja": null,
       "excerpt": "Patriots wide receiver A.J.",
-      "excerpt_ja": "Patriotsワイドレシーバー、A.J.",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +902,9 @@
     {
       "kind": "trade",
       "title": "Adonai Mitchell ‘excited’ to have full offseason in Jets’ system after midseason trade",
-      "title_ja": "Adonai Mitchell、途中取得後のシーズンオフにJetsのシステムに完全に取り組める喜びを語る",
+      "title_ja": null,
       "excerpt": "Adonai Mitchell did not have much time to get acclimated to the Jets last season before he started catching passes. That&#39;s not the case this year.",
-      "excerpt_ja": "昨シーズン、Adonai Mitchellはトレード直後、Jetsでのシステム習熟の時間が限られていた。今シーズンはそうではない",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +918,9 @@
     {
       "kind": "rumor",
       "title": "Rams’ Myles Garrett, Sean McVay react to Aaron Donald comeback rumors",
-      "title_ja": "Rams選手Myles Garrett、Sean McVayがAaron Donaldの復帰噂について反応",
+      "title_ja": null,
       "excerpt": "Aaron Donald&#39;s potential return to the Los Angeles Rams is fueling NFL speculation. Sean McVay left the door open, while Myles Garrett&#39;s reaction spoke volumes as rumors of a blockbuster comeback continue to grow.",
-      "excerpt_ja": "Aaron Donaldの Los Angeles Ramsへの復帰の可能性はNFL全体で推測を呼んでいる。Sean McVayは可能性を残す姿勢を見せ、Myles Garrettの反応は、注目のカムバック案件が膨らむ中で多くを語っている",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +934,9 @@
     {
       "kind": "other",
       "title": "Mike Green, Zion Young lead strong defensive effort at Ravens’ last OTAs",
-      "title_ja": "Mike Green、Zion Youngが Ravens最終OTAで守備陣の好活躍をリード",
+      "title_ja": null,
       "excerpt": "The Ravens’ recent second-round picks were consistently in the backfield during Tuesday’s practice.",
-      "excerpt_ja": "Ravensの最近のドラフト2巡目指名者たちは、火曜日の練習で一貫してバックフィールドに入っていた",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +950,9 @@
     {
       "kind": "other",
       "title": "Please no: Seahawks nemesis Aaron Donald ‘flirting with the idea’ of Rams return",
-      "title_ja": "勘弁してほしい：Seahawks の宿敵Aaron Donald、Rams復帰を『検討中』",
+      "title_ja": null,
       "excerpt": "The Seahawks’ worst nightmare for a decade says it’s a “possibility” he suits up in 2026.",
-      "excerpt_ja": "Seahawksにとって10年間の悪夢の相手は、2026年にプレーする『可能性がある』と語った",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +966,9 @@
     {
       "kind": "signing",
       "title": "Steelers lock up Nick Herbig on $100 million contract extension",
-      "title_ja": "Steelers、Nick Herbigを1億ドルの契約延長で引き止める",
+      "title_ja": null,
       "excerpt": "The Steelers showed him the money.",
-      "excerpt_ja": "Steelersは彼に大型契約を提示した",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +982,9 @@
     {
       "kind": "trade",
       "title": "Myles Garrett &#39;looking forward to future&#39; with stacked Rams after mega trade",
-      "title_ja": "Myles Garrett、大型トレード後のRamsでの将来に『期待している』",
+      "title_ja": null,
       "excerpt": "The addition of Myles Garrett was a &#39;rare&#39; opportunity the Rams couldn&#39;t pass on. Here&#39;s what the superstar said at his introductory press conference.",
-      "excerpt_ja": "Myles Garrettの加入はRamsにとって『滅多にない』チャンスだった。スーパースターが入団記者会見で語ったことをこちら",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +998,9 @@
     {
       "kind": "other",
       "title": "What to expect from NFL&#39;s second-year QBs in 2026, from Cam Ward to Shedeur Sanders",
-      "title_ja": "2026年のNFL2年目QBは何が期待できるのか—Cam Wardからセドゥー・サンダースまで",
+      "title_ja": null,
       "excerpt": "Expect Ward to take a noticeable second-year leap, even if he doesn’t suddenly become elite. As for Sanders, he showed enough to compete for a backup job, but unless he can overcome his processing and physical limitations, he’s unlikely to develop into a starter.",
-      "excerpt_ja": "Wardは急に超一流になることはなくても、目立つ2年目の躍進が期待できる。Sanders は控えの座を争うだけの実力を見せたが、プロセッシングと身体能力の限界を克服できない限り、先発QBへの成長は難しいだろう",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -180,123 +1012,11 @@
       "url": "https://sports.yahoo.com/nfl/article/what-to-expect-from-nfls-second-year-qbs-in-2026-from-cam-ward-to-shedeur-sanders-011529410.html"
     },
     {
-      "kind": "other",
-      "title": "Swanson: Rams keep heeding L.A.&#39;s win-at-all-costs demands. Will it finally get them more fans?",
-      "title_ja": "Swanson評：Ramsは『勝つためなら』というLA の要求に応じ続けている。だがファン数でDodgersやLakersに追いつけるか",
-      "excerpt": "The Rams are doing everything they can to be perennial Super Bowl title contenders, but will they ever get closer to the Dodgers and Lakers in popularity?",
-      "excerpt_ja": "Ramsは恒常的なスーパーボウル優勝候補となるため全力を尽くしているが、人気でDodgersやLakersに接近できるのだろうか",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 03 Jun 2026 00:38:03 +0000",
-      "url": "https://sports.yahoo.com/articles/swanson-rams-keep-heeding-l-003803615.html"
-    },
-    {
-      "kind": "presser",
-      "title": "Jeff Hafley’s best soundbites from the first day of mandatory minicamp",
-      "title_ja": "Jeff Hafleyが義務的ミニキャンプ初日で語った最高の発言集",
-      "excerpt": "Jeff Hafley’s best quotes from today’s press conference following minicamp.",
-      "excerpt_ja": "ミニキャンプ後の記者会見でJeff Hafleyが語った最高の発言",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 03 Jun 2026 00:18:22 +0000",
-      "url": "https://sports.yahoo.com/articles/jeff-hafley-best-soundbites-first-001822598.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Eagles’ Jordan Mailata can finally breathe sigh of relief after A.J. Brown trade: ‘Thank God it’s over’",
-      "title_ja": "Eagles のJordan Mailata、A.J. Brownトレード後にやっと安堵—『やっと終わった』",
-      "excerpt": "The trade came after a frustrating 2025 season for Brown, who made his unhappiness with the Eagles’ offense known.",
-      "excerpt_ja": "トレードは、Brownが2025年シーズンのEaglesオフェンスへの不満を表明した後に成立した",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 03 Jun 2026 00:14:48 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-jordan-mailata-finally-breathe-001448811.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Eagles made play for Myles Garrett, but Browns wanted Jalen Carter",
-      "title_ja": "EaglesはMyles Garrettの獲得を狙ったが、Brownsはヤレン・カーターを求めた",
-      "excerpt": "On Monday morning, before the Browns traded defensive end Myles Garrett to the Rams, Mary Kay Cabot of the Cleveland Plain Dealer flagged the Rams, Cowboys, and Eagles as potential destinations.",
-      "excerpt_ja": "BrownsがMyles Garrettを Ramsにトレードする前の月曜朝、Cleveland Plain DealerのMary Kay Cabotはそのトレード先候補としてRams、Cowboys、Eaglesを指摘していた",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 03 Jun 2026 00:00:10 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-made-play-myles-garrett-000010227.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Puka Nacua, George Pickens among top WR extension candidates after Drake London deal",
-      "title_ja": "Puka Nacua、George PickensはDrake Londonの契約延長契約後の大型延長候補の筆頭",
-      "excerpt": "Drake London just earned a lucrative contract extension. Here&#39;s a look at which NFL WRs could be next to land a big-money deal.",
-      "excerpt_ja": "Drake Londonが利益の大きい契約延長を勝ち取った。次に大型契約を獲得する可能性のあるNFLワイドレシーバーを見てみよう",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 23:59:07 +0000",
-      "url": "https://sports.yahoo.com/articles/puka-nacua-george-pickens-among-235907040.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Sean McVay says he spoke with Aaron Donald about bringing Myles Garrett to Rams",
-      "title_ja": "Sean McVay、Myles GarrettをRamsに加入させることについてAaron Donaldと話したと述べる",
-      "excerpt": "Could Garrett&#39;s arrival really lure Donald out of a comfortable retirement at 35 years old? Opposing quarterbacks certainly hope the answer is no.",
-      "excerpt_ja": "Garrettの加入が本当に35歳で快適な引退生活を送るDonaldを現役復帰へ導けるのか。対戦QBたちはその答えがノーであることを祈っているだろう",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 23:46:37 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/sean-mcvay-says-he-spoke-with-aaron-donald-about-bringing-myles-garrett-to-rams-234637768.html"
-    },
-    {
-      "kind": "other",
-      "title": "From &#39;Fearsome Foursome&#39; to Aaron Donald, Myles Garrett aims to become a Rams legend",
-      "title_ja": "『Fearsome Foursome』からAaron Donaldまで、Myles Garrettはramsの伝説になることを目指す",
-      "excerpt": "Myles Garrett is eager to make an immediate impact with the Rams and help them win a Super Bowl title as part of the next stage of his career.",
-      "excerpt_ja": "Myles Garrettはキャリアの次の段階としてRamsでの活躍を熱望し、スーパーボウル制覇を手助けしたいと考えている",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 23:37:39 +0000",
-      "url": "https://sports.yahoo.com/articles/fearsome-foursome-aaron-donald-myles-233739758.html"
-    },
-    {
       "kind": "rumor",
       "title": "4 Players Who Could Steal The Show At The 2026 World Cup",
-      "title_ja": "2026ワールドカップで活躍する可能性がある4人の選手",
+      "title_ja": null,
       "excerpt": "Here are four names to circle before the tournament starts.",
-      "excerpt_ja": "トーナメント開幕前に注目しておきたい4つの名前",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -308,75 +1028,11 @@
       "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-breakout-players-germany-bosnia-norway-argentina"
     },
     {
-      "kind": "signing",
-      "title": "Dolphins sign 10 of 13 draft picks from 2026 NFL Draft",
-      "title_ja": "Dolphinsは2026年ドラフト指名の13人中10人と契約",
-      "excerpt": "Kadyn Proctor, Chris Johnson and Seydou Traore remain unsigned for Miami.",
-      "excerpt_ja": "Kadyn Proctor、Chris Johnson、Seydou Traoreはマイアミとの契約がまだ成立していない",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 23:23:46 +0000",
-      "url": "https://sports.yahoo.com/articles/dolphins-sign-10-13-draft-232346159.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Chris Godwin &quot;didn&#39;t believe&quot; reports Mike Evans was signing with 49ers",
-      "title_ja": "Chris Godwin、Mike Evansが49ersと契約するという報道を『信じなかった』",
-      "excerpt": "Chris Godwin has spent nine seasons in the NFL, all of them with Mike Evans as his teammate.",
-      "excerpt_ja": "Chris GodwinはNFLで9シーズンを過ごし、すべてのシーズンでMike Evansとチームメイトだった",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 23:18:34 +0000",
-      "url": "https://sports.yahoo.com/articles/chris-godwin-didnt-believe-reports-231834857.html"
-    },
-    {
-      "kind": "other",
-      "title": "Defensive lineman Jordan Miller has a tough battle to make the Broncos’ final 53-man roster",
-      "title_ja": "ディフェンシブラインマンJordan Millerはbroncos最終53人名簿入りに向け厳しい戦いを強いられている",
-      "excerpt": "Entering his third season with the Denver Broncos, can defensive lineman Jordan Miller earn a spot on the final 53-man roster?",
-      "excerpt_ja": "Denver Broncos入団3年目を迎えるディフェンシブラインマンJordan Millerは、最終53人名簿に名を連ねることができるだろうか",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 23:18:05 +0000",
-      "url": "https://sports.yahoo.com/articles/defensive-lineman-jordan-miller-tough-231805122.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Drake London signing massive $141 million Falcons contract extension",
-      "title_ja": "Drake London、Falconsとの1億4100万ドル契約延長に署名",
-      "excerpt": "The Falcons are keeping one of their star playmakers in the fold for a while.",
-      "excerpt_ja": "Falconsはスター選手の一人を当分の間、チーム内に留めることに成功した",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 23:05:01 +0000",
-      "url": "https://sports.yahoo.com/articles/drake-london-signing-massive-141-230501833.html"
-    },
-    {
       "kind": "rumor",
       "title": "Report: Roger Goodell will \"politely decline\" invitation to testify on Sport Broadcasting Act",
-      "title_ja": "報道によると、Roger Goodellはスポーツ放映法についての証言招待に『丁寧に辞退する』見通し",
+      "title_ja": null,
       "excerpt": "The House Judiciary Committee has asked NFL Commissioner Roger Goodell to testify at a hearing next week regarding the Sports Broadcasting Act of 1961.",
-      "excerpt_ja": "下院司法委員会はNFLコミッショナーRoger Goodellに対し、1961年スポーツ放映法に関する公聴会での証言を求めている",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -388,91 +1044,11 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-roger-goodell-will-politely-decline-invitation-to-testify-on-sport-broadcasting-act"
     },
     {
-      "kind": "trade",
-      "title": "Jordan Mailata ready to move on after A.J. Brown trade: &#39;Thank God it&#39;s over&#39;",
-      "title_ja": "Jordan Mailata、A.J. Brownトレード後に前に進む準備—『やっと終わった』",
-      "excerpt": "The Eagles traded A.J. Brown to the Patriots on June 1. Jordan Mailata believes Philadelphia is ready to put the trade behind it and move forward.",
-      "excerpt_ja": "Eaglesは6月1日にA.J. Brownを Patriotsにトレードした。Jordan MailataはPhiladelphiaがこのトレードを過去のものとして、前に進む準備ができていると考えている",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 22:51:03 +0000",
-      "url": "https://sports.yahoo.com/articles/jordan-mailata-ready-move-j-225103140.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Falcons sign Drake London to four-year extension",
-      "title_ja": "Falcons、Drake Londonと4年の延長契約を締結",
-      "excerpt": "The team’s star receiver is now locked up for years to come.",
-      "excerpt_ja": "チームのスター選手は長期間、チーム内に確保された",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 22:48:15 +0000",
-      "url": "https://sports.yahoo.com/articles/falcons-sign-drake-london-four-224815877.html"
-    },
-    {
-      "kind": "other",
-      "title": "Eagles practice notes: Andy Dalton is QB2?",
-      "title_ja": "Eagles練習時評：Andy DaltonがQB2になったのか",
-      "excerpt": "Observations from the team’s second media-attended spring practice.",
-      "excerpt_ja": "チームの2度目のメディア公開春季練習での観察",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 22:44:11 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-practice-notes-andy-dalton-224411101.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cleveland Browns: Jim Schwartz on Garrett’s greatness and missing out on HC",
-      "title_ja": "Cleveland Browns：Jim SchwartはGarrettの偉大さとHC職を逃したことについて語る",
-      "excerpt": "Cleveland’s former DC shares some thoughts on what it was like coaching Myles Garrett, and being passed over for HC.",
-      "excerpt_ja": "Clevelandの前DF統括者は、Myles Garrettのコーチングについての思いと、HC職から外されたことについて考えを述べている",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 22:31:38 +0000",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-jim-schwartz-garrett-223138230.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Drake London inks contract extension with Falcons: Everything to know",
-      "title_ja": "Drake London、Falconsとの契約延長に署名—知っておくべきこと",
-      "excerpt": "Drake London is extending his stay in Atlanta, agreeing to an extension with the Falcons. Here&#39;s what to know about the contract details.",
-      "excerpt_ja": "Drake LondonはAtlantaでの活躍を延長し、Falconsとの延長契約に合意した。契約詳細を知っておくべきことはこちら",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 22:25:46 +0000",
-      "url": "https://sports.yahoo.com/articles/drake-london-inks-contract-extension-222546325.html"
-    },
-    {
       "kind": "other",
       "title": "A.J. Brown says his knees are fine: Nothing to worry about",
-      "title_ja": "A.J. Brownは膝の状態は問題ないと語る—心配することはない",
+      "title_ja": null,
       "excerpt": "Patriots wide receiver A.J.",
-      "excerpt_ja": "Patriotsワイドレシーバー、A.J.",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -485,42 +1061,10 @@
     },
     {
       "kind": "other",
-      "title": "Myles Garrett reveals what it took to get No. 95 from Rams teammate: ‘More than a couple’ bucks",
-      "title_ja": "Myles Garrett、Ramsチームメイトから背番号95を取得するのに何が必要だったかを明かす：『数百万ドルでは済まない』",
-      "excerpt": "Myles Garrett revealed he actually to give up something of his own to get his desired jersey number in Los Angeles.",
-      "excerpt_ja": "Myles Garrettは実際のところ、Los Angelesで希望の背番号を手に入れるため、自分自身で何かを譲る必要があったと明かした",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 22:10:27 +0000",
-      "url": "https://sports.yahoo.com/articles/myles-garrett-reveals-took-no-221027521.html"
-    },
-    {
-      "kind": "other",
-      "title": "Eagles release DE Brandon Graham in a procedural move",
-      "title_ja": "Eagles、DE Brandon Grahamを手続き的な動きで解雇",
-      "excerpt": "The Eagles released veteran defensive end Brandon Graham on Tuesday.",
-      "excerpt_ja": "Eaglesはベテランディフェンシブエンド Brandon Grahamを火曜日に解雇した",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 22:02:55 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-release-brandon-graham-procedural-220255965.html"
-    },
-    {
-      "kind": "other",
       "title": "Justin Herbert overhauling footwork as he seeks a quicker release",
-      "title_ja": "Justin Herbert、より早いリリースを求めてフットワークを大幅改善中",
+      "title_ja": null,
       "excerpt": "Justin Herbert is overhauling his footwork, as offensive coordinator Mike McDaniel tries to get the Chargers quarterback to speed up his release.",
-      "excerpt_ja": "Justin Herbertはフットワークをオーバーホールしており、OC Mike McDanielはChargers QB のリリース速度を高める努力をしている",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -534,9 +1078,9 @@
     {
       "kind": "signing",
       "title": "Jim Schwartz: It would have been a \"bad situation\" if I'd stayed with Browns",
-      "title_ja": "Jim Schwartz：Brownsに残っていたら『悪い状況』だったはず",
+      "title_ja": null,
       "excerpt": "Schwartz addresses his disagreement with being \"passed over\" for Todd Monken.",
-      "excerpt_ja": "SchwartzはTodd Monkenへの『降格』について意見が対立していたことに触れている",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -548,75 +1092,11 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-schwartz-it-would-have-been-a-bad-situation-if-id-stayed-with-browns"
     },
     {
-      "kind": "trade",
-      "title": "Aaron Donald On Return To Rams After Myles Garrett Trade: ‘It Got Me Thinking’",
-      "title_ja": "Aaron Donald、Myles Garrettトレード後のRams復帰について：『考えさせられた』",
-      "excerpt": "Former Rams Aaron Donald hinted at a potential return out of retirement following the Myles Garrett trade.",
-      "excerpt_ja": "元Rams Aaron Donaldは、Myles Garrettトレード後の現役復帰の可能性をほのめかした",
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 21:09:56 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/aaron-donald-comeback-rams-post-myles-garrett-trade-it-got-me-thinking"
-    },
-    {
-      "kind": "trade",
-      "title": "A.J. Brown 'In Awe' to Join Childhood Favorite Patriots, Leaves Eagles Drama Behind",
-      "title_ja": "A.J. Brown、幼少時から好きだったPatriots加入に『感動している』、Eagles の混乱から脱出",
-      "excerpt": "A.J. Brown got his wish for a fresh start when he was traded by the Philadelphia Eagles to the New England Patriots.",
-      "excerpt_ja": "A.J. BrownはPhiladelphia EaglesからNew England Patriotsへのトレードで、自分の望んだ新天地での再スタートを手に入れた",
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 21:08:17 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/a-j-brown-awe-join-childhood-patriots-shuts-down-eagles-exit-questions"
-    },
-    {
-      "kind": "other",
-      "title": "Former Angels Top Prospect Jordyn Adams, 26, Commits To SMU Football",
-      "title_ja": "元Angels有望選手Jordyn Adams、26歳がSMU Footballへのコミット表明",
-      "excerpt": "Jordyn Adams has retired from Major League Baseball and is set to return to football, announcing his intentions to play receiver at SMU.",
-      "excerpt_ja": "Jordyn Adamsはメジャーリーグベースボールから引退し、SMUのレシーバーとしてのフットボール復帰を表明した",
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 20:35:37 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/former-angels-top-prospect-jordyn-adams-commits-smu-football-age-26"
-    },
-    {
-      "kind": "trade",
-      "title": "Why Myles Garrett Waived His No-Trade Clause To Finalize Move To The Rams",
-      "title_ja": "Myles GarrettがRamsへのトレード完了のためにノートレード条項を放棄した理由",
-      "excerpt": "Les Snead was concerned that Myles Garrett would exercise his no-trade clause after the Rams and Browns had agreed to a deal.",
-      "excerpt_ja": "Les Sneadはramsとbrownsの取引が合意に至った後、Myles Garrettがノートレード条項を行使するのではないかと懸念していた",
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 20:23:31 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/why-myles-garrett-waived-his-no-trade-clause-rams"
-    },
-    {
       "kind": "presser",
       "title": "Sean McVay: If Aaron Donald is interested in a return, Rams are interested",
-      "title_ja": "Sean McVay：Aaron Donaldが復帰に関心があれば、Ramsも関心がある",
+      "title_ja": null,
       "excerpt": "Aaron Donald told Jordan Schultz of The Schultz Report that he is considering a return.",
-      "excerpt_ja": "Aaron DonaldはThe Schultz ReportのJordan Schultzに対し、復帰を検討していると述べた",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -630,13 +1110,13 @@
     {
       "kind": "trade",
       "title": "Eagles made play for Myles Garrett, but Browns wanted Jalen Carter",
-      "title_ja": "EaglesはMyles Garrettの獲得を狙ったが、Brownsはヤレン・カーターを求めた",
+      "title_ja": null,
       "excerpt": "On Monday morning, before the Browns traded defensive end Myles Garrett to the Rams, Mary Kay Cabot of the Cleveland Plain Dealer flagged the Rams, Cowboys, and Eagles as potential destinations.",
-      "excerpt_ja": "BrownsがMyles Garrettを Ramsにトレードする前の月曜朝、Cleveland Plain DealerのMary Kay Cabotはそのトレード先候補としてRams、Cowboys、Eaglesを指摘していた",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "CLE",
       "player_name": null,
       "coach_name": null,
@@ -692,166 +1172,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-godwin-didnt-believe-reports-mike-evans-was-signing-with-49ers"
     },
     {
-      "kind": "trade",
-      "title": "A.J. Brown On Jalen Hurts Relationship After Eagles Trade: 'There's No Bad Blood'",
-      "title_ja": null,
-      "excerpt": "A.J. Brown opened up about his relationship with Jalen Hurts and the details of his trade to the New England Patriots.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 19:04:56 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/a-j-brown-jalen-hurts-relationship-after-eagles-trade-theres-no-bad-blood"
-    },
-    {
-      "kind": "signing",
-      "title": "Best Soccer Betting Sites: Top Sportsbook Apps (2026)",
-      "title_ja": null,
-      "excerpt": "Compare the best soccer betting sites for the 2026 season. See top sportsbooks, sign-up bonuses, and betting features to help you bet smarter this season.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:52:09 -0400",
-      "url": "https://www.foxsports.com/stories/betting/best-soccer-betting-sites"
-    },
-    {
-      "kind": "signing",
-      "title": "Best Golf Betting Sites: Top Sportsbook Apps (2026)",
-      "title_ja": null,
-      "excerpt": "Compare the best golf betting sites for the 2026 season. See top sportsbooks, sign-up bonuses, and betting features to help you bet smarter this season.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:49:39 -0400",
-      "url": "https://www.foxsports.com/stories/betting/best-golf-betting-sites"
-    },
-    {
-      "kind": "signing",
-      "title": "Louisiana Sports Betting: LA Sportsbooks, Apps, and Promos",
-      "title_ja": null,
-      "excerpt": "Compare the best Louisiana sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in LA.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:48:31 -0400",
-      "url": "https://www.foxsports.com/stories/betting/louisiana-sports-betting"
-    },
-    {
-      "kind": "signing",
-      "title": "Indiana Sports Betting: IN Sportsbooks, Apps, and Promos",
-      "title_ja": null,
-      "excerpt": "Compare the best Indiana sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in IN.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:46:47 -0400",
-      "url": "https://www.foxsports.com/stories/betting/indiana-sports-betting"
-    },
-    {
-      "kind": "signing",
-      "title": "Iowa Sports Betting: Best IA Sportsbooks, Apps, and Promos",
-      "title_ja": null,
-      "excerpt": "Compare the best Iowa sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in IA.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:44:45 -0400",
-      "url": "https://www.foxsports.com/stories/betting/iowa-sports-betting"
-    },
-    {
-      "kind": "signing",
-      "title": "Maryland Sports Betting: MD Sportsbooks, Apps, and Promos",
-      "title_ja": null,
-      "excerpt": "Compare the best Maryland sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in MD.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:42:34 -0400",
-      "url": "https://www.foxsports.com/stories/betting/maryland-sports-betting"
-    },
-    {
-      "kind": "trade",
-      "title": "Could Aaron Donald come out of retirement? Rams&#39; trade for Myles Garrett &#39;for sure&#39; got him thinking, Pat McAfee says",
-      "title_ja": null,
-      "excerpt": "Garrett and Donald have five NFL Defensive Player of the Year awards between them.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:41:33 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/could-aaron-donald-come-out-of-retirement-rams-trade-for-myles-garrett-for-sure-got-him-thinking-pat-mcafee-says-184133079.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Best NFL Betting Sites: Top Sportsbook Apps (2026)",
-      "title_ja": null,
-      "excerpt": "Compare the best NFL betting sites for the 2026 season. See top sportsbooks, sign-up bonuses, and betting features to help you bet smarter this season.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:40:05 -0400",
-      "url": "https://www.foxsports.com/stories/betting/best-nfl-betting-sites"
-    },
-    {
-      "kind": "other",
-      "title": "Best Super Bowl Betting Sites & Sportsbook Promos",
-      "title_ja": null,
-      "excerpt": "Discover the best Super Bowl 60 betting sites for the season. Compare top sportsbooks, promos, odds, and betting apps to get the best value before kickoff.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:38:54 -0400",
-      "url": "https://www.foxsports.com/stories/betting/best-super-bowl-betting-sites"
-    },
-    {
       "kind": "signing",
       "title": "Drake London, Falcons agree to a four-year, $141 million extension",
       "title_ja": null,
@@ -868,150 +1188,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-london-falcons-agree-to-a-four-year-141-million-extension"
     },
     {
-      "kind": "signing",
-      "title": "2026 NFL Offseason Buzz: Falcons, Drake London Agree To 4-Year Extension",
-      "title_ja": null,
-      "excerpt": "Here's the latest offseason buzz and rumors around the NFL.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:32:11 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors"
-    },
-    {
-      "kind": "other",
-      "title": "Rúben Dias: 'Let's See' If World Cup Will Be The Last For Ronaldo, Messi, Modric",
-      "title_ja": null,
-      "excerpt": "Manchester City defender Ruben Dias is not convinced the 2026 World Cup will mark the end for veterans like 41-year-old Cristiano Ronaldo, defending champion Lionel Messi, 38, and Luka Modric, 40.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:31:57 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/lets-see-ruben-dias-not-convinced-2026-world-cup-will-be-last-dance-for-evergreen-ballon-dor-winners-cristiano-ronaldo-lionel-messi-luka-modric"
-    },
-    {
-      "kind": "other",
-      "title": "BetMGM Bonus Code FOXSPORTS: Get up to $1500 in Bonuses For Game 1 of the Stanley Cup Finals",
-      "title_ja": null,
-      "excerpt": "BetMGM Bonus Code FOXSPORTS: Get up to $1500 in Bonuses For Game 1 of the Stanley Cup Finals.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:18:20 -0400",
-      "url": "https://www.foxsports.com/stories/betting/betmgm-bonus-code-foxsports-get-up-1500-bonuses-game-1-stanley-cup-finals"
-    },
-    {
-      "kind": "other",
-      "title": "Enter the Polymarket Promo Code FOX for a $50 Bonus Before Game 1 of the Stanley Cup Finals",
-      "title_ja": null,
-      "excerpt": "Enter the Polymarket Promo Code FOX for a $50 Bonus Before Game 1 of the Stanley Cup Finals.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:18:12 -0400",
-      "url": "https://www.foxsports.com/stories/betting/enter-polymarket-promo-code-fox-50-bonus-before-game-1-stanley-cup-finals"
-    },
-    {
-      "kind": "other",
-      "title": "DraftKings Promo: Bet $5, Get $200 in Bonus Bets Instantly for Hurricanes vs. Golden Knights Game 1",
-      "title_ja": null,
-      "excerpt": "DraftKings Promo: Bet $5, Get $200 in Bonus Bets Instantly for Game 1 of Stanley Cup Finals.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:18:07 -0400",
-      "url": "https://www.foxsports.com/stories/betting/draftkings-promo-bet-5-get-200-bonus-bets-instantly-hurricanes-vs-golden-knights-game-1"
-    },
-    {
-      "kind": "other",
-      "title": "Missouri Sports Betting 2026: MO Sportsbook, Promos, and Updates",
-      "title_ja": null,
-      "excerpt": "Stay up to date on Missouri sports betting. Learn the latest on launch timelines, sportsbooks, and what to expect when it goes live in the Show-Me State.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:15:40 -0400",
-      "url": "https://www.foxsports.com/stories/betting/missouri-sports-betting"
-    },
-    {
-      "kind": "signing",
-      "title": "Ohio Sports Betting: Sportsbooks, Apps, and Promos",
-      "title_ja": null,
-      "excerpt": "Compare the best Ohio sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in OH.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:10:59 -0400",
-      "url": "https://www.foxsports.com/stories/betting/ohio-sports-betting"
-    },
-    {
-      "kind": "signing",
-      "title": "Virginia Sports Betting: Best VA Sportsbook Promos & Apps",
-      "title_ja": null,
-      "excerpt": "Compare the best Virginia sportsbooks and betting apps for 2026. Learn how to sign up, claim sportsbook promos, and legally bet on sports in VA.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:08:02 -0400",
-      "url": "https://www.foxsports.com/stories/betting/virginia-sports-betting"
-    },
-    {
-      "kind": "other",
-      "title": "theScore Bet Promo Code: Get $1,000 Bet Reset",
-      "title_ja": null,
-      "excerpt": "theScore Bet Promo Code: Get $1,000 Bet Reset.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 18:03:32 -0400",
-      "url": "https://www.foxsports.com/stories/betting/thescore-bet-promo-code"
-    },
-    {
       "kind": "other",
       "title": "Eagles release DE Brandon Graham in a procedural move",
       "title_ja": null,
@@ -1020,44 +1196,12 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "PHI",
       "player_name": null,
       "coach_name": null,
       "published_at": "Tue, 02 Jun 2026 18:02:55 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-release-de-brandon-graham-in-a-procedural-move"
-    },
-    {
-      "kind": "other",
-      "title": "Harry Kane On Ballon d'Or: 'I'd Be One Of The Favorites' If England Wins World Cup",
-      "title_ja": null,
-      "excerpt": "Bayern Munich star Harry Kane believes he will be a strong contender for the Ballon d'Or if he leads England to World Cup glory.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 17:58:38 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/id-be-one-of-the-favourites-harry-kane-opens-up-on-ballon-dor-battle-as-england-star-identifies-his-main-rivals-for-top-award"
-    },
-    {
-      "kind": "trade",
-      "title": "A.J. Brown Earns High Praise From Patriots: ‘Closest Thing I’ve Seen Is Gronk’",
-      "title_ja": null,
-      "excerpt": "The A.J. Brown trade became official less than 48 hours ago, and the star wide receiver is already making a strong impression in New England.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 17:56:23 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/a-j-brown-earns-high-praise-from-patriots-closest-thing-ive-seen-gronk"
     },
     {
       "kind": "signing",
@@ -1077,22 +1221,6 @@
     },
     {
       "kind": "trade",
-      "title": "Use Kalshi Promo Code FOXSPORTS to Unlock a $10 Trade Bonus for Golden Knights vs. Hurricanes Game 1",
-      "title_ja": null,
-      "excerpt": "Use Kalshi Promo Code FOXSPORTS to Unlock a $10 Trade Bonus for Golden Knights vs. Hurricanes Game 1.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 17:42:59 -0400",
-      "url": "https://www.foxsports.com/stories/betting/use-kalshi-promo-code-foxsports-unlock-10-trade-bonus-golden-knights-vs-hurricanes-game-1"
-    },
-    {
-      "kind": "trade",
       "title": "Rookie WR Makai Lemon did not practice Tuesday with a leg injury",
       "title_ja": null,
       "excerpt": "After the trade of A.J.",
@@ -1106,38 +1234,6 @@
       "coach_name": null,
       "published_at": "Tue, 02 Jun 2026 17:35:26 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rookie-wr-makai-lemon-did-not-practice-tuesday-with-a-leg-injury"
-    },
-    {
-      "kind": "other",
-      "title": "2025-26 NBA Finals Best Bet: Can Knicks Overcome Spurs?",
-      "title_ja": null,
-      "excerpt": "Will Hill respects the Knicks' playoff run, but are they about to run into a juggernaut in the Spurs? Hill lays out his NBA Finals pick.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 17:33:56 -0400",
-      "url": "https://www.foxsports.com/stories/nba/2025-26-nba-finals-best-bet-can-knicks-overcome-spurs"
-    },
-    {
-      "kind": "injury",
-      "title": "Arsenal, France Defender William Saliba's Injury Worsens, Surgery Fears Rise",
-      "title_ja": null,
-      "excerpt": "Arsenal defender William Saliba could be forced to undergo back surgery immediately after the upcoming World Cup as his ongoing physical discomfort continues to intensify.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 17:15:59 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/william-saliba-injury-latest-as-arsenal-france-defenders-pain-worsens-amid-surgery-fears"
     },
     {
       "kind": "other",
@@ -1170,22 +1266,6 @@
       "coach_name": null,
       "published_at": "Tue, 02 Jun 2026 16:58:27 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-chose-no-1-jersey-despite-julian-edelman-giving-his-blessing-to-wear-no-11"
-    },
-    {
-      "kind": "other",
-      "title": "NASCAR Power Rankings: New No. 1 Tops List After Nashville",
-      "title_ja": null,
-      "excerpt": "A new No. 1 in the NASCAR rankings?! Find out which driver took the top spot from Tyler Reddick.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 16:51:43 -0400",
-      "url": "https://www.foxsports.com/stories/nascar/nascar-power-rankings-denny-hamlin-new-no-1"
     },
     {
       "kind": "injury",
@@ -1332,22 +1412,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-trade-is-a-win-for-the-nfl-tv-audience"
     },
     {
-      "kind": "signing",
-      "title": "Dolphins to sign WR Jalen Reagor",
-      "title_ja": null,
-      "excerpt": "The Dolphins are adding to their wide receiver room.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 15:01:06 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-to-sign-wr-jalen-reagor"
-    },
-    {
       "kind": "other",
       "title": "Giants cut K Jason Sanders",
       "title_ja": null,
@@ -1364,68 +1428,20 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-cut-k-jason-sanders"
     },
     {
-      "kind": "trade",
-      "title": "Howie Roseman: The loss of A.J. Brown will have to be picked up by more than one player",
-      "title_ja": null,
-      "excerpt": "Although it was clear that the relationship had run its course, the trade of receiver A.J.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 14:34:51 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-the-loss-of-a-j-brown-will-have-to-be-picked-up-by-more-than-one-player"
-    },
-    {
       "kind": "other",
-      "title": "Josh McDaniels: There's a force to how A.J. Brown plays, maybe closest I've seen is Gronk",
+      "title": "Betting the Texans in 2026: See how Houston's win total, Super Bowl odds are trending and our best bets",
       "title_ja": null,
-      "excerpt": "Patriots offensive coordinator Josh McDaniels has likely been thinking about ways to deploy wide receiver A.J.",
+      "excerpt": "We're breaking down Texans futures in our 2026 betting preview, featuring odds, trends, schedule and more",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NE",
+      "team_abbrev": "HOU",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 14:31:50 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-mcdaniels-theres-a-force-to-how-a-j-brown-plays-maybe-closest-ive-seen-is-gronk"
-    },
-    {
-      "kind": "other",
-      "title": "Vic Fangio wins 2026 Dr. Z Award for lifetime achievement",
-      "title_ja": null,
-      "excerpt": "The Pro Football Writers of America has selected Eagles defensive coordinator Vic Fangio as the winner of the 2026 Paul “Dr.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 14:27:31 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vic-fangio-wins-2026-dr-z-award-for-lifetime-achievement"
-    },
-    {
-      "kind": "other",
-      "title": "Mike Vrabel on Christian Gonzalez: Contracts are part of pro sports, negotiations should be private",
-      "title_ja": null,
-      "excerpt": "Patriots cornerback Christian Gonzalez is seeking a new contract as he heads into his fourth pro season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 02 Jun 2026 14:19:01 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-on-christian-gonzalez-contracts-are-part-of-pro-sports-negotiations-should-be-private"
+      "published_at": "\n                        Wed, 03 Jun 2026 11:33:24 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-texans-in-2026-see-how-houstons-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
     },
     {
       "kind": "signing",
@@ -1858,22 +1874,6 @@
       "coach_name": null,
       "published_at": "\n                        Mon, 01 Jun 2026 20:33:39 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/ranking-nfls-greatest-trades-of-all-time-where-myles-garrett-to-rams-fits/"
-    },
-    {
-      "kind": "trade",
-      "title": "Myles Garrett traded from Browns to Rams as Los Angeles goes all in for Super Bowl run",
-      "title_ja": null,
-      "excerpt": "Los Angeles is loading up for a Super Bowl run by acquiring the reigning Defensive Player of the Year in a historic blockbuster trade",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Mon, 01 Jun 2026 20:13:16 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/myles-garrett-traded-from-browns-to-rams/"
     },
     {
       "kind": "trade",

@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-06-04T21:44:23.211123+00:00",
-  "count": 114,
+  "generated_at": "2026-06-04T23:04:41.822016+00:00",
+  "count": 112,
   "items": [
     {
       "kind": "injury",
       "title": "Arm soreness has kept Mac Jones from throwing of late",
-      "title_ja": "肩の違和感により、Mac Jones は最近スローイングができていない。",
+      "title_ja": null,
       "excerpt": "The 49ers canceled next week's mandatory minicamp, so they will wrap up their offseason program on Thursday. 49ers backup quarterback Mac Jones did not throw last week or this week as he rests his throwing arm.",
-      "excerpt_ja": "49ers は来週のマンダトリーミニキャンプをキャンセルし、木曜日にオフシーズンプログラムを終了する予定。バックアップQB Mac Jones は先週と今週ともスローイングを行わず、スローイングアームを休めている。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -20,43 +20,11 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arm-soreness-has-kept-mac-jones-from-throwing-of-late"
     },
     {
-      "kind": "injury",
-      "title": "Rome Odunze says he has a \"new normal\" with his foot after injury last season",
-      "title_ja": "Rome Odunze は昨シーズンの足の怪我により、足について\"新たな状態\"を迎えたと語った。",
-      "excerpt": "Rome Odunze missed five games last season with a left foot injury and was hampered by it in others.",
-      "excerpt_ja": "Rome Odunze は昨シーズン左足の怪我で5試合を欠場し、他の試合でも支障が生じていた。",
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 03 Jun 2026 19:53:44 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rome-odunze-says-he-has-a-new-normal-with-his-foot-after-injury-last-season"
-    },
-    {
-      "kind": "trade",
-      "title": "Maxx Crosby on his knee rehab: I'm almost there",
-      "title_ja": "Maxx Crosby の膝のリハビリについて：もうすぐだ",
-      "excerpt": "The Ravens backed out of a trade for Maxx Crosby in March after the edge rusher failed their physical.",
-      "excerpt_ja": "Ravens は3月に Maxx Crosby との交換トレードを中止。エッジラッシャーがフィジカルテストに落ちた。",
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 03 Jun 2026 18:57:45 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/maxx-crosby-on-his-knee-rehab-im-almost-there"
-    },
-    {
       "kind": "signing",
       "title": "Jim Schwartz: It would have been a \"bad situation\" if I'd stayed with Browns",
-      "title_ja": "Jim Schwartz：Browns に残っていたら\"悪い状況\"になっていただろう",
+      "title_ja": null,
       "excerpt": "Schwartz addresses his disagreement with being \"passed over\" for Todd Monken.",
-      "excerpt_ja": "Schwartz は Todd Monken に\"パスオーバー\"されたことに関する自身の不同意についてコメントした。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -68,11 +36,75 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-schwartz-it-would-have-been-a-bad-situation-if-id-stayed-with-browns"
     },
     {
+      "kind": "injury",
+      "title": "Steelers waive former Arizona State TE",
+      "title_ja": null,
+      "excerpt": "The Steelers cut a member of their 2026 UDFA class.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 22:34:25 +0000",
+      "url": "https://sports.yahoo.com/articles/steelers-waive-former-arizona-state-223425245.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Browns sign DE Benton Whitley",
+      "title_ja": null,
+      "excerpt": "The Browns signed free agent defensive end Benton Whitley, the team announced on Thursday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 22:30:59 +0000",
+      "url": "https://sports.yahoo.com/articles/browns-sign-benton-whitley-223059610.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Rams sign seventh-round DT Tim Keenan III",
+      "title_ja": null,
+      "excerpt": "The Rams signed seventh-round defensive tackle Tim Keenan III on Thursday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 22:16:53 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-sign-seventh-round-dt-221653183.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Chloe Kim &#39;giggling&#39; at rumors she orchestrated Rams&#39; Myles Garrett trade",
+      "title_ja": null,
+      "excerpt": "Myles Garrett may have been traded to Los Angeles, the home of his girlfriend Chloe Kim, but she insists she had nothing to do with the deal.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 21:59:45 +0000",
+      "url": "https://sports.yahoo.com/articles/chloe-kim-giggling-rumors-she-215945135.html"
+    },
+    {
       "kind": "other",
       "title": "What does Las Vegas Raiders’ undrafted free agent pay breakdown tell us about 53-man roster battles?",
-      "title_ja": "Las Vegas Raiders のアンドラフテッド・フリーエージェント給与配分が53人ロスター争いについて何を教えてくれるのか",
+      "title_ja": null,
       "excerpt": "Following the money to see who has a leg up when it comes to training camp competitions",
-      "excerpt_ja": "トレーニングキャンプの競争で誰が優位に立つのかを見極めるため、給与を追跡してみた。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +118,9 @@
     {
       "kind": "other",
       "title": "Cowboys to hold joint practices at training camp with Rams, Saints",
-      "title_ja": "Cowboys がトレーニングキャンプで Rams、Saints と合同練習を実施予定",
+      "title_ja": null,
       "excerpt": "The Cowboys are set to host joint practices with the Rams and Saints this summer",
-      "excerpt_ja": "Cowboys は今夏、Rams および Saints との合同練習を開催する予定。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +134,9 @@
     {
       "kind": "signing",
       "title": "Eagles reportedly sign undrafted defensive tackle who intended on playing college football in 2026",
-      "title_ja": "Eagles が2026年のカレッジフットボール出場を予定していたアンドラフテッド・ディフェンシブタックルと契約か",
+      "title_ja": null,
       "excerpt": "Taking a shot on an inexperienced DL.",
-      "excerpt_ja": "経験の浅いディフェンシブラインマンに賭ける。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +150,9 @@
     {
       "kind": "signing",
       "title": "Arizona Cardinals sign safety Isaiah Oliver",
-      "title_ja": "Arizona Cardinals がセーフティ Isaiah Oliver と契約",
+      "title_ja": null,
       "excerpt": "The Arizona Cardinals sign a veteran safety.",
-      "excerpt_ja": "Arizona Cardinals がベテランセーフティと契約。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +166,9 @@
     {
       "kind": "other",
       "title": "Cowboys to hold a joint practice with the Rams in addition to the Saints",
-      "title_ja": "Cowboys が Saints に加えて Rams との合同練習を実施予定",
+      "title_ja": null,
       "excerpt": "The Cowboys and Rams do not play in the preseason, but they both train in Southern California.",
-      "excerpt_ja": "Cowboys と Rams はプリシーズンでは対戦しないが、どちらも南カリフォルニアで練習を行う。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +182,9 @@
     {
       "kind": "trade",
       "title": "Pittsburgh Steelers trade rumors shut down by NFL insider",
-      "title_ja": "NFL インサイダーが Steelers トレード噂を一蹴",
+      "title_ja": null,
       "excerpt": "It doesn’t appear that the Steelers will be trading either edge rusher.",
-      "excerpt_ja": "Steelers がどちらのエッジラッシャーもトレードに出す見通しはないようだ。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +198,9 @@
     {
       "kind": "trade",
       "title": "Myles Garrett trade gets blunt reaction from Trent Williams: &#39;It sucks&#39;",
-      "title_ja": "Myles Garrett トレードに Trent Williams から率直な反応：\"最悪だ\"",
+      "title_ja": null,
       "excerpt": "49ers OT Trent Williams evidently isn&#39;t looking forward to facing Myles Garrett twice a year after the star pass rusher was traded to the Rams.",
-      "excerpt_ja": "49ers OT Trent Williams は、スターパスラッシャー Myles Garrett が Rams にトレードされた後、年2回対戦するのが嫌そうだ。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +214,9 @@
     {
       "kind": "signing",
       "title": "Dolphins sign first-round pick Chris Johnson, complete 2026 draft class",
-      "title_ja": "Dolphins が1巡目指名 Chris Johnson と契約、2026年ドラフト全選手との契約を完了",
+      "title_ja": null,
       "excerpt": "The Dolphins have gotten their entire 2026 draft class under contract.",
-      "excerpt_ja": "Dolphins は2026年ドラフト全選手との契約を済ませた。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +230,9 @@
     {
       "kind": "signing",
       "title": "Cardinals release K Josh Karty, sign DB Isaiah Oliver",
-      "title_ja": "Cardinals が K Josh Karty をリリース、DB Isaiah Oliver と契約",
+      "title_ja": null,
       "excerpt": "The Cardinals are down to one kicker on their 90-man roster.",
-      "excerpt_ja": "Cardinals は90人ロスターでキッカーが1人となった。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +246,9 @@
     {
       "kind": "other",
       "title": "Where Jordan Meredith fits in Raiders’ new-look offensive line",
-      "title_ja": "Jordan Meredith が Raiders の新体制オフェンスラインにどう適合するか",
+      "title_ja": null,
       "excerpt": "Veteran offers athleticism and versatility to play pivot or guard spots and started at both during his tenure in Las Vegas",
-      "excerpt_ja": "ベテランはセンター、ガードでプレーする能力と多才性を持ち、Las Vegas での在籍中に両ポジションでスターターを務めた。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +262,9 @@
     {
       "kind": "other",
       "title": "Brian Flores wins Halas Award from the PFWA for overcoming adversity",
-      "title_ja": "Brian Flores が Pro Football Writers of America の Halas Award を受賞、逆境を乗り越えた功績を称える",
+      "title_ja": null,
       "excerpt": "The Pro Football Writers of America announced Vikings defensive coordinator Brian Flores as the 2026 George Halas Award winner.",
-      "excerpt_ja": "Pro Football Writers of America が Vikings ディフェンシブコーディネーター Brian Flores を2026年 George Halas Award 受賞者として発表した。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +278,9 @@
     {
       "kind": "other",
       "title": "49ers 90-in-90: Can Malik Mustapha flourish under Raheem Morris?",
-      "title_ja": "49ers 90-in-90：Malik Mustapha は Raheem Morris の下で成功できるか",
+      "title_ja": null,
       "excerpt": "Breaking down the 90 players on the 49ers’ offseason roster in 90 posts (over 90 or so days). Today is S Malik Mustapha",
-      "excerpt_ja": "49ers のオフシーズンロスターの90選手を90日間かけて90投で分析。本日は S Malik Mustapha",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +294,9 @@
     {
       "kind": "signing",
       "title": "Jets sign WR Gee Scott",
-      "title_ja": "Jets が WR Gee Scott と契約",
+      "title_ja": null,
       "excerpt": "The Jets added a wide receiver to their roster on Thursday.",
-      "excerpt_ja": "Jets は木曜日にワイドレシーバーをロスターに加えた。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -278,9 +310,9 @@
     {
       "kind": "injury",
       "title": "Sean Payton announces that QB Bo Nix is expected back in two weeks for their minicamp practices",
-      "title_ja": "Sean Payton がQB Bo Nix は2週間後のミニキャンプ練習での復帰を見込むと発表",
+      "title_ja": null,
       "excerpt": "The Denver Broncos began their first set of OTA practices this week, and today was their first practice session open to the media. As expected, starting quarterback Bo Nix did not participate after undergoing surgery on his broken ankle that he suffered during the Broncos’ Divisional Round victory o",
-      "excerpt_ja": "Denver Broncos は今週初のOTA練習を開始し、本日がメディアに公開された初練習。予想通り、スターティングQB Bo Nix はプレーオフのディビジョンラウンド勝利で被った足首骨折の手術後により欠場。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +326,9 @@
     {
       "kind": "signing",
       "title": "Jaguars sign CB Dane Jackson, OL Trystan Colon",
-      "title_ja": "Jaguars が CB Dane Jackson、OL Trystan Colon と契約",
+      "title_ja": null,
       "excerpt": "The Jaguars have added a pair of players on Thursday.",
-      "excerpt_ja": "Jaguars は木曜日に2選手を追加。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -310,9 +342,9 @@
     {
       "kind": "signing",
       "title": "Rams rework Myles Garrett contract that pays 2-time DPOY $204 million over 5 years: Report",
-      "title_ja": "Rams が2度のDPOY Myles Garrett との契約を再構成、5年で2億400万ドル：報道",
+      "title_ja": null,
       "excerpt": "The slight alteration of Garrett&#39;s once-record-setting deal reportedly allowed Los Angeles to move the vesting date of his guarantees back a few months.",
-      "excerpt_ja": "かつてのレコード契約をわずかに変更することで、Los Angeles は保証金のベスティング日を数ヶ月後ろにずらすことができたとされている。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -326,9 +358,9 @@
     {
       "kind": "other",
       "title": "Broncos expect Bo Nix to have &quot;more of a role&quot; at minicamp",
-      "title_ja": "Broncos は Bo Nix がミニキャンプで\"より大きな役割\"を果たすことを見込む",
+      "title_ja": null,
       "excerpt": "Nix is recovering from the fractured ankle he suffered in the postseason.",
-      "excerpt_ja": "Nix はポストシーズンで被った足首骨折から回復中。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -342,9 +374,9 @@
     {
       "kind": "other",
       "title": "NFL world ready to ‘load up’ on Justin Herbert stock in 2026",
-      "title_ja": "NFLワールドは2026年に Justin Herbert の評価を\"買い\"の姿勢を準備",
+      "title_ja": null,
       "excerpt": "With Mike McDaniel calling the offense, Justin Herbert’s ceiling should skyrocket in 2026.",
-      "excerpt_ja": "Mike McDaniel がオフェンスを統括することで、Justin Herbert の2026年のポテンシャルは飛躍的に高まるはずだ。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -358,9 +390,9 @@
     {
       "kind": "other",
       "title": "Predicting Las Vegas Raiders Defensive Starters",
-      "title_ja": "Las Vegas Raiders ディフェンシブスターター予想",
+      "title_ja": null,
       "excerpt": "Projecting Las Vegas Raiders week 1 starters at OTA’s on Defense",
-      "excerpt_ja": "OTA での Las Vegas Raiders 第1週スターター予想（ディフェンス）",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -372,27 +404,11 @@
       "url": "https://sports.yahoo.com/articles/predicting-las-vegas-raiders-defensive-190600643.html"
     },
     {
-      "kind": "other",
-      "title": "This is the coolest Chicago Bears team since 1985",
-      "title_ja": "これは1985年以来、最高にクールな Chicago Bears チームだ",
-      "excerpt": "Don’t look now…actually, do look now. Because Caleb Williams and the Bears have never been cooler to root for. @kdthompson5 with some thoughts here.",
-      "excerpt_ja": "見逃すな…いや、見てほしい。Caleb Williams と Bears ほどクールな応援対象はかつてなかったから。@kdthompson5 がここで思いを述べている。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 19:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/coolest-chicago-bears-team-since-190000918.html"
-    },
-    {
       "kind": "trade",
       "title": "Rams betting on history repeating itself with Myles Garrett",
-      "title_ja": "Rams は Myles Garrett との取引で歴史が繰り返されることに賭ける",
+      "title_ja": null,
       "excerpt": "L.A.’s trade for Myles Garrett echoes the one for Matthew Stafford in 2021 — will it end the same way?",
-      "excerpt_ja": "L.A. の Myles Garrett トレードは2021年の Matthew Stafford トレードを彷彿させる――同じ結果になるだろうか",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -405,10 +421,26 @@
     },
     {
       "kind": "other",
+      "title": "This is the coolest Chicago Bears team since 1985",
+      "title_ja": null,
+      "excerpt": "Don’t look now…actually, do look now. Because Caleb Williams and the Bears have never been cooler to root for. @kdthompson5 with some thoughts here.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 19:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/coolest-chicago-bears-team-since-190000918.html"
+    },
+    {
+      "kind": "other",
       "title": "2 Cowboys defensive starters limited for OTAs",
-      "title_ja": "Cowboys ディフェンシブスターター2選手が OTA でリミテッド",
+      "title_ja": null,
       "excerpt": "Two of the Cowboys top defensive players will be limited during OTAs",
-      "excerpt_ja": "Cowboys のトップディフェンシブプレイヤー2選手は OTA でリミテッド出場の予定。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -422,9 +454,9 @@
     {
       "kind": "injury",
       "title": "2026 Denver Broncos OTAs: News and Notes",
-      "title_ja": "2026年 Denver Broncos OTA：ニュースと注目点",
+      "title_ja": null,
       "excerpt": "The Broncos started their OTA practices earlier this week, but today was the first time we had the media present at the practice. We heard from Sean Payton, got an encouraging update on Bo Nix, clarity on Jonah Elliss’s position switch, our first look at Jaylen Waddle and the rookie class in orange ",
-      "excerpt_ja": "Broncos は今週初めに OTA 練習を開始したが、本日がメディア参加初の練習。Sean Payton の話を聞き、Bo Nix について励みになるアップデートを得、Jonah Elliss のポジション転向について明確化し、オレンジ色に身を包む Jaylen Waddle と新人クラスを初めて見た。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -438,9 +470,9 @@
     {
       "kind": "other",
       "title": "EA Sports teases introduction of the tush push in Madden 27",
-      "title_ja": "EA Sports が Madden 27 での tush push の導入をティーズ",
+      "title_ja": null,
       "excerpt": "Bears quarterback Caleb Williams will be making his first appearance on the cover of a Madden game with the 2027 and the game will also include the first appearance of a play made famous by another team.",
-      "excerpt_ja": "Bears QB Caleb Williams は2027年の Madden ゲームのカバーに初登場し、同作はもう一つのチームで有名になったプレーも初搭載されるだろう。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -452,11 +484,43 @@
       "url": "https://sports.yahoo.com/articles/ea-sports-teases-introduction-tush-185833030.html"
     },
     {
+      "kind": "other",
+      "title": "6 Problems New Liverpool Manager Andoni Iraola Must Solve",
+      "title_ja": null,
+      "excerpt": "These are the most most pressing items for new Liverpool manager Andoni Iraola.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 18:46:47 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/6-problems-new-liverpool-manager-andoni-iraola-must-solve"
+    },
+    {
+      "kind": "rumor",
+      "title": "4 Takeaways From Ivory Coast's Upset Win Over France In Pre-World Cup Tune-Up",
+      "title_ja": null,
+      "excerpt": "The game puts concerns about France’s scoring efficiency while highlighting an Ivory Coast team that could now be a World Cup dark horse.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 18:35:47 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/france-ivory-4-takeaways"
+    },
+    {
       "kind": "injury",
       "title": "Seahawks OTAs news: Anthony Bradford leaves practice early with minor injury",
-      "title_ja": "Seahawks OTA ニュース：Anthony Bradford が軽微な怪我で練習を途中退場",
+      "title_ja": null,
       "excerpt": "The latest from Seahawks OTAs, including a minor injury update.",
-      "excerpt_ja": "Seahawks OTA の最新情報（軽微な怪我のアップデートを含む）。",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -468,75 +532,155 @@
       "url": "https://sports.yahoo.com/articles/seahawks-otas-news-anthony-bradford-183423379.html"
     },
     {
-      "kind": "injury",
-      "title": "Lions OTA injury notes, updates: 2 key players return to practice",
-      "title_ja": "Lions OTA 怪我ノート、アップデート：主力選手2名が練習に復帰",
-      "excerpt": "The Detroit Lions injury situation improved in Week 2 of OTAs, with the return of Sam Laporta and Terrion Arnold.",
-      "excerpt_ja": "Detroit Lions の怪我の状況は OTA 第2週で改善し、Sam Laporta と Terrion Arnold が復帰した。",
+      "kind": "signing",
+      "title": "Browns sign DE Benton Whitley",
+      "title_ja": null,
+      "excerpt": "The Browns signed free agent defensive end Benton Whitley, the team announced on Thursday.",
+      "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
+      "reliability": 0.54,
+      "team_abbrev": "CLE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 18:24:23 +0000",
-      "url": "https://sports.yahoo.com/articles/lions-ota-injury-notes-updates-182423038.html"
+      "published_at": "Thu, 04 Jun 2026 18:30:59 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-sign-de-benton-whitley"
     },
     {
       "kind": "other",
-      "title": "Would Aaron Donald want to bypass Rams training camp?",
-      "title_ja": "Aaron Donald は Rams トレーニングキャンプをスキップしたいのか",
-      "excerpt": "AD99’s biggest question to answer is: does he want to grind through another NFL training camp?",
-      "excerpt_ja": "AD99 の最大の課題は、別の NFL トレーニングキャンプを乗り切りたいかどうかを決めることだ。",
+      "title": "Bo Nix’s Recovery Timeline Looms Large as Broncos Offense Takes the Field For OTAs",
+      "title_ja": null,
+      "excerpt": "The Denver Broncos are back on the football field for the first time since losing the AFC championship game to New England with Bo Nix watching with his surgically repaired right ankle in a cast.",
+      "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "LAR",
+      "team_abbrev": "DEN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 18:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/aaron-donald-want-bypass-rams-180000103.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Kayvon Thibodeaux trade rumors: Of course he is on the latest ESPN list",
-      "title_ja": "Kayvon Thibodeaux トレード噂：もちろん彼は最新の ESPN リストに載っている",
-      "excerpt": "You know the Giants’ phone will be ringing at the trade deadline. What should they do?",
-      "excerpt_ja": "Giants の電話はトレードデッドラインで鳴り続けるだろう。何をすべきか",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 18:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/kayvon-thibodeaux-trade-rumors-course-180000454.html"
+      "published_at": "Thu, 04 Jun 2026 18:29:13 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/bo-nixs-recovery-timeline-looms-large-broncos-offense-takes-field-otas"
     },
     {
       "kind": "signing",
-      "title": "Steelers sign former first round linebacker to one-year deal",
-      "title_ja": "Steelers が元1巡目指名ラインバッカーと1年契約を結ぶ",
-      "excerpt": "Pittsburgh has now signed two players after minicamp tryouts this week.",
-      "excerpt_ja": "Pittsburgh は今週のミニキャンプトライアウト後、2選手と契約。",
+      "title": "Chargers agree to terms with first-round pick Akheem Mesidor",
+      "title_ja": null,
+      "excerpt": "The Chargers have agreed to a contract with their top pick in this year's draft.",
+      "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "PIT",
+      "team_abbrev": "LAC",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 17:50:55 +0000",
-      "url": "https://sports.yahoo.com/articles/steelers-sign-former-first-round-175055123.html"
+      "published_at": "Thu, 04 Jun 2026 18:16:53 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-agree-to-terms-with-first-round-pick-akheem-mesidor"
+    },
+    {
+      "kind": "signing",
+      "title": "Rams sign seventh-round DT Tim Keenan III",
+      "title_ja": null,
+      "excerpt": "The Rams signed seventh-round defensive tackle Tim Keenan III on Thursday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 18:16:53 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-sign-seventh-round-dt-tim-keenan-iii"
+    },
+    {
+      "kind": "other",
+      "title": "Bone Bruise Sidelines Yankees' Star Aaron Judge for Third Consecutive Game",
+      "title_ja": null,
+      "excerpt": "Aaron Judge was out of the lineup Thursday for a third straight game and the New York Yankees were awaiting clarity about a bone bruise in one of his right ribs that is causing right shoulder pain.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 18:11:31 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/bone-bruise-sidelines-yankees-star-aaron-judge-third-consecutive-game"
+    },
+    {
+      "kind": "trade",
+      "title": "Kalshi Promo Code FOXSPORTS: Trade $10, Get a $10 Bonus for Game 2 of the Stanley Cup Finals",
+      "title_ja": null,
+      "excerpt": "Kalshi Promo Code FOXSPORTS: Trade $10, Get a $10 Bonus for Game 2 of the Stanley Cup Finals.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 18:02:14 -0400",
+      "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code-foxsports-trade-10-get-10-bonus-game-2-stanley-cup-finals"
+    },
+    {
+      "kind": "trade",
+      "title": "Polymarket Promo Code FOX: Claim a $50 Trade Bonus Ahead of Game 2 Golden Knights vs. Hurricanes",
+      "title_ja": null,
+      "excerpt": "Polymarket Promo Code FOX: Claim a $50 Trade Bonus Ahead of Vegas Golden Knights vs. Carolina Hurricanes Stanley Cup Game 2.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 18:01:16 -0400",
+      "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code-fox-claim-50-trade-bonus-ahead-game-2-golden-knights-vs-hurricanes"
+    },
+    {
+      "kind": "other",
+      "title": "BetMGM Bonus Code FOXSPORTS: Claim up to $1500 in Bonus Bets for Game 2 of the Stanley Cup Finals",
+      "title_ja": null,
+      "excerpt": "BetMGM Bonus Code FOXSPORTS: Claim up to $1500 in Bonus Bets for Game 2 of the Stanley Cup Finals, Golden Knights-Hurricanes.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 18:01:11 -0400",
+      "url": "https://www.foxsports.com/stories/betting/betmgm-bonus-code-foxsports-claim-up-1500-bonus-bets-game-2-stanley-cup-finals"
+    },
+    {
+      "kind": "injury",
+      "title": "Japan Switches Monterrey World Cup Training Site Due To Field Conditions",
+      "title_ja": null,
+      "excerpt": "Japan’s national team has changed practice venues in Monterrey ahead of the World Cup after players encountered an uneven pitch marred by patches of dirt at their original training ground.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 04 Jun 2026 17:46:56 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/pitch-problems-japan-switches-monterrey-training-sites-ahead-of-world-cup"
     },
     {
       "kind": "other",
       "title": "2026 Belmont Stakes Odds, Predictions: Favorites, Picks",
-      "title_ja": "2026年ベルモントステークスのオッズと予想：有力馬と予想",
+      "title_ja": null,
       "excerpt": "Kentucky Derby winner Golden Tempo returns for the Belmont Stakes. Check out the latest odds for the Triple Crown finale.",
-      "excerpt_ja": "ケンタッキーダービーの優勝馬 Golden Tempo がベルモントステークス出走予定。トリプルクラウン最終戦の最新オッズを確認。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -550,9 +694,9 @@
     {
       "kind": "injury",
       "title": "Neymar Not Traveling With Brazil For Friendly vs. Egypt Due To Calf Injury",
-      "title_ja": "ネイマールが脹脛の怪我により、エジプトとの親善試合のためのブラジル遠征に同行しない",
+      "title_ja": null,
       "excerpt": "Neymar is not traveling to Cleveland with Brazil's World Cup team for its exhibition tuneup against Egypt.",
-      "excerpt_ja": "ネイマールはエジプトとの親善試合のため Cleveland に向かう Brazil のワールドカップチームに同行していない。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -566,9 +710,9 @@
     {
       "kind": "other",
       "title": "Haiti vs Peru: How to Watch, Prediction, Odds, Friendly Preview",
-      "title_ja": "Haiti vs Peru：視聴方法、予想、オッズ、親善試合プレビュー",
+      "title_ja": null,
       "excerpt": "Haiti and Peru play in an international friendly. Find out how to watch, betting odds, team form, and more.",
-      "excerpt_ja": "Haiti と Peru が国際親善試合をプレー。視聴方法、ベッティングオッズ、チーム調子などを確認。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -582,9 +726,9 @@
     {
       "kind": "other",
       "title": "Cowboys to hold a joint practice with the Rams in addition to the Saints",
-      "title_ja": "Cowboys が Saints に加えて Rams との合同練習を実施予定",
+      "title_ja": null,
       "excerpt": "The Cowboys and Rams do not play in the preseason, but they both train in Southern California.",
-      "excerpt_ja": "Cowboys と Rams はプリシーズンでは対戦しないが、どちらも南カリフォルニアで練習を行う。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -598,9 +742,9 @@
     {
       "kind": "other",
       "title": "Liverpool Hires Former Bournemouth Manager Andoni Iraola After Arne Slot Departure",
-      "title_ja": "Liverpool が Arne Slot 退任後、元 Bournemouth マネージャー Andoni Iraola をヘッドコーチとして雇用",
+      "title_ja": null,
       "excerpt": "Liverpool has hired Andoni Iraola as head coach, less than a week after firing Arne Slot.",
-      "excerpt_ja": "Liverpool は Arne Slot を解任して1週間足らずで、Andoni Iraola をヘッドコーチとして雇用した。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -614,9 +758,9 @@
     {
       "kind": "signing",
       "title": "Dolphins sign first-round pick Chris Johnson, complete 2026 draft class",
-      "title_ja": "Dolphins が1巡目指名 Chris Johnson と契約、2026年ドラフト全選手との契約を完了",
+      "title_ja": null,
       "excerpt": "The Dolphins have gotten their entire 2026 draft class under contract.",
-      "excerpt_ja": "Dolphins は2026年ドラフト全選手との契約を済ませた。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -630,9 +774,9 @@
     {
       "kind": "signing",
       "title": "Texans sign first-round OL Keylan Rutledge",
-      "title_ja": "Texans が1巡目指名 OL Keylan Rutledge と契約",
+      "title_ja": null,
       "excerpt": "The Texans have agreed to terms with first-round offensive lineman Keylan Rutledge on his four-year rookie contract, Aaron Wilson of KPRC reports.",
-      "excerpt_ja": "Texans は1巡目指名オフェンスライン Keylan Rutledge と4年間のルーキー契約で合意。Aaron Wilson（KPRC）が報じた。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -900,22 +1044,6 @@
       "url": "https://www.foxsports.com/stories/nfl/nfl-trade-candidates-5-best-remaining-players-potential-landing-spots"
     },
     {
-      "kind": "signing",
-      "title": "Betr Promo Code FOXSPORTS: Unlock $210 in Bonus Bets",
-      "title_ja": null,
-      "excerpt": "Use the Betr promo code FOXSPORTS to unlock $10 in Betr Bucks plus a 50% deposit match up to $200 extra. Sign up, claim your rewards, and start making picks today.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 13:03:07 -0400",
-      "url": "https://www.foxsports.com/stories/betting/betr-promo-code"
-    },
-    {
       "kind": "other",
       "title": "George Pickens is not at OTAs, Cowboys expect him to be at mandatory minicamp",
       "title_ja": null,
@@ -1157,22 +1285,6 @@
     },
     {
       "kind": "other",
-      "title": "Russell Wilson Retires: Seahawks Legend's NFL Career By The Numbers",
-      "title_ja": null,
-      "excerpt": "Star quarterback Russell Wilson has retired from the NFL. Here's the Seattle Seahawks legend's NFL career by the numbers.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 10:53:47 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/russell-wilson-retires-seahawks-career-by-the-numbers"
-    },
-    {
-      "kind": "other",
       "title": "L'Jarius Sneed visiting with Chiefs on Thursday",
       "title_ja": null,
       "excerpt": "There may be a reunion in Kansas City.",
@@ -1202,150 +1314,6 @@
       "coach_name": null,
       "published_at": "Thu, 04 Jun 2026 10:26:32 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/maxx-crosby-im-really-excited-for-what-fernando-mendoza-will-bring-to-this-team"
-    },
-    {
-      "kind": "other",
-      "title": "Jared Verse shows up for practice in No. 8, even though it's Dillon Gabriel's number (for now)",
-      "title_ja": null,
-      "excerpt": "The second Verse is, for now, same as the first.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 09:45:20 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-verse-shows-up-for-practice-in-no-8-even-though-its-dillon-gabriels-number-for-now"
-    },
-    {
-      "kind": "rumor",
-      "title": "2026 World Cup Odds: Which Continent Will Produce Next Winner?",
-      "title_ja": null,
-      "excerpt": "Based on the odds, the next World Cup winner could come from Europe or South America. Here's the latest.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 09:14:40 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-top-countries-winning-continent"
-    },
-    {
-      "kind": "other",
-      "title": "Yankees Vs. Red Sox: Historic MLB Rivalry By The Numbers",
-      "title_ja": null,
-      "excerpt": "The New York Yankees and Boston Red Sox have the most iconic rivalry in MLB history. Here's the rivalry by the numbers.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 09:12:01 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/yankees-vs-red-sox-historic-mlb-rivalry-numbers"
-    },
-    {
-      "kind": "other",
-      "title": "Fanatics Sportsbook Promo Code: Get Up to $1,000 in FanCash",
-      "title_ja": null,
-      "excerpt": "Fanatics Sportsbook Promo: 10 x $100 Bet Matches In FanCash. New customers get a 100% bet match up to $100 in FanCash for 10 days.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 07:00:51 -0400",
-      "url": "https://www.foxsports.com/stories/betting/fanatics-promo-code"
-    },
-    {
-      "kind": "other",
-      "title": "BetMGM Bonus Code FOXSPORTS: $1500 in Bonus Bets if Your First Bet Loses",
-      "title_ja": null,
-      "excerpt": "Use BetMGM Bonus Code FOXSPORTS to get up to $1,500 back in Bonus Bets if your first wager loses. Claim your BetMGM welcome offer today.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 07:00:50 -0400",
-      "url": "https://www.foxsports.com/stories/betting/betmgm-promo-code"
-    },
-    {
-      "kind": "other",
-      "title": "FanDuel Promo Code: Get $350 in Bonus Bets Guaranteed When You Bet $5 for 7 Days!",
-      "title_ja": null,
-      "excerpt": "Get $350 in Bonus Bets when you bet $5 for seven days with our FanDuel sportsbook offer for new users.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 07:00:44 -0400",
-      "url": "https://www.foxsports.com/stories/betting/fanduel-promo-code"
-    },
-    {
-      "kind": "other",
-      "title": "bet365 Bonus Code: Bet $10, Get $200 in Bonus Bets Win or Lose with Promo Code FOX365",
-      "title_ja": null,
-      "excerpt": "Claim the bet365 Sportsbook promo code which give you $365 in bonus bets.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 07:00:39 -0400",
-      "url": "https://www.foxsports.com/stories/betting/bet365-promo-code"
-    },
-    {
-      "kind": "other",
-      "title": "Caesars Promo Code FOXDYW: 10 × 100% Profit Boost Tokens",
-      "title_ja": null,
-      "excerpt": "Caesars Sportsbook Promo Code 'FOXDYW' Bet $1, Double Your Winnings Your Next 10 Wagers.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 07:00:14 -0400",
-      "url": "https://www.foxsports.com/stories/betting/caesars-sportsbook-promo-code"
-    },
-    {
-      "kind": "other",
-      "title": "Czechia vs Guatemala: How to Watch, Prediction, Odds, Friendly Preview",
-      "title_ja": null,
-      "excerpt": "Czechia and Guatemala in an international friendly. Here’s how to watch, team form, betting odds and more.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 04 Jun 2026 06:11:49 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/czechia-vs-guatemala-how-watch-prediction-odds-friendly-preview"
     },
     {
       "kind": "other",

@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-06-07T15:54:48.872116+00:00",
-  "count": 125,
+  "generated_at": "2026-06-07T17:22:35.756193+00:00",
+  "count": 124,
   "items": [
     {
       "kind": "injury",
       "title": "100 things to know for the 2026 NFL season ... 100...",
-      "title_ja": null,
+      "title_ja": "2026年NFL シーズンに向けて知っておくべき100のこと...100...",
       "excerpt": "100 things to know, including bold predictions, fantasy sleepers and injury buzz.",
-      "excerpt_ja": null,
+      "excerpt_ja": "大胆な予想、ファンタジーの穴場選手、そして怪我情報を含む100のポイント。",
       "sources": [
         "ESPN NFL"
       ],
@@ -22,9 +22,9 @@
     {
       "kind": "injury",
       "title": "Worst-to-first rankings: Which NFL teams are most ...",
-      "title_ja": null,
+      "title_ja": "最下位から首位へ：NFL各チームの躍進の可能性をランク付け",
       "excerpt": "We stacked last season's last-place finishers in each division by their chances to jump all the way to first. Will the Lions get back on top in the NFC North?",
-      "excerpt_ja": null,
+      "excerpt_ja": "昨シーズン各ディビジョンで最下位だったチームを、今季首位に躍り出る可能性でランク付けした。Lionsは NFC North で返り咲けるか？",
       "sources": [
         "ESPN NFL"
       ],
@@ -38,9 +38,9 @@
     {
       "kind": "trade",
       "title": "10 players who could get traded before the season'...",
-      "title_ja": null,
+      "title_ja": "シーズン開幕前にトレード候補となる可能性のある10選手",
       "excerpt": "The NFL trade deadline isn't until November, but we're making early predictions on 10 players.",
-      "excerpt_ja": null,
+      "excerpt_ja": "NFLのトレード期限は11月だが、10選手について早期予想を立てている。",
       "sources": [
         "ESPN NFL"
       ],
@@ -54,9 +54,9 @@
     {
       "kind": "other",
       "title": "Can adding 44 years of vet leadership help Jets re...",
-      "title_ja": null,
+      "title_ja": "44年のベテランリーダーシップを加えることで、Jetsの再建は進むか",
       "excerpt": "As the urgency to win increases, New York hopes its offseason moves will help alleviate growing pressures.",
-      "excerpt_ja": null,
+      "excerpt_ja": "優勝への緊急性が高まる中、ニューヨークはオフシーズンの補強がプレッシャーを軽減することを期待している。",
       "sources": [
         "ESPN NFL"
       ],
@@ -69,10 +69,74 @@
     },
     {
       "kind": "other",
+      "title": "The Year 2 bar for Raiders wide receiver Jack Bech",
+      "title_ja": "Raiders WR Jack Bech の2年目の課題",
+      "excerpt": "With physicality, the 2nd-year wideout can be a power slot, run-blocking asset who has the hands, mentality to move chains",
+      "excerpt_ja": "フィジカルな強さを持つ2年目のワイドレシーバーは、スロット適性とランブロッキング能力を備え、キャッチ精度と鎖を動かすメンタリティを兼ね備えている。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 07 Jun 2026 17:10:00 +0000",
+      "url": "https://sports.yahoo.com/articles/2-bar-raiders-wide-receiver-171000586.html"
+    },
+    {
+      "kind": "other",
+      "title": "What to know about Brandon Aiyuk, 49ers tension amid cryptic posts",
+      "title_ja": "Brandon Aiyuk、49ersとの関係悪化を示唆する投稿について",
+      "excerpt": "Brandon Aiyuk remains with the 49ers, but his latest social media activity indicates he isn&#39;t happy about that.",
+      "excerpt_ja": "Brandon Aiyuk は49ersに留まっているが、最新のソーシャルメディア活動は彼が現状に満足していないことを示唆している。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 07 Jun 2026 16:48:25 +0000",
+      "url": "https://sports.yahoo.com/articles/know-brandon-aiyuk-49ers-tension-164825079.html"
+    },
+    {
+      "kind": "other",
+      "title": "Browns DE Jared Verse film: 4 plays vs Ravens highlight skill, strength, versatility",
+      "title_ja": "Browns DE Jared Verse フィルム分析：Ravensとの対戦から見える技術、パワー、多才さ",
+      "excerpt": "New Cleveland Browns DE Jared Verse is strong, versatile, and skilled. This film breakdown shows that vs the Ravens",
+      "excerpt_ja": "新しくCleveland Brownsに加わった DE Jared Verse はパワフルで多才、そしてスキルに優れている。このフィルム分析はRavensとの試合での彼を示している。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 07 Jun 2026 16:23:58 +0000",
+      "url": "https://sports.yahoo.com/articles/browns-jared-verse-film-4-162358030.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cowboys left tackle battle fuels unnecessary panic",
+      "title_ja": "Cowboys左タックル争いが不要なパニックを招いている",
+      "excerpt": "How concerned are you about the left tackle situation?",
+      "excerpt_ja": "左タックル周辺の状況についてどの程度心配しているか？",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 07 Jun 2026 16:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-left-tackle-battle-fuels-160000629.html"
+    },
+    {
+      "kind": "other",
       "title": "Bills news: What did Brandon Beane observe during OTAs?",
-      "title_ja": null,
+      "title_ja": "Bills ニュース：Brandon Beane が OTA で何を見出したか",
       "excerpt": "Brandon Beane was impressed with how Jude Bowry, Skyler Bell and Kaleb Elarms-Orr handled themselves in practice.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Brandon Beane は、Jude Bowry、Skyler Bell、Kaleb Elarms-Orr がプラクティスでどのようにパフォーマンスしたかに好印象を抱いた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +150,9 @@
     {
       "kind": "other",
       "title": "Brandon Aiyuk shirtless, Commanders hat and quoting Drake",
-      "title_ja": null,
+      "title_ja": "Brandon Aiyuk の上半身裸、Commanders キャップ、Drake の引用",
       "excerpt": "Aiyuk posted twice 3 times to Instagram yesterday, shirtless, wearing a Commanders hat and quoting Drake’s latest album",
-      "excerpt_ja": null,
+      "excerpt_ja": "Aiyuk は昨日Instagram に3度投稿し、上半身裸でCommandersキャップを被り、Drake の最新アルバムを引用していた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +166,9 @@
     {
       "kind": "other",
       "title": "Seahawks fans weigh in on Super Bowl chances after Rams get Myles Garrett",
-      "title_ja": null,
+      "title_ja": "Rams が Myles Garrett を獲得した後、Seahawks ファンがスーパーボウル優勝の可能性を評価",
       "excerpt": "Some fans aren’t moved by what the Rams did, while others are clearly at least somewhat concerned.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Rams の動きに影響を受けないファンもいれば、少なくとも懸念を示すファンもいる。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +182,9 @@
     {
       "kind": "other",
       "title": "Raiders QB Fernando Mendoza officially graduated from Cal",
-      "title_ja": null,
+      "title_ja": "Raiders QB Fernando Mendoza が Cal を正式に卒業",
       "excerpt": "New Las Vegas Raiders quarterback Fernando Mendoza got his degree from Cal",
-      "excerpt_ja": null,
+      "excerpt_ja": "Las Vegas Raiders の新しいQB Fernando Mendoza は Cal から学位を取得した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +198,9 @@
     {
       "kind": "other",
       "title": "Q&A with Baltimore Beatdown on Baltimore’s rookie class",
-      "title_ja": null,
+      "title_ja": "Baltimore Beatdown との Q&A：Baltimore のルーキークラスについて",
       "excerpt": "The Ravens selected 11 players in the 2026 NFL Draft. Which ones will make an impact this fall?",
-      "excerpt_ja": null,
+      "excerpt_ja": "Ravens は2026年NFLドラフトで11選手を指名した。どの選手が今秋インパクトを与えるか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +214,9 @@
     {
       "kind": "signing",
       "title": "2026 AFC North Positional Rankings: Running Back",
-      "title_ja": null,
+      "title_ja": "2026年 AFC North ポジション別ランキング：ランニングバック",
       "excerpt": "During this year’s free agency cycle and 2026 NFL draft, all four AFC North teams made significant moves to add talent to their rosters. While more additions are still possible over the next few months, everyone’s core players are mostly set ahead of the 2026 season. How do the different positional ",
-      "excerpt_ja": null,
+      "excerpt_ja": "今年度のフリーエージェント時期と2026年NFLドラフトを通じて、AFC North の4チームすべてがロスターに才能を加えるための大きな動きをした。今後数ヶ月でさらなる補強が行われる可能性があるが、全チームのコア選手はほぼ確定している。各ポジション別の比較はどうなっているか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +230,9 @@
     {
       "kind": "other",
       "title": "Pre-Snap Reads 6/7: What will the Seahawks’ O-line look like in 2026?",
-      "title_ja": null,
+      "title_ja": "Pre-Snap Reads 6/7：Seahawks のOラインは2026年どうなるか",
       "excerpt": "The RG position (hopefully) will be hotly contested.",
-      "excerpt_ja": null,
+      "excerpt_ja": "RG ポジションは（うまくいけば）激しい競争になるだろう。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +246,9 @@
     {
       "kind": "other",
       "title": "30 Day Challenge: If The Bears Retire One More Number, Which Should It Be?",
-      "title_ja": null,
+      "title_ja": "30日チャレンジ：Bears がもう一つのナンバーをリタイアするとしたら、どれにすべきか",
       "excerpt": "If the Bears retired one more number, which one should it be? @BryanOrenchuk shares his thoughts on the whole idea here.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Bears がもう一つのナンバーをリタイアするとしたら、どれにすべきか？@BryanOrenchuk がこのアイデアについて彼の考えを共有している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -196,11 +260,27 @@
       "url": "https://sports.yahoo.com/articles/30-day-challenge-bears-retire-130000962.html"
     },
     {
+      "kind": "injury",
+      "title": "With Sean McVay, Rams have coaching edge in most 2026 NFL matchups",
+      "title_ja": "Sean McVay を迎えた Rams は2026年NFLのほとんどのマッチアップでコーチング面で優位",
+      "excerpt": "The Rams hit the jackpot when they hired Sean McVay as their head coach in 2017.",
+      "excerpt_ja": "Rams は2017年に Sean McVay をヘッドコーチとして採用した時に大当たりを引いた。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 07 Jun 2026 13:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/sean-mcvay-rams-coaching-edge-130000334.html"
+    },
+    {
       "kind": "signing",
       "title": "It’s now or never for Eric Watts to find a role with the Jets",
-      "title_ja": null,
+      "title_ja": "Eric Watts が Jets での役割を見つけるのは今か決断の時",
       "excerpt": "Through the spring and summer, we will be counting down the Jets roster player by player. We continue the series by discussing Eric Watts. Name: Eric Watts Number: 95 Year With Jets: 3rd Projected Role: Vying for rotational defensive end spot His 2025: Watts did not make the initial 53 man roster ou",
-      "excerpt_ja": null,
+      "excerpt_ja": "春から夏にかけて、Jets ロスターをプレイヤーごとにカウントダウンしていく。今回は Eric Watts について議論する。名前：Eric Watts 背番号：95 Jets での年数：3年目 予想される役割：ロテーショナルディフェンシブエンドの争いに参加 2025年のパフォーマンス：Watts は初期53人ロスターに選ばれなかった",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +294,9 @@
     {
       "kind": "other",
       "title": "Forgotten additions from the Cowboys defense",
-      "title_ja": null,
+      "title_ja": "Cowboys ディフェンスの忘れられていた補強",
       "excerpt": "There are a few forgotten additions that the Cowboys made on defense this offseason",
-      "excerpt_ja": null,
+      "excerpt_ja": "Cowboys がこのオフシーズンに行ったディフェンスの補強の中に、注目されていないものがいくつかある。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +310,9 @@
     {
       "kind": "other",
       "title": "Does rookie Tommy Doman Jr. win the starting punter gig?",
-      "title_ja": null,
+      "title_ja": "ルーキー Tommy Doman Jr. がスターティングパンターの座を勝ち取るか",
       "excerpt": "Will Doman Jr. go from late-round pick to starting punter as a rookie?",
-      "excerpt_ja": null,
+      "excerpt_ja": "Doman Jr. は後期指名から、ルーキーシーズンでスターティングパンターに成り上がるか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +326,9 @@
     {
       "kind": "other",
       "title": "2026 Season Opener Countdown: 98 Days Remaining",
-      "title_ja": null,
+      "title_ja": "2026シーズンオープニング カウントダウン：98日残す",
       "excerpt": "We continue our countdown to the Panthers opening the 2026 season against the Chicago Bears",
-      "excerpt_ja": null,
+      "excerpt_ja": "Panthers が2026年シーズンを Chicago Bears を相手に開幕することへのカウントダウンを続けている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +342,9 @@
     {
       "kind": "injury",
       "title": "NY Giants minicamp storylines: Where do the rookies fit?",
-      "title_ja": null,
+      "title_ja": "NY Giants ミニキャンプの注目ポイント：ルーキーたちはどこにはまるか",
       "excerpt": "The New York Giants enter the final stretch of their offseason program, with mandatory minicamp from Monday June 8 through Wednesday, June 10. Intensity will ramp up with practices of 2½ hours set for the first two days. Here is a look at how the team’s rookie class has done so far, and what we […]",
-      "excerpt_ja": null,
+      "excerpt_ja": "New York Giants はオフシーズンプログラムの最終段階に入り、6月8日月曜から6月10日水曜まで強制ミニキャンプを開催する。最初の2日間のプラクティスは2時間半と高い集中度が求められる。ここまでチームのルーキークラスがどう過ごしているか、そして何を期待するかを見ていく。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -278,9 +358,9 @@
     {
       "kind": "signing",
       "title": "Film study: What veteran WR JuJu Smith-Schuster offers the NY Giants",
-      "title_ja": null,
+      "title_ja": "フィルム分析：ベテラン WR JuJu Smith-Schuster が NY Giants にもたらすもの",
       "excerpt": "The Giants signed JuJu Smith-Schuster — how the veteran receiver can crack the final 53",
-      "excerpt_ja": null,
+      "excerpt_ja": "Giants が JuJu Smith-Schuster と契約―ベテランレシーバーが最終53人ロスターを勝ち取る方法",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +374,9 @@
     {
       "kind": "other",
       "title": "Can Jaden Robinson emerge in his second season with the Broncos and earn a spot on the final 53-man roster?",
-      "title_ja": null,
+      "title_ja": "Jaden Robinson は Broncos での2年目に頭角を現し、最終53人ロスターのスポットを勝ち取ることができるか",
       "excerpt": "After a year on the practice squad, is Jaden Robinson poised to earn a spot on the Broncos’ final 53-man roster?",
-      "excerpt_ja": null,
+      "excerpt_ja": "プラクティススクアッドで1年を過ごした後、Jaden Robinson は Broncos の最終53人ロスターのスポットを勝ち取る準備ができているか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -310,9 +390,9 @@
     {
       "kind": "other",
       "title": "Kayshon Boutte confirms status for Patriots minicamp",
-      "title_ja": null,
+      "title_ja": "Kayshon Boutte が Patriots ミニキャンプへの参加を確認",
       "excerpt": "The fourth-year wide receiver was absent from voluntary offseason workouts.",
-      "excerpt_ja": null,
+      "excerpt_ja": "4年目のワイドレシーバーは自主的なオフシーズン練習を欠席していた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -326,9 +406,9 @@
     {
       "kind": "other",
       "title": "Ted Karras reacts to Joe Burrow Super Bowl prediction",
-      "title_ja": null,
+      "title_ja": "Ted Karras が Joe Burrow のスーパーボウル予想に反応",
       "excerpt": "Expectations are sky-high.",
-      "excerpt_ja": null,
+      "excerpt_ja": "期待値は非常に高い。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -342,9 +422,9 @@
     {
       "kind": "other",
       "title": "Cowboys news: DTs Williams and Clark discuss new defense",
-      "title_ja": null,
+      "title_ja": "Cowboys ニュース：DT Williams と Clark が新しいディフェンスについて語る",
       "excerpt": "﻿Your Sunday morning Cowboys news.",
-      "excerpt_ja": null,
+      "excerpt_ja": "日曜朝の Cowboys ニュース。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -358,9 +438,9 @@
     {
       "kind": "other",
       "title": "New York Jets Flight Connections 06/07/26",
-      "title_ja": null,
+      "title_ja": "New York Jets フライト コネクションズ 06/07/26",
       "excerpt": "Happy Sunday, Jets fans! Below are your daily links. Michael Nania – Here’s where NY Jets’ top defensive trio ranks across the NFL Joe Blewett – NY Jets film session: What does Kingsley Enagbare offer the DL? Connor Long – The key difference between NY Jets’ 2025 and 2026 rosters Connor Long – Is Da",
-      "excerpt_ja": null,
+      "excerpt_ja": "Jets ファンの皆さん、おはようございます！以下は日々のリンク集です。Michael Nania – NY Jets のトップディフェンシブ トリオは NFL 全体でどのようにランク付けされているか Joe Blewett – NY Jets フィルム セッション：Kingsley Enagbare がディフェンシブラインにもたらすもの Connor Long – NY Jets の2025年と2026年ロスターの主な違い Connor Long – Da",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -374,9 +454,9 @@
     {
       "kind": "other",
       "title": "2026 NASCAR Odds: Tyler Reddick Favored For Michigan, Denny Hamlin Second",
-      "title_ja": null,
+      "title_ja": "2026年 NASCAR オッズ：Tyler Reddick がミシガンで優勝候補、Denny Hamlin が次点",
       "excerpt": "Tyler Reddick is favored to win the NASCAR Cup Series race at Michigan but Denny Hamlin is a close second. Here are the latest odds.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Tyler Reddick はミシガンでの NASCAR Cup Series レースでの優勝候補だが、Denny Hamlin が接戦で次点。最新オッズは以下の通り。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -390,9 +470,9 @@
     {
       "kind": "other",
       "title": "USA Starting XI Player Ratings vs. Germany: Americans Lose Final World Cup Tune-Up",
-      "title_ja": null,
+      "title_ja": "ドイツ戦での USA スターティング イレブン 選手評価：アメリカはワールドカップ最終調整で敗北",
       "excerpt": "Here's how Maurice Edu rated the U.S. national team's starters in the loss to Germany.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Maurice Edu がドイツへの敗戦でアメリカ代表先発メンバーにレーティングを与えている。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -406,9 +486,9 @@
     {
       "kind": "trade",
       "title": "By not getting a raise, Myles Garrett will be taking a pay cut in California",
-      "title_ja": null,
+      "title_ja": "昇給を受けないことで、Myles Garrett はカリフォルニアでの給与カットを受けることになる",
       "excerpt": "In the days following his trade from the Browns to the Rams, defensive end Myles Garrett received a new contract.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Browns から Rams へのトレード直後、ディフェンシブエンド Myles Garrett は新しい契約を受け取った。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -422,9 +502,9 @@
     {
       "kind": "other",
       "title": "Sunday Patriots Notes: A.J. Brown looking to earn role in wide receiver room",
-      "title_ja": null,
+      "title_ja": "Sunday Patriots ノート：A.J. Brown がワイドレシーバーのポジション争いで役割を勝ち取ろうとしている",
       "excerpt": "Notes and thoughts on all things A.J. Brown.",
-      "excerpt_ja": null,
+      "excerpt_ja": "A.J. Brown に関するすべてのノートと考え。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -438,9 +518,9 @@
     {
       "kind": "rumor",
       "title": "One question will define J.K. Dobbins’ impact: Can he stay healthy?",
-      "title_ja": null,
+      "title_ja": "J.K. Dobbins のインパクトを定義する1つの質問：健康を保つことができるか",
       "excerpt": "Talent has never been in question. If J.K. Dobbins can stay healthy, he could become a major piece of Denver’s offense.",
-      "excerpt_ja": null,
+      "excerpt_ja": "才能について疑いの余地はない。J.K. Dobbins が健康を保つことができれば、Denver のオフェンスの重要なピースになる可能性がある。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -454,9 +534,9 @@
     {
       "kind": "rumor",
       "title": "No, A.J. Brown did not say he \"leaked\" Eagles stories to the media",
-      "title_ja": null,
+      "title_ja": "いいえ、A.J. Brown はメディアに Eagles のストーリーを「リーク」したとは言っていない",
       "excerpt": "Too many reporters and outlets falsely claimed otherwise.",
-      "excerpt_ja": null,
+      "excerpt_ja": "多くのレポーターとメディアがそうでないことを誤って主張した。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -470,9 +550,9 @@
     {
       "kind": "other",
       "title": "5 O’Clock Club: Would you turn off a Commanders game if Tony Romo was calling the game?",
-      "title_ja": null,
+      "title_ja": "5時クラブ：Tony Romo が Commanders のゲームを担当していたら、試合を見るのをやめますか",
       "excerpt": "Former star players can get paid multi-million dollar salaries to do a job they may not be particularly good at",
-      "excerpt_ja": null,
+      "excerpt_ja": "元スター選手は、特に得意でないかもしれない仕事をするために何百万ドルもの給与を得られる。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -486,9 +566,9 @@
     {
       "kind": "other",
       "title": "49ers News: Can’t wait to see how Raheem Morris and Fred Warner lead this defense together",
-      "title_ja": null,
+      "title_ja": "49ers ニュース：Raheem Morris と Fred Warner がこのディフェンスをリードする姿を見るのが待ちきれない",
       "excerpt": "Your daily San Francisco 49ers news for Sunday, June 6th, 2026",
-      "excerpt_ja": null,
+      "excerpt_ja": "2026年6月6日日曜日の San Francisco 49ers 日刊ニュース",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -502,9 +582,9 @@
     {
       "kind": "other",
       "title": "Of course Indiana is leverage for the Bears in Illinois",
-      "title_ja": null,
+      "title_ja": "もちろん Indiana は Illinois での Bears のレバレッジになる",
       "excerpt": "The question isn't whether Hammond is leverage, but whether it's a bluff.",
-      "excerpt_ja": null,
+      "excerpt_ja": "問題は Hammond がレバレッジであるかどうかではなく、それがブラフであるかどうかである。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -518,9 +598,9 @@
     {
       "kind": "trade",
       "title": "Kayshon Boutte says he will attend Patriots&#39; mandatory minicamp amid talk of a trade",
-      "title_ja": null,
+      "title_ja": "Kayshon Boutte がトレード話の中で Patriots の強制ミニキャンプに参加すると述べた",
       "excerpt": "Patriots wide receiver Kayshon Boutte has skipped voluntary offseason work and is reportedly interested in getting traded.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Patriots のワイドレシーバー Kayshon Boutte は自主的なオフシーズン練習をスキップしており、トレード志向の報道がある。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -534,9 +614,9 @@
     {
       "kind": "presser",
       "title": "Josh McDaniels: Drake Maye knows a hell of a lot more than he did last year at this time",
-      "title_ja": null,
+      "title_ja": "Josh McDaniels：Drake Maye は昨年の今頃よりもはるかに多くのことを知っている",
       "excerpt": "\"This offseason is different,\" McDaniels said. \"Last offseason, we were just getting to know the language and learning how to operate within a system of offensive football.\"",
-      "excerpt_ja": null,
+      "excerpt_ja": "\"このオフシーズンは異なる\" とMcDaniels は述べた。\"昨年のオフシーズンは、言語を学び、オフェンシブフットボールのシステム内でどう動くかを学んでいるところだった。\"",
       "sources": [
         "Pro Football Talk"
       ],
@@ -550,9 +630,9 @@
     {
       "kind": "other",
       "title": "Myles Garrett delivers in his first L.A. appearance",
-      "title_ja": null,
+      "title_ja": "Myles Garrett が LA での初登場で活躍",
       "excerpt": "As Dolphins quarterback Malik Willis learned last month, throwing out the first pitch at a Major League Baseball game is usually a no-win proposition.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Dolphins のクォーターバック Malik Willis が先月学んだように、メジャーリーグベースボールのオープニングセレモニーで始球式を投げることは通常、損しかない。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -596,22 +676,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kayshon-boutte-says-he-will-attend-patriots-mandatory-minicamp-amid-talk-of-a-trade"
     },
     {
-      "kind": "trade",
-      "title": "Maxx Crosby looking to put trade rumors behind him",
-      "title_ja": null,
-      "excerpt": "After nearly being traded to the Ravens during the offseason, Maxx Crosby said he is looking to put all the trade rumors behind him and wants to focus on being...",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 07 Jun 2026 03:43:21 +0000",
-      "url": "https://sports.yahoo.com/articles/maxx-crosby-looking-put-trade-034321848.html"
-    },
-    {
       "kind": "other",
       "title": "Denmark vs Ukraine: How to Watch, Prediction, Odds, Friendly Preview",
       "title_ja": null,
@@ -626,22 +690,6 @@
       "coach_name": null,
       "published_at": "Sun, 07 Jun 2026 01:38:09 -0400",
       "url": "https://www.foxsports.com/stories/soccer/denmark-vs-ukraine-how-watch-prediction-odds-friendly-preview"
-    },
-    {
-      "kind": "injury",
-      "title": "Seahawks are getting their Super Bowl LX rings on June 11",
-      "title_ja": null,
-      "excerpt": "Super Bowl MVP Kenneth Walker III, now with the Chiefs, has said he&#39;ll be there.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 07 Jun 2026 01:08:34 +0000",
-      "url": "https://sports.yahoo.com/articles/seahawks-getting-super-bowl-lx-010834076.html"
     },
     {
       "kind": "other",
@@ -674,38 +722,6 @@
       "coach_name": null,
       "published_at": "Sun, 07 Jun 2026 00:43:46 -0400",
       "url": "https://www.foxsports.com/stories/soccer/messi-sits-out-argentinas-friendly-against-honduras-while-managing-muscle-fatigue-hamstring-strain"
-    },
-    {
-      "kind": "other",
-      "title": "Alex Smith gives brutally honest answer about Brock Purdy",
-      "title_ja": null,
-      "excerpt": "Alex Smith gives honest answer about Brock Purdy as a guest on The Krueg Show.Since Brock Purdy was drafted with the 262nd pick of the NFL Draft by the 49ers...",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 07 Jun 2026 00:12:50 +0000",
-      "url": "https://sports.yahoo.com/articles/alex-smith-gives-brutally-honest-001250956.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Miami Dolphins Discussion: Could He Be The One",
-      "title_ja": null,
-      "excerpt": "We ask Dolphins fans if running back De’Von Achane can hit the 1,000 yd mark in both receiving and rushing this season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 07 Jun 2026 00:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/miami-dolphins-discussion-could-one-000000271.html"
     },
     {
       "kind": "trade",
@@ -853,22 +869,6 @@
     },
     {
       "kind": "other",
-      "title": "NFL announces Prime Time preseason schedule. Cardinals are featured",
-      "title_ja": null,
-      "excerpt": "Only five national games announced",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 06 Jun 2026 23:23:52 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-announces-prime-time-preseason-232352497.html"
-    },
-    {
-      "kind": "other",
       "title": "Liechtenstein vs Cyprus: How to Watch, Prediction, Odds, Friendly Preview",
       "title_ja": null,
       "excerpt": "Liechtenstein hosts Cyprus in an international friendly at Rheinpark Stadion. Here's how to watch, betting odds, team form and more.",
@@ -908,7 +908,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "KC",
       "player_name": null,
       "coach_name": null,
@@ -1074,22 +1074,6 @@
       "coach_name": null,
       "published_at": "Sat, 06 Jun 2026 16:24:35 -0400",
       "url": "https://www.foxsports.com/stories/ufl/after-another-all-ufl-season-battlehawks-wr-hakeem-butler-hoping-nfl-call"
-    },
-    {
-      "kind": "other",
-      "title": "College Football Offseason Buzz: NCAA Denies Texas Tech's Appeal",
-      "title_ja": null,
-      "excerpt": "The college football news cycle never stops. With that in mind, here's a tracker of offseason buzz across the sport.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 06 Jun 2026 16:03:13 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/college-football-offseason-buzz"
     },
     {
       "kind": "presser",

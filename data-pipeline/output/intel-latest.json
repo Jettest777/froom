@@ -1,30 +1,46 @@
 {
   "version": 1,
-  "generated_at": "2026-06-08T21:23:14.826701+00:00",
-  "count": 109,
+  "generated_at": "2026-06-08T22:58:09.605012+00:00",
+  "count": 130,
   "items": [
     {
-      "kind": "rumor",
-      "title": "No, A.J. Brown did not say he \"leaked\" Eagles stories to the media",
-      "title_ja": "A.J. Brownがメディアにイーグルスの情報を「リーク」したというのは事実ではない",
-      "excerpt": "Too many reporters and outlets falsely claimed otherwise.",
-      "excerpt_ja": "多くの記者とメディアが誤った報道をしてしまった",
+      "kind": "other",
+      "title": "New FPI projections for the 2026 NFL season: Which...",
+      "title_ja": "2026年シーズンの新しいFPI予想：どのチームが...",
+      "excerpt": "ESPN's Football Power Index ratings are live. These simulations of the 2026 season provide playoff chances, potential draft order and our 1-32 team ranking.",
+      "excerpt_ja": "ESPNのFootball Power Indexレーティングが公開された。2026年シーズンのシミュレーションはプレイオフ進出確率、ドラフト順位の可能性、そして全32チームのランキングを提供する。",
       "sources": [
-        "Pro Football Talk"
+        "ESPN NFL"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
+      "reliability": 0.92,
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sun, 07 Jun 2026 09:34:50 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/no-a-j-brown-did-not-say-he-leaked-eagles-stories-to-the-media"
+      "published_at": "Thu, 4 Jun 2026 08:55:19 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48845972/2026-nfl-season-football-power-index-projections-super-bowl-chances-simulations"
+    },
+    {
+      "kind": "injury",
+      "title": "100 things to know for the 2026 NFL season ... 100...",
+      "title_ja": "2026年NFLシーズンに向けて知っておくべき100のこと...",
+      "excerpt": "100 things to know, including bold predictions, fantasy sleepers and injury buzz.",
+      "excerpt_ja": "大胆な予想、ファンタジーの穴場選手、そして怪我の話題を含む100のポイント。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 4 Jun 2026 08:55:19 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48894110/2026-nfl-season-100-days-nuggets-mvp-predictions-fantasy-rookies"
     },
     {
       "kind": "other",
       "title": "Of course Indiana is leverage for the Bears in Illinois",
-      "title_ja": "インディアナはイリノイ州のベアーズにとって有利な材料になるのは当然だ",
+      "title_ja": "当然のことながら、Indianaはイリノイ州のBearsにとって交渉カードになる",
       "excerpt": "The question isn't whether Hammond is leverage, but whether it's a bluff.",
-      "excerpt_ja": "Hammondが有利な材料になるかどうかが問題ではなく、それがブラフかどうかが焦点だ",
+      "excerpt_ja": "問題はHammondが交渉カードであるかどうかではなく、それが虚勢なのかどうかということだ。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -36,11 +52,331 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/of-course-indiana-is-leverage-for-the-bears-in-illinois"
     },
     {
+      "kind": "rumor",
+      "title": "Aiyuk appears to imply 49ers 'scared' to cut him",
+      "title_ja": "Aiyukが49ersは彼を放出するのに『恐れている』ことを示唆",
+      "excerpt": "Brandon Aiyuk posted a video to Instagram on Sunday, appearing to imply that the 49ers are afraid to release him because he could land elsewhere and eventually make them regret letting him go.",
+      "excerpt_ja": "Brandon Aiyukは日曜日にInstagramに動画を投稿し、49ersは彼が他のチームでプレーして最終的に彼らに後悔させる可能性があるため、彼を手放すのが怖いことを示唆するように見えた。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 17:58:42 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49002414/brandon-aiyuk-appears-imply-49ers-scared-release-him"
+    },
+    {
+      "kind": "trade",
+      "title": "Chiefs reunite with CB Sneed 2 years after trade",
+      "title_ja": "Chiefsがコーナーバック Sneedと2年ぶりに再契約",
+      "excerpt": "The Chiefs are signing cornerback L'Jarius Sneed, his agents, the Katz Brothers, told ESPN's Adam Schefter.",
+      "excerpt_ja": "Chiefsはコーナーバック L'Jarius Sneedと契約する。彼のエージェントであるKatz BrothersがこれをESPNのAdam Schefterに明かした。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 17:58:42 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49002989/chiefs-signing-veteran-cb-ljarius-sneed-agents-say"
+    },
+    {
+      "kind": "other",
+      "title": "Broncos' Cooper pleads not guilty; trial date set",
+      "title_ja": "Broncosの Cooperが不起訴を主張、公判日が決定",
+      "excerpt": "Broncos linebacker Jonathon Cooper pleaded not guilty Monday morning in a Douglas County (Colorado) courtroom to misdemeanor domestic violence charges.",
+      "excerpt_ja": "Broncosのラインバッカー Jonathon Cooperは月曜朝、コロラド州Douglas Countyの法廷で軽罪の家庭内暴力罪に対して不起訴を主張した。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 17:58:42 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49001482/broncos-cooper-pleads-not-guilty-trial-set-late-july"
+    },
+    {
+      "kind": "injury",
+      "title": "Giants' Carter leaves practice with ankle injury",
+      "title_ja": "Giantsの Carterが足首の怪我で練習を離脱",
+      "excerpt": "Giants second-year edge rusher Abdul Carter left practice early Monday due to a minor ankle injury.",
+      "excerpt_ja": "Giants2年目のエッジラッシャー Abdul Carterは月曜日、軽度の足首の怪我のため練習を早退した。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 17:58:42 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49003543/giants-abdul-carter-leaves-practice-ankle-injury"
+    },
+    {
+      "kind": "presser",
+      "title": "Falcons say no QB1 battle until Penix fully health...",
+      "title_ja": "Falconsは Penixが完全に復帰するまでQB1決定戦はないと表明...",
+      "excerpt": "The Falcons will not have a true quarterback competition between Tua Tagovailoa and Michael Penix Jr. until Penix is able to do all the things in practice that Tagovailoa can do, quarterbacks coach Alex Van Pelt said Monday.",
+      "excerpt_ja": "Falconsのクォーターバック Tua TagovailoaとMichael Penix Jr.の本当の競争は、Penixが練習でTagovailoaと同じすべてのことができるようになるまで行われないと、クォーターバック・コーチのAlex Van Peltが月曜日に述べた。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "ATL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 17:58:42 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49003555/qb-coach-falcons-qb1-battle-penix-fully-healthy"
+    },
+    {
+      "kind": "trade",
+      "title": "Ward wants to stay with Browns after Garrett deal",
+      "title_ja": "Wardは Garrett契約後も Brownersとの残留を望む",
+      "excerpt": "Browns cornerback Denzel Ward says he wants to remain in Cleveland, even after the team traded defensive end Myles Garrett to the Rams.",
+      "excerpt_ja": "Brownsのコーナーバック Denzel Wardは、チームがディフェンシブエンド Myles GarrettをRamsにトレードした後も、クリーブランドに留まりたいと述べた。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 17:58:42 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48984752/ward-definitely-wants-stay-browns-garrett-trade"
+    },
+    {
+      "kind": "signing",
+      "title": "Bears edge closer to move to Northwest Indiana",
+      "title_ja": "Bearsが北西インディアナ移転に近づく",
+      "excerpt": "The Bears took a significant step toward leaving Chicago on Friday after the team's board of directors voted Thursday to advance their stadium development plans in nearby Hammond, Indiana.",
+      "excerpt_ja": "Bearsはスタジアム開発計画をインディアナ州Hammond近郊で進めることを理事会が木曜日に投票した後、金曜日にシカゴを出ていく方向へ大きな一歩を踏み出した。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 17:58:42 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48976141/bears-edge-closer-move-new-stadium-northwest-indiana"
+    },
+    {
+      "kind": "signing",
+      "title": "Bucs' Mayfield: Contract talks 'not anywhere close...",
+      "title_ja": "Bucsの Mayfield：契約交渉は『全く望んでいた内容ではない...'",
+      "excerpt": "Speaking publicly for the first time this offseason, Buccaneers QB Baker Mayfield said that contract extension talks \"are not anywhere close to what we were thinking\" and that it's \"time to get something done long-term.\"",
+      "excerpt_ja": "今オフシーズン初めて公の場で発言したBuccsaneerのQB Baker Mayieldは、契約延長交渉は『全く望んでいた内容ではない』であり、『長期的な契約を獲得する時が来た』と述べた。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "TB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 17:58:42 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48976225/mayfield-contract-talks-not-anywhere-close-buccaneers"
+    },
+    {
+      "kind": "injury",
+      "title": "📈 Ranking the most likely turnarounds in 2026",
+      "title_ja": "📈 2026年で最も可能性の高い逆転劇ランキング",
+      "excerpt": "We stacked last season's last-place finishers in each division by their chances to jump all the way to first. Will the Lions get back on top in the NFC North?",
+      "excerpt_ja": "昨シーズンの各ディビジョンで最下位に終わったチームを、首位へジャンプする可能性でランク付けした。Lionsは NFC Northで頂点に戻るだろうか？",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 17:58:41 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48951382/2026-nfl-season-worst-first-afc-nfc-division-odds-predictions-turnarounds"
+    },
+    {
+      "kind": "trade",
+      "title": "Cap casualties to trade fireworks: Inside NFL's hi...",
+      "title_ja": "サラリーキャップの放出から取引の花火まで：NFLの一大イベント内部...",
+      "excerpt": "More than 15 coaches, players and execs shed light on the back-to-back trades that happened on a key June day.",
+      "excerpt_ja": "重要な6月のある日に相次いで行われたトレードについて、15人以上のコーチ、選手、幹部が詳しく説明する。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 14:19:28 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48976999/how-june-1-2026-blockbuster-trade-day-nfl-myles-garrett-aj-brown-jared-verse"
+    },
+    {
+      "kind": "trade",
+      "title": "Copy of 10 players who could get traded before the season'...",
+      "title_ja": "シーズン前にトレード可能性のある10選手...",
+      "excerpt": "The NFL trade deadline isn't until November, but we're making early predictions on 10 players.",
+      "excerpt_ja": "NFLのトレード期限は11月だが、10選手についての早期予想を立てている。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 14:19:28 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48947413/2026-nfl-trade-deadline-early-look-players-candidates-buzz-crosby-aiyuk-kamara"
+    },
+    {
+      "kind": "other",
+      "title": "Buzz: Don't be surprised if a Dolphin besides Acha...",
+      "title_ja": "注目：Achahua以外のDolphinの選手にも注意...",
+      "excerpt": "Eric Karabell explains what to expect from a Dolphins offense with low expectations.",
+      "excerpt_ja": "Eric Karabell氏が、期待値の低い Dolphinsのオフェンスから何が期待できるかを説明する。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "MIA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 11:24:27 EST",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+    },
+    {
+      "kind": "injury",
+      "title": "Injury report: The outlooks on injured stars",
+      "title_ja": "怪我レポート：怪我をしているスター選手の見通し",
+      "excerpt": "Stephania Bell breaks down the status of fantasy stars heading into the 2026 season, from QBs to TEs.",
+      "excerpt_ja": "Stephania Bellが2026年シーズンに向けてQBからTEまで、ファンタジー界のスター選手のステータスを分析する。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 11:24:27 EST",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/48966261/2026-fantasy-football-nfl-injuries-mahomes-nabers"
+    },
+    {
+      "kind": "other",
+      "title": "Why Robert Saleh has praised Tony Pollard since ta...",
+      "title_ja": "Robert SalehがTony Pollardを絶賛する理由...",
+      "excerpt": "Only Tennessee's Tony Pollard and Baltimore's Derrick Henry have eclipsed 1,000 rushing yards each of the past four seasons.",
+      "excerpt_ja": "テネシーのTony PollardとボルチモアのDerrick Henryだけが、過去4シーズン連続で1,000ラッシングヤードを超えている。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 07:49:42 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48967864/tennessee-titans-tony-pollard-praise-robert-saleh-1000-yards"
+    },
+    {
+      "kind": "other",
+      "title": "Can adding 44 years of veteran leadership help Jet...",
+      "title_ja": "44年分のベテラン経験の追加がJetsを助けられるか",
+      "excerpt": "As the urgency to win increases, New York hopes its offseason moves will help alleviate growing pressures.",
+      "excerpt_ja": "優勝への緊急性が高まる中、ニューヨークはオフシーズンの補強が成長するプレッシャーを緩和できることを期待している。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 07:49:42 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48966748/new-york-jets-change-44-years-veteran-leadership"
+    },
+    {
+      "kind": "other",
+      "title": "From QB battles to rookie progress, here's everyth...",
+      "title_ja": "QBバトルからルーキーの成長まで、ここにすべてがある...",
+      "excerpt": "NFL Nation frames minicamp storylines, including Jalen Hurts, Patrick Mahomes and QBs in Arizona and Minnesota.",
+      "excerpt_ja": "NFL Nationがミニキャンプのストーリーラインをまとめた。Jalen Hurts、Patrick Mahomes、そしてArizonaとMinnesotaのQBsを含む。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 8 Jun 2026 07:46:46 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48988004/2026-nfl-minicamps-otas-teams-rookies-qbs-veterans-watching"
+    },
+    {
+      "kind": "other",
+      "title": "NY Giants mandatory minicamp takeaways: LT, Harry Carson steal the show",
+      "title_ja": "NY Giants義務ミニキャンプの収穫：LTと Harry Carsonがショーを奪う",
+      "excerpt": "Giants ill hold two more practices before breaking until training camp.",
+      "excerpt_ja": "Giantsはトレーニングキャンプが始まるまでさらに2試合を行う。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 08 Jun 2026 22:44:08 +0000",
+      "url": "https://sports.yahoo.com/articles/ny-giants-mandatory-minicamp-takeaways-224408442.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Seahawks sign OT Bobby Hart",
+      "title_ja": "Seahawksがオフェンシブタックル Bobby Hartと契約",
+      "excerpt": "The Seahawks added some experienced depth to their offensive line on Monday.",
+      "excerpt_ja": "Seahawksは月曜日、経験豊富なディープを自分たちのオフェンシブラインに追加した。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 08 Jun 2026 22:00:18 +0000",
+      "url": "https://sports.yahoo.com/articles/seahawks-sign-ot-bobby-hart-220018491.html"
+    },
+    {
+      "kind": "other",
+      "title": "Potential primetime flex games on Las Vegas Raiders’ 2026 schedule",
+      "title_ja": "Las Vegas Raidersの2026年スケジュールのプライムタイム・フレックス・ゲーム候補",
+      "excerpt": "A few matchups that stand out as primetime options",
+      "excerpt_ja": "プライムタイム候補として際立つカップルのマッチアップがある。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 08 Jun 2026 21:39:00 +0000",
+      "url": "https://sports.yahoo.com/articles/potential-primetime-flex-games-las-213900173.html"
+    },
+    {
+      "kind": "injury",
+      "title": "S Ifeatu Melifonwu works out for the Seahawks",
+      "title_ja": "S Ifeatu MelifonwuがSeahawksのワークアウトに参加",
+      "excerpt": "The Seahawks took a look at a possible veteran addition to their secondary on Monday.",
+      "excerpt_ja": "Seahawksは月曜日、セカンダリーへの可能性のあるベテラン補強を検討した。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 08 Jun 2026 21:15:45 +0000",
+      "url": "https://sports.yahoo.com/articles/ifeatu-melifonwu-works-seahawks-211545722.html"
+    },
+    {
       "kind": "injury",
       "title": "NY Giants injury news: Abdul Carter twists ankle, leaves practice",
-      "title_ja": "ジャイアンツの負傷者情報：Abdul Carterが足首を捻挫、練習から退出",
+      "title_ja": "NY Giantsの怪我情報：Abdul Carterが足首をひねり、練習を離脱",
       "excerpt": "Abdul Carter leaves practice early with a possible injury.",
-      "excerpt_ja": "Abdul Carterが負傷の可能性で練習を早切り上げた",
+      "excerpt_ja": "Abdul Carterが可能性のある怪我で練習を早退した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +390,9 @@
     {
       "kind": "other",
       "title": "Rams’ new-look defense shines early in minicamp practice",
-      "title_ja": "ラムズの一新されたディフェンスがミニキャンプで早速活躍",
+      "title_ja": "Ramsの新しい布陣のディフェンスがミニキャンプで早期に輝く",
       "excerpt": "Trent McDuffie with an early interception at Rams OTAs",
-      "excerpt_ja": "Trent McDuffieがラムズのOTAsでアーリーインターセプション",
+      "excerpt_ja": "Trent McDuffieがRams OTAsで早期インターセプション",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +406,9 @@
     {
       "kind": "other",
       "title": "This Cowboys receiver has extremely high expectations for 2026",
-      "title_ja": "このカウボーイズのレシーバーは2026年に異常な期待を背負っている",
+      "title_ja": "このCowboysのレシーバーは2026年に極めて高い期待を持っている",
       "excerpt": "2026 is a breakout season for Ryan Flournoy.",
-      "excerpt_ja": "2026年はRyan Flourn oyにとってブレイクアウトシーズンになる",
+      "excerpt_ja": "2026年は Ryan Flournoyにとってブレイクアウトシーズンになる。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +422,9 @@
     {
       "kind": "signing",
       "title": "Report: Chiefs signing CB L’Jarius Sneed",
-      "title_ja": "チーフスがコーナーバックL'Jarius Sneedと契約合意か",
+      "title_ja": "レポート：Chiefsがコーナーバック L'Jarius Sneedと契約",
       "excerpt": "A familiar face is returning to Kansas City.",
-      "excerpt_ja": "おなじみの顔がカンザスシティに戻る",
+      "excerpt_ja": "おなじみの顔がKansas Cityに帰ってくる。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +438,9 @@
     {
       "kind": "rumor",
       "title": "Broncos TE Caleb Lohner undergoes cleanup procedure",
-      "title_ja": "ブロンコスのTE Caleb Lohnerが整形手術を受ける",
+      "title_ja": "Broncosの TE Caleb Lohnerがクリーンアップ手術を受ける",
       "excerpt": "Broncos tight end Caleb Lohner will miss the rest of the offseason program after a cleanup surgery, Mike Klis of 9News reports.",
-      "excerpt_ja": "ブロンコスのタイトエンド Caleb Lohnerは整形手術後、オフシーズンプログラムの残りの期間を欠場することになった。9Newsの Mike Klis が伝えた",
+      "excerpt_ja": "BroncosのタイトエンドCaleb Lohnerはクリーンアップ手術後、オフシーズンプログラムの残りの期間を欠場する。9Newsの Mike Klisが報じた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +454,9 @@
     {
       "kind": "signing",
       "title": "Patriots first-rounder Caleb Lomu officially signs rookie deal",
-      "title_ja": "ペイトリオッツ1巡目指名 Caleb Lomuがルーキー契約に正式調印",
+      "title_ja": "Patriotsの1巡目指名 Caleb Lomuが公式にルーキー契約に署名",
       "excerpt": "Eight of New England’s nine draft selections have now agreed to terms.",
-      "excerpt_ja": "ニューイングランドのドラフト指名9人中8人が契約条件に同意した",
+      "excerpt_ja": "ニューイングランドのドラフト指名9選手中8選手が合意に達した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -133,10 +469,10 @@
     },
     {
       "kind": "trade",
-      "title": "Chiefs reportedly reuniting with CB L’Jarius Sneed, continue to bolster secondary after Trent McDuffie trade",
-      "title_ja": "チーフスがCB L'Jarius Sneedとの再契約で合意、Trent McDuffieのトレード後もセカンダリー強化を続ける",
+      "title": "Chiefs reportedly reuniting with CB L&#39;Jarius Sneed, continue to bolster secondary after Trent McDuffie trade",
+      "title_ja": "Chiefsが伝えられるところでコーナーバック L'Jarius Sneedと再契約、Trent McDuffieのトレード後もセカンダリーを強化し続ける",
       "excerpt": "The Chiefs have made another addition to their secondary in the aftermath of trading Trent McDuffie to the Rams.",
-      "excerpt_ja": "チーフスはTrent McDuffieをラムズにトレードした直後、セカンダリーに別の選手を加えた",
+      "excerpt_ja": "Chiefsは Trent McDuffieを Ramsにトレードした後の追加補強としてセカンダリーにもう一つの選手を加えた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +486,9 @@
     {
       "kind": "signing",
       "title": "Chiefs will sign L&#39;Jarius Sneed",
-      "title_ja": "チーフスがL'Jarius Sneedと契約",
+      "title_ja": "ChiefsがL'Jarius Sneedと契約する",
       "excerpt": "Cornerback L&#39;Jarius Sneed is headed back to Kansas City.",
-      "excerpt_ja": "コーナーバックL'Jarius Sneedがカンザスシティに復帰へ",
+      "excerpt_ja": "コーナーバック L'Jarius SneedはKansas Cityに戻ることになった。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +502,9 @@
     {
       "kind": "signing",
       "title": "Panthers sign WR Malick Meiga",
-      "title_ja": "パンサーズがWR Malick Meigaと契約",
+      "title_ja": "Panthersがワイドレシーバー Malick Meigaと契約",
       "excerpt": "The Panthers announced the addition of a wide receiver to their 90-man roster on Monday.",
-      "excerpt_ja": "パンサーズは月曜日に90人ロスターにワイドレシーバーを加えることを発表した",
+      "excerpt_ja": "Panthersは月曜日、90人ロスターにワイドレシーバーを追加したと発表した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +518,9 @@
     {
       "kind": "other",
       "title": "Fernando Mendoza shares Tom Brady&#39;s advice: &#39;Be the most everything&#39;",
-      "title_ja": "Fernando MendozaがTom Bradyから受けたアドバイスを明かす：「すべてにおいて最高になれ」",
+      "title_ja": "Fernando MendozaがTom Bradyのアドバイスをシェア：『すべてにおいて最高になれ'",
       "excerpt": "Fernando Mendoza is still adjusting to the NFL, but he&#39;s leaning on the Raiders&#39; trio of Tom Brady, Kirk Cousins and Klint Kubiak ahead of the season.",
-      "excerpt_ja": "Fernando Mendozaはまだゴルファーに適応している段階だが、シーズンに向けてレイダースのTom Brady、Kirk Cousins、Klint Kubiakのトリオに頼っている",
+      "excerpt_ja": "Fernando MendozaはNFLにまだ適応中だが、シーズン前に Raidersの Tom Brady、Kirk Cousins、そして Klint Kubiakのトリオに頼っている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +534,9 @@
     {
       "kind": "signing",
       "title": "Bucs sign K B.T. Potter",
-      "title_ja": "バッカニアーズがキッカーB.T. Potterと契約",
+      "title_ja": "Buccsがキッカー B.T. Potterと契約",
       "excerpt": "The Buccaneers signed kicker B.T.",
-      "excerpt_ja": "バッカニアーズがキッカーB.T. Potterと契約した",
+      "excerpt_ja": "Buccaneersはキッカー B.T. Potterと契約した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +550,9 @@
     {
       "kind": "injury",
       "title": "Giants say Abdul Carter&#39;s ankle injury &quot;doesn&#39;t look serious&quot;",
-      "title_ja": "ジャイアンツ：Abdul Carterの足首の負傷は「深刻ではない」",
+      "title_ja": "Giantsは Abdul Carterの足首の怪我は『深刻には見えない』と表明",
       "excerpt": "Reports from Monday&#39;s Giants minicamp practice concerning edge rusher Abdul Carter may have provided a few scares, but there don&#39;t appear to be any long-term fears for the 2025 first-round pick.",
-      "excerpt_ja": "月曜日のジャイアンツミニキャンプ練習でエッジラッシャーAbdul Carterについて報告されたことで心配が広がったが、2025年1巡目指名のこの選手に長期的な懸念はないと見られている",
+      "excerpt_ja": "月曜日のGiantsミニキャンプ練習からのレポートはエッジラッシャー Abdul Carterについていくつかの懸念を提供したかもしれないが、2025年の1巡目指名について長期的な懸念はないようだ。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +566,9 @@
     {
       "kind": "signing",
       "title": "Trust the Board — Episode 14: Steelers extensions and the begining of our NFL division review series",
-      "title_ja": "Trust the Board — エピソード14：スティーラーズの契約延長とNFL地区評価シリーズの開幕",
+      "title_ja": "Trust the Board — エピソード14：Steelersの契約延長と NFL ディビジョンレビュー・シリーズの開始",
       "excerpt": "Joey and Ryan discuss recent Steelers contract extensions and kickoff their summer series with the state of the NFC West",
-      "excerpt_ja": "JoeyとRyanが最近のスティーラーズの契約延長について議論し、夏のシリーズをNFC Westの状況で開幕",
+      "excerpt_ja": "JoeyとRyanは最近のSteelersの契約延長について議論し、NFC Westの現状で夏シリーズをキックオフさせた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +582,9 @@
     {
       "kind": "signing",
       "title": "Chiefs sign CB Mansoor Delane and DT Peter Woods; wrap up draft class",
-      "title_ja": "チーフスがCB Mansoor DelaneとDT Peter Woodsと契約、ドラフト指名者の契約完了",
+      "title_ja": "ChiefsがコーナーバックMansoor DelaneとDT Peter Woodsと契約、ドラフト・クラスをまとめる",
       "excerpt": "All of Kansas City’s draft picks are signed ahead of the team’s minicamp starting Tuesday.",
-      "excerpt_ja": "カンザスシティのドラフト指名者全員が火曜日のミニキャンプ開始前に契約を済ませた",
+      "excerpt_ja": "Kansas Cityのドラフト指名がすべて署名された。チームの火曜日のミニキャンプ開始前に。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +598,9 @@
     {
       "kind": "signing",
       "title": "Patriots sign first-round pick Caleb Lomu",
-      "title_ja": "ペイトリオッツが1巡目指名Caleb Lomuと契約",
+      "title_ja": "Patriotsが1巡目指名 Caleb Lomuと契約",
       "excerpt": "The Patriots have taken care of some important business with their rookie class.",
-      "excerpt_ja": "ペイトリオッツはルーキークラスとの重要な交渉を完了させた",
+      "excerpt_ja": "Patriotsはルーキー・クラスとの重要な事項に対処した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -278,9 +614,9 @@
     {
       "kind": "injury",
       "title": "Cam Skattebo moving well in Giants minicamp drills",
-      "title_ja": "Cam Skatteboはジャイアンツのミニキャンプドリルで調子よく動いている",
+      "title_ja": "Cam SkatteboがGiantsミニキャンプドリルで良好に動く",
       "excerpt": "The Giants got an injury scare from edge rusher Abdul Carter at their first minicamp practice on Monday, but there was a more positive update on the medical front for another of their 2024 draft picks.",
-      "excerpt_ja": "ジャイアンツは月曜日の最初のミニキャンプ練習でエッジラッシャーAbdul Carterからの負傷の脅威を受けたが、2024年ドラフト指名の別の選手からは朗報が出た",
+      "excerpt_ja": "Giantsは月曜日の最初のミニキャンプ練習でエッジラッシャー Abdul Carterから怪我の懸念を受けたが、2024年ドラフト指名の別の選手について医学的前線でのより肯定的なアップデートがあった。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +630,9 @@
     {
       "kind": "trade",
       "title": "3 NFC heavy-hitters named teams to watch for Alex Highsmith trade",
-      "title_ja": "Alex Highsmithのトレード候補として名が挙がったNFC強豪3チーム",
+      "title_ja": "Alex Highsmithのトレード候補に挙げられた3人の NFC の重量級チーム",
       "excerpt": "Will the Steelers end up trading Alex Highsmith?",
-      "excerpt_ja": "スティーラーズはAlex Highsmithをトレードに出すのか",
+      "excerpt_ja": "Steelersは結局 Alex Highsmithをトレードするのだろうか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -310,9 +646,9 @@
     {
       "kind": "other",
       "title": "Myles Garrett participates in Rams&#39; OTA",
-      "title_ja": "Myles GarrettがラムズのOTAsに参加",
+      "title_ja": null,
       "excerpt": "Myles Garrett was noncommittal on participating in the Rams&#39; organized team activities during his introductory news conference last week.",
-      "excerpt_ja": "Myles Garrettは先週の入団会見でラムズのOTAs参加について慎重な姿勢を示していた",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -326,9 +662,9 @@
     {
       "kind": "other",
       "title": "Best players in Las Vegas Raiders’ history to wear 2026 NFL draft class’ numbers",
-      "title_ja": "ラスベガス・レイダーズの歴史上、2026年ドラフト指名選手の背番号を背負った最高の選手たち",
+      "title_ja": null,
       "excerpt": "Big shoes to fill for some of these rookies",
-      "excerpt_ja": "このルーキーたちは大きな足跡を埋める必要がある",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -342,9 +678,9 @@
     {
       "kind": "presser",
       "title": "Sean McDermott visited Giants minicamp on Monday",
-      "title_ja": "Sean McDermottが月曜日にジャイアンツのミニキャンプを訪問",
+      "title_ja": null,
       "excerpt": "Sean McDermott has said that he&#39;s planning on spending his 2026 speaking with people about leadership in order to grow as a coach.",
-      "excerpt_ja": "Sean McDermottは2026年中に指導者のあり方についてさまざまな人と話し合い、ヘッドコーチとしての成長を図る計画だと述べている",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -358,9 +694,9 @@
     {
       "kind": "rumor",
       "title": "A Packers player just picked a Bears player for the #1 spot in the Top 100",
-      "title_ja": "パッカーズの選手がTop 100の第1位にベアーズの選手を選んだ",
+      "title_ja": null,
       "excerpt": "A Packers player picking a Bears player as the top player in the NFL was not something anyone expected today.",
-      "excerpt_ja": "パッカーズの選手がベアーズの選手をNFLトップ100の第1位に選ぶとは、誰も予想していなかった",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -374,9 +710,9 @@
     {
       "kind": "injury",
       "title": "Abdul Carter limps off Giants&#39; practice field",
-      "title_ja": "Abdul Carterがジャイアンツの練習フィールドをひきずりながら退出",
+      "title_ja": null,
       "excerpt": "Giants edge rusher Abdul Carter suffered an injury that forced him off the field at today&#39;s mandatory minicamp practice.",
-      "excerpt_ja": "ジャイアンツのエッジラッシャーAbdul Carterは本日のマンデトリーミニキャンプ練習で負傷し、フィールドから退出した",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -390,9 +726,9 @@
     {
       "kind": "other",
       "title": "Rob Leonard’s biggest projects heading into 1st season as Las Vegas Raiders’ defensive coordinator",
-      "title_ja": "Rob Leonardがラスベガス・レイダーズのディフェンシブコーディネーター初年度で直面する最大の課題",
+      "title_ja": null,
       "excerpt": "Diving into a few challenges the DC faces during his first year on the job",
-      "excerpt_ja": "初年度のDCが直面するいくつかの課題に迫る",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -406,9 +742,9 @@
     {
       "kind": "signing",
       "title": "Packers Discussion: Who else would you extend this offseason?",
-      "title_ja": "パッカーズ掲示板：オフシーズン中に他に誰を延長させたい",
+      "title_ja": null,
       "excerpt": "Green Bay will probably get deals done with TE Tucker Kraft and DE Devonte Wyatt this summer",
-      "excerpt_ja": "グリーンベイはこの夏、TE Tucker KraftとDE Devonte Wyattとの契約延長を進める可能性が高い",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -422,9 +758,9 @@
     {
       "kind": "rumor",
       "title": "House Judiciary Committee report suggests NFL misled Congress about Sunday Ticket",
-      "title_ja": "下院司法委員会の報告書がNFLのSunday Ticketについての議会への虚偽陳述を示唆",
+      "title_ja": null,
       "excerpt": "On Wednesday, the House Judiciary Committee will hold a hearing on the Sports Broadcasting Act of 1961.",
-      "excerpt_ja": "下院司法委員会は水曜日に1961年放送スポーツ法についての公聴会を開催する",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -438,9 +774,9 @@
     {
       "kind": "signing",
       "title": "Chiefs agree to terms with first-round pick Mansoor Delane",
-      "title_ja": "チーフスが1巡目指名Mansoor Delaneとの契約に合意",
+      "title_ja": null,
       "excerpt": "The Chiefs wrapped up contracts for both of their first-round picks on Monday.",
-      "excerpt_ja": "チーフスは月曜日に1巡目指名2人との契約を完了させた",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -452,79 +788,111 @@
       "url": "https://sports.yahoo.com/articles/chiefs-agree-terms-first-round-185525549.html"
     },
     {
-      "kind": "signing",
-      "title": "Jets sign WR Jalen Walthall",
-      "title_ja": "ジェッツがWR Jalen Walthallと契約",
-      "excerpt": "The Jets made a change to their wide receiver group on Monday.",
-      "excerpt_ja": "ジェッツは月曜日にワイドレシーバーグループに変更を加えた",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 18:50:23 +0000",
-      "url": "https://sports.yahoo.com/articles/jets-sign-wr-jalen-walthall-185023036.html"
-    },
-    {
       "kind": "other",
-      "title": "Why the Saints have all the potential for an explosive offense this season",
-      "title_ja": "セインツが今シーズン爆発的なオフェンスをもたらす可能性を持つ理由",
-      "excerpt": "While the Saints offense was at the bottom of the league in 2025, this season should be a much different.",
-      "excerpt_ja": "セインツのオフェンスは2025年にリーグ底辺にいたが、今シーズンは大きく異なるはずだ",
+      "title": "Kalshi Promo Code FOXSPORTS Unlocks a $10 Bonus for Knicks vs Spurs NBA Finals Game 3",
+      "title_ja": null,
+      "excerpt": "Kalshi Promo Code FOXSPORTS Unlocks a $10 Bonus for Knicks vs Spurs NBA Finals Game 3.",
+      "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 18:50:00 +0000",
-      "url": "https://sports.yahoo.com/articles/why-saints-potential-explosive-offense-185000721.html"
-    },
-    {
-      "kind": "other",
-      "title": "Fantasy Football: Jaxson Dart headlines QB breakout candidates for 2026",
-      "title_ja": "ファンタジーフットボール：Jaxson Dartが2026年のQBブレイクアウト候補筆頭",
-      "excerpt": "Fantasy football analyst Justin Boone shares his top breakout candidates at QB for 2026.",
-      "excerpt_ja": "ファンタジーフットボール分析家Justin Booneが2026年のQBブレイクアウト候補トップを紹介している",
-      "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 18:45:21 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-jaxson-dart-headlines-qb-breakout-candidates-for-2026-184521696.html"
+      "published_at": "Mon, 08 Jun 2026 18:30:42 -0400",
+      "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code-foxsports-unlocks-10-bonus-knicks-vs-spurs-nba-finals-game-3"
+    },
+    {
+      "kind": "rumor",
+      "title": "Julián Alvarez's Agent Responds To Real Madrid, Barcelona Transfer Rumors",
+      "title_ja": null,
+      "excerpt": "The race for Julián Alvarez has taken an explosive turn as reports link the Atlético Madrid star with a controversial move across the capital.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 08 Jun 2026 18:30:41 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/julian-alvarezs-agent-breaks-silence-on-sensational-real-madrid-transfer-links-as-race-to-sign-atletico-madrid-forward-heats-up"
     },
     {
       "kind": "other",
-      "title": "Green Bay Packers Roster Preview: Tight End",
-      "title_ja": "グリーンベイ・パッカーズロスタープレビュー：タイトエンド",
-      "excerpt": "Tucker Kraft should return to practice during training camp in August",
-      "excerpt_ja": "Tucker Kraftは8月のトレーニングキャンプ中に練習復帰が予定されている",
+      "title": "Polymarket Promo Code FOX: Get a $50 Bonus for Spurs vs. Knicks Ahead of Game 3 of the NBA Finals",
+      "title_ja": null,
+      "excerpt": "Polymarket Promo Code FOX: Get a $50 Bonus for Spurs vs. Knicks Ahead of Game 3 of the NBA Finals.",
+      "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "GB",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 18:43:53 +0000",
-      "url": "https://sports.yahoo.com/articles/green-bay-packers-roster-preview-184353899.html"
+      "published_at": "Mon, 08 Jun 2026 18:30:23 -0400",
+      "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code-fox-get-50-bonus-spurs-vs-knicks-ahead-game-3-nba-finals"
     },
     {
-      "kind": "injury",
-      "title": "S Ifeatu Melifonwu works out for the Seahawks",
-      "title_ja": "S Ifeatu Melifonwuがシーホークスでのワークアウトに参加",
-      "excerpt": "The Seahawks took a look at a possible veteran addition to their secondary on Monday.",
-      "excerpt_ja": "シーホークスは月曜日、セカンダリーへのベテラン補強の可能性を検討した",
+      "kind": "signing",
+      "title": "Seahawks sign OT Bobby Hart",
+      "title_ja": null,
+      "excerpt": "The Seahawks added some experienced depth to their offensive line on Monday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 08 Jun 2026 18:00:18 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-ot-bobby-hart"
+    },
+    {
+      "kind": "other",
+      "title": "Michael Olise Completes Hat Trick As France Cruises Past Northern Ireland",
+      "title_ja": null,
+      "excerpt": "Michael Olise has completed his hat trick with a brilliant curler and France has beaten Northern Ireland 3-1 in its final World Cup warmup in Lille.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 08 Jun 2026 17:57:04 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/olise-scores-3-as-france-beats-northern-ireland-in-world-cup-warmup"
+    },
+    {
+      "kind": "signing",
+      "title": "Bijan Robinson on whether he's next in line for extension: We'll see",
+      "title_ja": null,
+      "excerpt": "Bijan Robinson is eligible for a contract extension.",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
       "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 08 Jun 2026 17:29:48 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinson-on-whether-hes-the-next-falcon-to-sign-extension-well-see"
+    },
+    {
+      "kind": "injury",
+      "title": "S Ifeatu Melifonwu works out for the Seahawks",
+      "title_ja": null,
+      "excerpt": "The Seahawks took a look at a possible veteran addition to their secondary on Monday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
       "team_abbrev": "SEA",
       "player_name": null,
       "coach_name": null,
@@ -534,9 +902,9 @@
     {
       "kind": "rumor",
       "title": "2026 NFL Offseason Buzz: Chiefs Bring Back Standout Super Bowl-Winning CB",
-      "title_ja": "2026年NFLオフシーズンバズ：チーフスがスーパーボウル優勝時のCBを再獲得",
+      "title_ja": null,
       "excerpt": "Here's the latest offseason buzz and rumors around the NFL.",
-      "excerpt_ja": "NFLのオフシーズンバズと噂の最新情報をお知らせします",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -550,9 +918,9 @@
     {
       "kind": "other",
       "title": "Alexi Lalas: Christian Pulisic Will Lead USA By Example At The World Cup",
-      "title_ja": "Alexi Lalas：Christian Pulisicは今夏のワールドカップでUSAをお手本で導く",
+      "title_ja": null,
       "excerpt": "The expectations for the United States at this summer's 48-team World Cup are no longer just about survival.",
-      "excerpt_ja": "今夏の48チーム制ワールドカップでのアメリカ代表への期待はもはや単なる生き残りではない",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -566,9 +934,9 @@
     {
       "kind": "rumor",
       "title": "Broncos TE Caleb Lohner undergoes cleanup procedure",
-      "title_ja": "ブロンコスのTE Caleb Lohnerが整形手術を受ける",
+      "title_ja": null,
       "excerpt": "Broncos tight end Caleb Lohner will miss the rest of the offseason program after a cleanup surgery, Mike Klis of 9News reports.",
-      "excerpt_ja": "ブロンコスのタイトエンド Caleb Lohnerは整形手術後、オフシーズンプログラムの残りの期間を欠場することになった。9Newsの Mike Klis が伝えた",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -582,9 +950,9 @@
     {
       "kind": "signing",
       "title": "Chiefs will sign L'Jarius Sneed",
-      "title_ja": "チーフスがL'Jarius Sneedと契約",
+      "title_ja": null,
       "excerpt": "Cornerback L'Jarius Sneed is headed back to Kansas City.",
-      "excerpt_ja": "コーナーバックL'Jarius Sneedがカンザスシティに復帰へ",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -598,9 +966,9 @@
     {
       "kind": "signing",
       "title": "Panthers sign WR Malick Meiga",
-      "title_ja": "パンサーズがWR Malick Meigaと契約",
+      "title_ja": null,
       "excerpt": "The Panthers announced the addition of a wide receiver to their 90-man roster on Monday.",
-      "excerpt_ja": "パンサーズは月曜日に90人ロスターにワイドレシーバーを加えることを発表した",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -614,9 +982,9 @@
     {
       "kind": "signing",
       "title": "Bucs sign K B.T. Potter",
-      "title_ja": "バッカニアーズがキッカーB.T. Potterと契約",
+      "title_ja": null,
       "excerpt": "The Buccaneers signed kicker B.T.",
-      "excerpt_ja": "バッカニアーズがキッカーB.T. Potterと契約した",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -630,9 +998,9 @@
     {
       "kind": "injury",
       "title": "Giants say Abdul Carter's ankle injury \"doesn't look serious\"",
-      "title_ja": "ジャイアンツ：Abdul Carterの足首の負傷は「深刻ではない」",
+      "title_ja": null,
       "excerpt": "Reports from Monday's Giants minicamp practice concerning edge rusher Abdul Carter may have provided a few scares, but there don't appear to be any long-term fears for the 2025 first-round pick.",
-      "excerpt_ja": "月曜日のジャイアンツミニキャンプ練習でエッジラッシャーAbdul Carterについて報告されたことで心配が広がったが、2025年1巡目指名のこの選手に長期的な懸念はないと見られている",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -876,7 +1244,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "NYJ",
       "player_name": null,
       "coach_name": null,
@@ -1092,38 +1460,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-agree-to-terms-with-first-round-pick-peter-woods"
     },
     {
-      "kind": "other",
-      "title": "4 Takeaways From Another Denny Hamlin Worst-To-First Win",
-      "title_ja": null,
-      "excerpt": "Denny Hamlin got it done from the back of the field once again, while paying tribute to Kyle Busch after his Michigan victory.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 12:39:37 -0400",
-      "url": "https://www.foxsports.com/stories/nascar/denny-hamlin-win-michigan-nascar-takeaways"
-    },
-    {
-      "kind": "injury",
-      "title": "2025-26 NBA Finals Odds: Can Spurs Pull Off the Comeback Win?",
-      "title_ja": null,
-      "excerpt": "In sports, comeback is the best type of fashion. Can the Spurs reverse their fortunes on New York's home floor? See the odds.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 12:22:44 -0400",
-      "url": "https://www.foxsports.com/stories/nba/2025-26-nba-finals-odds-can-spurs-pull-off-comeback-win"
-    },
-    {
       "kind": "injury",
       "title": "Kevin Stefanski: We'll see if Michael Penix is cleared for 11-on-11 work at minicamp",
       "title_ja": null,
@@ -1138,38 +1474,6 @@
       "coach_name": null,
       "published_at": "Mon, 08 Jun 2026 12:14:44 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-well-see-if-michael-penix-is-cleared-for-11-on-11-work-at-minicamp"
-    },
-    {
-      "kind": "other",
-      "title": "Underdog Promo Code FOXSPORTS: Play $5 Get $50 in Bonus Entries",
-      "title_ja": null,
-      "excerpt": "Claim the Underdog Fantasy promo code and unlock $50 in bonus cash when you play just $5. Learn how to claim, terms, app features, and more.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 12:04:39 -0400",
-      "url": "https://www.foxsports.com/stories/betting/underdog-promo-code"
-    },
-    {
-      "kind": "injury",
-      "title": "Last Night In Baseball: Braves Sweep Pirates And Extend MLB Wins Lead",
-      "title_ja": null,
-      "excerpt": "The Braves remind everyone they're for real, the Brewers dropped 10 extra-base hits on the Rockies, a pair of 5-hit games, Jazz Chisholm borrows Aaron Judge's power and more from Sunday's MLB action.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 11:54:38 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/braves-brewers-angels-dodgers-yankees-red-sox-bobby-witt-jr"
     },
     {
       "kind": "signing",
@@ -1236,20 +1540,52 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brendan-sorsby-wins-injunction-restoring-his-ncaa-eligibility"
     },
     {
-      "kind": "trade",
-      "title": "Will June 1 trades become a new annual tentpole for the NFL?",
+      "kind": "signing",
+      "title": "Jumpman meets Madden: Michael Jordan's role in ins...",
       "title_ja": null,
-      "excerpt": "Last week's trades underscore what the arrival of June could become, annually.",
+      "excerpt": "The Bears quarterback said the pose, skyline and overall concept were designed as a tribute to Chicago's most famous athlete.",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "ESPN NFL"
       ],
-      "reliability": 0.5,
+      "reliability": 0.92,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 5 Jun 2026 10:01:32 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48970798/caleb-williams-madden-cover-tribute-chicago-jumpman-michael-jordan"
+    },
+    {
+      "kind": "other",
+      "title": "Myth or reality? Examining the 'Madden curse' thro...",
+      "title_ja": null,
+      "excerpt": "Can Williams change the tide after Barkley's latest season was indicative of the long-alleged Madden curse?",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 09:45:49 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-june-1-trades-become-a-new-annual-tentpole-for-the-nfl"
+      "published_at": "Fri, 5 Jun 2026 10:01:32 EST",
+      "url": "https://www.espn.com/gaming/story/_/id/43741048/madden-curse-fact-fiction-11-years-cover-stars"
+    },
+    {
+      "kind": "injury",
+      "title": "A pocket pair of 8s: Browns' Jared Verse, Dillion ...",
+      "title_ja": null,
+      "excerpt": "NFL rules permit two players to wear duplicate numbers during OTAs and training camp, when rosters consist of 90 players, but that changes come late August.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 5 Jun 2026 08:12:25 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/48967523/cleveland-browns-jared-verse-dillon-gabriel-number-eight-jersey"
     },
     {
       "kind": "other",

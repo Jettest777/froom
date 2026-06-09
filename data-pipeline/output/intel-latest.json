@@ -1,14 +1,238 @@
 {
   "version": 1,
-  "generated_at": "2026-06-09T13:42:11.285022+00:00",
-  "count": 112,
+  "generated_at": "2026-06-09T15:40:39.786280+00:00",
+  "count": 113,
   "items": [
     {
       "kind": "other",
+      "title": "Josh Allen led the league in merchandise sales last year",
+      "title_ja": "Josh Allen は昨シーズン、リーグ全体でグッズ販売額がトップだった",
+      "excerpt": "Bills quarterback Josh Allen led the NFL in an important statistical category last year: Merchandise sales.",
+      "excerpt_ja": "Bills のクォーターバック Josh Allen は昨シーズン、NFL で最も重要な統計カテゴリーの1つを制覇した：グッズ販売額だ",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 15:16:10 +0000",
+      "url": "https://sports.yahoo.com/articles/josh-allen-led-league-merchandise-151610018.html"
+    },
+    {
+      "kind": "other",
+      "title": "Saquon Barkley named to Time 100 Most Influential People in Sports 2026",
+      "title_ja": "Saquon Barkley が Time 誌選定「2026年スポーツ界で最も影響力のある100人」に選出",
+      "excerpt": "The Eagles RB continues to earn accolades for his 2,000-yard season.",
+      "excerpt_ja": "Eagles のランニングバック Saquon Barkley は、2,000ヤードシーズンでさらに栄誉を重ねている",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 15:04:48 +0000",
+      "url": "https://sports.yahoo.com/articles/saquon-barkley-named-time-100-150448803.html"
+    },
+    {
+      "kind": "other",
+      "title": "Ten Chicago Bears with the most to prove in 2026: 7. TJ Edwards",
+      "title_ja": "2026年に証明すべきことがある Chicago Bears の10選手：7番目は TJ Edwards",
+      "excerpt": "As we continue the countdown of the ten Chicago Bears with the most to prove in 2026, we’ve reached number 7, LB TJ Edwards.",
+      "excerpt_ja": "2026年に証明すべきことがある Chicago Bears トップ10のカウントダウンを続けると、第7位は LB TJ Edwards だ",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 15:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/ten-chicago-bears-most-prove-150000765.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "The Maxx Crosby rumors are probably never going away",
+      "title_ja": "Maxx Crosby のトレード話はおそらく永遠に消えないだろう",
+      "excerpt": "The Maxx Crosby rumors will probably never go away",
+      "excerpt_ja": "Maxx Crosby のトレード話はおそらく永遠になくならないだろう",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 15:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/maxx-crosby-rumors-probably-never-150000723.html"
+    },
+    {
+      "kind": "other",
+      "title": "Dolphins head coach praises new leadership on roster",
+      "title_ja": "Dolphins ヘッドコーチがロースター内の新しいリーダーシップを称賛",
+      "excerpt": "Jeff Hafley names new Dolphins leadership.",
+      "excerpt_ja": "Jeff Hafley が Dolphins の新しいリーダーシップ陣を指名",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 14:53:25 +0000",
+      "url": "https://sports.yahoo.com/articles/dolphins-head-coach-praises-leadership-145325433.html"
+    },
+    {
+      "kind": "other",
+      "title": "House Judiciary Committee disputes NFL&#39;s claim that &quot;87 percent&quot; of games are on free TV",
+      "title_ja": "House Judiciary Committee が NFL の「87パーセントの試合が無料放映」という主張に異議を唱える",
+      "excerpt": "Congress takes issue with one of NFL&#39;s top talking points regarding streaming.",
+      "excerpt_ja": "連邦議会が NFL のストリーミング配信に関する主要な主張の1つに異論を唱えている",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 14:52:01 +0000",
+      "url": "https://sports.yahoo.com/articles/house-judiciary-committee-disputes-nfls-145201175.html"
+    },
+    {
+      "kind": "other",
+      "title": "Notes: Jim Caldwell among Lions alum at Darius Slay’s retirement party",
+      "title_ja": "注目：Jim Caldwell を含む Lions OB が Darius Slay の引退パーティーに参加",
+      "excerpt": "Darius Slay threw a retirement party last weekend, and it looked like a Detroit Lions reunion.",
+      "excerpt_ja": "Darius Slay は先週末に引退パーティーを開いたが、まるで Detroit Lions の同窓会のようなものだった",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 14:30:48 +0000",
+      "url": "https://sports.yahoo.com/articles/notes-jim-caldwell-among-lions-143048531.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chop Robinson bulking up for 2026 season",
+      "title_ja": "Chop Robinson が2026シーズンに向けて体重を増やしている",
+      "excerpt": "Dolphins pass rusher adds weight heading into third season with club.",
+      "excerpt_ja": "Dolphins のパスラッシャー Chop Robinson は、3年目のシーズンに向けてウェイトを積み増している",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 14:26:49 +0000",
+      "url": "https://sports.yahoo.com/articles/chop-robinson-bulking-2026-season-142649706.html"
+    },
+    {
+      "kind": "other",
+      "title": "Patriots links 6/09/26: Mini camp, max attention",
+      "title_ja": "Patriots リンク 6/09/26：ミニキャンプ、最大の注目",
+      "excerpt": "Daily news and links for Tuesday",
+      "excerpt_ja": "火曜日のニュースとリンク集",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 14:18:01 +0000",
+      "url": "https://sports.yahoo.com/articles/patriots-links-6-09-26-141801930.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Seahawks 2026 draft predictions: Is Emmanuel Henderson Jr the new special teams ace?",
+      "title_ja": "Seahawks 2026年ドラフト予想：Emmanuel Henderson Jr は新しいスペシャルティームスエースになり得るか",
+      "excerpt": "﻿Seattle needs to replace a gunner on punt team, and Henderson could fit the bill.",
+      "excerpt_ja": "Seattle はパント팀のガナーを交代させる必要があり、Henderson がその適任者となり得る",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 14:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/seahawks-2026-draft-predictions-emmanuel-140000733.html"
+    },
+    {
+      "kind": "other",
+      "title": "Myles Garrett faces long odds in breaking Aaron Donald’s sack record",
+      "title_ja": "Myles Garrett は Aaron Donald のサック記録を破るのに険しい道のりに直面している",
+      "excerpt": "No pass rusher in NFL history has officially amassed 20+ sacks in consecutive seasons",
+      "excerpt_ja": "NFL 史上、20サック以上を連続シーズンで達成した公式記録を持つパスラッシャーは存在しない",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 14:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/myles-garrett-faces-long-odds-140000848.html"
+    },
+    {
+      "kind": "other",
+      "title": "Browns guard Joel Bitonio announces retirement after 12 seasons",
+      "title_ja": "Browns のガード Joel Bitonio が12シーズン後に引退を発表",
+      "excerpt": "Cleveland Browns stalwart left guard Joel Bitonio announced his retirement from the NFL after 12 seasons on June 9.",
+      "excerpt_ja": "Cleveland Browns の鉄人レフトガード Joel Bitonio は6月9日、12シーズンの NFL キャリアからの引退を発表した",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 13:52:41 +0000",
+      "url": "https://sports.yahoo.com/articles/browns-guard-joel-bitonio-announces-135241161.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chargers Daily Links: Tuesday Open Thread",
+      "title_ja": "Chargers デイリーリンク：火曜日のオープンスレッド",
+      "excerpt": "Your source for all Chargers and NFL news from around the web.",
+      "excerpt_ja": "Chargers と NFL ニュースをウェブ全体からお届けしています",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 13:50:00 +0000",
+      "url": "https://sports.yahoo.com/articles/chargers-daily-links-tuesday-open-135000986.html"
+    },
+    {
+      "kind": "other",
+      "title": "Fantasy Football Video: Can Jaylen Waddle be the George Pickens of 2026 after move to Denver?",
+      "title_ja": "ファンタジーフットボール動画：Denver 移籍後、Jaylen Waddle は2026年の George Pickens になり得るか",
+      "excerpt": "Matt Harmon and Justin Boone talk the new Broncos WR on the latest episode of the Yahoo Fantasy Forecast.",
+      "excerpt_ja": "Matt Harmon と Justin Boone が Yahoo Fantasy Forecast の最新エピソードで新しい Broncos のワイドレシーバーについて語っている",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 13:41:58 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-video-can-jaylen-waddle-be-the-george-pickens-of-2026-after-move-to-denver-134158223.html"
+    },
+    {
+      "kind": "other",
       "title": "Will Saints QB Tyler Shough take the next step up in this career defining season?",
-      "title_ja": null,
+      "title_ja": "Saints のクォーターバック Tyler Shough はキャリアが決まるこのシーズンで次のステップに進めるか",
       "excerpt": "The pressure is on",
-      "excerpt_ja": null,
+      "excerpt_ja": "プレッシャーは大きい",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -22,9 +246,9 @@
     {
       "kind": "other",
       "title": "The 3 biggest questions for the 49ers heading into training camp",
-      "title_ja": null,
+      "title_ja": "49ers がトレーニングキャンプに向けて抱える3つの大きな課題",
       "excerpt": "With no minicamp, all eyes turn to the start of training camp",
-      "excerpt_ja": null,
+      "excerpt_ja": "ミニキャンプがない中、すべての目がトレーニングキャンプの開始に注がれている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +262,9 @@
     {
       "kind": "other",
       "title": "Is a medical redshirt season ahead for Tyrell Shavers?",
-      "title_ja": null,
+      "title_ja": "Tyrell Shavers に医学的レッドシャツシーズンが待っているのか",
       "excerpt": "After finally making the roster in 2025, Shavers’ 2026 season will likely be a medical redshirt",
-      "excerpt_ja": null,
+      "excerpt_ja": "ようやく2025年にロースターに入った Shavers だが、2026年シーズンはおそらく医学的レッドシャツになるだろう",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -53,10 +277,10 @@
     },
     {
       "kind": "other",
-      "title": "Browns’ Joel Bitonio makes career decision",
-      "title_ja": null,
+      "title": "Browns’ Joel Bitonio makes career decision, as he releases statement",
+      "title_ja": "Browns の Joel Bitonio がキャリアの決断を下し、声明を発表",
       "excerpt": "The future for Joel Bitonio’s career is unveiled.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Joel Bitonio のキャリアの今後が明かされた",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +294,9 @@
     {
       "kind": "other",
       "title": "Browns All-Pro lineman Joel Bitonio announces retirement from NFL at 34",
-      "title_ja": null,
+      "title_ja": "Browns のオールプロ選手 Joel Bitonio が34歳で NFL からの引退を発表",
       "excerpt": "Joel Bitonio made seven straight Pro Bowls with the Browns.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Joel Bitonio は Browns とともに7年連続で Pro Bowl に選出された",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +310,9 @@
     {
       "kind": "other",
       "title": "Joel Bitonio announces his retirement after 12 seasons with the Browns",
-      "title_ja": null,
+      "title_ja": "Joel Bitonio が Browns での12シーズン後に引退を発表",
       "excerpt": "Joel Bitonio, a 2014 second-round pick of the Browns who spent his entire 12-year NFL career in Cleveland, has announced his retirement.",
-      "excerpt_ja": null,
+      "excerpt_ja": "2014年の2巡目指名で Browns に入団した Joel Bitonio は、12年間のキャリアすべてを Cleveland で過ごし、引退を発表した",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +326,9 @@
     {
       "kind": "other",
       "title": "Pre-Snap Reads 6/9: Seahawks that have something to prove in 2026",
-      "title_ja": null,
+      "title_ja": "プリスナップリーズ 6/9：2026年に証明すべきことがある Seahawks",
       "excerpt": "Emanuel Wilson, and a few more from the squad, are prepped to take a big step forward.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Emanuel Wilson ともう何人か、大きく飛躍する準備ができている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +342,9 @@
     {
       "kind": "other",
       "title": "A second chance for this second-year Cowboys running back",
-      "title_ja": null,
+      "title_ja": "この2年目の Cowboys ランニングバックに与えられた第2のチャンス",
       "excerpt": "How much are you counting on Jaydon Blue this season?",
-      "excerpt_ja": null,
+      "excerpt_ja": "このシーズン、Jaydon Blue にどれくらい期待していますか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +358,9 @@
     {
       "kind": "other",
       "title": "3 position groups in the spotlight at Patriots minicamp",
-      "title_ja": null,
+      "title_ja": "Patriots ミニキャンプで注目すべき3つのポジショングループ",
       "excerpt": "Position groups worth monitoring as minicamp begins.",
-      "excerpt_ja": null,
+      "excerpt_ja": "ミニキャンプが始まる中、注視すべきポジショングループ",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +374,9 @@
     {
       "kind": "signing",
       "title": "2026 AFC North Positional Rankings: Wide Receiver",
-      "title_ja": null,
+      "title_ja": "2026年 AFC North ポジショナルランキング：ワイドレシーバー",
       "excerpt": "During this year’s free agency cycle and 2026 NFL draft, all four AFC North teams made significant moves to add talent to their rosters. While more additions are still possible over the next few months, everyone’s core players are mostly set ahead of the 2026 season. How do the different positional ",
-      "excerpt_ja": null,
+      "excerpt_ja": "今年のフリーエージェント期間と2026年 NFL ドラフト中に、AFC North の4チームすべてが戦力補強を行った。今後数ヶ月でさらなる動きはあるだろうが、各チームの中核選手はおおむね2026年シーズンに向けて確定している。各ポジショングループの比較はどうなっているか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +390,9 @@
     {
       "kind": "other",
       "title": "Random Ramsdom: Jared Verse will be missed",
-      "title_ja": null,
+      "title_ja": "ランダム・ラムズダム：Jared Verse は惜しい存在だ",
       "excerpt": "Los Angeles Rams News and Links for 6/9/26",
-      "excerpt_ja": null,
+      "excerpt_ja": "Los Angeles Rams ニュースとリンク（6/9/26版）",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +406,9 @@
     {
       "kind": "rumor",
       "title": "The Colts’ chances of having NFL company in Indiana are growing",
-      "title_ja": null,
+      "title_ja": "Colts が Indiana で NFL の2つ目のチームを持つ可能性が高まっている",
       "excerpt": "Could Indiana really become a two team state?",
-      "excerpt_ja": null,
+      "excerpt_ja": "Indiana が本当に2チーム体制の州になる可能性があるだろうか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +422,9 @@
     {
       "kind": "other",
       "title": "Caleb Williams gives massive compliment to Aaron Rodgers",
-      "title_ja": null,
+      "title_ja": "Caleb Williams が Aaron Rodgers に大きな称賛を寄せる",
       "excerpt": "The Chicago Bears star gives the ultimate compliment to Aaron Rodgers.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Chicago Bears のスター選手 Caleb Williams が Aaron Rodgers に最高の褒め言葉を送っている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +438,9 @@
     {
       "kind": "other",
       "title": "Carolina Panthers 2026 off-season mailbag: Bring us all your questions during this long offseason!",
-      "title_ja": null,
+      "title_ja": "Carolina Panthers 2026年オフシーズン メールボックス：長いオフシーズン中、すべてのご質問をお寄せください",
       "excerpt": "Come ask all your questions!",
-      "excerpt_ja": null,
+      "excerpt_ja": "ご質問をお待ちしています",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +454,9 @@
     {
       "kind": "rumor",
       "title": "Could Tyler Owens be making a move from safety to slot? - Daily Slop",
-      "title_ja": null,
+      "title_ja": "Tyler Owens がセーフティからスロットポジションに転向の可能性はあるか - デイリースロップ",
       "excerpt": "With the Commanders final week of OTAs kicking off today, players like Owens are trying to make a big impression",
-      "excerpt_ja": null,
+      "excerpt_ja": "Commanders の最終 OTA ウィークが本日始まる中、Owens のような選手は大きな印象を与えようとしている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +470,9 @@
     {
       "kind": "other",
       "title": "Vote for the play that best highlights Bills win over Dolphins",
-      "title_ja": null,
+      "title_ja": "Bills の Dolphins 戦勝利を象徴するプレーに投票しよう",
       "excerpt": "Which play defines the Week 2 win over the New York Jets?",
-      "excerpt_ja": null,
+      "excerpt_ja": "Week 2 の New York Jets 戦勝利を定義するプレーはどれか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -260,235 +484,139 @@
       "url": "https://sports.yahoo.com/articles/vote-play-best-highlights-bills-120000958.html"
     },
     {
-      "kind": "injury",
-      "title": "Will Pat Bryant win the Broncos WR3 competition?",
-      "title_ja": null,
-      "excerpt": "With their 74th overall selection in the third round of the 2025 NFL Draft, the Denver Broncos selected Illinois wide receiver Pat Bryant. He is a big and physical wide receiver known for his blocking skills and fits the play style and skill set that head coach Sean Payton looks for in his wide rece",
-      "excerpt_ja": null,
+      "kind": "other",
+      "title": "Josh Allen led the league in merchandise sales last year",
+      "title_ja": "Josh Allen は昨シーズン、リーグ全体でグッズ販売額がトップだった",
+      "excerpt": "Bills quarterback Josh Allen led the NFL in an important statistical category last year: Merchandise sales.",
+      "excerpt_ja": "Bills のクォーターバック Josh Allen は昨シーズン、NFL で最も重要な統計カテゴリーの1つを制覇した：グッズ販売額だ",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
+      "reliability": 0.54,
+      "team_abbrev": "BUF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 12:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/pat-bryant-win-broncos-wr3-120000100.html"
+      "published_at": "Tue, 09 Jun 2026 11:16:10 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-led-the-league-in-merchandise-sales-last-year"
     },
     {
       "kind": "other",
-      "title": "Matt Ryan’s best performances: Gutsy late heroics in playoff win versus Seattle",
-      "title_ja": null,
-      "excerpt": "At long last, Atlanta’s franchise quarterback finally earns postseason glory.",
-      "excerpt_ja": null,
+      "title": "House Judiciary Committee disputes NFL's claim that \"87 percent\" of games are on free TV",
+      "title_ja": "House Judiciary Committee が NFL の「87パーセントの試合が無料放映」という主張に異議を唱える",
+      "excerpt": "Congress takes issue with one of NFL's top talking points regarding streaming.",
+      "excerpt_ja": "連邦議会が NFL のストリーミング配信に関する主要な主張の1つに異論を唱えている",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 12:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/matt-ryan-best-performances-gutsy-120000580.html"
+      "published_at": "Tue, 09 Jun 2026 10:52:01 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/house-judiciary-committee-disputes-nfls-claim-that-87-percent-of-games-are-on-free-tv"
     },
     {
       "kind": "other",
-      "title": "Bills three-day mandatory minicamp starts today",
-      "title_ja": null,
-      "excerpt": "The Bills are on the field for the next three days at One Bills Drive",
-      "excerpt_ja": null,
+      "title": "2025-26 NBA Finals MVP Odds: Wemby, KAT Chasing Brunson Atop Board",
+      "title_ja": "2025-26年 NBA ファイナル MVP オッズ：Wemby、KAT が Brunson の首位に追いつく",
+      "excerpt": "A few names are above the rest when it comes to the early odds. Who will take home NBA Finals MVP?",
+      "excerpt_ja": "初期オッズの中でも際立った選手が何人かいる。NBA ファイナル MVP を獲得するのは誰か",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "BUF",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 11:57:07 +0000",
-      "url": "https://sports.yahoo.com/articles/bills-three-day-mandatory-minicamp-115707401.html"
+      "published_at": "Tue, 09 Jun 2026 10:40:09 -0400",
+      "url": "https://www.foxsports.com/stories/nba/2025-26-nba-finals-mvp-odds"
     },
     {
-      "kind": "other",
-      "title": "‘Clock is ticking’ as NY Giants QB Jaxson Dart, receivers look for rhythm",
-      "title_ja": null,
-      "excerpt": "The passing attack didn’t exactly light up the defense during Monday’s practice.",
-      "excerpt_ja": null,
+      "kind": "rumor",
+      "title": "2026 NFL Offseason Buzz: Longtime Browns All-Pro Retires",
+      "title_ja": "2026年 NFL オフシーズン話題：長年の Browns オールプロ選手が引退",
+      "excerpt": "Here's the latest offseason buzz and rumors around the NFL.",
+      "excerpt_ja": "NFL の最新オフシーズン話題とうわさをお届けします",
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 11:44:53 +0000",
-      "url": "https://sports.yahoo.com/articles/clock-ticking-ny-giants-qb-114453694.html"
-    },
-    {
-      "kind": "other",
-      "title": "Fleur-de-links, June 9: More information revealed about the Saints’ interest in Patrick Mahomes",
-      "title_ja": null,
-      "excerpt": "Here are today&#39;s Saints news links",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 11:15:00 +0000",
-      "url": "https://sports.yahoo.com/articles/fleur-links-june-9-more-111500970.html"
-    },
-    {
-      "kind": "other",
-      "title": "Rams DC Chris Shula: We have our principles, but Myles Garrett will do what he does best",
-      "title_ja": null,
-      "excerpt": "Myles Garrett got on the practice field with the Rams for the first time on Monday and he began to acclimate himself into life with a new team.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 11:11:20 +0000",
-      "url": "https://sports.yahoo.com/articles/rams-dc-chris-shula-principles-111120398.html"
-    },
-    {
-      "kind": "other",
-      "title": "Chiefs News 6/9: Chiefs crossed key milestone before mandatory minicamp",
-      "title_ja": null,
-      "excerpt": "The latest Chiefs news, brought fresh to you every morning!",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/chiefs-news-6-9-chiefs-110000147.html"
-    },
-    {
-      "kind": "other",
-      "title": "Bengals defense has the 29th-ranked triplets in the NFL",
-      "title_ja": null,
-      "excerpt": "The Rams with Myles Garrett were given top honors.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bengals-defense-29th-ranked-triplets-110000859.html"
-    },
-    {
-      "kind": "signing",
-      "title": "New York Jets Flight Connections 06/09/26",
-      "title_ja": null,
-      "excerpt": "Happy Tuesday, Jets fans! Here are your daily links. Amanda Vogt – Jets Sign WR Jalen Walthall Amanda Vogt – The Key To NFL Longevity | Jet’s Veteran Players Weigh In Jack Bell – Notebook | Jets C Josh Myers: ‘I Love Everyone in Here’ Michael Nania – Jets’ boldest call named among best moves […]",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/york-jets-flight-connections-06-110000104.html"
-    },
-    {
-      "kind": "other",
-      "title": "2026 Season Opener Countdown: 96 Days Remaining",
-      "title_ja": null,
-      "excerpt": "We continue our countdown to the Panthers opening the 2026 season against the Chicago Bears",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/2026-season-opener-countdown-96-110000893.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cowboys news: Now at full health, Shavon Revel Jr. has a big opportunity",
-      "title_ja": null,
-      "excerpt": "All the Dallas Cowboys news that’s fit to print.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-news-now-full-health-110000743.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cleveland Browns news (6/9): Opinions, injunctions, and primetime games",
-      "title_ja": null,
-      "excerpt": "﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿The latest Cleveland Browns news and notes from around the NFL in today’s edition of the Daily Dawg Chow.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": "CLE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 10:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-6-9-103000556.html"
-    },
-    {
-      "kind": "presser",
-      "title": "Horse Tracks: Waddle making an early impact",
-      "title_ja": null,
-      "excerpt": "If you want to know how much wide receiver Jaylen Waddle is bringing to the offense this year, just ask the defense. “[He’s been] everything that he is expected to be,” said safety Talanoa Hufanga, who played against Waddle when he was with the Dolphins. “I’m super excited that he is on our side.” B",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 10:26:19 +0000",
-      "url": "https://sports.yahoo.com/articles/horse-tracks-waddle-making-early-102619982.html"
+      "published_at": "Tue, 09 Jun 2026 10:38:22 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors"
     },
     {
       "kind": "other",
-      "title": "Bengals News (6/9): Cincinnati named Super Bowl sleeper",
-      "title_ja": null,
-      "excerpt": "Some media is taking notice.",
-      "excerpt_ja": null,
+      "title": "2025-26 NBA Finals Odds: Knicks Remain Favored After Game 3 Loss",
+      "title_ja": "2025-26年 NBA ファイナル オッズ：Game 3 での敗北後も Knicks が優勝候補筆頭",
+      "excerpt": "Check out the latest NBA title odds now that we've got a series.",
+      "excerpt_ja": "シリーズが始まった今、最新の NBA 優勝オッズをチェックしよう",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CIN",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 09 Jun 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bengals-news-6-9-cincinnati-100000115.html"
+      "published_at": "Tue, 09 Jun 2026 10:35:13 -0400",
+      "url": "https://www.foxsports.com/stories/nba/2025-2026-nba-championship-odds"
+    },
+    {
+      "kind": "injury",
+      "title": "Patriots to hold 13 open training camp practices",
+      "title_ja": "Patriots がトレーニングキャンプ中に13のオープン練習を開催",
+      "excerpt": "The Patriots have announced their schedule for this summer's training camp.",
+      "excerpt_ja": "Patriots は今夏のトレーニングキャンプスケジュールを発表した",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 10:09:53 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-to-hold-13-open-training-camp-practices"
+    },
+    {
+      "kind": "injury",
+      "title": "How Bears Coach Ben Johnson Is Challenging Caleb Williams To Become An Elite QB",
+      "title_ja": "Bears のコーチ Ben Johnson が Caleb Williams にエリート QB になるよう挑戦を与えている方法",
+      "excerpt": "In an exclusive interview, Bears coach Ben Johnson detailed \"the challenge\" he's laying out for Caleb Williams in the QB's third NFL season.",
+      "excerpt_ja": "独占インタビューで、Bears のコーチ Ben Johnson は QB Caleb Williams の3年目シーズンに向けて課しているチャレンジについて詳述した",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 09:55:13 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/how-bears-coach-ben-johnson-challenging-qb-caleb-williams"
+    },
+    {
+      "kind": "other",
+      "title": "John Harbaugh tiptoes around the grass vs. turf debate",
+      "title_ja": "John Harbaugh がグラス vs. ターフの議論を注意深く扱っている",
+      "excerpt": "Good football coaches are also good politicians.",
+      "excerpt_ja": "優秀なフットボールコーチは政治家でもある",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 09 Jun 2026 09:46:40 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-tiptoes-around-the-grass-vs-turf-debate"
     },
     {
       "kind": "other",
       "title": "Joel Bitonio announces his retirement after 12 seasons with the Browns",
-      "title_ja": null,
+      "title_ja": "Joel Bitonio が Browns での12シーズン後に引退を発表",
       "excerpt": "Joel Bitonio, a 2014 second-round pick of the Browns who spent his entire 12-year NFL career in Cleveland, has announced his retirement.",
-      "excerpt_ja": null,
+      "excerpt_ja": "2014年の2巡目指名で Browns に入団した Joel Bitonio は、12年間のキャリアすべてを Cleveland で過ごし、引退を発表した",
       "sources": [
         "Pro Football Talk"
       ],
@@ -502,13 +630,13 @@
     {
       "kind": "other",
       "title": "Rams DC Chris Shula: We have our principles, but Myles Garrett will do what he does best",
-      "title_ja": null,
+      "title_ja": "Rams DC Chris Shula：我々は原則を持っているが、Myles Garrett は自分のやるべきことをやるだろう",
       "excerpt": "Myles Garrett got on the practice field with the Rams for the first time on Monday and he began to acclimate himself into life with a new team.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Myles Garrett は月曜日に初めて Rams と練習場に出て、新しいチームでの生活への適応を始めた",
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "LAR",
       "player_name": null,
       "coach_name": null,
@@ -980,22 +1108,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/s-ifeatu-melifonwu-works-out-for-the-seahawks"
     },
     {
-      "kind": "rumor",
-      "title": "2026 NFL Offseason Buzz: Chiefs Bring Back Standout Super Bowl-Winning CB",
-      "title_ja": null,
-      "excerpt": "Here's the latest offseason buzz and rumors around the NFL.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 17:15:18 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors"
-    },
-    {
       "kind": "other",
       "title": "Alexi Lalas: Christian Pulisic Will Lead USA By Example At The World Cup",
       "title_ja": null,
@@ -1172,118 +1284,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/big-12-teams-consider-not-playing-texas-tech-given-the-brendan-sorsby-ruling"
     },
     {
-      "kind": "other",
-      "title": "How Do Kit Numbers At The World Cup Work And What Do They Mean?",
-      "title_ja": null,
-      "excerpt": "A breakdown of how World Cup kit numbers work, why FIFA limits squads to numbers 1–26, and what iconic numbers like 7, 9 and 10 mean for top players.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 15:26:01 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-numbers-kit-jersey-explained"
-    },
-    {
-      "kind": "injury",
-      "title": "Abdul Carter limps off Giants' practice field",
-      "title_ja": null,
-      "excerpt": "Giants edge rusher Abdul Carter suffered an injury that forced him off the field at today's mandatory minicamp practice.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 15:18:59 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/abdul-carter-limps-off-giants-practice-field"
-    },
-    {
-      "kind": "other",
-      "title": "Can 'Perfectionist' Denzel Boston Elevate Browns? Here's What Makes 'Gifted' WR Special",
-      "title_ja": null,
-      "excerpt": "Rookie Denzel Boston has already wowed at Browns practices this offseason. Here's why the second-round pick might be able to transform Cleveland's offense quickly.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 15:17:03 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/hes-special-rookie-wr-denzel-boston-brings-big-play-firepower-browns-offense"
-    },
-    {
-      "kind": "rumor",
-      "title": "House Judiciary Committee report suggests NFL misled Congress about Sunday Ticket",
-      "title_ja": null,
-      "excerpt": "On Wednesday, the House Judiciary Committee will hold a hearing on the Sports Broadcasting Act of 1961.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 14:58:27 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/house-judiciary-committee-report-suggests-nfl-misled-congress-about-sunday-ticket"
-    },
-    {
-      "kind": "signing",
-      "title": "Chiefs agree to terms with first-round pick Mansoor Delane",
-      "title_ja": null,
-      "excerpt": "The Chiefs wrapped up contracts for both of their first-round picks on Monday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 14:55:25 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-agree-to-terms-with-first-round-pick-mansoor-delane"
-    },
-    {
-      "kind": "signing",
-      "title": "Jets sign WR Jalen Walthall",
-      "title_ja": null,
-      "excerpt": "The Jets made a change to their wide receiver group on Monday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 14:50:23 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-sign-wr-jalen-walthall"
-    },
-    {
-      "kind": "signing",
-      "title": "Kevin Stefanski: Drake London represents all the things we believe in",
-      "title_ja": null,
-      "excerpt": "Drake London's contract extension with the Falcons became official on Monday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 14:45:17 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-drake-london-represents-all-the-things-we-believe-in"
-    },
-    {
       "kind": "rumor",
       "title": "Josh Sweat, Jacoby Brissett in attendance for Cardinals' mandatory minicamp",
       "title_ja": null,
@@ -1301,19 +1301,115 @@
     },
     {
       "kind": "other",
-      "title": "Broncos LB Jonathon Cooper pleads not guilty to domestic violence charges",
+      "title": "NCAA tries to leverage Brendan Sorsby loss into Congressional action",
       "title_ja": null,
-      "excerpt": "Broncos linebacker Jonathon Cooper was arrested last Thursday on domestic violence charges and he was in a Douglas County, Colorado courtroom to enter a plea on Monday.",
+      "excerpt": "If the NCAA had embraced collective bargaining, the Sorby case may have been decided differently.",
       "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DEN",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 08 Jun 2026 14:11:05 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-lb-jonathon-cooper-pleads-not-guilty-to-domestic-violence-charges"
+      "published_at": "Mon, 08 Jun 2026 13:36:49 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ncaa-tries-to-leverage-brendan-sorsby-loss-into-congressional-action"
+    },
+    {
+      "kind": "other",
+      "title": "Will Campbell: I'm 22 years old, so I'm a long way from where I'm going to be",
+      "title_ja": null,
+      "excerpt": "Patriots left tackle Will Campbell had an up-and-down rookie season in 2025, and it ended on a down note when he struggled mightily in New England's Super Bowl loss.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 08 Jun 2026 09:30:24 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-campbell-im-22-years-old-so-im-a-long-way-from-where-im-going-to-be"
+    },
+    {
+      "kind": "other",
+      "title": "Betting the Chiefs in 2026: See how Kansas City's win total, Super Bowl odds are trending and our best bets",
+      "title_ja": null,
+      "excerpt": "We're breaking down Chiefs futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 09 Jun 2026 15:24:28 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-chiefs-in-2026-see-how-kansas-citys-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "kind": "signing",
+      "title": "2026 NFL free agency: Ideal landing spot for top 10 remaining free agents, including a Super Bowl MVP",
+      "title_ja": null,
+      "excerpt": "The big money players are off the table, but there are still difference makers out there. Here is where they could make the most impact",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 09 Jun 2026 14:04:07 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-free-agency-landing-spots-aaron-rodgers/"
+    },
+    {
+      "kind": "injury",
+      "title": "Ranking the 15 NFL quarterbacks who most need a Super Bowl win for their legacy",
+      "title_ja": null,
+      "excerpt": "Quarterbacks are judged by championships more than any other position, and for these 15 NFL passers, a Super Bowl win could fundamentally alter how their careers are remembered",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 09 Jun 2026 13:49:52 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/ranking-nfl-quarterbacks-legacy-super-bowl/"
+    },
+    {
+      "kind": "other",
+      "title": "Browns seven-time Pro Bowl G Joel Bitonio retires after 12 NFL seasons",
+      "title_ja": null,
+      "excerpt": "One of the best guards of his generation, Joel Bitonio is retiring after 12 seasons with the Browns",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 09 Jun 2026 13:30:14 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/joel-bitonio-retires-browns/"
+    },
+    {
+      "kind": "other",
+      "title": "Spurs silence MSG with Game 3 victory over Knicks; Texas Tech's Brendan Sorsby eligible for 2026 season",
+      "title_ja": null,
+      "excerpt": "Plus, identifying potential breakout NFL stars in 2026",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 09 Jun 2026 13:00:47 +0000\n                    ",
+      "url": "https://www.cbssports.com/nba/news/spurs-silence-msg-with-game-3-victory-over-knicks-texas-techs-brendan-sorsby-eligible-for-2026-season/"
     },
     {
       "kind": "other",
@@ -1442,86 +1538,6 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 04 Jun 2026 16:40:32 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/betting-the-chargers-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "kind": "other",
-      "title": "Betting the 49ers in 2026: See how San Francisco's win total, Super Bowl odds are trending and our best bets",
-      "title_ja": null,
-      "excerpt": "We're breaking down 49ers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 04 Jun 2026 16:09:23 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-49ers-in-2026-see-how-san-franciscos-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "kind": "other",
-      "title": "Betting the Raiders in 2026: See how Las Vegas' win total, Super Bowl odds are trending and our best bets",
-      "title_ja": null,
-      "excerpt": "We're breaking down Raiders futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 04 Jun 2026 15:41:16 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-raiders-in-2026-see-how-las-vegas-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "kind": "other",
-      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
-      "title_ja": null,
-      "excerpt": "We're breaking down Rams futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 04 Jun 2026 15:12:28 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "kind": "other",
-      "title": "Betting the Chiefs in 2026: See how Kansas City's win total, Super Bowl odds are trending and our best bets",
-      "title_ja": null,
-      "excerpt": "We're breaking down Chiefs futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 04 Jun 2026 14:44:25 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-chiefs-in-2026-see-how-kansas-citys-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "kind": "other",
-      "title": "Betting the Cardinals in 2026: See how Arizona's win total, Super Bowl odds are trending and our best bets",
-      "title_ja": null,
-      "excerpt": "We're breaking down Cardinals futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 04 Jun 2026 14:17:16 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-cardinals-in-2026-see-how-arizonas-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
     },
     {
       "kind": "other",

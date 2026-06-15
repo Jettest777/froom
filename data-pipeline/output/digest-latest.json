@@ -1,21 +1,62 @@
 {
   "version": 2,
-  "generated_at": "2026-06-15T16:14:32.192025+00:00",
+  "generated_at": "2026-06-15T23:30:33.822123+00:00",
   "time_of_day": "evening",
   "model": "claude-haiku-4-5-20251001",
   "skipped": false,
-  "source_item_count": 114,
+  "source_item_count": 108,
   "ranked_item_count": 25,
-  "source_fingerprint": "26aa9ed4d48baf6c7609d4bdafb11f03ff4c3a20",
+  "source_fingerprint": "bc6e9c1af37794609ba421526052a53720edc76a",
   "digest": {
-    "headline_en": "Digest generation failed",
-    "headline_ja": "ダイジェスト生成に失敗しました",
-    "lead_en": "Claude API call failed: Could not parse Claude JSON (Expecting value: line 45 column 22 (char 7403)); stop_reason=end_turn.",
-    "lead_ja": "Claude API 呼び出しに失敗しました: Could not parse Claude JSON (Expecting value: line 45 column 22 (char 7403)); stop_reason=end_turn.",
-    "body_en": "",
-    "body_ja": "",
-    "topics": [],
-    "watch_tomorrow_en": "",
-    "watch_tomorrow_ja": ""
+    "headline_en": "Denver's RB Hustle: Dobbins Deal Nearly Done Elsewhere Before Broncos Swoop",
+    "headline_ja": "DENのドビンス奪取劇：JAXとの契約直前、BROが横取り成功",
+    "lead_en": "Denver made a decisive late-offseason move today, landing RB J.K. Dobbins on a two-year deal after Jacksonville had reportedly locked in terms with the veteran back. Meanwhile, the Broncos continued their spring-league talent spree, and Pittsburgh added depth at receiver—a quiet but significant day of roster churn across the AFC.",
+    "lead_ja": "Denverが本日、RB J.K. Dobbinsを2年契約で獲得。Jacksonville とほぼ合意していた契約をBroncos が横取りする劇的な展開となった。同時にDenverはUFLタレント補強を継続、Pittsburghもレシーバー層を強化するなど、AFC各地で静かだが意味深い移籍市場が動いた一日。",
+    "body_en": "The Dobbins situation exemplifies Denver's aggressive posture in the offseason market. While Jacksonville appeared to have sealed a deal with the talented but oft-injured running back, the Broncos moved decisively to secure his services on their own terms. This speaks to both Denver's confidence in their ability to maximize Dobbins' skill set and a lingering concern in Jacksonville—perhaps regarding durability or scheme fit—that allowed the Broncos to slip in. Under the Broncos' offensive scheme, Dobbins will likely see a complementary role to their existing backfield depth, but his upside as a pass-catching threat from the backfield remains valuable in Sean Payton's system.\n\nThe broader story here is Denver's unmistakable investment in spring-league talent. Beyond Dobbins, the Broncos have now signed UFL standout Hakeem Butler and defensive back Sean Fresch—a deliberate strategy to stockpile low-cost, high-upside depth across skill positions. This approach reflects both a pragmatic salary-cap reality and a scouting philosophy that favors upside over pedigree. In a league increasingly stratified by cap management, Denver appears to be tilting toward youth and untapped potential.\n\nMeanwhile, Pittsburgh's addition of receiver Levi Wentz and continued strengthening of their pass-catching corps signals ongoing concern about depth in the skill positions. The Steelers remain committed to a high-volume passing attack in the Russell Wilson era, and each receiver addition—no matter how modest—addresses a recurring playoff weakness. Similarly, Green Bay's re-signing of tight end Luke Lachey (who previously failed a physical, raising eyebrows about his readiness) suggests the Packers remain cautious about their blocking and receiving depth at the position as they enter the season.\n\nThe Chicago Bears' reported signing of linebacker Tony Fields II, a former UFL All-Star and Cleveland Brown, underscores another emerging trend: the spring leagues are now a legitimate talent pipeline rather than a curiosity. Fields offers reasonable athleticism at a position where depth rotations are crucial, and his prior NFL exposure (however limited) makes him a lower-risk addition than a pure college prospect.\n\nOn the injury front, a troubling note emerged around Patriots linebacker Gabe Jacas, the only unsigned second-round pick from the 2026 draft class. His non-participation in New England's offseason work raises red flags about either physical conditioning or organizational dysfunction—or both. This is a situation worth monitoring closely, as holdout linebacker situations can metastasize quickly if medical opinions diverge between player and franchise.\n\nLastly, Cincinnati's formal confirmation of interest in hosting the 2029 NFL Draft is procedural housekeeping rather than breaking news, but it signals the league's ongoing effort to distribute draft venues across markets. For the Bengals organization, a home draft could be a modest revenue plus and morale boost, though it carries no on-field implications.",
+    "body_ja": "Dobbinsの獲得はDenverのオフシーズン攻勢を象徴している。Jacksonville がほぼ契約を完了していた多才だが故障歴のあるRBを、Broncos が横取りした。これはDenverのオフェンシステム（Sean Payton体制）でDobbinsを最大活用できるという自信と、Jacksonville側の耐久性やスキーム適合性に対する懸念の両方を物語っている。Denverのバックフィールドでは相補的な役割が想定されるが、パス受け手としてのポテンシャルは貴重だ。\n\nより大きな文脈は、Denverのspring league（UFL）タレント獲得の積極姿勢だ。Dobbins以外にも、UFL最優秀攻撃選手Hakeem Butler、DB Sean Freschを獲得。低コストで高ポテンシャルの人材を意図的に集める戦略である。サラリーキャップの制約下では、格付けよりもアップサイドを重視するスカウティング哲学は賢明だ。\n\n一方、Pittsburghのレシーバー補強は、Russell Wilson時代のパス偏重オフェンスにおけるレシーバー層の深刻な不安を反映している。プレーオフでの既往の弱点解決に向け、一つ一つの補強が累積される。Green Bayがロスター物理検査に不合格だったTE Luke Lacheyを再署名したのは、TE陣の両立可能性（ブロック＋受け役）への慎重さを示す。\n\nChicagoのLB Tony Fields II獲得（元Browns、UFLオールスター）も同じトレンドを示す：spring leagueはもはや好奇心の対象ではなく、合法的なタレント供給源だ。Fields はCleveland でのNFL経験（限定的だが）により、純粋大学生よりもリスク低減効果がある。\n\n懸念材料としては、Patriots のLB Gabe Jacas（2026年ドラフト2巡目、唯一未契約）がチームのオフシーズンプログラム非参加という状況。フィジカル調整問題か、組織的不和か、その両方か—いずれにせよ注視が必要だ。LB のホールドアウト状況は組織内医学的相違を招きやすい。\n\nCincinnatiが2029 NFLドラフト開催地立候補を正式確認したのは手続き的だが、リーグのドラフト会場分散戦略を反映している。Bengalsにとっては地元開催によるレベニュー小幅増とモラル向上が期待されるが、オンフィールド成績への直接影響はない。",
+    "topics": [
+      {
+        "title_en": "Dobbins' Last-Minute Broncos Pivot: What It Reveals About Denver's Vision",
+        "title_ja": "DobbbinsのBroncos移籍：Denverのビジョンが明かすもの",
+        "body_en": "J.K. Dobbins' surprising two-year deal with Denver came after Jacksonville appeared to have the RB secured, suggesting Broncos management saw both medical/conditioning upside and schematic fit that Jacksonville did not. Under Payton, Dobbins' pass-catching ability becomes more valuable, though injury history remains a cap-efficiency risk. This move reflects Denver's confidence that supplementary depth at RB can still generate value despite prior durability concerns.",
+        "body_ja": "Dobbins がJacksonvilleとの合意直前にBroncos と契約を結んだことは、Denver のマネジメント が、Jacksonville が見逃したメディカル・スキーム適合性の価値を認識していたことを示唆する。Sean Payton体制ではパス受け手としての能力がより重視される。故障歴のあるRBであっても、相補的深度としての価値創造は可能という確信が表れている。",
+        "team_abbrev": "DEN",
+        "importance": "high"
+      },
+      {
+        "title_en": "Spring League Talent Pipeline: Denver's New Blueprint for Depth",
+        "title_ja": "UFL からのタレント供給：Denverの新しい深度戦略",
+        "body_en": "Beyond Dobbins, the Broncos have now signed UFL Offensive Player of the Year Hakeem Butler and DB Sean Fresch—a deliberate pattern of mining spring football for cost-effective upside. This reflects smart cap management: low salaries paired with high-ceiling players who may slip through traditional draft evaluation. As traditional talent stratification widens, spring leagues become an underexploited arbitrage opportunity.",
+        "body_ja": "DenverはUFL 最優秀攻撃選手Hakeem Butler 、DB Sean Freschを獲得。spring football からのコスト効率的なアップサイド獲得は意図的なパターンとなっている。伝統的なドラフト評価に漏れた高ポテンシャル選手を低給与で確保するスマートな資本配分戦略だ。従来の才能層化が進む中、spring league はなお過小評価されたアービトラージ機会として機能している。",
+        "team_abbrev": "DEN",
+        "importance": "high"
+      },
+      {
+        "title_en": "Pittsburgh's Receiver Arms Race: Depth Anxiety Amid Russell Wilson Tenure",
+        "title_ja": "Pittsburghのレシーバー補強：Russell Wilsonペース下での層不安",
+        "body_en": "Steelers' addition of Levi Wentz and continued WR depth signings signal persistent concern about receiving corps durability and production in Wilson's system. Each modest addition compounds—a pattern suggesting Pittsburgh lacks confidence in its current depth chart at WR. Historically, the Steelers' pass game has been conservative; Wilson's era demands more weapons, creating a gap between roster composition and offensive philosophy.",
+        "body_ja": "Pittsburghのレシーバー補強（Levi Wentz ら）は、Russell Wilson オフェンス下でのレシーバー層の耐久性と生産性への継続的懸念を示す。各補強は累積効果を持つ—現在のデプスチャートへの信頼不足が浮き彫りだ。歴史的にSteelers のパス攻撃は保守的だったが、Wilson 時代はより多くの兵器を要求する。両者のギャップが明確だ。",
+        "team_abbrev": "PIT",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Patriots' Jacas Holdout Red Flag: Medical Standoff and Draft Class Outlier",
+        "title_ja": "Patriots のJacas 未署名問題：メディカル対立と2026年ドラフト異変",
+        "body_en": "Gabe Jacas remains the only unsigned 2026 second-round pick amid reports of non-participation in Patriots offseason activities. Whether the cause is conditioning, injury, or organizational friction is unclear—but the longer it persists, the likelier it signals deeper dysfunction. A second-round LB should be locked in by this stage of the offseason; Jacas' status warrants close monitoring for possible cap or relationship complications.",
+        "body_ja": "Gabe Jacas は2026年ドラフト2巡目で唯一未署名。Patriots オフシーズンプログラムへの不参加が報告されている。原因がコンディショニング、負傷、組織不和のいずれであれ不明だが、長期化はより深い問題を示唆する。2巡目 LB はオフシーズンのこの段階では契約済みであるべき。Jacas の状況はサラリーキャップ問題や関係悪化の可能性も含めて注視要。",
+        "team_abbrev": "NE",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Green Bay's Lachey Re-Sign: Cautious TE Depth After Prior Physical Failure",
+        "title_ja": "Green Bayの Lachey 再署名：前回物理検査不合格後の慎重な TE 補強",
+        "body_en": "The Packers' re-signing of TE Luke Lachey, who previously failed a physical, suggests lingering uncertainty about his readiness but sufficient confidence to give him another chance. This dual signal (risk acceptance paired with caution) reflects uncertainty in Green Bay's blocking and receiving depth at tight end ahead of the season. Continued monitoring of his availability and snap count will be instructive.",
+        "body_ja": "Green BayがTE Luke Lachey を再署名（前回物理検査不合格）。彼の準備態勢に対する懸念と、再チャンス付与の信頼の両立を示す。Green BayのTE 陣（ブロック＋受け役）の深度に対する不確実性を反映している。シーズン開始までのスナップ数、出場可否の動向が指標となる。",
+        "team_abbrev": "GB",
+        "importance": "low"
+      }
+    ],
+    "watch_tomorrow_en": "Monitor whether Gabe Jacas' unsigned status intensifies or resolves—a key indicator of either Patriots medical confidence or organizational friction ahead of the draft.",
+    "watch_tomorrow_ja": "Patriots の Gabe Jacas 未署名問題が解決または深刻化するかを注視。ドラフト前のメディカル信頼度または組織不和の重要な指標となる。"
   }
 }

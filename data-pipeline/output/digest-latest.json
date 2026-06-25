@@ -1,62 +1,21 @@
 {
   "version": 2,
-  "generated_at": "2026-06-25T13:14:06.801298+00:00",
+  "generated_at": "2026-06-25T23:12:48.973232+00:00",
   "time_of_day": "evening",
   "model": "claude-haiku-4-5-20251001",
   "skipped": false,
-  "source_item_count": 138,
+  "source_item_count": 107,
   "ranked_item_count": 25,
-  "source_fingerprint": "40afed8396e0ac5fe5933a9e36ca4831eb98e5e5",
+  "source_fingerprint": "e8d232c57079a0bf5bc4c5d56e44dfbae9dc520e",
   "digest": {
-    "headline_en": "Contract Blitz: Elite Talent Locks In Long-Term Deals Across NFL",
-    "headline_ja": "契約ラッシュ勃発：NFLの有力選手が次々と長期契約に合意",
-    "lead_en": "The NFL offseason erupted into a signing bonanza tonight, with star pass-catchers and defensive anchors inking massive extensions across multiple franchises. From Kyle Pitts' $54M deal in Atlanta to Jeffery Simmons' $105M+ behemoth in Tennessee, teams are making decisive moves to secure their core talent—signaling both confidence in their rosters and urgency before the salary cap tightens further.",
-    "lead_ja": "本日夜、NFLオフシーズンは契約ラッシュの様相を呈した。Kyle Pitts（ATL）の5,400万ドル契約から、Jeffery Simmons（TEN）の1億500万ドルを超える大型契約まで、複数のフランチャイズでスター選手が長期延長に合意。各チームは中核タレントの確保に動き、サラリーキャップ圧力が増す前の戦略的な意思決定を示している。",
-    "body_en": "The evening brought a rare convergence of major contract signings—a tell-tale sign that agent deadlines and franchise priorities are converging. Kyle Pitts (ATL) secured a three-year, $54M deal with $36M guaranteed, validating Atlanta's investment in him as a foundational weapon even amid the team's recent rebuild. Meanwhile, Brenton Strange (JAX) locked in $48M over three years with $25M guaranteed, establishing himself as Jacksonville's long-term tight end answer. Both moves underscore how NFL teams are banking on elite pass-catching talent in an era where quarterbacks need reliable targets.\n\nThe real blockbuster, however, came from Tennessee. Jeffery Simmons' $105.8M extension over three years redefines the market for interior defensive linemen and signals the Titans' commitment to building around their defensive foundation. At $35.3M annually, Simmons now ranks among the league's highest-paid defensive tackles—a premium reflecting both his elite production and the team's belief that elite edge pressure starts up the middle. In an AFC South where QBs like Patrick Mahomes visit from the division rival Kansas City, defensive investments of this magnitude are no longer luxuries.\n\nOff the field, Brandon Aiyuk's public push to join the Commanders if released by San Francisco adds intrigue to a nagging contract standoff. His Instagram declaration represents a rare moment of transparency in negotiations, effectively pressuring SF to either extend him competitively or face losing him to a division rival. This saga mirrors the brinksmanship we saw with other star receivers last offseason and reflects the upper hand young, elite receivers now hold in the modern market.\n\nOn the health and personnel front, Jim Kelly's revelation that he suffered a stroke this spring injects sobriety into an otherwise transaction-heavy day. The Bills legend's resilience and reported recovery are encouraging, though the news serves as a stark reminder of player health vulnerabilities—especially as the league navigates expanded rosters and higher contact loads. Separately, Terrion Arnold's arrest on kidnapping and robbery charges in Tampa casts a shadow over Detroit's secondary, forcing the Lions' front office to address both legal and roster implications in real time.\n\nThe Steelers' embrace of new head coach Mike McCarthy represents perhaps the day's most fascinating cultural shift. Unlike Pittsburgh's previous continuity under Mike Tomlin, this offseason signals a fundamental reset—one focused on fundamentals and a recalibrated schedule. With a fresh coaching regime comes both opportunity and risk, and the minicamp reports suggest the locker room is leaning into the new philosophy. Meanwhile, the Bills' new $2.1B stadium with its advanced snow-melt system and wind-reducing technology hints at how infrastructure investments are becoming competitive advantages in harsh-weather markets.",
-    "body_ja": "本夜のかなり短い期間での複数の大型契約署名は、エージェントの期限とフランチャイズの優先事項が収束していることを示す明確なシグナルだ。Kyle Pitts（ATL）は3年5,400万ドルの契約（保証金3,600万ドル）を確保し、チームの再建の最中でも、彼をレシーバーの中核的なウェポンとして位置付ける判断を裏付けた。一方、Brenton Strange（JAX）は3年4,800万ドル（保証金2,500万ドル）で長期的なタイトエンドのポジションを確立。両契約は、QBが信頼できるターゲットを必要とする現代のNFLにおいて、エリート級のパスキャッチャーへの投資がいかに重要かを示している。\n\nだが真の目玉は、Jeffery Simmons（TEN）の3年1億500万ドル超の契約延長だ。年平均3,530万ドルで、彼はリーグの最高給与の防御的タックルの仲間入りを果たし、Titansが防御ラインを中核に据える意思を鮮明にした。AFC Southでは、Kansas City（AFC West）からPatrick Mahomesのような強力なQBが来るため、こうした防御投資はもはや選択肢ではなく必須なのだ。\n\nフィールド外では、Brandon Aiyuk（SF）がCommandersへの移籍を公然と宣言した件が注目を集めている。Instagramでの表明は交渉の透明性を示す稀な例であり、49ersに競争力のある契約延長を迫るか、division rivalにタレントを失うかの二者択一を突きつけた。このサーガは昨オフシーズンのスター級レシーバーとのにらみ合いを彷彿とさせ、現代のNFLにおける若き有能なレシーバーの市場交渉力の上昇を物語っている。\n\n健康面では、Jim Kelly（Bills legend）が春に脳卒中を患ったことの明かしが、本日の取引ラッシュの中に現実的な警告を投げ込んだ。彼の回復は励みになるが、同時に、ロスター拡大と接触機会の増加に直面するNFLにおけるプレイヤー健康のぜい弱性を改めて認識させる。一方、Terrion Arnold（DET cornerback）のタンパでの逮捕は、Lionsのセカンダリー陣に法的および人事的な課題をもたらした。\n\nSteelersの新ヘッドコーチ Mike McCarthy へのエンブレース（受け入れ）は、本日最も興味深い文化的転換かもしれない。Pittsburgh特有の Mike Tomlin 下での連続性とは異なり、本オフシーズンはフンダメンタルズと再調整されたスケジュールに焦点を当てた根本的なリセットを示唆している。一方、Bills の21億ドルの新スタジアムは、除雪システムと風低減技術により、インフラ投資がいかに過酷な気候のマーケットで競争優位性になるかを示唆している。",
-    "topics": [
-      {
-        "title_en": "The Tight End Market Explodes: Pitts and Strange Reset Position Value",
-        "title_ja": "タイトエンド市場が爆発：Pitts と Strange がポジション価値を再設定",
-        "body_en": "Kyle Pitts' $54M deal and Brenton Strange's $48M extension signal that elite pass-catching tight ends command premium long-term investments. Both ATL and JAX are betting heavily on young talents at a position where durability and consistency matter as much as ceiling. These deals will anchor the salary-cap conversations around the position for years.",
-        "body_ja": "Kyle Pitts（$54M）と Brenton Strange（$48M超）の契約は、エリート級のパスキャッチャーであるタイトエンドが長期投資において最高額を得られることを示している。ATL と JAX はどちらも、耐久性と一貫性が成長余地と同じくらい重要なポジションの若き才能に大きく賭けている。これらの契約はNFL全体のサラリーキャップ交渉をこのポジションの基準として数年間確定させるだろう。",
-        "team_abbrev": "ATL, JAX",
-        "importance": "high"
-      },
-      {
-        "title_en": "Jeffery Simmons Resets Defensive Line Economy at $35.3M AAV",
-        "title_ja": "Jeffery Simmons が防御ラインの年俸相場を年平均3,530万ドルに再設定",
-        "body_en": "Tennessee's $105.8M extension for Simmons makes him the NFL's highest-paid interior defensive tackle, signaling that elite gap control and pass rush up the middle command elite compensation. The Titans' willingness to pay reflects confidence in their defensive philosophy and their belief that interior dominance cascades to all eleven defenders.",
-        "body_ja": "Tennessee の Jeffery Simmons との$105.8M契約は、彼をNFL最高給のインテリアDT（内側のディフェンシブタックル）にした。ギャップコントロールとインテリアでのパスラッシュに対する市場評価が劇的に上昇し、Titans の防御哲学への信頼度が窺える。",
-        "team_abbrev": "TEN",
-        "importance": "high"
-      },
-      {
-        "title_en": "Brandon Aiyuk's Public Ultimatum Signals Power Shift in WR Negotiations",
-        "title_ja": "Brandon Aiyuk の公開的な最後通牒：WR交渉における力関係の変化",
-        "body_en": "Aiyuk's Instagram declaration—threatening to sign with Washington if released—is a rare, transparent negotiating tactic that puts immense pressure on SF. This reflects the modern star receiver's ability to control his own destiny and signals growing agent sophistication in leveraging public opinion and rival interest.",
-        "body_ja": "Brandon Aiyuk がInstagramで「Commanders へ移籍する」と宣言した件は、49ers に対する直接的な圧力であり、現代のエリートWRが自らの運命を統制できる力を象徴している。エージェントの交渉戦術の進化とメディア・ファン心理の活用を示す事例だ。",
-        "team_abbrev": "SF",
-        "importance": "high"
-      },
-      {
-        "title_en": "Mike McCarthy Era Begins in Pittsburgh: Fundamentals Over Continuity",
-        "title_ja": "Mike McCarthy 時代が始まる：連続性よりもフンダメンタルズを重視",
-        "body_en": "The Steelers' embrace of McCarthy represents a seismic shift from the Tomlin dynasty. Minicamp reports suggest the new regime is drilling basics and revamping practice structure, signaling a complete philosophy reset rather than a marginal adjustment. This could yield either rapid improvement or early-season growing pains.",
-        "body_ja": "Steelers が Mike McCarthy を迎え入れたことは、Mike Tomlin 時代からの抜本的な転換を示している。ミニキャンプのレポートは新体制が基本動作とプラクティス体制の刷新に注力していることを示唆し、単なる微調整ではなく完全な哲学転換を予感させる。",
-        "team_abbrev": "PIT",
-        "importance": "medium"
-      },
-      {
-        "title_en": "Lions' Secondary in Crisis: Arnold Arrest Complicates Detroit's DBs Room",
-        "title_ja": "Lions のセカンダリー陣が危機的状況：Arnold の逮捕が複雑化",
-        "body_en": "Terrion Arnold's kidnapping and robbery charges in Tampa force Detroit's front office to navigate both legal process and roster contingency planning. The Lions must now accelerate secondary depth evaluations and potentially revisit draft capital at cornerback. This could be a season-altering disruption.",
-        "body_ja": "Terrion Arnold がタンパで逮捕された件は、Lions フロントオフィスに法的対応とロスタープランの再構築を強いられた。セカンダリー陣の層の厚さ評価を加速させ、CB（コーナーバック）層への投資をも再検討することになり、season-altering な影響をもたらす可能性がある。",
-        "team_abbrev": "DET",
-        "importance": "medium"
-      }
-    ],
-    "watch_tomorrow_en": "Monitor whether Brandon Aiyuk's Commanders ultimatum prompts a 49ers counter-offer or accelerates his trade/release timeline—a litmus test for how star WRs now control their own market.",
-    "watch_tomorrow_ja": "Brandon Aiyuk の Commanders 宣言に対して 49ers がどう応じるか、あるいは彼のトレード/リリースが加速するか注視。現代のスター WR がいかに自らの市場価値を統制するかを示す指標となる。"
+    "headline_en": "Digest generation failed",
+    "headline_ja": "ダイジェスト生成に失敗しました",
+    "lead_en": "Claude API call failed: Could not parse Claude JSON (Expecting value: line 29 column 22 (char 7377)); stop_reason=end_turn.",
+    "lead_ja": "Claude API 呼び出しに失敗しました: Could not parse Claude JSON (Expecting value: line 29 column 22 (char 7377)); stop_reason=end_turn.",
+    "body_en": "",
+    "body_ja": "",
+    "topics": [],
+    "watch_tomorrow_en": "",
+    "watch_tomorrow_ja": ""
   }
 }

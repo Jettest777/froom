@@ -1,21 +1,62 @@
 {
   "version": 2,
-  "generated_at": "2026-06-26T13:07:56.231956+00:00",
+  "generated_at": "2026-06-26T23:01:25.329624+00:00",
   "time_of_day": "evening",
   "model": "claude-haiku-4-5-20251001",
   "skipped": false,
-  "source_item_count": 118,
+  "source_item_count": 131,
   "ranked_item_count": 25,
-  "source_fingerprint": "a57891b23cf0cb238a8a0504b89abb3a9afa8fdd",
+  "source_fingerprint": "46dc004c8d5130bdb9417839204d65a37b28cd79",
   "digest": {
-    "headline_en": "Digest generation failed",
-    "headline_ja": "ダイジェスト生成に失敗しました",
-    "lead_en": "Claude API call failed: Could not parse Claude JSON (Expecting value: line 29 column 22 (char 7165)); stop_reason=end_turn.",
-    "lead_ja": "Claude API 呼び出しに失敗しました: Could not parse Claude JSON (Expecting value: line 29 column 22 (char 7165)); stop_reason=end_turn.",
-    "body_en": "",
-    "body_ja": "",
-    "topics": [],
-    "watch_tomorrow_en": "",
-    "watch_tomorrow_ja": ""
+    "headline_en": "Contract Wars Heat Up as Stars Seek New Deals—and Fresh Drama Erupts",
+    "headline_ja": "スター選手の契約交渉が激化、チーム内対立と法的問題が浮上",
+    "lead_en": "The NFL offseason reached a fever pitch today as marquee talent pushed for extensions while legal troubles shadowed several franchises. From a star receiver's public ultimatum to the Commanders, to a quarterback under police investigation, the league's contract season collided with courtroom reality.",
+    "lead_ja": "NFLオフシーズンはスター選手たちの契約交渉が佳境を迎える一方で、複数チームに法的問題が降りかかった。あるWRの公開的な移籍宣言から、QB投獄の可能性まで、契約交渉シーズンと司法の現実が衝突している。",
+    "body_en": "The Brandon Aiyuk saga represents the most visible battleground in this year's receiver market. By posting an Instagram ultimatum that he would sign with the Commanders \"tomorrow\" if released, Aiyuk has essentially put the 49ers in an impossible position: trade him, release him, or negotiate under duress. San Francisco's front office faces a choice between capitulating to public pressure or risking losing valuable assets. This reflects a broader trend where elite skill-position players—emboldened by recent receiver contracts—are leveraging media savvy and fan sentiment to force organizational hands. The 49ers' window remains open, but dysfunction in contract talks erodes team chemistry at precisely the wrong moment.\n\nMeanwhile, the Bengals' Joe Burrow situation epitomizes the \"make-or-break\" calculus facing aging QBs. With C.J. Stroud and other young signal-callers resetting market value, Burrow's extension will either cement Cincinnati's commitment to a veteran-led contention window or signal doubt about his long-term viability post-injury. This dominoes through the AFC North, where cap flexibility and roster construction directly impact division leverage. The Texans' potential reluctance to extend Stroud early actually strengthens Burrow's negotiating hand by keeping the market unsettled.\n\nOff the field, darker clouds gathered around two prominent players. Jets QB Geno Smith now faces a police investigation for a battery allegation—a situation that could jeopardize his standing as a franchise cornerstone, especially given New York's recent quarterbacking volatility. More severe is Lions cornerback Terrion Arnold, facing felony charges of armed robbery and kidnapping, with prosecutors seeking he remain jailed pending trial. Arnold represents the kind of character risk that front offices hope stays isolated; if the charges hold, Detroit's secondary depth chart shifts immediately, forcing defensive coordinator Aaron Glenn to recalibrate coverage responsibilities mid-offseason.\n\nThe Jaguars' three-year, $48 million extension with TE Brenton Strange signals organizational faith in their passing game infrastructure despite recent offensive inconsistencies. Strange's deal—worth up to $48M with $25M guaranteed—positions Jacksonville as ready to invest in complementary pieces around QB Trevor Lawrence, even as larger macro questions about the offense persist. This contrasts sharply with Brandon Aiyuk's public revolt, suggesting market conditions favor young, proven talent over organizational loyalty.\n\nInstitutional changes are reshaping the landscape as well. The Pittsburgh Steelers enter their first offseason under Mike McCarthy without Mike Tomlin's three-decade shadow, embracing a fundamentals-first reset that signals internal acknowledgment of recent tactical staleness. Buffalo's new $2.1 billion stadium—featuring heated natural grass, a world-class snow-melt system, and wind-reducing technology—represents infrastructure investment that indirectly strengthens the organization's pitch to free agents seeking elite facilities. These tangibles matter when competing for mid-tier talent who can swing division races.\n\nQB Brendan Sorsby's inability to join the NFL supplemental draft, combined with the CFL's flat rejection of his eligibility, leaves a high-profile college talent in limbo. His situation underscores how rigid institutional pathways leave little room for unconventional routes into professional football, a constraint that may push future QB prospects toward earlier entry declarations despite incomplete development.",
+    "body_ja": "Brandon Aiyukのサガは今年のレシーバー市場における最も目立つ戦場だ。InstagramでCommandsへ「明日サイン」するという公開的な最後通牒を突き付けることで、Aiyukは事実上49ersを進退窮まった立場に追い込んだ。サンフランシスコのフロント・オフィスはトレードするか、リリースするか、あるいはプレッシャー下での交渉に応じるか選択を迫られている。これは最近のレシーバー契約相場上昇に勇気付けられたエリート攻撃手たちが、メディア戦略とファン感情を活用して組織的判断を強制する傾向を象徴している。49ersの優勝ウィンドウは開いているが、契約交渉における不和はチームケミストリーを最悪のタイミングで蝕む。\n\nベンガルズのJoe Burrow状況は、加齢したQBが直面する「今が正念場」という計算の典型例だ。C.J. StroudなどのヤングQBが市場価値をリセットするなか、Burrowの契約延長はシンシナティがベテランQB中心の優勝ウィンドウへ本気で取り組むのか、それとも怪我からの長期的ビアビリティに疑問を抱いているのかを示す指針となる。これはAFC Northドミノとなり、サラリーキャップの柔軟性とロスター構成が直接ディビジョン内での力学に影響する。TexansがStroudの早期延長を渋る可能性は、実は市場を不安定なままに保つことでBurrowの交渉力を強化する。\n\nフィールド外ではより暗い雲が二人のプレイヤーの上に垂れ込める。JetsのQB Geno Smithはバッテリー疑惑で警察の捜査対象となっており、ニューヨークの最近のQB不安定性を考えると、彼のフランチャイズ・タレント としての地位を危機に晒す可能性がある。より深刻なのがLionsのコーナーバック Terrion Arnoldで、武装強盗と誘拐の重罪で起訴され、検察は公判前まで拘留を求めている。Arnoldは逮捕されることを望まないようなキャラクター・リスクを体現しており、罪状が成立すればDetroitのセカンダリー・デプスチャートは即座にシフトし、防御コーディネーター Aaron Glennはオフシーズン中にカバレッジを再構築することになる。\n\nJaguarsとTE Brenton Strangeの3年間4800万ドルの契約延長は、最近のオフェンス上の不安定性にもかかわらず、パッシング・ゲーム インフラに対する組織的信頼を示唆している。Strangeの契約—最大4800万ドル、保証額2500万ドル—はJacksonvilleがQB Trevor Lawrence周辺の補完的ピースへの投資準備ができていることを示す。これはBrandon Aiyukの公開的反乱と対照をなし、市場条件は組織的忠誠心よりも証明されたヤング・タレント を優遇する傾向を示唆している。\n\n制度的変化も環境を再構築している。Steelersはマイク・トムリンの30年間の影を離れて初めてのオフシーズンに突入し、Mike McCarthyの下で「基本に立ち返る」戦術をとることで、最近の戦術的停滞を認める信号を送っている。Billsの新しい21億ドルのスタジアム—温熱天然芝、世界レベルの融雪システム、風低減技術を備えている—は、エリート施設を求める中位レベルのタレントに対する組織のアピールを間接的に強化する施設投資を代表している。\n\nQB Brendan SorbsyのNFL補充ドラフト参加不可、それに加えてCFLの適格性の全面否定により、著名な大学QBは身動きが取れない状況に置かれている。彼の状況は、厳格な制度的経路がプロフットボールへの非慣例的ルートにほぼ余地を残さないことを強調し、今後のQB候補者は不完全な発展段階であっても早期エントリー宣言へ向かうよう促すかもしれない。",
+    "topics": [
+      {
+        "title_en": "Aiyuk's Public Ultimatum Exposes 49ers' Leverage Crisis",
+        "title_ja": "Aiyukの公開的最後通牒がNinersの交渉力危機を露呈",
+        "body_en": "Brandon Aiyuk's Instagram post demanding a move to the Commanders has shifted negotiating dynamics dramatically. By publicizing his preference, Aiyuk removed San Francisco's ability to quietly shop him or extend him on favorable terms. The 49ers now face immediate cap pressure and must choose between losing value through trade, caving to demands, or watching their window narrow with a disgruntled receiver. This sets a dangerous precedent for star talent leverage in the modern media age.",
+        "body_ja": "Brandon AiyukのInstagram投稿がCommandersへの移籍を公然と要求し、交渉ダイナミクスは劇的にシフトした。好みを公開することで、AiyukはSan Franciscoが静かに彼をショップするか好条件で延長する能力を奪った。Ninersは直近のサラリーキャップ圧力に直面し、トレードを通じた価値喪失、要求への譲歩、または不満を持つレシーバーとの優勝ウィンドウ縮小の間で選択を迫られている。",
+        "team_abbrev": "SF",
+        "importance": "high"
+      },
+      {
+        "title_en": "Legal Troubles Shadow Geno Smith and Terrion Arnold",
+        "title_ja": "Geno SmithとTerrion Arnoldの法的問題がチーム体制を脅かす",
+        "body_en": "Two high-profile players now face serious legal jeopardy. Jets QB Geno Smith is under police investigation for battery allegations, while Lions cornerback Terrion Arnold faces felony charges and remains jailed pending trial. Arnold's situation is particularly dire: if convicted of armed robbery and kidnapping, Detroit loses a key secondary piece mid-offseason and must rebuild coverage schemes. Smith's investigation, while less severe, casts uncertainty over New York's QB continuity.",
+        "body_ja": "二人の著名プレイヤーが重大な法的危機に直面している。JetsのQB Geno SmithはバッテリーアレジメントでLAPD捜査対象、一方LionsのCB Terrion Arnoldは重罪で起訴され公判前拘留。Arnoldの状況は特に深刻：武装強盗・誘拐罪で有罪となればDetroitはオフシーズン中にセカンダリー主力をロスト、カバレッジ体制を再構築せねばならず、SmithのLAPD捜査はNYのQB継続性に不確定性を投げかける。",
+        "team_abbrev": "NYJ",
+        "importance": "high"
+      },
+      {
+        "title_en": "Burrow Extension Will Define Bengals' AFC North Ambitions",
+        "title_ja": "Burrow延長交渉がBengalsのAFC North野心を決定",
+        "body_en": "Cincinnati's Joe Burrow sits at a critical juncture as the Bengals weigh a major contract extension. With young QBs like C.J. Stroud resetting market value, Burrow's deal will signal whether the Bengals are truly committed to a veteran-led championship run or harboring doubts about his durability. The outcome ripples through AFC North leverage and cap flexibility, affecting how teams like Baltimore and Pittsburgh allocate resources in their own QB windows.",
+        "body_ja": "シンシナティのJoe BurrowはBengalsが大型契約延長を検討するなか、重大な転機に直面している。C.J. StroudなどのヤングQBが市場価値をリセットするなか、Burrowの契約はBengalsが本当にベテランQB中心の優勝ウィンドウへ取り組むのか、それとも耐久性に疑問を抱いているのかを示す。この結果はAFC North内での力学とサラリーキャップの柔軟性に波及し、BaltimoreやPittsburghが自らのQBウィンドウにおいてリソースを配分する方法に影響する。",
+        "team_abbrev": "CIN",
+        "importance": "high"
+      },
+      {
+        "title_en": "Steelers Embrace New Era Under Mike McCarthy",
+        "title_ja": "SteelersがMike McCarthy新体制でリセット",
+        "body_en": "Pittsburgh's first offseason without Mike Tomlin in three decades marks a cultural shift. New HC Mike McCarthy is emphasizing fundamentals and a fresh tactical approach, signaling the organization's recognition that recent schemes had grown stale. This reset could either revitalize the franchise or expose vulnerabilities that Tomlin's consistency had masked. The coming season will reveal whether McCarthy can sustain winning in a division that remains competitive.",
+        "body_ja": "Pittsburghが30年間のMike Tomlin時代を終えて迎える初のオフシーズンは文化的転換を象徴している。新HC Mike McCarthyが基本とフレッシュな戦術アプローチを強調し、最近のスキームが硬化していたことを組織が認識している信号を送る。このリセットはフランチャイズを活性化させるか、Tomlinの一貫性が隠蔽していた脆弱性を露呈させるかのいずれか。来季はMcCarthyが依然として競争力あるディビジョンで勝利を維持できるかを示すだろう。",
+        "team_abbrev": "PIT",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Brendan Sorsby's Door Closes as CFL Denies Eligibility",
+        "title_ja": "Brendan SorbsyのプロフットボールパスがCFL拒否で絶たれる",
+        "body_en": "Former Notre Dame QB Brendan Sorsby now faces a dead end after the CFL rejected his eligibility and the NFL has no supplemental draft path available. With traditional routes blocked, Sorsby's professional career hangs in limbo. His situation highlights how institutional rigidity can trap talented players, potentially pushing future QB prospects to enter the draft earlier regardless of readiness, just to avoid similar dead-end scenarios.",
+        "body_ja": "前Notre Dame QB Brendan SorbsyはCFLが適格性を拒否し、NFLも補充ドラフトの経路がない状況に直面している。従来のルートが塞がれ、Sorbsyのプロキャリアは宙ぶらりんだ。彼の状況は制度的硬直性がタレント選手を罠にはめる方法を強調し、潜在的に将来のQB候補者は同様の行き止まりシナリオを避けるため、準備不足でも早期にドラフトに臨むよう促す可能性がある。",
+        "team_abbrev": null,
+        "importance": "medium"
+      }
+    ],
+    "watch_tomorrow_en": "Monitor whether the 49ers publicly respond to Aiyuk's ultimatum or begin trade negotiations—their next move will either capitulate to star leverage or risk a messy offseason standoff.",
+    "watch_tomorrow_ja": "49ersがAiyukの最後通牒に公開で応答するか、あるいはトレード交渉を開始するかを注視；彼らの次の動きはスター・レバレッジに屈するか、あるいはメッシーなオフシーズン対峙のリスクを冒すかを示す。"
   }
 }

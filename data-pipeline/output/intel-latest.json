@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-06-28T19:25:59.389282+00:00",
+  "generated_at": "2026-06-28T20:42:40.817365+00:00",
   "count": 135,
   "items": [
     {
       "kind": "rumor",
       "title": "Sorsby is not going to the NFL? What's next for th...",
-      "title_ja": "Sorsby はNFLに進まないのか？今後はどうなる...",
+      "title_ja": "Sorsby はNFLに進まないのか？その後の進路は...",
       "excerpt": "What's next for Brendan Sorsby with no NFL supplemental draft? Could he return to college? Here's what to know.",
-      "excerpt_ja": "NFLサプリメンタルドラフトがない中、Brendan Sorsby の今後は？大学に戻る可能性は？知っておくべきことをまとめた。",
+      "excerpt_ja": "補足ドラフトがない中、Brendan Sorsby はどうなる？大学復帰もあり得るのか？知っておくべきポイント",
       "sources": [
         "ESPN NFL"
       ],
@@ -22,9 +22,9 @@
     {
       "kind": "signing",
       "title": "Now or never for Burrow! Make-or-break year for St...",
-      "title_ja": "Burrow に残された時間は限定的。St... にとって正念場のシーズンに",
+      "title_ja": "Burrow にとって今が勝負！Saint...の正念場シーズン",
       "excerpt": "Do the Bengals have their best shot at a Super Bowl? Could the Texans pass on an extension for C.J. Stroud? We're sizing up five offseason overreactions.",
-      "excerpt_ja": "Bengals のスーパーボウル優勝チャンスは最高？Texans は C.J. Stroud との契約延長を見送る可能性？オフシーズンの過度な反応5つを検証する。",
+      "excerpt_ja": "Bengals はSuper Bowl で最高のチャンスを手にしているか？Texans は C.J. Stroud との契約延長を見送るのか？オフシーズンの過剰反応5つを検証",
       "sources": [
         "ESPN NFL"
       ],
@@ -38,9 +38,9 @@
     {
       "kind": "injury",
       "title": "Barnwell’s annual ranking of 32 NFL playmaker core...",
-      "title_ja": "Barnwell による32チームのプレーメーカー陣容の年間ランキング",
+      "title_ja": "Barnwell による32NFL の得点源ランキング...",
       "excerpt": "Which teams have the best skill position talent around their QB and offensive line? We stacked all 32 groups of pass catchers and ball carriers from worst to first.",
-      "excerpt_ja": "QBとオフェンシブラインを取り巻くスキルポジション陣で最強はどのチーム？全32チームのレシーバーとランニングバックを最下位から最高位までランク付けした。",
+      "excerpt_ja": "QB とオフェンスラインの周辺で、最高のスキルポジション人材を抱えるチームはどこか？全32チームのレシーバーとランニングバックのグループを最悪から最高までランク付け",
       "sources": [
         "ESPN NFL"
       ],
@@ -54,9 +54,9 @@
     {
       "kind": "signing",
       "title": "What we're hearing on 32 NFL contract negotiations...",
-      "title_ja": "32チームのNFL契約交渉の最新情報",
+      "title_ja": "32NFL チームの契約交渉の最新情報...",
       "excerpt": "Our reporters have the latest buzz on 32 contract extension candidates -- one from every team -- and their potential new deals.",
-      "excerpt_ja": "各チームから1人ずつ、計32人の契約延長候補の最新情報と今後の契約内容について、当社記者がリポート。",
+      "excerpt_ja": "記者団が各チームから1人ずつピックアップした、32人の契約延長候補と彼らの新たな契約内容について最新情報を入手",
       "sources": [
         "ESPN NFL"
       ],
@@ -69,10 +69,42 @@
     },
     {
       "kind": "other",
+      "title": "2025 awards result in gold shields for Rams teammates Matthew Stafford, Myles Garrett",
+      "title_ja": "2025年授賞式でRams チームメイト Matthew Stafford と Myles Garrett がゴールドシールドを獲得",
+      "excerpt": "In 2025, the NFL began outfitting the jerseys of the prior year&#39;s award winners with gold shields.",
+      "excerpt_ja": "2025年、NFLは前年度の受賞者のユニフォームにゴールドシールドを装備し始めた",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 20:32:44 +0000",
+      "url": "https://sports.yahoo.com/articles/2025-awards-result-gold-shields-203244837.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL Offensive Player of the Year Odds: Jahmyr Gibbs Poised for a Career Year?",
+      "title_ja": "NFLオフェンシブ・プレイヤー・オブ・ザ・イヤーオッズ：Jahmyr Gibbs はキャリアイヤーを狙えるのか？",
+      "excerpt": "2026 NFL Offensive Player of the Year betting odds, headlined by Jahmyr Gibbs.",
+      "excerpt_ja": "2026年NFLオフェンシブ・プレイヤー・オブ・ザ・イヤーのベッティングオッズ、Jahmyr Gibbs を筆頭に",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 19:03:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-offensive-player-odds-nacua-183400310.html"
+    },
+    {
+      "kind": "other",
       "title": "It’s a frustratingly long wait for Rams vs. Seahawks this season",
-      "title_ja": "今シーズン Rams vs. Seahawks の対戦がやけに長く待たされることになる",
+      "title_ja": "今シーズン、Rams 対 Seahawks の対戦が実現するまで待たされるのは実に歯がゆい",
       "excerpt": "We shouldn’t have to wait so long for the biggest matchup of the NFL season.",
-      "excerpt_ja": "NFLシーズン最大の注目カードをここまで長く待つ必要はない。",
+      "excerpt_ja": "NFLシーズンで最大級のマッチアップをこんなに長く待つ必要はないはずだ",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +118,9 @@
     {
       "kind": "other",
       "title": "Cowboys 2026 roster rundown: TE Brevyn Spann-Ford",
-      "title_ja": "Cowboys 2026ロスター点描：TE Brevyn Spann-Ford",
+      "title_ja": "Cowboys 2026ロスター紹介：TE Brevyn Spann-Ford",
       "excerpt": "Cowboys tight end will make his push for more playing time",
-      "excerpt_ja": "Cowboys のタイトエンドがさらなる出場機会を勝ち取ろうと奮闘する",
+      "excerpt_ja": "Cowboys のタイトエンドはスナップ数を増やすため奮闘する",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -100,11 +132,27 @@
       "url": "https://sports.yahoo.com/articles/cowboys-2026-roster-rundown-te-190000784.html"
     },
     {
+      "kind": "other",
+      "title": "2026 NFL Defensive Player of the Year Award Odds: Myles Garrett Eyes Hollywood Encore",
+      "title_ja": "2026NFLディフェンシブ・プレイヤー・オブ・ザ・イヤーオッズ：Myles Garrett はハリウッドの再現を目指す",
+      "excerpt": "2026 NFL Defensive Player of the Year betting odds, headlined by new Los Angeles Rams defensive end Myles Garrett (+400).",
+      "excerpt_ja": "2026NFLディフェンシブ・プレイヤー・オブ・ザ・イヤーのベッティングオッズ、Los Angeles Rams のディフェンシブエンド Myles Garrett（+400）を中心に",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 18:58:00 +0000",
+      "url": "https://sports.yahoo.com/articles/2025-26-nfl-defensive-player-153900255.html"
+    },
+    {
       "kind": "rumor",
       "title": "Minnesota Vikings News and Links: The Offseason Doldrums!",
-      "title_ja": "Minnesota Vikings ニュース＆リンク：オフシーズンの停滞期！",
+      "title_ja": "Minnesota Vikings ニュースとリンク：オフシーズンの停滞期",
       "excerpt": "The first training camp practice is 34 days away. Rookies report to training camp in 28 days. Time flies no? Without any practices there is not a lot to discuss besides the endless debate about the QB competition. I am preparing for the 2027 draft which leads me to plan my viewing schedule (as if […",
-      "excerpt_ja": "トレーニングキャンプの初日まであと34日。ルーキーのキャンプイン報告は28日後。時間が経つのは早いものだ。練習がない間は、QBの争奪戦についての끝없는 議論の他に話題も限られている。2027年ドラフトに向けて準備を進めており、視聴スケジュール計画を立てている（まるで...",
+      "excerpt_ja": "最初のトレーニングキャンプ練習開始まで34日。ルーキーのキャンプイン報告まで28日。時が経つのは早いでしょ？練習がない中、QB争いについての果てしない議論を除いては語ることが多くない。2027年ドラフト向けて準備を進めており、それに伴い視聴予定を立てている...",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +166,9 @@
     {
       "kind": "other",
       "title": "NFL Rookie of the Year Odds: Jeremiyah Love and David Bailey Emerge as Early Favorites",
-      "title_ja": "NFLルーキー・オブ・ザ・イヤーの最新オッズ：Jeremiyah Love と David Bailey が早期の有力候補に浮上",
+      "title_ja": "NFLルーキー・オブ・ザ・イヤーオッズ：Jeremiyah Love と David Bailey が早期の有力候補として浮上",
       "excerpt": "A look at updated NFL Rookie of the Year odds, with Jeremiyah Love (+430) and David Bailey (+500) listed as the betting favorites.",
-      "excerpt_ja": "NFLルーキー・オブ・ザ・イヤーの最新オッズをまとめた。Jeremiyah Love（+430）と David Bailey（+500）がベッティングの最有力候補となっている。",
+      "excerpt_ja": "更新されたNFLルーキー・オブ・ザ・イヤーのオッズを確認。Jeremiyah Love（+430）と David Bailey（+500）がベッティングの有力候補に",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +182,9 @@
     {
       "kind": "other",
       "title": "NFL Comeback Player of the Year Odds: The Empire Strikes Back",
-      "title_ja": "NFLカムバック・プレイヤー・オブ・ザ・イヤーのオッズ：帝国の逆襲",
+      "title_ja": "NFLカムバック・プレイヤー・オブ・ザ・イヤーオッズ：帝国の逆襲",
       "excerpt": "A look at NFL Comeback Player of the Year odds, with Patrick Mahomes (+200) penned as the betting favorite.",
-      "excerpt_ja": "NFLカムバック・プレイヤー・オブ・ザ・イヤーのオッズをリポート。Patrick Mahomes（+200）がベッティングの最有力候補として挙げられている。",
+      "excerpt_ja": "NFLカムバック・プレイヤー・オブ・ザ・イヤーのオッズを確認。Patrick Mahomes（+200）がベッティング有力候補に名を連ねている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +198,9 @@
     {
       "kind": "other",
       "title": "NFL Coach of the Year Odds: John Harbaugh Ushers in New Era for the Giants",
-      "title_ja": "NFLコーチ・オブ・ザ・イヤーのオッズ：John Harbaugh が Giants の新時代を切り開く",
+      "title_ja": "NFLコーチ・オブ・ザ・イヤーオッズ：John Harbaugh が Giants に新時代をもたらす",
       "excerpt": "A look at NFL Coach of the Year odds, with first-year New York Giants head coach John Harbaugh (+650) as the betting favorite.",
-      "excerpt_ja": "NFLコーチ・オブ・ザ・イヤーのオッズ。初年度となる New York Giants のヘッドコーチ John Harbaugh（+650）がベッティングの最有力候補となっている。",
+      "excerpt_ja": "NFLコーチ・オブ・ザ・イヤーのオッズを確認。初年度の New York Giants ヘッドコーチ John Harbaugh（+650）がベッティング有力候補",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +214,9 @@
     {
       "kind": "other",
       "title": "All-PFF Colts team revealed over the past 20 seasons",
-      "title_ja": "過去20シーズンの All-PFF Colts チーム発表",
+      "title_ja": "過去20シーズンのColts オール-PFF チーム",
       "excerpt": "While not entirely shocking, there are a few surprising names here.",
-      "excerpt_ja": "完全に予想外というわけではないが、いくつか意外な名前が挙がっている。",
+      "excerpt_ja": "完全に驚くほどではないが、興味深い名前も並んでいる",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +230,9 @@
     {
       "kind": "other",
       "title": "Raiders minority owner Tom Brady bashes the NFL&#39;s fine system for on-field &quot;mistakes&quot;",
-      "title_ja": "Raiders のマイノリティオーナー Tom Brady がNFLのフィールド上の「ミス」に対する罰金制度を批判",
+      "title_ja": "Raiders の少数株主 Tom Brady が、フィールド上の「ミス」に対するNFLの罰金制度に異議を唱える",
       "excerpt": "Brady&#39;s opinions may not be shared by his business partners.",
-      "excerpt_ja": "Brady の見解がビジネスパートナーと共有されるとは限らない。",
+      "excerpt_ja": "Brady の見解は、彼のビジネスパートナーと必ずしも一致していない可能性がある",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +246,9 @@
     {
       "kind": "other",
       "title": "It’s a bit of role reversal for the Raiders’ Mike McCoy and Klint Kubiak",
-      "title_ja": "Raiders の Mike McCoy と Klint Kubiak にとっては立場が逆転した形",
+      "title_ja": "Raiders の Mike McCoy と Klint Kubiak にとっては、ある種の役割逆転",
       "excerpt": "Now head coach, Kubiak was an offensive assistant under McCoy, now the older coach is an assistant to the younger one",
-      "excerpt_ja": "Kubiak はヘッドコーチとなったが、かつては McCoy の下でオフェンシブアシスタントを務めており、いまや年上の McCoy が若いコーチのアシスタントになっている",
+      "excerpt_ja": "現在ヘッドコーチの Kubiak は、かつて McCoy 配下でオフェンスアシスタントを務めていたが、今は立場が逆転。年上の コーチが年下のコーチのアシスタントに",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +262,9 @@
     {
       "kind": "injury",
       "title": "NFL Insider believes Colts’ Lou Anarumo could have best safety duo since last Super Bowl run",
-      "title_ja": "NFLインサイダーが、Colts の Lou Anarumo はスーパーボウル制覇時以来最高のセーフティデュオを擁する可能性があると指摘",
+      "title_ja": "NFLインサイダーは、Colts の Lou Anarumo がSuper Bowl 出場以来、最高のセーフティデュオを持つ可能性があると信じている",
       "excerpt": "According to SI.com’s Albert Breer, Indianapolis Colts veteran defensive coordinator Lou Anarumo could have his best starting safety duo since his former 2021 Cincinnati Bengals defense made a surprising Super Bowl appearance: Specifically, that AFC Championship title season, Anarumo’s 17th ranked d",
-      "excerpt_ja": "SI.com の Albert Breer によると、Indianapolis Colts のベテラン ディフェンシブコーディネーター Lou Anarumo は、2021年のスーパーボウル出場時の Cincinnati Bengals ディフェンスと同じレベルの最高級セーフティデュオを保有する可能性がある。具体的には、AFC チャンピオンシップを制したあのシーズン、Anarumo の17位ランクのディフェンスが...",
+      "excerpt_ja": "SI.com の Albert Breer によると、Indianapolis Colts のベテランディフェンシブコーディネーター Lou Anarumo は、2021年のSuper Bowl 出場を果たした Cincinnati Bengals のディフェンスで以来、最高のスターティングセーフティデュオを手にしている可能性がある。具体的には、AFC チャンピオンシップを制したそのシーズン、Anarumo のディフェンス...",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +278,9 @@
     {
       "kind": "other",
       "title": "Is Myles Garrett or Trent McDuffie the bigger addition?",
-      "title_ja": "Myles Garrett と Trent McDuffie のどちらが大きな補強か？",
+      "title_ja": "Myles Garrett と Trent McDuffie、どちらが大きな補強か？",
       "excerpt": "Which player is more important to the success of the 2026 Rams?",
-      "excerpt_ja": "2026年 Rams の成功にとってどちらのプレイヤーがより重要か？",
+      "excerpt_ja": "2026年 Rams の成功において、どちらの選手がより重要か？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +294,9 @@
     {
       "kind": "other",
       "title": "NFC East Grades: Where do the Giants stack up at the defensive line?",
-      "title_ja": "NFC東地区の評価：Giants のディフェンシブラインはどのポジションか？",
+      "title_ja": "NFC East グレード：Giants のディフェンシブラインは全体でどこに位置するか？",
       "excerpt": "Where does the New York Giants defensive line room stack up in the NFC East?",
-      "excerpt_ja": "New York Giants のディフェンシブライン陣が NFC東地区でどのランクに位置するか？",
+      "excerpt_ja": "New York Giants のディフェンシブラインルームは、NFC East 全体でどう位置づけられるのか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +310,9 @@
     {
       "kind": "other",
       "title": "NFL.com gives reasons for and against the Denver Broncos repeating as AFC West champions",
-      "title_ja": "NFL.com が Denver Broncos の AFC西地区連覇の可能性について賛否両論を提示",
+      "title_ja": "NFL.com が Denver Broncos による AFC West 連覇の可能性について、賛成と反対の理由を提示",
       "excerpt": "Can the Denver Broncos repeat as AFC West champions in 2026?",
-      "excerpt_ja": "Denver Broncos は2026年 AFC西地区を連覇できるか？",
+      "excerpt_ja": "Denver Broncos は2026年、AFC West チャンピオンを連覇できるか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -278,9 +326,9 @@
     {
       "kind": "other",
       "title": "Steelers offense named one of worst in NFL",
-      "title_ja": "Steelers のオフェンスがNFLでも最下位クラスと評価される",
+      "title_ja": "Steelers のオフェンスはNFL最悪の一角に名を連ねた",
       "excerpt": "The Steelers group of offensive weapons named one of the worst in the NFL",
-      "excerpt_ja": "Steelers のオフェンシブウェポン陣がNFLでも有数の貧弱さと名指しされた",
+      "excerpt_ja": "Steelers の得点源グループはNFLでも最悪のうちの一つとされた",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +342,9 @@
     {
       "kind": "other",
       "title": "My All-Time Historical Bears Team: The Blue Ridge Better Bests",
-      "title_ja": "歴史的Bears オールタイムチーム：ザ・ブルーリッジ・ベター・ベスト",
+      "title_ja": "マイ・オール-タイム・ヒストリカル・Bears チーム：ザ・ブルー・リッジ・ベター・ベスツ",
       "excerpt": "Check out how @BryanOrenchuk put together his All Time Bears Historical Team!",
-      "excerpt_ja": "@BryanOrenchuk がいかにして歴史的 Bears オールタイムチームを構築したか、チェックしよう！",
+      "excerpt_ja": "@BryanOrenchuk がオール-タイム Bears ヒストリカル・チームをどう構成したかをチェック",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -310,9 +358,9 @@
     {
       "kind": "signing",
       "title": "Brandon Aiyuk terminated SRA on Saturday",
-      "title_ja": "Brandon Aiyuk が土曜日にSRAを終了",
+      "title_ja": "Brandon Aiyuk が土曜日にSRA を解除",
       "excerpt": "In one of his recent social-media videos, 49ers receiver Brandon Aiyuk said he terminated a Standard Representation Agreement with Ryan Williams of Athletes First in November 2025.",
-      "excerpt_ja": "49ers のレシーバー Brandon Aiyuk は最近のソーシャルメディア動画で、2025年11月に Athletes First の Ryan Williams との Standard Representation Agreement を終了したことを明かした。",
+      "excerpt_ja": "49ers のレシーバー Brandon Aiyuk は最近のソーシャルメディア動画の中で、2025年11月に Athletes First の Ryan Williams との標準表現契約（SRA）を解除したと述べた",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -325,10 +373,26 @@
     },
     {
       "kind": "other",
+      "title": "2025 awards result in gold shields for Rams teammates Matthew Stafford, Myles Garrett",
+      "title_ja": "2025年授賞式でRams チームメイト Matthew Stafford と Myles Garrett がゴールドシールドを獲得",
+      "excerpt": "In 2025, the NFL began outfitting the jerseys of the prior year's award winners with gold shields.",
+      "excerpt_ja": "2025年、NFLは前年度の受賞者のユニフォームにゴールドシールドを装備し始めた",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 16:32:44 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/2025-awards-result-in-gold-shields-for-rams-teammates-matthew-stafford-myles-garrett"
+    },
+    {
+      "kind": "other",
       "title": "The possibility of a Patriots game in Scotland is in the &quot;conversation&quot; phase",
-      "title_ja": "Patriots のスコットランド開催試合の可能性は「協議段階」にある",
+      "title_ja": "Patriots のスコットランド開催の可能性は「協議」段階にある",
       "excerpt": "After the Tartan Army took over Boston for the World Cup, and drank all the beer, Patriots owner Robert Kraft expressed an interest to the NFL in playing a game in Scotland.",
-      "excerpt_ja": "ワールドカップでスコットランド代表ファンがボストンを占領し、ビールを飲み尽くした後、Patriots のオーナー Robert Kraft がNFLに対してスコットランドでの試合開催に関心を表明した。",
+      "excerpt_ja": "タルタン・アーミーがワールドカップでボストンを制圧してビールをすべて飲み干した後、Patriots のオーナー Robert Kraft はNFLにスコットランドでの試合開催への関心を表明した",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -342,9 +406,9 @@
     {
       "kind": "other",
       "title": "MLB 2026 Buzz: Texas Rangers Place Wyatt Langford On IL",
-      "title_ja": "MLB 2026 バズ：Texas Rangers が Wyatt Langford をIL送りに",
+      "title_ja": "MLB 2026バズ：Texas Rangers が Wyatt Langford をIL に配置",
       "excerpt": "Notable news, notes and buzz from MLB's 2026 season.",
-      "excerpt_ja": "MLB 2026シーズンの注目ニュース、ノート、バズをまとめた。",
+      "excerpt_ja": "MLB の2026シーズンからの注目ニュース、ノート、バズ",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -358,9 +422,9 @@
     {
       "kind": "other",
       "title": "The World Cup Is The Ultimate Cultural Melting Pot — And It's Beautiful",
-      "title_ja": "ワールドカップは究極の文化交流の場—そして本当に素晴らしい",
+      "title_ja": "ワールドカップは究極の文化的坩堝である—そして、それは素晴らしい",
       "excerpt": "Former Colombia national team player Melissa Oritz shares her admiration for the World Cup fans.",
-      "excerpt_ja": "コロンビア代表の元選手 Melissa Oritz がワールドカップファンへの敬意を語る。",
+      "excerpt_ja": "元Colombia 代表選手の Melissa Oritz がワールドカップファンへの賞賛を語る",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -374,9 +438,9 @@
     {
       "kind": "other",
       "title": "GOAT Greatness: All Of Lionel Messi's World Cup Goals, Ranked",
-      "title_ja": "GOAT の偉大さ：Lionel Messi のワールドカップゴール全てをランク付け",
+      "title_ja": "GOAT の偉大さ：Lionel Messi のワールドカップゴール全て、ランク付け",
       "excerpt": "The GOAT just keeps reminding us he's the GOAT. Here are all of Lionel Messi's goals at the World Cup, best to the very best.",
-      "excerpt_ja": "GOAT は自分がGOATであることを思い出させ続ける。Lionel Messi のワールドカップでのゴール全てを最高から最高へとランク付けした。",
+      "excerpt_ja": "GOAT は常に彼が GOAT であることを思い出させてくれる。Lionel Messi がワールドカップで挙げた全ゴール、最高の物から最高中の最高の物まで",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -390,9 +454,9 @@
     {
       "kind": "signing",
       "title": "ESPY Awards nominations include Seahawks, Jaxon Smith-Njigba",
-      "title_ja": "ESPY Awards ノミニーに Seahawks と Jaxon Smith-Njigba がノミネート",
+      "title_ja": "ESPY 賞ノミネーションに Seahawks と Jaxon Smith-Njigba がリストアップ",
       "excerpt": "Let’s just agree to keep Druski away from the microphone this time.",
-      "excerpt_ja": "Druski をマイクから遠ざけておくということで合意しよう。",
+      "excerpt_ja": "今回は Druski をマイクから遠ざけることで合意しよう",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -406,9 +470,9 @@
     {
       "kind": "other",
       "title": "Scouting New York Jets UDFA wide receiver Jalen Walthall",
-      "title_ja": "New York Jets の UDFA ワイドレシーバー Jalen Walthall をスカウティング",
+      "title_ja": "New York Jets のUDFA ワイドレシーバー Jalen Walthall のスカウティング",
       "excerpt": "Taking a look at a Jets wide receiver prospect",
-      "excerpt_ja": "Jets のワイドレシーバー候補を詳細に検証",
+      "excerpt_ja": "Jets のワイドレシーバープロスペクトを検討",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -422,9 +486,9 @@
     {
       "kind": "other",
       "title": "Ranking the top 10 players on the Cowboys’ 2026 roster: #3 Quinnen Williams",
-      "title_ja": "Cowboys 2026ロスターの上位10選手ランキング：#3 Quinnen Williams",
+      "title_ja": "Cowboys 2026ロスター上位10選手ランキング：第3位 Quinnen Williams",
       "excerpt": "It feels like so many people forget about Quinnen Williams.",
-      "excerpt_ja": "Quinnen Williams のことを忘れてしまっている人が多い気がする。",
+      "excerpt_ja": "多くの人が Quinnen Williams について忘れてしまっているようだ",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -438,9 +502,9 @@
     {
       "kind": "other",
       "title": "Alexi Lalas' 2026 FIFA World Cup Bracket Prediction",
-      "title_ja": "Alexi Lalas の2026 FIFA ワールドカップ ブラケット予想",
+      "title_ja": "Alexi Lalas の2026 FIFA ワールドカップ・ブラケット予想",
       "excerpt": "Things are about to get serious at the 2026 FIFA World Cup. Here is my bracket prediction.",
-      "excerpt_ja": "2026 FIFA ワールドカップは本格化しようとしている。ここは私のブラケット予想だ。",
+      "excerpt_ja": "2026 FIFA ワールドカップは本格化しようとしている。ここが私のブラケット予想である",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -454,9 +518,9 @@
     {
       "kind": "other",
       "title": "Polymarket Promo Code FOXSPORTS Unlocks $50 Bonus for Canada vs. South Africa",
-      "title_ja": "Polymarket プロモコード FOXSPORTS で Canada vs. South Africa に$50ボーナスをアンロック",
+      "title_ja": "Polymarket プロモコード FOXSPORTS で Canada 対 South Africa のために50ドルボーナスをアンロック",
       "excerpt": "Polymarket Promo Code FOXSPORTS Unlocks $50 Bonus for Canada vs. South Africa.",
-      "excerpt_ja": "Polymarket プロモコード FOXSPORTS で Canada vs. South Africa に$50ボーナスをアンロック。",
+      "excerpt_ja": "Polymarket プロモコード FOXSPORTS で Canada 対 South Africa のために50ドルボーナスをアンロック。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -470,9 +534,9 @@
     {
       "kind": "other",
       "title": "Kalshi Promo Code FOXSPORTS: Get a $10 Bonus for the Canada vs. South Africa Knockout Game",
-      "title_ja": "Kalshi プロモコード FOXSPORTS：Canada vs. South Africa ノックアウトゲームで$10ボーナスを獲得",
+      "title_ja": "Kalshi プロモコード FOXSPORTS：Canada 対 South Africa ノックアウトゲームで10ドルボーナスを獲得",
       "excerpt": "Kalshi Promo Code FOXSPORTS: Get a $10 Bonus for the Canada vs. South Africa Knockout Game.",
-      "excerpt_ja": "Kalshi プロモコード FOXSPORTS：Canada vs. South Africa ノックアウトゲームで$10ボーナスを獲得。",
+      "excerpt_ja": "Kalshi プロモコード FOXSPORTS：Canada 対 South Africa ノックアウトゲームで10ドルボーナスを獲得。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -486,9 +550,9 @@
     {
       "kind": "other",
       "title": "bet365 Bonus Code FOX365: Get $150 Bonus Bets on the First Knockout Game, Canada vs. South Africa",
-      "title_ja": "bet365 ボーナスコード FOX365：Canada vs. South Africa 初回ノックアウトゲームで$150ボーナスベットを獲得",
+      "title_ja": "bet365 ボーナスコード FOX365：最初のノックアウトゲーム Canada 対 South Africa で150ドルのボーナスベットを獲得",
       "excerpt": "bet365 Bonus Code FOX365: Get $150 Bonus Bets on the First Knockout Game, Canada vs. South Africa.",
-      "excerpt_ja": "bet365 ボーナスコード FOX365：Canada vs. South Africa 初回ノックアウトゲームで$150ボーナスベットを獲得。",
+      "excerpt_ja": "bet365 ボーナスコード FOX365：最初のノックアウトゲーム Canada 対 South Africa で150ドルのボーナスベットを獲得。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -502,9 +566,9 @@
     {
       "kind": "other",
       "title": "Raiders wide receiver Malik Benson Jr. excels during OTA’s",
-      "title_ja": "Raiders のワイドレシーバー Malik Benson Jr. がOTA で大活躍",
+      "title_ja": "Raiders のワイドレシーバー Malik Benson Jr.がOTA で活躍",
       "excerpt": "Las Vegas Raiders rookie Malik Benson was named a surprise this offseason by ESPN",
-      "excerpt_ja": "Las Vegas Raiders のルーキー Malik Benson はオフシーズンのサプライズとして ESPN に名挙げされた",
+      "excerpt_ja": "Las Vegas Raiders のルーキー Malik Benson はESPN からオフシーズンのサプライズとして選ばれた",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -518,9 +582,9 @@
     {
       "kind": "other",
       "title": "Jayden Daniels called “potential bust” heading into ‘26 season - Daily Slop",
-      "title_ja": "Jayden Daniels が '26シーズン直前に「バストの可能性がある」と評価される - Daily Slop",
+      "title_ja": "Jayden Daniels は'26シーズンに向けて「潜在的なバスト」と指摘—デイリー・スロップ",
       "excerpt": "Meanwhile, CBS Sports ranks Washington’s offseason 8th best, and SI says Sonny Styles landed in a “perfect situation”",
-      "excerpt_ja": "一方、CBS Sports は Washington のオフシーズンを8位と評価し、SI は Sonny Styles が「完璧な状況」にいると述べている",
+      "excerpt_ja": "一方、CBS Sports は Washington のオフシーズンを8番目に評価し、SI は Sonny Styles が「完璧な状況」に着地したと述べている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -534,9 +598,9 @@
     {
       "kind": "other",
       "title": "Can Blake Corum rush for 1,000 yards this season?",
-      "title_ja": "Blake Corum は今シーズン1000ヤード以上のラッシングができるか？",
+      "title_ja": "Blake Corum は今シーズン1000ヤード以上のラッシングを達成できるか？",
       "excerpt": "One writer thinks he can take another major leap in 2026.",
-      "excerpt_ja": "あるライターは彼が2026年にさらに大きなレベルアップができると考えている。",
+      "excerpt_ja": "あるライターは彼が2026年にさらに大きな飛躍を遂げることができると考えている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -550,9 +614,9 @@
     {
       "kind": "other",
       "title": "Giants’ top 10 most important players: No. 4 — WR Malik Nabers",
-      "title_ja": "Giants の最重要選手TOP10：第4位—WR Malik Nabers",
+      "title_ja": "Giants の最重要選手トップ10：第4位—WR Malik Nabers",
       "excerpt": "The Giants need a healthy, explosive Nabers.",
-      "excerpt_ja": "Giants には健康でエクスプローシブな Nabers が必要だ。",
+      "excerpt_ja": "Giants は健康で爆発的なパフォーマンスを見せるNabers が必要",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -566,9 +630,9 @@
     {
       "kind": "other",
       "title": "How to Bet on the Canada vs. South Africa Game With DraftKings, FanDuel, BetMGM",
-      "title_ja": "DraftKings、FanDuel、BetMGM で Canada vs. South Africa にベットする方法",
+      "title_ja": "DraftKings、FanDuel、BetMGM で Canada 対 South Africa ゲームに賭ける方法",
       "excerpt": "How to Bet on the Canada vs. South Africa Game With DraftKings, FanDuel, BetMGM.",
-      "excerpt_ja": "DraftKings、FanDuel、BetMGM で Canada vs. South Africa にベットする方法。",
+      "excerpt_ja": "DraftKings、FanDuel、BetMGM で Canada 対 South Africa ゲームに賭ける方法。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -582,9 +646,9 @@
     {
       "kind": "other",
       "title": "Raiders minority owner Tom Brady bashes the NFL's fine system for on-field \"mistakes\"",
-      "title_ja": "Raiders のマイノリティオーナー Tom Brady がNFLのフィールド上の「ミス」に対する罰金制度を批判",
+      "title_ja": null,
       "excerpt": "Brady's opinions may not be shared by his business partners.",
-      "excerpt_ja": "Brady の見解がビジネスパートナーと共有されるとは限らない。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -598,9 +662,9 @@
     {
       "kind": "other",
       "title": "What’s Next After Angels Fire GM Perry Minasian, Hire Interim GM John Mozeliak",
-      "title_ja": "Angels が GM Perry Minasian を解雇し、インテリム GM John Mozeliak を雇用した後は",
+      "title_ja": null,
       "excerpt": "The Angels never had a winning record during Perry Minasian's five-plus years as GM. Will John Mozeliak's leadership change things?",
-      "excerpt_ja": "Angels は Perry Minasian の5年以上のGM任期中、一度も勝ち越しシーズンを経験していない。John Mozeliak のリーダーシップで状況は変わるだろうか？",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -614,9 +678,9 @@
     {
       "kind": "other",
       "title": "Evaluating the WR who was offered a contract after impressive minicamp",
-      "title_ja": "ミニキャンプで印象的なパフォーマンスの後に契約オファーを受けたWRを評価",
+      "title_ja": null,
       "excerpt": "Can this diminutive wideout carve out a role on Buffalo’s roster?",
-      "excerpt_ja": "この小柄なワイドレシーバーは Buffalo のロスターで役割を確保できるか？",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -630,9 +694,9 @@
     {
       "kind": "other",
       "title": "Bills news: Reacting to news that O.J. Simpson won’t be honored at new stadium",
-      "title_ja": "Bills ニュース：O.J. Simpson が新スタジアムで栄誉を受けないことについて反応",
+      "title_ja": null,
       "excerpt": "“We have made an organizational decision that he is not a fit to display inside our new stadium and family circle.”",
-      "excerpt_ja": "「彼は我々の新スタジアムおよびファミリーサークル内に展示するのにふさわしくないとの組織的決定を下した。」",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -642,22 +706,6 @@
       "coach_name": null,
       "published_at": "Sun, 28 Jun 2026 13:38:37 +0000",
       "url": "https://sports.yahoo.com/articles/bills-news-reacting-news-o-133837119.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Brandon Aiyuk takes shots at John Lynch, Kyle Shanahan on YouTube",
-      "title_ja": null,
-      "excerpt": "Aiyuk went on YouTube to air grievances about John Lynch and Kyle Shanahan. October 19th is circled on his calendar.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 28 Jun 2026 13:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-takes-shots-john-133000626.html"
     },
     {
       "kind": "other",
@@ -722,38 +770,6 @@
       "coach_name": null,
       "published_at": "Sun, 28 Jun 2026 13:13:16 -0400",
       "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-round-of-16-odds-who-will-make-round-16"
-    },
-    {
-      "kind": "other",
-      "title": "Sunday Patriots Notes: Will Campbell headlines second-year jump candidates",
-      "title_ja": null,
-      "excerpt": "Notes and thoughts on the Patriots’ second-year players, Will Campbell’s training partners, and more.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 28 Jun 2026 13:10:35 +0000",
-      "url": "https://sports.yahoo.com/articles/sunday-patriots-notes-campbell-headlines-131035100.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Lions fans project which UDFA rookie has best chance to impact roster",
-      "title_ja": null,
-      "excerpt": "Exploring the results from our latest SB Nation Reacts survey.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 28 Jun 2026 13:04:40 +0000",
-      "url": "https://sports.yahoo.com/articles/lions-fans-project-udfa-rookie-130440792.html"
     },
     {
       "kind": "other",
@@ -1586,22 +1602,6 @@
       "coach_name": null,
       "published_at": "Fri, 26 Jun 2026 13:34:49 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/before-brandon-aiyuk-can-force-his-release-he-must-apply-for-reinstatement"
-    },
-    {
-      "kind": "injury",
-      "title": "Josh Allen: A lot of new this year, we'll really make our team during training camp",
-      "title_ja": null,
-      "excerpt": "The Bills held a ribbon-cutting ceremony for their new stadium this week and the timing fits the overall theme of the offseason in Buffalo.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 26 Jun 2026 13:10:06 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-a-lot-of-new-this-year-well-really-make-our-team-during-training-camp"
     },
     {
       "kind": "other",

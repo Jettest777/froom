@@ -1,14 +1,126 @@
 {
   "version": 1,
-  "generated_at": "2026-06-28T23:39:51.722307+00:00",
-  "count": 110,
+  "generated_at": "2026-06-29T04:14:57.475515+00:00",
+  "count": 131,
   "items": [
+    {
+      "kind": "rumor",
+      "title": "Sorsby is not going to the NFL? What's next for th...",
+      "title_ja": "Sorsby はNFLに進まない？その後のキャリアはどうなる？",
+      "excerpt": "What's next for Brendan Sorsby with no NFL supplemental draft? Could he return to college? Here's what to know.",
+      "excerpt_ja": "補足選手権がない中で、Brendan Sorsby の将来はどうなるのか？大学に戻る可能性はあるのか？知っておくべきことをまとめた。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 24 Jun 2026 11:07:41 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49155446/brendan-sorsby-supplemental-nfl-draft-declined"
+    },
+    {
+      "kind": "signing",
+      "title": "Now or never for Burrow! Make-or-break year for St...",
+      "title_ja": "Burrow にとって今がチャンス！Bengals の正念場シーズンが来た",
+      "excerpt": "Do the Bengals have their best shot at a Super Bowl? Could the Texans pass on an extension for C.J. Stroud? We're sizing up five offseason overreactions.",
+      "excerpt_ja": "Bengals は Super Bowl で最高のチャンスを持っているのか？Texans は C.J. Stroud の契約延長を見送るのか？オフシーズンの過剰反応5つを検証する。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 23 Jun 2026 23:29:14 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49144628/2026-nfl-offseason-judging-overreactions-takeaways-signings-draft-trades"
+    },
+    {
+      "kind": "injury",
+      "title": "Barnwell’s annual ranking of 32 NFL playmaker core...",
+      "title_ja": "Barnwell が毎年恒例の NFL32チームの得点力ランキングを発表",
+      "excerpt": "Which teams have the best skill position talent around their QB and offensive line? We stacked all 32 groups of pass catchers and ball carriers from worst to first.",
+      "excerpt_ja": "QBと OL を中心に、どのチームがスキルポジションで最強の陣容を持っているのか？全32チームのレシーバーとランニングバックの布陣を最下位から最高位までランク付けした。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 25 Jun 2026 10:16:46 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49154825/ranking-nfl-teams-offensive-groups-wr-rb-te-2026-season-best-playmakers"
+    },
+    {
+      "kind": "signing",
+      "title": "What we're hearing on 32 NFL contract negotiations...",
+      "title_ja": "NFL32チームの契約交渉の最新情報を一挙公開",
+      "excerpt": "Our reporters have the latest buzz on 32 contract extension candidates -- one from every team -- and their potential new deals.",
+      "excerpt_ja": "各チームから1人ずつ、計32人の契約延長候補について、記者たちが最新情報をお届け。彼らの新契約額の見通しは？",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 25 Jun 2026 08:21:16 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49153923/2026-nfl-contract-extensions-signings-negotiations-all-32-teams"
+    },
+    {
+      "kind": "other",
+      "title": "Myles Garrett will immediately upgrade this part of Rams defense",
+      "title_ja": "Myles Garrett は Rams ディフェンスの某ポジションを一気に強化する",
+      "excerpt": "Jared Verse struggled in run defense as a sophomore. Myles Garrett is a massive upgrade.",
+      "excerpt_ja": "2年目の Jared Verse はラン守備で課題を抱えていたが、Myles Garrett の加入は劇的な改善をもたらすだろう。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 23:41:29 +0000",
+      "url": "https://sports.yahoo.com/articles/myles-garrett-immediately-upgrade-part-234129387.html"
+    },
+    {
+      "kind": "presser",
+      "title": "Tom Brady expects a &quot;massive improvement&quot; from the Raiders in 2026",
+      "title_ja": "Tom Brady は2026年の Raiders の『大幅な改善』を期待している",
+      "excerpt": "&quot;I would expect daily improvement,&quot; Brady said, &quot;and I&#39;d expect hourly improvement.&quot;",
+      "excerpt_ja": "Brady は『毎日の改善を期待する。そして時間単位での改善も期待する』とコメントした。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 23:35:39 +0000",
+      "url": "https://sports.yahoo.com/articles/tom-brady-expects-massive-improvement-233539014.html"
+    },
+    {
+      "kind": "other",
+      "title": "Loose Feathers: offseason surgeries, new ‘Voice of the Ravens’",
+      "title_ja": "ルースフェザーズ：オフシーズンの手術情報、新しい『Ravens の声』",
+      "excerpt": "Catch up on the latest news and notes about the Baltimore Ravens!",
+      "excerpt_ja": "Baltimore Ravens の最新ニュースと注目情報をチェック！",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 23:31:14 +0000",
+      "url": "https://sports.yahoo.com/articles/loose-feathers-offseason-surgeries-voice-233114650.html"
+    },
     {
       "kind": "other",
       "title": "My All-Time Historical Bears Team: Team Sweetness",
-      "title_ja": "史上最高のベアーズ・オールタイムチーム：Team Sweetness",
+      "title_ja": "歴代 Bears オールタイムチーム：『Team Sweetness』",
       "excerpt": "Check out Jack Silverstein’s All-Time Historical Bears Team, featuring the GOAT!",
-      "excerpt_ja": "Jack Silversteinが選ぶ史上最高のベアーズ・オールタイムチーム、GOATを擁した布陣を紹介",
+      "excerpt_ja": "Jack Silverstein が選ぶ歴代 Bears オールタイムチームをチェック。GOAT を筆頭に豪華メンバーが揃った。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -22,9 +134,9 @@
     {
       "kind": "other",
       "title": "Brandon Aiyuk has complaints about the NFLPA, too",
-      "title_ja": "Brandon AiyukもNFLPAに対して不満を表明",
+      "title_ja": "Brandon Aiyuk は NFLPA にも不満を抱いている",
       "excerpt": "In recent days, 49ers receiver Brandon Aiyuk has been posting complaints about his current team and his now-former agent.",
-      "excerpt_ja": "ここ数日、49ersのレシーバーBrandon Aiyukは現在所属しているチームと、かつての所属エージェントに対する不満をSNSで投稿している",
+      "excerpt_ja": "最近、49ers のレシーバー Brandon Aiyuk は、現在のチームと前所属エージェントへの不満をSNSで発信している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +150,9 @@
     {
       "kind": "trade",
       "title": "Patriots scouting report: Jack Westover is a jack of several trades",
-      "title_ja": "Patriotsのスカウティングレポート：Jack Westeroverは多才なプレイヤー",
+      "title_ja": "Patriots スカウティングレポート：Jack Westover は多才なプレイヤー",
       "excerpt": "Previewing the Patriots tight end heading into his third NFL season.",
-      "excerpt_ja": "NFL3年目のシーズンへ向けてのPatriotsタイトエンドのプレビュー",
+      "excerpt_ja": "NFL 3年目に向かう Patriots のタイトエンドをプレビュー。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +166,9 @@
     {
       "kind": "other",
       "title": "One random Steelers play: Missed throws and opportunities",
-      "title_ja": "Steelersの1プレー分析：失敗したパスと取りこぼしたチャンス",
+      "title_ja": "Steelers の1プレイ：失敗したパスと逃した機会",
       "excerpt": "Every play is a story. Let’s tell this one.",
-      "excerpt_ja": "1つ1つのプレーは物語。今回はこのプレーを掘り下げていく",
+      "excerpt_ja": "すべてのプレイには物語がある。この試合の物語を紐解いてみよう。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +182,9 @@
     {
       "kind": "other",
       "title": "Core special teams player C.J. Goodwin announces retirement",
-      "title_ja": "コアなスペシャルチームスプレイヤーC.J. Goodwinが引退を表明",
+      "title_ja": "スペシャルチームの中核選手 C.J. Goodwin が現役引退を表明",
       "excerpt": "Core special teams player C.J.",
-      "excerpt_ja": "コアなスペシャルチームスプレイヤーC.J.",
+      "excerpt_ja": "スペシャルチームの中核選手 C.J.",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -85,10 +197,42 @@
     },
     {
       "kind": "other",
+      "title": "Chris 'The Bear' Fallica's World Cup Best Bets Today — Match Day 19",
+      "title_ja": "Chris 'The Bear' Fallica のワールドカップ本日の推奨ベット—マッチデー19",
+      "excerpt": "Chris \"The Bear\" Fallica delivers his daily best bets for the World Cup. Here's what he's backing on Match Day 19.",
+      "excerpt_ja": "Chris \"The Bear\" Fallica が毎日の推奨ベットをお届け。マッチデー19で彼が支持するベットを紹介する。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 21:12:18 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/chris-the-bear-fallicas-world-cup-best-bets-today-match-day-19"
+    },
+    {
+      "kind": "other",
+      "title": "Judge David Doty, who presided over the case that resulted in the NFL's salary-cap era, dies at 96",
+      "title_ja": "David Doty 判事が逝去—NFL サラリーキャップ時代を生み出した裁判を主宰した連邦判事、96歳で",
+      "excerpt": "David Doty, the federal judge who presided over the lawsuit that created the NFL's current labor model, has died.",
+      "excerpt_ja": "NFL の現在の労使モデルを生み出した訴訟を主宰した連邦判事 David Doty が亡くなった。",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 21:07:47 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/judge-david-doty-who-presided-over-the-case-that-resulted-in-the-nfls-salary-cap-era-dies-at-96"
+    },
+    {
+      "kind": "other",
       "title": "Rams have 2 ‘Gold Shield’ players",
-      "title_ja": "Ramsに『ゴールドシールド』受賞者が2名",
+      "title_ja": "Rams に『ゴールドシールド』プレイヤーが2人",
       "excerpt": "Matthew Stafford and Myles Garrett will wear special emblems",
-      "excerpt_ja": "Matthew StaffordとMyles Garrettが特別なエンブレムを着用",
+      "excerpt_ja": "Matthew Stafford と Myles Garrett は特別なエンブレムを着用する",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +246,9 @@
     {
       "kind": "other",
       "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 77",
-      "title_ja": "Cowboys開幕までのカウントダウン：歴史的名勝負トップ100 - 77日目",
+      "title_ja": "Cowboys キックオフまでのカウントダウン：歴代アイコニックゲーム100選—第77日目",
       "excerpt": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 77",
-      "excerpt_ja": "開幕まで100日のカウントダウン企画で、Cowboys史上の最高の試合を紹介している。本日は77日目",
+      "excerpt_ja": "キックオフまで100日間をカウントダウン。Cowboys の歴史上最も象徴的な試合を紹介している。本日は第77日目。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -117,10 +261,26 @@
     },
     {
       "kind": "other",
+      "title": "4 Takeaways From Shane van Gisbergen's Inevitable Win At Sonoma",
+      "title_ja": "Shane van Gisbergen のソノマでの当然の勝利から4つの気づき",
+      "excerpt": "Shane van Gisbergen admittedly didn't have the best car on Sunday, but the road course savant still found a way to get it done at Sonoma.",
+      "excerpt_ja": "Shane van Gisbergen は本人も認めるように日曜日は最高のマシンを手にしていなかったが、ロードコースの鬼才は Sonoma でも勝利を掴み取った。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 20:42:42 -0400",
+      "url": "https://www.foxsports.com/stories/nascar/shane-van-gisbergen-win-sonoma-nascar"
+    },
+    {
+      "kind": "other",
       "title": "2025 awards result in gold shields for Rams teammates Matthew Stafford, Myles Garrett",
-      "title_ja": "2025年の受賞者、RamsのMatthew StaffordとMyles Garrettがゴールドシールドを獲得",
+      "title_ja": "2025年アワードで Rams チームメイト Matthew Stafford と Myles Garrett がゴールドシールドを獲得",
       "excerpt": "In 2025, the NFL began outfitting the jerseys of the prior year&#39;s award winners with gold shields.",
-      "excerpt_ja": "2025年シーズン、NFLは前年度の各種受賞者のジャージにゴールドシールドを装着させることを導入した",
+      "excerpt_ja": "2025年から、NFL は前年度のアワード受賞者のジャージにゴールドシールドを装着し始めた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -133,10 +293,26 @@
     },
     {
       "kind": "presser",
+      "title": "Jesse Marsch 'Doesn't Care' If USA Joins Canada In World Cup Round of 16",
+      "title_ja": "Jesse Marsch は USA がカナダと共に World Cup ラウンド16進出しても『気にしない』と発言",
+      "excerpt": "After Canada became the first country to qualify for the World Cup round of 16, Jesse Marsch, its American coach, said he doesn't care if the USA joins the Reds there.",
+      "excerpt_ja": "カナダが初めてワールドカップのラウンド16進出を決めた後、同国のコーチを務める米国人 Jesse Marsch は、USA も同じくラウンド16に進出しても『気にしない』とコメントした。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 19:43:35 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/jesse-marsch-doesnt-care-usa-joins-canada-world-cup-round-16"
+    },
+    {
+      "kind": "presser",
       "title": "Tom Brady expects a \"massive improvement\" from the Raiders in 2026",
-      "title_ja": "Tom Bradyは2026年のRaidersについて『大幅な改善』を期待している",
+      "title_ja": "Tom Brady は2026年の Raiders の『大幅な改善』を期待している",
       "excerpt": "\"I would expect daily improvement,\" Brady said, \"and I'd expect hourly improvement.\"",
-      "excerpt_ja": "Bradyは『毎日の改善を期待する。正直に言えば、毎時間の改善を期待している』とコメント",
+      "excerpt_ja": "Brady は『毎日の改善を期待する。そして時間単位での改善も期待する』とコメントした。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -150,9 +326,9 @@
     {
       "kind": "injury",
       "title": "'Canadian Heroes': Jesse Marsch Gives Impassioned Speech After Canada's Historic Win",
-      "title_ja": "『カナダの英雄たち』：Jesse Marschがカナダの歴史的な勝利後に熱弁",
+      "title_ja": "『カナダの英雄たち』—Jesse Marsch がカナダの歴史的勝利後に熱弁をふるう",
       "excerpt": "Canada's American coach gave his team their flowers following their historic round of 32 win.",
-      "excerpt_ja": "カナダを率いるアメリカ人HCのJesse Marschは、チームの歴史的なベスト32入りの後で選手たちを称賛する情熱的なスピーチを行った",
+      "excerpt_ja": "カナダのアメリカ人コーチが、ラウンド32での歴史的勝利後に選手たちを称賛する熱い演説を行った。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -166,9 +342,9 @@
     {
       "kind": "other",
       "title": "Brandon Aiyuk has complaints about the NFLPA, too",
-      "title_ja": "Brandon AiyukもNFLPAに対して不満を表明",
+      "title_ja": "Brandon Aiyuk は NFLPA にも不満を抱いている",
       "excerpt": "In recent days, 49ers receiver Brandon Aiyuk has been posting complaints about his current team and his now-former agent.",
-      "excerpt_ja": "ここ数日、49ersのレシーバーBrandon Aiyukは現在所属しているチームと、かつての所属エージェントに対する不満をSNSで投稿している",
+      "excerpt_ja": "最近、49ers のレシーバー Brandon Aiyuk は、現在のチームと前所属エージェントへの不満をSNSで発信している。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -182,9 +358,9 @@
     {
       "kind": "other",
       "title": "2030 World Cup: Locations, Hosts, Dates, For The Centenary Tournament",
-      "title_ja": "2030ワールドカップ：開催地、主催国、日程、100周年大会について",
+      "title_ja": "2030年ワールドカップ：開催地、ホスト国、日程—100周年トーナメント",
       "excerpt": "Here is everything you need to know about the 2030 FIFA World Cup.",
-      "excerpt_ja": "2030年FIFAワールドカップについて知っておくべきすべての情報をまとめた",
+      "excerpt_ja": "2030年 FIFA ワールドカップについて知るべきことをすべてまとめた。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -198,9 +374,9 @@
     {
       "kind": "other",
       "title": "NFL Offensive Player of the Year Odds: Jahmyr Gibbs Poised for a Career Year?",
-      "title_ja": "NFLオフェンシブプレイヤー・オブ・ザ・イヤーのオッズ：Jahmyr Gibbsはキャリアイヤーを迎えるのか",
+      "title_ja": "NFL オフェンシブ プレイヤー・オブ・ザ・イヤーのオッズ：Jahmyr Gibbs はキャリアイヤーを迎えるのか？",
       "excerpt": "2026 NFL Offensive Player of the Year betting odds, headlined by Jahmyr Gibbs.",
-      "excerpt_ja": "2026年NFLオフェンシブプレイヤー・オブ・ザ・イヤーの予想オッズ。Jahmyr Gibbsがお気に入り",
+      "excerpt_ja": "2026年 NFL オフェンシブ プレイヤー・オブ・ザ・イヤーのベッティングオッズを、Jahmyr Gibbs を筆頭に紹介する。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +390,9 @@
     {
       "kind": "other",
       "title": "It’s a frustratingly long wait for Rams vs. Seahawks this season",
-      "title_ja": "今シーズンのRams対Seahawksの大一番を待つのは悔しいほど長い",
+      "title_ja": "Rams vs. Seahawks を待つのは長すぎる—今シーズンの最高の対戦カードだ",
       "excerpt": "We shouldn’t have to wait so long for the biggest matchup of the NFL season.",
-      "excerpt_ja": "NFLシーズン最高のマッチアップまで、もっと早く実現してほしいものだ",
+      "excerpt_ja": "NFL シーズン最高のマッチアップをこんなに長く待たされるべきではない。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +406,9 @@
     {
       "kind": "other",
       "title": "Cowboys 2026 roster rundown: TE Brevyn Spann-Ford",
-      "title_ja": "Cowboys 2026ロスター紹介：TE Brevyn Spann-Ford",
+      "title_ja": "Cowboys 2026年ロスター概観：TE Brevyn Spann-Ford",
       "excerpt": "Cowboys tight end will make his push for more playing time",
-      "excerpt_ja": "Cowboysのタイトエンドはスナップ数増加に向けてアピールを進める",
+      "excerpt_ja": "Cowboys のタイトエンドはさらなる出場機会を勝ち取るため奮闘する。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +422,9 @@
     {
       "kind": "other",
       "title": "2026 NFL Defensive Player of the Year Award Odds: Myles Garrett Eyes Hollywood Encore",
-      "title_ja": "2026年NFLディフェンシブプレイヤー・オブ・ザ・イヤーのオッズ：Myles Garrettがハリウッド級の活躍を狙う",
+      "title_ja": "2026年 NFL ディフェンシブ プレイヤー・オブ・ザ・イヤーのオッズ：Myles Garrett はハリウッド・アンコールを狙う",
       "excerpt": "2026 NFL Defensive Player of the Year betting odds, headlined by new Los Angeles Rams defensive end Myles Garrett (+400).",
-      "excerpt_ja": "2026年NFLディフェンシブプレイヤー・オブ・ザ・イヤーの予想オッズ。新加入のLos Angeles RamsのDEであるMyles Garrett（+400）が筆頭",
+      "excerpt_ja": "2026年 NFL ディフェンシブ プレイヤー・オブ・ザ・イヤーのベッティングオッズを、Los Angeles Rams の新しいディフェンシブエンド Myles Garrett（+400）を筆頭に紹介する。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +438,9 @@
     {
       "kind": "rumor",
       "title": "Brazil, Germany, Netherlands Ready For A Supercharged Round Of 32 Slate",
-      "title_ja": "ブラジル、ドイツ、オランダがベスト32で激突へ",
+      "title_ja": "ブラジル、ドイツ、オランダ がラウンド32の激熱マッチデーに向けて準備",
       "excerpt": "The second day of the round of 32 sees some heavyweights meeting earlier than expected.",
-      "excerpt_ja": "ベスト32初日は、予想外の早期対戦を余儀なくされた強豪国同士が顔を合わせる",
+      "excerpt_ja": "ラウンド32の2日目は、予想外に早い段階で強豪国同士の対戦が実現する。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -278,9 +454,9 @@
     {
       "kind": "other",
       "title": "Folarin Balogun, USA Ready For High-Pressure Moment In World Cup Knockouts",
-      "title_ja": "Folarin BalogunとUSA、ワールドカップの緊迫したノックアウトステージに備える",
+      "title_ja": "Folarin Balogun と USA はワールドカップ ノックアウトステージの高いプレッシャーに直面",
       "excerpt": "USA is anxious but ready to win its first World Cup knockout match in 24 years.",
-      "excerpt_ja": "USAは過去24年ぶりとなるワールドカップのノックアウトステージ勝利を目指し、緊張と期待の中で試合に臨む",
+      "excerpt_ja": "USA は24年ぶりのワールドカップ ノックアウトマッチ勝利を求めて、緊張しながらも準備万端で臨む。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -294,9 +470,9 @@
     {
       "kind": "other",
       "title": "Who Is Canada's Next World Cup Opponent? Les Rouges Path To The Final",
-      "title_ja": "カナダの次の対戦相手は？Les Rougesの決勝進出への道",
+      "title_ja": "カナダのワールドカップ次の対戦相手は？『Les Rouges』のファイナルへの道",
       "excerpt": "Who will Canada face in the round of 16? Here are the possible opponents, and its potential path to the final.",
-      "excerpt_ja": "ベスト16でカナダが対戦する可能性のある相手は？考えられる対戦相手と決勝進出の道筋を解説",
+      "excerpt_ja": "カナダはラウンド16で誰と対戦するのか？考えられる対戦相手と、ファイナルへの潜在的な道筋を紹介する。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -310,9 +486,9 @@
     {
       "kind": "rumor",
       "title": "Minnesota Vikings News and Links: The Offseason Doldrums!",
-      "title_ja": "Minnesota Vikingsニュースとリンク集：オフシーズンの静寂",
+      "title_ja": "Minnesota Vikings ニュースとリンク集：オフシーズンの閑散期！",
       "excerpt": "The first training camp practice is 34 days away. Rookies report to training camp in 28 days. Time flies no? Without any practices there is not a lot to discuss besides the endless debate about the QB competition. I am preparing for the 2027 draft which leads me to plan my viewing schedule (as if […",
-      "excerpt_ja": "開幕まで34日。ルーキーのトレーニングキャンプ入りまで28日。時間が経つのは早いものだ。実際のプラクティスがないため、QBコンペティションについての議論以外は話題が限定される。2027年ドラフトへ向けた準備を進めており、視聴スケジュールを組み立てている。",
+      "excerpt_ja": "最初のトレーニングキャンプ練習まであと34日。ルーキーはあと28日で報告。時間が経つのは早いでしょ？練習がない今は、QB競争の終わりなき議論以外に語ることが少ない。2027年ドラフトに向けて準備をしているので、視聴スケジュールを計画している（まるで…",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -326,9 +502,9 @@
     {
       "kind": "other",
       "title": "Core special teams player C.J. Goodwin announces retirement",
-      "title_ja": "コアなスペシャルチームスプレイヤーC.J. Goodwinが引退を表明",
+      "title_ja": "スペシャルチームの中核選手 C.J. Goodwin が現役引退を表明",
       "excerpt": "Core special teams player C.J.",
-      "excerpt_ja": "コアなスペシャルチームスプレイヤーC.J.",
+      "excerpt_ja": "スペシャルチームの中核選手 C.J.",
       "sources": [
         "Pro Football Talk"
       ],
@@ -342,9 +518,9 @@
     {
       "kind": "other",
       "title": "NFL Rookie of the Year Odds: Jeremiyah Love and David Bailey Emerge as Early Favorites",
-      "title_ja": "NFLルーキー・オブ・ザ・イヤーのオッズ：Jeremiyah LoveとDavid Baileyが早期のお気に入りに",
+      "title_ja": "NFL ルーキー・オブ・ザ・イヤーのオッズ：Jeremiyah Love と David Bailey が早期の優勝候補として台頭",
       "excerpt": "A look at updated NFL Rookie of the Year odds, with Jeremiyah Love (+430) and David Bailey (+500) listed as the betting favorites.",
-      "excerpt_ja": "NFLルーキー・オブ・ザ・イヤーの最新オッズ。Jeremiyah Love（+430）とDavid Bailey（+500）が予想の上位",
+      "excerpt_ja": "NFL ルーキー・オブ・ザ・イヤーのベッティングオッズを更新。Jeremiyah Love（+430）と David Bailey（+500）がベッティング上の本命に挙げられている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -358,9 +534,9 @@
     {
       "kind": "other",
       "title": "NFL Comeback Player of the Year Odds: The Empire Strikes Back",
-      "title_ja": "NFLカムバック・プレイヤー・オブ・ザ・イヤーのオッズ：帝国の逆襲",
+      "title_ja": "NFL カムバック・プレイヤー・オブ・ザ・イヤーのオッズ：帝国の反撃",
       "excerpt": "A look at NFL Comeback Player of the Year odds, with Patrick Mahomes (+200) penned as the betting favorite.",
-      "excerpt_ja": "NFLカムバック・プレイヤー・オブ・ザ・イヤーの最新オッズ。Patrick Mahomesが+200で最有力",
+      "excerpt_ja": "NFL カムバック・プレイヤー・オブ・ザ・イヤーのベッティングオッズを紹介。Patrick Mahomes（+200）がベッティング上の本命となっている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -374,9 +550,9 @@
     {
       "kind": "other",
       "title": "NFL Coach of the Year Odds: John Harbaugh Ushers in New Era for the Giants",
-      "title_ja": "NHLコーチ・オブ・ザ・イヤーのオッズ：John Harbaughがジャイアンツの新時代を率いる",
+      "title_ja": "NFL コーチ・オブ・ザ・イヤーのオッズ：John Harbaugh が Giants の新時代を切り開く",
       "excerpt": "A look at NFL Coach of the Year odds, with first-year New York Giants head coach John Harbaugh (+650) as the betting favorite.",
-      "excerpt_ja": "NFLコーチ・オブ・ザ・イヤーの最新オッズ。初年度HCのNew York GiantsのJohn Harbaugh（+650）が最有力",
+      "excerpt_ja": "NFL コーチ・オブ・ザ・イヤーのベッティングオッズを紹介。初年度の New York Giants ヘッドコーチ John Harbaugh（+650）がベッティング上の本命に挙げられている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -390,9 +566,9 @@
     {
       "kind": "other",
       "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
-      "title_ja": "2026年FIFAワールドカップの視聴ガイド：スコア、日程、全試合の情報",
+      "title_ja": "2026年 FIFA ワールドカップの観戦方法：全試合のスコア、スケジュール、日程",
       "excerpt": "We're tracking all the scores and results at the FIFA 2026 World Cup.",
-      "excerpt_ja": "2026年FIFAワールドカップのスコアと結果を完全網羅",
+      "excerpt_ja": "FIFA 2026年ワールドカップのすべてのスコアと結果を追跡している。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -406,9 +582,9 @@
     {
       "kind": "other",
       "title": "Where In The World Cup Is Jameis Winston?",
-      "title_ja": "Jameis Winstonはワールドカップのどこにいるのか",
+      "title_ja": "Jameis Winston はワールドカップのどこにいるのか？",
       "excerpt": "Here’s a look at some of the best moments from Jameis Winston’s World Cup journey.",
-      "excerpt_ja": "Jameis Winstonのワールドカップでの素晴らしい瞬間を紹介",
+      "excerpt_ja": "Jameis Winston のワールドカップでの素晴らしい瞬間をピックアップした。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -422,9 +598,9 @@
     {
       "kind": "other",
       "title": "All-PFF Colts team revealed over the past 20 seasons",
-      "title_ja": "PFF選出Coltsオールタイムチーム、過去20シーズン版が明らかに",
+      "title_ja": "過去20シーズンの All-PFF Colts チームが発表",
       "excerpt": "While not entirely shocking, there are a few surprising names here.",
-      "excerpt_ja": "完全に意外とは言えないが、思いもよらない名前も数人含まれている",
+      "excerpt_ja": "完全に意外というわけではないが、いくつか驚くべき名前も含まれている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -438,9 +614,9 @@
     {
       "kind": "other",
       "title": "Former U.S. Coach Bob Bradley Explains Coach's Perspective On Hydration Breaks",
-      "title_ja": "元米国代表HCボブ・ブラッドリーがコーチ視点から水分補給休憩について解説",
+      "title_ja": "元米国代表コーチ Bob Bradley がコーチ視点からの給水時間について言及",
       "excerpt": "Former USA head coach Bob Bradley explains how coaches are handling hydration breaks at the FIFA World Cup.",
-      "excerpt_ja": "元USA代表HCのBob Bradleyが、FIFAワールドカップにおけるコーチの水分補給休憩への対応について説明",
+      "excerpt_ja": "元米国代表ヘッドコーチ Bob Bradley が、FIFA ワールドカップでのコーチの給水時間の対応方法を説明する。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -454,9 +630,9 @@
     {
       "kind": "other",
       "title": "Raiders minority owner Tom Brady bashes the NFL&#39;s fine system for on-field &quot;mistakes&quot;",
-      "title_ja": "Raidersの少数株主Tom Bradyがフィールド上の『ミス』に対するNFLの罰金システムを批判",
+      "title_ja": "Raiders マイノリティオーナー Tom Brady が NFL の罰金システムをグラウンド上の『ミス』に対して批判",
       "excerpt": "Brady&#39;s opinions may not be shared by his business partners.",
-      "excerpt_ja": "Bradyの意見は彼のビジネスパートナーと共有されていない可能性がある",
+      "excerpt_ja": "Brady の意見は彼のビジネスパートナーたちと必ずしも一致していない。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -470,9 +646,9 @@
     {
       "kind": "other",
       "title": "Canada's Can-Do Spirit: 4 Takeaways From Historic World Cup Win vs. South Africa",
-      "title_ja": "カナダの不撓不屈の精神：南アフリカ戦での歴史的勝利から学ぶ4つの教訓",
+      "title_ja": null,
       "excerpt": "It wasn’t a classic, but the Canadians won the first ever round of 32 match at the World Cup win in dramatic fashion.",
-      "excerpt_ja": "古典的とは言えないが、カナダはワールドカップ初のベスト32マッチで劇的な勝利を収めた",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -486,9 +662,9 @@
     {
       "kind": "other",
       "title": "World Cup Roundup: Everything To Know About Canada's Historic Win",
-      "title_ja": "ワールドカップラウンドアップ：カナダの歴史的勝利について知っておくべきこと",
+      "title_ja": null,
       "excerpt": "Here is everything you might have missed from the first day of the 2026 FIFA World Cup knockout stage:",
-      "excerpt_ja": "2026年FIFAワールドカップのノックアウトステージ初日に見逃したすべての情報をまとめた",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -502,9 +678,9 @@
     {
       "kind": "other",
       "title": "Twitch Streamer N3on hilariously takes over Oracle Park with Najee Harris",
-      "title_ja": "TwitchストリーマーN3eonがNajee HarrisとともにOracle Parkを乗っ取る",
+      "title_ja": null,
       "excerpt": "Celebrity streamer N3on was seen hanging out with former Chargers running back Najee Harris during the Giants’ 5-0 home victory over the Braves on Saturday night. The two hung out...",
-      "excerpt_ja": "セレブリティストリーマーのN3eonが、土曜夜のGiantsのBraves相手のホーム5連勝の試合中、元ChargersのRBであるNajee Harrisと一緒にいるところが目撃された",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -518,9 +694,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Quarterfinal Odds: Which Squads Will Make Final 8?",
-      "title_ja": "2026年ワールドカップ準々決勝のオッズ：どの国がベスト8に進出するのか",
+      "title_ja": null,
       "excerpt": "Which countries will make it to the quarterfinals at the 2026 FIFA World Cup? Check out the latest odds.",
-      "excerpt_ja": "2026年FIFAワールドカップの準々決勝進出の有力国はどこか。最新オッズをチェック",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -534,9 +710,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Round of 16 Odds: Which Teams Will Make It?",
-      "title_ja": "2026年ワールドカップ準々決勝進出のオッズ：どの国が勝ち進むのか",
+      "title_ja": null,
       "excerpt": "Which squads are favored to make it to the Round of 16 in the expanded 2026 World Cup field? See the latest odds.",
-      "excerpt_ja": "拡大された2026年ワールドカップで準々決勝進出が有力とされている国はどこか。最新オッズを確認",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -550,9 +726,9 @@
     {
       "kind": "signing",
       "title": "South Korea Coach Hong Myung-bo Resigns After Early 2026 World Cup Exit",
-      "title_ja": "韓国のHC Hong Myung-boが2026年ワールドカップの早期敗退後に辞任",
+      "title_ja": null,
       "excerpt": "South Korea coach Hong Myung-bo resigned Sunday after the team’s quick exit from the 2026 FIFA World Cup.",
-      "excerpt_ja": "韓国のHC Hong Myung-boは日曜日、2026年FIFAワールドカップでのチームの早期敗退を受けて辞任した",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -566,9 +742,9 @@
     {
       "kind": "other",
       "title": "It’s a bit of role reversal for the Raiders’ Mike McCoy and Klint Kubiak",
-      "title_ja": "RaidersのMike McCoyとKlint Kubiakにとって立場は逆転",
+      "title_ja": null,
       "excerpt": "Now head coach, Kubiak was an offensive assistant under McCoy, now the older coach is an assistant to the younger one",
-      "excerpt_ja": "現在HCを務めるKubiakはMcCoy時代にOFコーディネーターを務めていたが、今度は年上のコーチが年下のコーチのアシスタントになった",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -582,9 +758,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Odds: Canada Makes More History With Round-Of-32 Win",
-      "title_ja": "2026年ワールドカップのオッズ：カナダがベスト32での勝利でさらに歴史を刻む",
+      "title_ja": null,
       "excerpt": "Where do Canada's odds stand after winning the first knockout stage game at the 2026 FIFA World Cup?",
-      "excerpt_ja": "2026年FIFAワールドカップの初のノックアウトステージ勝利を収めたカナダのオッズはどうなっているのか",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -598,9 +774,9 @@
     {
       "kind": "injury",
       "title": "NFL Insider believes Colts’ Lou Anarumo could have best safety duo since last Super Bowl run",
-      "title_ja": "NFLインサイダーがColtsのLou Anarumoは最後のスーパーボウル出場時以降、最高のセーフティコンビを揃える可能性があると考察",
+      "title_ja": null,
       "excerpt": "According to SI.com’s Albert Breer, Indianapolis Colts veteran defensive coordinator Lou Anarumo could have his best starting safety duo since his former 2021 Cincinnati Bengals defense made a surprising Super Bowl appearance: Specifically, that AFC Championship title season, Anarumo’s 17th ranked d",
-      "excerpt_ja": "SI.comのAlbert Breerによると、Indianapolis ColtsのベテランディフェンシブコーディネーターであるLou Anarumoは、かつての2021年Cincinnati Bengalsディフェンスで驚異的なスーパーボウル進出を果たした時以来、最高のスターティングセーフティコンビを迎える可能性がある。特にそのAFCチャンピオンシップシーズン、Anarumoの17位ランクのディフェンスが",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -614,9 +790,9 @@
     {
       "kind": "other",
       "title": "Is Myles Garrett or Trent McDuffie the bigger addition?",
-      "title_ja": "Myles GarrettとTrent McDuffieのどちらが大きな補強なのか",
+      "title_ja": null,
       "excerpt": "Which player is more important to the success of the 2026 Rams?",
-      "excerpt_ja": "2026年Ramsの成功にとってより重要な選手はどちらか",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -630,9 +806,9 @@
     {
       "kind": "other",
       "title": "NFC East Grades: Where do the Giants stack up at the defensive line?",
-      "title_ja": "NFC East評価：Giantsのディフェンシブラインはどこに位置するか",
+      "title_ja": null,
       "excerpt": "Where does the New York Giants defensive line room stack up in the NFC East?",
-      "excerpt_ja": "New York GiantsのディフェンシブラインユニットはNFC East内でどのレベルに位置するのか",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -693,38 +869,6 @@
     },
     {
       "kind": "other",
-      "title": "My All-Time Historical Bears Team: The Blue Ridge Better Bests",
-      "title_ja": null,
-      "excerpt": "Check out how @BryanOrenchuk put together his All Time Bears Historical Team!",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 28 Jun 2026 16:39:47 +0000",
-      "url": "https://sports.yahoo.com/articles/time-historical-bears-team-blue-163947590.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Brandon Aiyuk terminated SRA on Saturday",
-      "title_ja": null,
-      "excerpt": "In one of his recent social-media videos, 49ers receiver Brandon Aiyuk said he terminated a Standard Representation Agreement with Ryan Williams of Athletes First in November 2025.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 28 Jun 2026 16:38:56 +0000",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-terminated-sra-saturday-163856540.html"
-    },
-    {
-      "kind": "other",
       "title": "2025 awards result in gold shields for Rams teammates Matthew Stafford, Myles Garrett",
       "title_ja": null,
       "excerpt": "In 2025, the NFL began outfitting the jerseys of the prior year's award winners with gold shields.",
@@ -738,22 +882,6 @@
       "coach_name": null,
       "published_at": "Sun, 28 Jun 2026 16:32:44 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/2025-awards-result-in-gold-shields-for-rams-teammates-matthew-stafford-myles-garrett"
-    },
-    {
-      "kind": "other",
-      "title": "The possibility of a Patriots game in Scotland is in the &quot;conversation&quot; phase",
-      "title_ja": null,
-      "excerpt": "After the Tartan Army took over Boston for the World Cup, and drank all the beer, Patriots owner Robert Kraft expressed an interest to the NFL in playing a game in Scotland.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 28 Jun 2026 15:26:55 +0000",
-      "url": "https://sports.yahoo.com/articles/possibility-patriots-game-scotland-conversation-152655508.html"
     },
     {
       "kind": "other",
@@ -789,70 +917,6 @@
     },
     {
       "kind": "other",
-      "title": "GOAT Greatness: All Of Lionel Messi's World Cup Goals, Ranked",
-      "title_ja": null,
-      "excerpt": "The GOAT just keeps reminding us he's the GOAT. Here are all of Lionel Messi's goals at the World Cup, best to the very best.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 28 Jun 2026 15:01:15 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/messi-2026-world-cup-goals-ranked"
-    },
-    {
-      "kind": "other",
-      "title": "Scouting New York Jets UDFA wide receiver Jalen Walthall",
-      "title_ja": null,
-      "excerpt": "Taking a look at a Jets wide receiver prospect",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/scouting-york-jets-udfa-wide-150000491.html"
-    },
-    {
-      "kind": "other",
-      "title": "Alexi Lalas' 2026 FIFA World Cup Bracket Prediction",
-      "title_ja": null,
-      "excerpt": "Things are about to get serious at the 2026 FIFA World Cup. Here is my bracket prediction.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 28 Jun 2026 14:55:10 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/alexi-lalas-2026-world-cup-bracket-prediction"
-    },
-    {
-      "kind": "other",
-      "title": "Polymarket Promo Code FOXSPORTS Unlocks $50 Bonus for Canada vs. South Africa",
-      "title_ja": null,
-      "excerpt": "Polymarket Promo Code FOXSPORTS Unlocks $50 Bonus for Canada vs. South Africa.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 28 Jun 2026 14:25:43 -0400",
-      "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code-foxsports-unlocks-50-bonus-canada-vs-south-africa"
-    },
-    {
-      "kind": "other",
       "title": "Raiders minority owner Tom Brady bashes the NFL's fine system for on-field \"mistakes\"",
       "title_ja": null,
       "excerpt": "Brady's opinions may not be shared by his business partners.",
@@ -876,7 +940,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "SF",
       "player_name": null,
       "coach_name": null,
@@ -946,6 +1010,54 @@
       "coach_name": null,
       "published_at": "Sun, 28 Jun 2026 09:32:56 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/archie-manning-disappointed-that-arch-was-crowned-before-he-ever-played"
+    },
+    {
+      "kind": "signing",
+      "title": "Will Christian Gonzalez's extension get done befor...",
+      "title_ja": null,
+      "excerpt": "There is one month before training camp begins. Will the top cornerback sit out if a deal is not reached?",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 07:20:41 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49190165/will-new-england-patriots-christian-gonzalez-extension-get-done-training-camp"
+    },
+    {
+      "kind": "other",
+      "title": "NFC West roundtable: Which team is the biggest thr...",
+      "title_ja": null,
+      "excerpt": "The Seahawks, Rams, 49ers and Cardinals all had offseasons to remember. Answering five questions ahead of 2026.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 07:19:02 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49157628/nfl-nfc-west-49ers-seahawks-rams-cardinals-2026-season"
+    },
+    {
+      "kind": "other",
+      "title": "$1M recovery: How the Jets' Demario Davis avoided retirement by investing in his body",
+      "title_ja": null,
+      "excerpt": "After nearly retiring in 2016, Davis was able to prolong his career by investing in recovery and training.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 28 Jun 2026 06:00:07 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49166500/new-york-jets-demario-davis-body-recovery-1-million"
     },
     {
       "kind": "other",
@@ -1026,6 +1138,150 @@
       "coach_name": null,
       "published_at": "Sat, 27 Jun 2026 18:26:18 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dexter-lawrence-i-know-my-impact-on-the-game-even-without-sack-numbers"
+    },
+    {
+      "kind": "presser",
+      "title": "Aiyuk blames ex-agent for causing 49ers issues",
+      "title_ja": null,
+      "excerpt": "Brandon Aiyuk said in a YouTube video that his former agent has influenced the ongoing situation between him and 49ers and that general manager John Lynch recently showed up at his house.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 27 Jun 2026 16:55:43 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49199010/brandon-aiyuk-blames-ex-agent-push-leaves-49ers-continues"
+    },
+    {
+      "kind": "injury",
+      "title": "Bills will not recognize Simpson at new stadium",
+      "title_ja": null,
+      "excerpt": "The Bills will not honor former running back O.J. Simpson among the franchise's legends at their new stadium, the team announced.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 27 Jun 2026 16:55:43 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49200181/bills-not-honor-oj-simpson-wall-fame-new-stadium"
+    },
+    {
+      "kind": "other",
+      "title": "CFL won't allow Brendan Sorsby to join league",
+      "title_ja": null,
+      "excerpt": "The CFL says quarterback Brendan Sorsby will not be allowed to join any of its teams for the upcoming season.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 27 Jun 2026 16:55:43 EST",
+      "url": "https://www.espn.com/college-football/story/_/id/49188893/cfl-says-brendan-sorsby-allowed-join-league"
+    },
+    {
+      "kind": "other",
+      "title": "Excessive force alleged in death of ex-RB Martin",
+      "title_ja": null,
+      "excerpt": "The parents of former All-Pro NFL running back Doug Martin say excessive force by police and delayed medical care led to his death last year, according to a wrongful death lawsuit.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 27 Jun 2026 16:55:43 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49180059/parents-allege-excessive-force-death-ex-nfl-player-martin"
+    },
+    {
+      "kind": "other",
+      "title": "Prosecutors want Lions' Arnold jailed until trial",
+      "title_ja": null,
+      "excerpt": "Lions cornerback Terrion Arnold, who is facing felony charges of armed robbery and kidnapping, appeared at a hearing Thursday in Tampa, Florida, and was ordered held without bail until a pretrial detention hearing scheduled for Monday morning.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 27 Jun 2026 16:55:43 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49178216/prosecutors-argue-lions-arnold-jailed-trial"
+    },
+    {
+      "kind": "trade",
+      "title": "QB Williams' attempt to trademark 'Iceman' denied",
+      "title_ja": null,
+      "excerpt": "The United States Patent and Trademark Office has initially refused Caleb Williams' application for \"Iceman,\" according to USPTO records.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 27 Jun 2026 16:55:43 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49176534/caleb-williams-attempt-trademark-iceman-initially-refused"
+    },
+    {
+      "kind": "other",
+      "title": "2027 NFL draft to be held April 29-May 1 in D.C.",
+      "title_ja": null,
+      "excerpt": "The NFL announced dates and details on Thursday for the 2027 NFL draft to be held in Washington, D.C.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 27 Jun 2026 16:55:43 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49178055/nfl-releases-dates-details-2027-nfl-draft-washington"
+    },
+    {
+      "kind": "other",
+      "title": "Cops look at battery claim against Jets QB Smith",
+      "title_ja": null,
+      "excerpt": "Jets quarterback Geno Smith is being investigated by police for an incident in which a woman accused him of battery.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 27 Jun 2026 16:55:43 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49154427/cops-investigate-jets-qb-geno-smith-battery-accusation"
+    },
+    {
+      "kind": "other",
+      "title": "🏈 The biggest surprise players on all 32 teams",
+      "title_ja": null,
+      "excerpt": "From rookies to veterans, here are the players who have made an early impression on every NFL team ahead of training camp.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 27 Jun 2026 16:55:43 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49108128/nfl-2026-biggest-surprise-players-every-team-offseason"
     },
     {
       "kind": "other",
@@ -1189,6 +1445,22 @@
     },
     {
       "kind": "other",
+      "title": "Judge David Doty, who presided over the case that resulted in the NFL&#39;s salary-cap era, dies at 96",
+      "title_ja": null,
+      "excerpt": "David Doty, the federal judge who presided over the lawsuit that created the NFL&#39;s current labor model, has died.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 29 Jun 2026 01:07:47 +0000",
+      "url": "https://sports.yahoo.com/articles/judge-david-doty-presided-over-010747044.html"
+    },
+    {
+      "kind": "other",
       "title": "Former Titans scout Blaise Taylor stands trial on charges he murdered pregnant girlfriend",
       "title_ja": null,
       "excerpt": "In March 2024, former Titans scout Blaise Taylor was arrested on suspicion that he murdered his pregnant girlfriend.",
@@ -1268,20 +1540,84 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jc-tretter-reiterates-that-the-nflpa-is-in-no-hurry-to-do-a-new-cba"
     },
     {
-      "kind": "signing",
-      "title": "The CFL won't allow any of its teams to sign Brendan Sorsby",
+      "kind": "other",
+      "title": "Burden III among 11 players that will score more T...",
       "title_ja": null,
-      "excerpt": "CFL joins NFL in keeping Sorsby out for 2026.",
+      "excerpt": "Mike Clay gives his annual list of players he expects to find the end zone more often this season.",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "ESPN NFL"
       ],
-      "reliability": 0.5,
+      "reliability": 0.92,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 26 Jun 2026 13:43:31 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-cfl-wont-allow-any-of-its-teams-to-sign-brendan-sorsby"
+      "published_at": "Fri, 26 Jun 2026 12:20:03 EST",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/49178691/2026-fantasy-football-rankings-projections-more-touchdowns-td"
+    },
+    {
+      "kind": "other",
+      "title": "Jonathan Taylor among 12 players who will score fe...",
+      "title_ja": null,
+      "excerpt": "Mike Clay gives his annual list of players he expects to reach the end zone less often this season.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 26 Jun 2026 12:20:03 EST",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/49179383/2026-fantasy-football-rankings-projections-less-touchdowns-td"
+    },
+    {
+      "kind": "other",
+      "title": "Copy of More deep balls from Trevor Lawrence? Why Jaguars ...",
+      "title_ja": null,
+      "excerpt": "Jacksonville's franchise QB picked up right where he left off last season. Here's how he looked this spring.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "JAX",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 26 Jun 2026 07:51:44 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49156810/jacksonville-jaguars-qb-trevor-lawrence-best-spring-career"
+    },
+    {
+      "kind": "rumor",
+      "title": "Fantasy buzz: Was Trevor Lawrence's late-season su...",
+      "title_ja": null,
+      "excerpt": "Trevor Lawrence played particularly well late last season. Another jump could be coming in 2026.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 26 Jun 2026 07:51:44 EST",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+    },
+    {
+      "kind": "other",
+      "title": "New teams, different schemes: 10 new NFL coordinat...",
+      "title_ja": null,
+      "excerpt": "Ben Solak identifies 10 new coordinators with a lot at stake this season, including the man tasked with repairing the Cowboys' defense.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 26 Jun 2026 07:47:44 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49166861/new-nfl-coordinators-offense-defense-questions-2026-season-cowboys-bills-commanders"
     },
     {
       "kind": "other",

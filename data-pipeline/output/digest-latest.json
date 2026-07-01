@@ -1,21 +1,62 @@
 {
   "version": 2,
-  "generated_at": "2026-06-30T23:06:14.127291+00:00",
+  "generated_at": "2026-07-01T13:33:01.583314+00:00",
   "time_of_day": "evening",
   "model": "claude-haiku-4-5-20251001",
   "skipped": false,
-  "source_item_count": 100,
+  "source_item_count": 120,
   "ranked_item_count": 25,
-  "source_fingerprint": "68a5986dd088dbfa70eedea9f533c56f84ef99b4",
+  "source_fingerprint": "6b449d0c9b7f57b51b92872a70d3db218ad9a03c",
   "digest": {
-    "headline_en": "Digest generation failed",
-    "headline_ja": "ダイジェスト生成に失敗しました",
-    "lead_en": "Claude API call failed: Could not parse Claude JSON (Expecting ',' delimiter: line 5 column 927 (char 1534)); stop_reason=end_turn.",
-    "lead_ja": "Claude API 呼び出しに失敗しました: Could not parse Claude JSON (Expecting ',' delimiter: line 5 column 927 (char 1534)); stop_reason=end_turn.",
-    "body_en": "",
-    "body_ja": "",
-    "topics": [],
-    "watch_tomorrow_en": "",
-    "watch_tomorrow_ja": ""
+    "headline_en": "Offseason Grades & Contract Puzzles: CHI, CIN Face Questions",
+    "headline_ja": "オフシーズン採点とサイン疑問：CHIとCINが問題に直面",
+    "lead_en": "Tonight's signal from the NFL offseason circuit: Cincinnati's aggressive trade moves earned middling marks, while Chicago's Caleb Williams branding stumble and Washington's unexplained hesitation on Stefon Diggs hint at deeper roster-building tensions. For serious fans, these small stories compound into big questions about front-office strategy.",
+    "lead_ja": "NFLオフシーズンの最新情報が示すところ：CincinnatiBengalsの積極的なトレード戦略は及第点に留まり、ChicagoBears のCaleb Williamsのブランド問題とWashingtonCommandersのStefon Diggs獲得への慎重姿勢は、フロント・オフィスの構想に深刻な亀裂がある可能性を示唆している。",
+    "body_en": "The Cincinnati Bengals' offseason work is drawing scrutiny from ESPN analysts, who handed the team a C grade despite moves that on paper looked ambitious. The criticism centers on execution and value proposition—specifically, even marquee acquisitions like the Dexter Lawrence trade haven't impressed evaluators. This matters because Cincinnati is trying to build a window around Joe Burrow's elite window years, and middling grades from credible sources suggest the front office may be overpaying relative to what those moves actually improve the roster. If the Bengals are getting Cs on trades meant to elevate them to AFC contention, that's a red flag about methodology or market efficiency.\n\nMeanwhile, Chicago's Caleb Williams is discovering that being the No. 1 overall pick doesn't automatically unlock the commercial world. His trademark application for \"Iceman\"—intended to anchor an apparel and entertainment empire—was initially rejected by the USPTO. While trademark hurdles are routine, the symbolic weight is harder to shake: Williams is the franchise QB meant to rebuild the Bears, and even his off-field brand scaffolding is facing friction. This is a minor hiccup in isolation, but it underscores how much Chicago's roster and organizational narrative is pinned entirely on his shoulders.\n\nWashington's silence on Stefon Diggs is the evening's most intriguing puzzle. Reports surfaced of Diggs working out at Maryland with Commanders-branded footballs, yet GM Adam Peters hasn't signed him. This could signal either that the price is too steep, the fit isn't right, or there's a strategic patience play underway. Given Washington's cap constraints and the recent QB situation volatility, it's plausible the Commanders are being selective about veteran receiver commitments. Still, the fact that a tier-one talent like Diggs remains unsigned while teams are kicking tires suggests the market is cooling—or that the asking price has corrected down from earlier in the offseason.\n\nPhiladelphia's approach to Jalen Carter tells a similar story of contractual tension. The defensive tackle became extension-eligible this offseason but hasn't secured a deal, and the Eagles' public messaging that he needs to \"be consistent with doing little things\" reads as a negotiating pressure tactic. When teams pivot from on-field performance to character or consistency talk during extension negotiations, it often signals either inflated demands from the player or diminished organizational confidence. Carter remains a talented interior rusher, but the extension stalling is worth monitoring as a bellwether for how defensive unit costs are settling league-wide.\n\nDetroit's bargain-hunting in free agency for 2026 represents a contrasting philosophy—the Lions are building depth on dimes rather than mortgaging for names. While the report didn't specify which signing was most underrated, this approach aligns with how Detroit has operated under recent regime leadership: maximize draft capital, find value on margins, and let scheme trump star power. It's a patient, less glamorous path, but it's proven more durable than the flashy big-name acquisition model that teams like Cincinnati are still chasing.",
+    "body_ja": "CincinnatiBengalsのオフシーズン施策は、ESPN分析家から C評価を受けており、紙面上の野心的なトレード—特にDexter Lawrenceの獲得—が実際のロスター改善に見合う価値を提供していないという指摘だ。これはJoe Burrowの全盛期を活かすためのウィンドウを構築しようとしているCincinnatiBengalsにとって重要な問題である。一流分析家からCグレードの評価を受けるということは、フロント・オフィスの判断または市場効率に関する深刻な問題があることを示唆している。\n\nChicagoBearsのCaleb Williamsは、1位指名選手のステータスが商業世界で自動的に扉を開くわけではないということを発見している。彼の「Iceman」商標出願—アパレルとエンターテインメント事業を軸にした計画—はUSPTOから初期段階で拒否された。商標の課題は日常的なものだが、象徴的な重さは拭い去りがたい：WilliamsはこのフランチャイズのQBであり、Bearsの再建を担う人物なのに、オフィールドのブランド構想さえもが摩擦に直面している。\n\nWashingtonCommandersのStefon Diggs獲得への沈黙は、本夜の最も興味深いパズルである。Diggs がMarylandでCommandersロゴのボールを使用して練習していたという報告がある一方で、GM Adam Petersは彼と契約していない。これは、価格が高すぎるか、適合性が不十分か、または戦略的な保留プレイが進行中であることを示しているかもしれない。Washingtonのサラリーキャップの制約とQB状況の不安定性を考えると、Commandersがベテランレシーバー獲得に関して慎重である可能性が高い。それでも、Diggsのような一流のタレントが未署約のままである事実は、市場が冷え込んでいるか、または要求価格がオフシーズン初期から調整されていることを示唆している。\n\nPhiladelphiaEaglesのJalen Carter への取り組みは、契約上の緊張の同様のストーリーを物語る。ディフェンシブ・タックルは今オフシーズンで契約延長の対象になったが、まだディール成立していない。Eaglesの「細かなことで一貫性を保つべき」というコメントは交渉圧力戦術として機能している。チームが現場での活動から人格的一貫性への談話を転換する際、通常、選手の要求が膨らんでいるか、フロント・オフィスの信頼が減少していることを示す。\n\nDetroitLionsの2026シーズン向けフリーエージェント市場での掘り出し物戦略は、対照的なアプローチを表現している。Lionsは名前のためにキャピタルを使うのではなく、マージンで深さを構築している。この方法論はDetroitの最近の経営の下で証明されている：ドラフト・キャピタルを最大化し、マージンで価値を見つけ、スキームが名声を上回るようにする。それはより忍耐強く、華やかではないパスだが、CincinnatiBengalsのような豪華で大物な獲得モデルよりも耐久性が高いことが証明されている。",
+    "topics": [
+      {
+        "title_en": "Cincinnati's C-Grade Offseason: Value Questions Mount",
+        "title_ja": "CincinnatiBengalsのオフシーズン C評価：価値の疑問が増加",
+        "body_en": "The Bengals received middling marks despite aggressive trade activity, including the Dexter Lawrence acquisition. ESPN analysts suggest Cincinnati may be overpaying for marginal roster improvements when Joe Burrow's elite window is narrowing. This pattern—strong draft capital into proven wins—is critical to watch as the season approaches.",
+        "body_ja": "BengalsはDexter Lawrenceの獲得を含む積極的なトレード活動にもかかわらず及第点を受けた。ESPN分析家は、Joe Burrowの全盛期が狭まっている最中に、CincinnatiBengalsが限定的なロスター改善に過度に支払っている可能性があると示唆している。",
+        "team_abbrev": "CIN",
+        "importance": "high"
+      },
+      {
+        "title_en": "Washington's Diggs Puzzle: Price or Fit?",
+        "title_ja": "WashingtonのDiggsの謎：価格か適合性か？",
+        "body_en": "Stefon Diggs has been working out for Washington with Commanders-branded gear, yet remains unsigned. With WAS in cap crunch and QB uncertainty lingering, GM Adam Peters' hesitation may reflect financial prudence rather than disinterest. Monitor whether Diggs lands elsewhere or if Commanders secure a discount deal.",
+        "body_ja": "Stefon Diggsは Commandersロゴのギアを使用してWorkoutしているにもかかわらず、未署約のままだ。Washingtonのサラリーキャップ制約とQB不確実性の影響下で、Adam Peters GMの慎重さは、無関心ではなく財務的慎重さを反映している可能性がある。",
+        "team_abbrev": "WAS",
+        "importance": "high"
+      },
+      {
+        "title_en": "Chicago's Caleb Williams: Branding Stumble Amid Pressure",
+        "title_ja": "ChicagoBearsのCaleb Williams：プレッシャー下でのブランド問題",
+        "body_en": "Williams' \"Iceman\" trademark was initially rejected, a routine USPTO hurdle that nonetheless carries symbolic weight. With so much of Chicago's rebuild pinned on his shoulders—both on field and off—even minor obstacles compound the pressure. Off-field friction is usually noise, but it's worth flagging in a Bears organization under intense scrutiny.",
+        "body_ja": "Williamの「Iceman」商標は初期段階でUSPTO から拒否された。これはルーティンな課題だが象徴的な重みを持つ。Chicagoの再建がオン・フィールドとオフ・フィールド両方で彼の肩にかかっている状況では、小さな障害でさえもプレッシャーが複合化する。",
+        "team_abbrev": "CHI",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Philadelphia's Jalen Carter Extension Standoff: Pressure Play",
+        "title_ja": "PhiladelphiaEaglesのJalen Carter延長交渉：交渉圧力",
+        "body_en": "Carter became extension-eligible but remains unsigned; Eagles' messaging about consistency and 'little things' suggests negotiating leverage or confidence concerns. When coaching staff pivot to character talk mid-negotiation, roster stability is worth monitoring. Watch whether this drags into the season.",
+        "body_ja": "Carterは契約延長の対象になったが未署約。Eagles の一貫性に関するコメントは交渉圧力またはフロント・オフィスの信頼問題を示唆している。",
+        "team_abbrev": "PHI",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Detroit's Bargain Model: Depth Over Stars",
+        "title_ja": "DetroitLionsの掘り出し物戦略：スターよりも深さ",
+        "body_en": "Unlike Cincinnati's big-name chase, Detroit is building 2026 depth via free-agency value picks. This patient, scheme-first philosophy has proven durable. While glamour trades dominate headlines, Detroit's approach—maximize draft capital, find margin value—is the quieter blueprint many contenders should emulate.",
+        "body_ja": "Cincinnatibengalsの大物獲得と異なり、Detroitはフリーエージェント市場での掘り出し物でロスターの深さを構築している。この忍耐強い戦略は証明されている。",
+        "team_abbrev": "DET",
+        "importance": "medium"
+      }
+    ],
+    "watch_tomorrow_en": "Monitor whether Stefon Diggs signs with Washington or tests free agency further—his unsigned status and working-out activity suggest a negotiation in final stages or a scouting performance for other suitors.",
+    "watch_tomorrow_ja": "Stefon Diggs がWashingtonと署名するかフリーエージェント市場をさらに探索するかを注視しよう。彼の未署約状況とWorkout活動は、交渉が最終段階にあるか、または他のスカウトへのパフォーマンス評価を示唆している。"
   }
 }

@@ -1,14 +1,30 @@
 {
   "version": 1,
-  "generated_at": "2026-07-12T09:05:02.291678+00:00",
-  "count": 108,
+  "generated_at": "2026-07-12T10:54:57.368937+00:00",
+  "count": 123,
   "items": [
+    {
+      "kind": "other",
+      "title": "Inside the Broncos' playoff run: Fifteen days with Sean Payton",
+      "title_ja": "Broncos のプレイオフ戦線に迫る：Sean Payton との15日間",
+      "excerpt": "Senior writer Seth Wickersham spent two weeks with NFL football coach Sean Payton ahead of the Denver Broncos-New England Patriots AFC Championship Game.",
+      "excerpt_ja": "シニアライター Seth Wickersham は、Denver Broncos と New England Patriots の AFC Championship Game を控え、NFLコーチ Sean Payton のもとで2週間を過ごした。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 7 Jul 2026 06:38:39 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49225969/inside-denver-broncos-coach-sean-payton-playoffs"
+    },
     {
       "kind": "presser",
       "title": "Mike Macdonald got Super Bowl advice from someone with a \"conflict of interest\"",
-      "title_ja": "Mike Macdonald が「利益相反」を抱える人物からスーパーボウルのアドバイスを受けた",
+      "title_ja": "Mike Macdonald、「利益相反」を抱える人物からスーパーボウルのアドバイスを受ける",
       "excerpt": "Remember when Tom Brady said before the Patriots-Seahawks Super Bowl that he didn't have a \"dog in the fight\"?",
-      "excerpt_ja": "Patriots-Seahawks スーパーボウルの前に Tom Brady が「どちらに肩入れしていない」と言ったことを覚えているか",
+      "excerpt_ja": "Patriots と Seahawks のスーパーボウル前に、Tom Brady が自分は「この試合に肩入れしていない」と言ったことを覚えているか？",
       "sources": [
         "Pro Football Talk"
       ],
@@ -22,9 +38,9 @@
     {
       "kind": "other",
       "title": "Raiders owner Mark Davis is committed to grass \"for safety purposes\"",
-      "title_ja": "Raiders オーナー Mark Davis は「安全性のため」に天然芝にこだわっている",
+      "title_ja": "Raiders オーナー Mark Davis は「安全性の観点から」天然芝にこだわっている",
       "excerpt": "Davis is willing to spend the money to give his players a better surface.",
-      "excerpt_ja": "Davis は選手たちによりよいサーフェスを提供するために資金を投じる意思がある",
+      "excerpt_ja": "Davis は選手たちにより良いサーフェスを提供するための投資に前向きだ。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -38,9 +54,9 @@
     {
       "kind": "other",
       "title": "Two groups emerge from pack in effort to buy Seahawks",
-      "title_ja": "Seahawks 買収に向けた動き、2つのグループが有力候補として浮上",
+      "title_ja": "Seahawks 買収を目指す動きの中から、2つのグループが浮上",
       "excerpt": "An unnamed (for now) former Seahawks player is attached to one of the two groups.",
-      "excerpt_ja": "名前は明かされていないが、元 Seahawks 選手が2つのグループのうち1つに関わっている",
+      "excerpt_ja": "元 Seahawks 選手（現在は明かされていない）が、2つのグループのうち1つに名を連ねている。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -53,10 +69,138 @@
     },
     {
       "kind": "other",
+      "title": "Cleveland Browns news (7/12): Talking QBs. What’s the right play?",
+      "title_ja": "Cleveland Browns ニュース（7月12日）：QBについて語る。正しい決断は？",
+      "excerpt": "The latest Cleveland Browns news and notes from around the NFL in the Sunday Dawg Chow.",
+      "excerpt_ja": "Sunday Dawg Chow にお ける、Cleveland Browns の最新ニュースと NFL 周辺情報。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 10:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-7-12-103000887.html"
+    },
+    {
+      "kind": "other",
+      "title": "ESPN’s latest ranking reinforces why the Bengals went all-in for Dexter Lawrence",
+      "title_ja": "ESPN の最新ランキングが、Bengals が Dexter Lawrence にオールインした理由を改めて示す",
+      "excerpt": "The Bengals’ big offseason addition was ranked by league executives as one of the best at his position.",
+      "excerpt_ja": "Bengals のオフシーズン大型補強は、リーグのエグゼクティブから同ポジション最高クラスと評価された。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 10:15:00 +0000",
+      "url": "https://sports.yahoo.com/articles/espn-latest-ranking-reinforces-why-101500191.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL executives, coaches and scouts rank Broncos in Top 10",
+      "title_ja": "NFL エグゼクティブ、コーチ、スカウトが Broncos をトップ10に位置づけ",
+      "excerpt": "Broncos Country knows Denver has one of the best rosters in the league. Now, those across the league acknowledge that.",
+      "excerpt_ja": "Broncos Country はリーグで最高のロスターの1つを持つ Denver の力を知っている。今、リーグ内の関係者もそれを認めている。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 10:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-executives-coaches-scouts-rank-100000563.html"
+    },
+    {
+      "kind": "other",
+      "title": "Aaron Rodgers can become the fifth quarterback in NFL history with 70,000 passing yards",
+      "title_ja": "Aaron Rodgers は、NFL 史上5人目となる通算7万ヤード越えQBになる可能性がある",
+      "excerpt": "In what he says will be his final NFL season, Steelers quarterback Aaron Rodgers is in pursuit of a statistical milestone reached by only four other quarterbacks in NFL history.",
+      "excerpt_ja": "最後の NFL シーズンになると本人が語る Steelers QB Aaron Rodgers は、NFL 史上わずか4人のQBのみが到達した統計的マイルストーンを目指している。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 09:06:32 +0000",
+      "url": "https://sports.yahoo.com/articles/aaron-rodgers-become-fifth-quarterback-090632467.html"
+    },
+    {
+      "kind": "other",
+      "title": "49ers News: Shout out Trent Taylor",
+      "title_ja": "49ers ニュース：Trent Taylor にエールを送る",
+      "excerpt": "Your daily San Francisco 49ers news for Sunday, July 12th, 2026",
+      "excerpt_ja": "日曜日、2026年7月12日の San Francisco 49ers 最新ニュース。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 09:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/49ers-news-shout-trent-taylor-090000445.html"
+    },
+    {
+      "kind": "other",
+      "title": "Commanders favored on the road in Week 12 vs Cardinals in Arizona - 5 O’Clock Club",
+      "title_ja": "Commanders、Week 12 Arizona での Cardinals 戦でロードながら有利 - 5 O'Clock Club",
+      "excerpt": "Hogs Haven looks at key factors that affect this Week 12 road game between the Commanders & Cardinals",
+      "excerpt_ja": "Hogs Haven は、Week 12 の Commanders と Cardinals のロード戦において重要な要素を分析する。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 09:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/commanders-favored-road-week-12-090000134.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Patriots scouting report: Christian Elliss is a valuable contributor",
+      "title_ja": "Patriots スカウティング報告書：Christian Elliss は貴重な戦力",
+      "excerpt": "Previewing the Patriots linebacker heading into his sixth NFL season.",
+      "excerpt_ja": "NFL 6年目を迎える Patriots LB の展望を探る。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 09:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/patriots-scouting-report-christian-elliss-090000803.html"
+    },
+    {
+      "kind": "other",
+      "title": "Aaron Rodgers can become the fifth quarterback in NFL history with 70,000 passing yards",
+      "title_ja": "Aaron Rodgers は、NFL 史上5人目となる通算7万ヤード越えQBになる可能性がある",
+      "excerpt": "In what he says will be his final NFL season, Steelers quarterback Aaron Rodgers is in pursuit of a statistical milestone reached by only four other quarterbacks in NFL history.",
+      "excerpt_ja": "最後の NFL シーズンになると本人が語る Steelers QB Aaron Rodgers は、NFL 史上わずか4人のQBのみが到達した統計的マイルストーンを目指している。",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 05:06:32 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-can-become-the-fifth-quarterback-in-nfl-history-with-70-000-passing-yards"
+    },
+    {
+      "kind": "other",
       "title": "Bellingham Powers England: 4 Takeaways From Three Lions' Win vs. Norway, Haaland",
-      "title_ja": "Bellingham が England を牽引：Three Lions の Norway 戦勝利から4つのポイント",
+      "title_ja": "Bellingham がイングランドを牽引：Three Lions の Norway 戦勝利から4つの教訓、Haaland",
       "excerpt": "What we learned and can look forward to after England's win over Norway in Saturday's World Cup quarterfinal in Miami.",
-      "excerpt_ja": "土曜日の Miami におけるワールドカップ準々決勝での England の Norway 戦勝利から、学んだことと今後の展開",
+      "excerpt_ja": "Miami で行われた World Cup 準々決勝の Norway 戦でイングランドが勝利を収めた中で学んだこと、そして今後の展望。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -70,9 +214,9 @@
     {
       "kind": "other",
       "title": "Jude Bellingham Perplexed By Coach Thomas Tuchel's Comments On England's Performance",
-      "title_ja": "Jude Bellingham、コーチ Thomas Tuchel の England のパフォーマンスに関するコメントに困惑",
+      "title_ja": "Jude Bellingham、Coach Thomas Tuchel のイングランドのパフォーマンスに関するコメントに戸惑う",
       "excerpt": "Miscommunication? Not on the same page? Either way the Three Lions roared on and off the pitch on Saturday.",
-      "excerpt_ja": "意思疎通の不足か、足並みが揃っていないか。いずれにせよ Three Lions は土曜日のピッチで内外ともに力を発揮した",
+      "excerpt_ja": "意思疎通の不具合か、見解の相違か—いずれにせよ Three Lions は土曜日のピッチ内外で吠えた。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -86,9 +230,9 @@
     {
       "kind": "injury",
       "title": "England Coach Thomas Tuchel Happy With Result, Not Performance, vs. Norway",
-      "title_ja": "England コーチ Thomas Tuchel、Norway 戦の結果には満足も内容には不満",
+      "title_ja": "イングランド Coach Thomas Tuchel、Norway 戦の結果に満足するも、パフォーマンスには満足せず",
       "excerpt": "England coach Thomas Tuchel expected more out of his team in their 2-1 win over Norway on Saturday.",
-      "excerpt_ja": "England コーチ Thomas Tuchel は土曜日の Norway との2-1勝利でチームからもっと多くを期待していた",
+      "excerpt_ja": "イングランド Coach Thomas Tuchel は、土曜日の Norway との2-1勝利において、チームからより多くを期待していた。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -102,9 +246,9 @@
     {
       "kind": "other",
       "title": "England Hasn't Won The World Cup In 60 Years. Its Best Chance To Win Again Is Now.",
-      "title_ja": "England は60年間ワールドカップを優勝していない。再び優勝する最大のチャンスは今である",
+      "title_ja": "イングランドは60年間 World Cup に優勝していない。今がもう一度優勝する最高の機会だ。",
       "excerpt": "England is back in the semifinals for the second time in three World Cups — and this time, it doesn’t feel like an outlier.",
-      "excerpt_ja": "England は過去3大会で2度目となる準決勝に進出しており、今回は異例ではなく当然の結果に見える",
+      "excerpt_ja": "イングランドは過去3大会で2度目のセミファイナル進出を果たした—そして今回は例外的な成功には見えない。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -118,9 +262,9 @@
     {
       "kind": "injury",
       "title": "Ugly Wins Still Count: 4 Takeaways From Argentina's Latest Close Call vs. Switzerland",
-      "title_ja": "醜い勝利も勝利：Argentina の Switzerland 戦最新の危機一髪から4つのポイント",
+      "title_ja": "見栄えが悪い勝利もカウントされる：Argentina の Switzerland 戦最新の危機一髪から4つの教訓",
       "excerpt": "Here are my four takeaways from a quarterfinal that had everything, including a red card we'll argue about for weeks.",
-      "excerpt_ja": "準々決勝で展開すべてを見ることができた。数週間の議論を呼ぶ退場シーンを含めて、4つのポイントを紹介する",
+      "excerpt_ja": "準々決勝での準々決勝での全てを盛り込んだ試合から4つの教訓をお届けする。これからの数週間、議論の種となるレッドカードも含まれている。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -134,9 +278,9 @@
     {
       "kind": "other",
       "title": "Former Steelers first-rounder Greg Hawthorne dies",
-      "title_ja": "Steelers の元1巡目指名選手 Greg Hawthorne が逝去",
+      "title_ja": "元 Steelers 1巡指名 Greg Hawthorne が逝去",
       "excerpt": "Greg Hawthorne, the Steelers&#39; first-round pick in 1979, has died.",
-      "excerpt_ja": "1979年の Steelers 1巡目指名選手 Greg Hawthorne が亡くなった",
+      "excerpt_ja": "1979年の Steelers 1巡指名 Greg Hawthorne が逝去した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +294,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Semifinal Odds: France, Argentina Favored In Final Four Tilts",
-      "title_ja": "2026年ワールドカップ準決勝オッズ：France と Argentina が最終4の対戦で有力",
+      "title_ja": "2026 World Cup セミファイナル オッズ：France、Argentina がファイナルフォーで優勢",
       "excerpt": "The 2026 FIFA World Cup semifinals are now set. Check out the latest odds for the two matchups.",
-      "excerpt_ja": "2026年 FIFA ワールドカップの準決勝の対戦が決まった。2つの対戦の最新オッズをチェック",
+      "excerpt_ja": "2026 FIFA World Cup のセミファイナルが決定した。2つのマッチアップの最新オッズを確認しよう。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -166,9 +310,9 @@
     {
       "kind": "other",
       "title": "Zack Wheeler Felt 'Disrespected' By All-Star Game Invitation As Replacement",
-      "title_ja": "Zack Wheeler、代替選手としてのオールスター招待に「侮辱を感じた」",
+      "title_ja": "Zack Wheeler、代替選手としての All-Star Game 招待に「不尊重」を感じる",
       "excerpt": "Philadelphia Phillies starting pitcher Zack Wheeler has declined an invitation to join the National League All-Star roster as a replacement player.",
-      "excerpt_ja": "Philadelphia Phillies の先発投手 Zack Wheeler はナショナルリーグのオールスター代替選手としての招待を辞退した",
+      "excerpt_ja": "Philadelphia Phillies の先発投手 Zack Wheeler は、代替選手として National League の All-Star ロスターに加わるという招待を辞退した。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -181,10 +325,42 @@
     },
     {
       "kind": "other",
+      "title": "Copy of 2026 Fantasy Football Draft Guide: Rankings, mock ...",
+      "title_ja": "2026 ファンタジーフットボール ドラフトガイド コピー：ランキング、モック…",
+      "excerpt": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
+      "excerpt_ja": "ドラフトシーズンに向けた準備として、ランキング、プロジェクション、分析を一堂に集めたワンストップ資料。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 00:03:04 EST",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers"
+    },
+    {
+      "kind": "injury",
+      "title": "Players to upgrade, downgrade due to O-line play",
+      "title_ja": "オフェンスラインのプレーによってアップグレード、ダウングレードすべき選手たち",
+      "excerpt": "Eric Moody looks at running backs who benefit from, or are hurt by, the performance of their offensive line.",
+      "excerpt_ja": "Eric Moody は、オフェンスラインのパフォーマンスから恩恵を受ける、あるいは悪影響を受ける RB を分析する。",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 00:03:04 EST",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/49316529/fantasy-football-players-upgrade-downgrade-due-offensive-line-play"
+    },
+    {
+      "kind": "other",
       "title": "2026 World Cup Odds: France, Argentina Favored For Finals Rematch",
-      "title_ja": "2026年ワールドカップオッズ：France と Argentina がワールドカップ決勝の再戦を制する有力候補",
+      "title_ja": "2026 World Cup オッズ：France、Argentina がファイナルの再戦に有力",
       "excerpt": "France leads the oddsboard, but Argentina continues to rise. Check out the latest odds to reach the World Cup final.",
-      "excerpt_ja": "France がオッズの筆頭だが、Argentina は勢いを増している。ワールドカップ決勝進出の最新オッズをチェック",
+      "excerpt_ja": "France がオッズボードをリード中だが、Argentina は勢いを増している。World Cup ファイナル進出の最新オッズを確認しよう。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -198,9 +374,9 @@
     {
       "kind": "other",
       "title": "Best World Cup Goals: The Top 50 Goals Of The Tournament So Far",
-      "title_ja": "ワールドカップ最高のゴール：大会における上位50ゴール",
+      "title_ja": "World Cup の最高得点：これまでのトーナメント上位50ゴール",
       "excerpt": "Here are the best goals of the World Cup so far.",
-      "excerpt_ja": "ワールドカップでこれまでに挙がった最高のゴールを紹介する",
+      "excerpt_ja": "World Cup でこれまでに生まれた最高のゴールをお届けする。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -214,9 +390,9 @@
     {
       "kind": "other",
       "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
-      "title_ja": "2026年 FIFA ワールドカップを視聴する方法：全試合のスコア、日程、日付",
+      "title_ja": "2026 FIFA World Cup の視聴方法：全試合のスコア、スケジュール、日程",
       "excerpt": "We're tracking all the scores and results at the FIFA 2026 World Cup.",
-      "excerpt_ja": "FIFA 2026年ワールドカップのすべてのスコアと結果をトラッキングしている",
+      "excerpt_ja": "FIFA 2026 World Cup の全スコアと結果を追跡中。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -230,9 +406,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Golden Boot Odds: Jude Bellingham Skyrockets After Brace",
-      "title_ja": "2026年ワールドカップ得点王オッズ：Jude Bellingham がダブルゴール後に急上昇",
+      "title_ja": "2026 World Cup ゴールデンブーツ オッズ：Jude Bellingham がハットトリック後に急上昇",
       "excerpt": "The superstars have shined at the 2026 FIFA World Cup so far. Check out the latest Golden Boot odds.",
-      "excerpt_ja": "スーパースターたちは2026年 FIFA ワールドカップで活躍している。最新の得点王オッズをチェック",
+      "excerpt_ja": "2026 FIFA World Cup ではスーパースターが光っている。ゴールデンブーツ オッズの最新情報を確認しよう。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -246,9 +422,9 @@
     {
       "kind": "other",
       "title": "2026 FIFA World Cup Golden Boot Race Tracker: Mbappé Ties Messi, Bellingham Rises",
-      "title_ja": "2026年 FIFA ワールドカップ得点王レース・トラッカー：Mbappé が Messi と並ぶ、Bellingham 上昇",
+      "title_ja": "2026 FIFA World Cup ゴールデンブーツ争い トラッカー：Mbappé が Messi と並ぶ、Bellingham が上昇",
       "excerpt": "Follow the 2026 FIFA World Cup Golden Boot race with our live tracker, featuring the latest goalscoring standings, player statistics, and updates.",
-      "excerpt_ja": "最新のゴールスコアランキング、選手統計、更新情報を含む2026年 FIFA ワールドカップ得点王レースをライブトラッキングでフォロー",
+      "excerpt_ja": "ライブトラッカーで2026 FIFA World Cup のゴールデンブーツ争いをフォロー。最新の得点ランキング、選手統計、更新情報を含む。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -262,9 +438,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Title Odds: Argentina, England Surge After Quarterfinal Wins",
-      "title_ja": "2026年ワールドカップ優勝オッズ：Argentina と England が準々決勝勝利後に上昇",
+      "title_ja": "2026 World Cup 優勝 オッズ：Argentina、England が準々決勝勝利後に上昇",
       "excerpt": "Here are the latest odds to win the 2026 FIFA World Cup after Argentina's quarterfinal win over Switzerland.",
-      "excerpt_ja": "Switzerland との準々決勝での Argentina の勝利後の2026年 FIFA ワールドカップ優勝の最新オッズ",
+      "excerpt_ja": "Switzerland に対する Argentina の準々決勝勝利の後、2026 FIFA World Cup 優勝 オッズの最新情報。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -278,9 +454,9 @@
     {
       "kind": "other",
       "title": "England vs. Argentina Confirmed For Semifinals: Here's What To Know",
-      "title_ja": "England vs. Argentina の準決勝が確定：知っておくべきこと",
+      "title_ja": "England vs. Argentina セミファイナル確定：知っておくべきこと",
       "excerpt": "Here is everything you need to know about the 2026 FIFA World Cup semifinal between England and Argentina.",
-      "excerpt_ja": "2026年 FIFA ワールドカップ準決勝 England vs. Argentina について知っておくべきすべてのこと",
+      "excerpt_ja": "2026 FIFA World Cup セミファイナル England と Argentina の対戦について知っておくべき全てのこと。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -294,9 +470,9 @@
     {
       "kind": "other",
       "title": "2026 FIFA World Cup Quarterfinal Results",
-      "title_ja": "2026年 FIFA ワールドカップ準々決勝の結果",
+      "title_ja": "2026 FIFA World Cup 準々決勝 結果",
       "excerpt": "Check out the results for the quarterfinal matchups at the 2026 FIFA World Cup.",
-      "excerpt_ja": "2026年 FIFA ワールドカップの準々決勝の対戦結果をチェック",
+      "excerpt_ja": "2026 FIFA World Cup の準々決勝マッチアップの結果を確認しよう。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -310,9 +486,9 @@
     {
       "kind": "other",
       "title": "Messi, Mbappé, Bellingham And Kane Providing A Golden Boot Race For The Ages",
-      "title_ja": "Messi、Mbappé、Bellingham、Kane が歴史的な得点王レースを繰り広げている",
+      "title_ja": "Messi、Mbappé、Bellingham、Kane がゴールデンブーツ争いを歴史的な様相に",
       "excerpt": "Whoever emerges as the World Cup's top goalscorer, this Golden Boot race will go down as one for the ages.",
-      "excerpt_ja": "誰がワールドカップの最多得点者として浮上しようとも、この得点王レースは歴史に残る戦いとなるだろう",
+      "excerpt_ja": "World Cup の得点王として浮上する誰であれ、このゴールデンブーツ争いは史上屈指のものとして語り継がれることになるだろう。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -326,9 +502,9 @@
     {
       "kind": "other",
       "title": "Who's Left in the 2026 World Cup? Who's Been Eliminated?",
-      "title_ja": "2026年ワールドカップに残っているチームは？脱落したチームは？",
+      "title_ja": "2026 World Cup に残っているのは誰？誰が敗退した？",
       "excerpt": "We are down to the quaterfinals. See who is left in the tournament and who has been eliminated. Here's every result so far, today's matches and the road to the final.",
-      "excerpt_ja": "準々決勝の段階に入った。大会に残っているチーム、脱落したチームを確認。これまでのすべての結果、本日の試合、決勝までの道のり",
+      "excerpt_ja": "準々決勝まで進んだ。トーナメントに残っている選手と敗退した選手を確認。全ての結果、本日の試合、そしてファイナルへの道。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -340,27 +516,11 @@
       "url": "https://www.foxsports.com/stories/soccer/whos-left-2026-world-cup-whos-been-eliminated"
     },
     {
-      "kind": "other",
-      "title": "2026 World Cup Bracket: Historic Semifinal Matchups Set",
-      "title_ja": "2026年ワールドカップ・ブラケット：歴史的な準決勝の対戦が決定",
-      "excerpt": "Here's how the semifinals matchups look like at the 2026 FIFA World Cup.",
-      "excerpt_ja": "2026年 FIFA ワールドカップの準決勝の対戦の組み合わせをご紹介",
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 11 Jul 2026 23:45:19 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-bracket-semifinals-finals-matchups"
-    },
-    {
       "kind": "signing",
       "title": "Seahawks sold to current NFL owner for record price. Who is Vinod Kohsla?",
-      "title_ja": "Seahawks が現 NFL オーナーに過去最高額で売却。Vinod Kohsla とは誰か",
+      "title_ja": "Seahawks が現 NFL オーナーに記録的価格で買収される。Vinod Kohsla とは誰か？",
       "excerpt": "The Seattle Seahawks will soon be owned by a venture capitalist who is currently a minority owner of the 49ers. The deal must be approved by NFL owners.",
-      "excerpt_ja": "Seattle Seahawks は現在 49ers のマイノリティオーナーであるベンチャーキャピタリストに買収される予定。この取引は NFL オーナーの承認が必要",
+      "excerpt_ja": "Seattle Seahawks は、現在 49ers の少数派オーナーであるベンチャーキャピタリストのオーナーになる。この取引は NFL オーナーの承認が必要となる。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -374,9 +534,9 @@
     {
       "kind": "other",
       "title": "DeMarvion Overshown named as potential Dallas Cowboys breakout candidate",
-      "title_ja": "DeMarvion Overshown が Dallas Cowboys のブレークアウト候補として指名される",
+      "title_ja": "DeMarvion Overshown が Dallas Cowboys のブレークアウト候補として取り上げられる",
       "excerpt": "Who do you think are potential breakout candidates for the Cowboys this season?",
-      "excerpt_ja": "今シーズン Cowboys のブレークアウト候補は誰だと思うか",
+      "excerpt_ja": "Cowboys の今シーズンにおける潜在的ブレークアウト候補は誰だと思いますか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -390,9 +550,9 @@
     {
       "kind": "other",
       "title": "Seahawks getting sold for NFL record $9.6 billion — with a 49ers twist",
-      "title_ja": "Seahawks が NFL 記録の96億ドルで売却へ――49ers 絡みの展開",
+      "title_ja": "Seahawks が NFL 記録の96億ドルで買収される—49ers との思わぬつながりを持つ",
       "excerpt": "The reigning Super Bowl champions are getting a new owner, with a division rival twist.",
-      "excerpt_ja": "現スーパーボウルチャンピオンが新しいオーナーを迎えることになり、その相手はディビジョンライバルという展開",
+      "excerpt_ja": "Super Bowl 優勝チャンピオンは新しいオーナーを迎える。ディビジョンライバルとの意外な関係。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -406,9 +566,9 @@
     {
       "kind": "other",
       "title": "Raiders fans expect Treydan Stukes to be a starter Week 1",
-      "title_ja": "Raiders ファンは Treydan Stukes がウィーク1スターターになることを期待",
+      "title_ja": "Raiders ファンは Treydan Stukes が Week 1 スターターになることを期待",
       "excerpt": "Raider Nation is all in on Treydan Stukes becoming the starter Week 1 for the Las Vegas Raiders",
-      "excerpt_ja": "Raider Nation は Treydan Stukes が Las Vegas Raiders のウィーク1スターターになることに全力で支持",
+      "excerpt_ja": "Raider Nation は Treydan Stukes が Las Vegas Raiders の Week 1 スターターになることに全力投球している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -422,9 +582,9 @@
     {
       "kind": "other",
       "title": "Former Steelers CB Joe Haden says Mike Tomlin lacked accountability",
-      "title_ja": "元 Steelers CB Joe Haden が Mike Tomlin の説明責任の欠如を指摘",
+      "title_ja": "元 Steelers CB Joe Haden、Mike Tomlin の説明責任の欠如を指摘",
       "excerpt": "The former Steelers CB points out a Mike Tomlin shortcoming.",
-      "excerpt_ja": "元 Steelers CB が Mike Tomlin の弱点を指摘",
+      "excerpt_ja": "元 Steelers CB が Mike Tomlin の弱点を指摘する。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -438,9 +598,9 @@
     {
       "kind": "other",
       "title": "Rookie Hezekiah Masses brings ball hawk skills Raiders’ sorely need",
-      "title_ja": "ルーキー Hezekiah Masses が Raiders が必要とする球奪取の能力をもたらす",
+      "title_ja": "ルーキー Hezekiah Masses が Raiders が切実に必要としているボールホーク スキルをもたらす",
       "excerpt": "5th-round pick impressing Las Vegas coaching staff enough to earn first-team defensive snaps this offseason",
-      "excerpt_ja": "5巡目指名選手が Las Vegas コーチングスタッフを十分に感動させ、今オフシーズンのディフェンス1軍スナップを獲得",
+      "excerpt_ja": "5巡指名は Las Vegas コーチングスタッフに十分な印象を与え、オフシーズンの1軍ディフェンス スナップを獲得している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -454,9 +614,9 @@
     {
       "kind": "other",
       "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 64",
-      "title_ja": "Cowboys キックオフまでのカウントダウン：歴史的な試合トップ100――第64日目",
+      "title_ja": "Cowboys キックオフまでカウントダウン：歴史的試合トップ100—Day 64",
       "excerpt": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 64",
-      "excerpt_ja": "キックオフまで100日をカウントダウン。Cowboys の歴史における最も象徴的な試合をシリーズで紹介。本日は第64日目",
+      "excerpt_ja": "キックオフまで100日をカウントダウンするシリーズで、Cowboys 史上最も象徴的な試合の数々を特集。本日は Day 64。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -470,9 +630,9 @@
     {
       "kind": "other",
       "title": "Will Dillon Thieneman outperform his draft status?",
-      "title_ja": "Dillon Thieneman はドラフトでの指名順位を上回るパフォーマンスを発揮するか",
+      "title_ja": "Dillon Thieneman はドラフト評価を上回るパフォーマンスを発揮するか？",
       "excerpt": "At the end of the season, will we look back and say that Bears safety Dillon Thieneman outperformed his 25th overall draft status?",
-      "excerpt_ja": "シーズン終盤に振り返ったとき、Bears セーフティ Dillon Thieneman が全体25位での指名順位を上回ったと言えるか",
+      "excerpt_ja": "シーズン終了時、Bears セーフティ Dillon Thieneman が全体25位の指名順位を上回るパフォーマンスを発揮したと評価されるだろうか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -486,9 +646,9 @@
     {
       "kind": "other",
       "title": "Colts OT Bernhard Raimann receives votes for Top 10 players at his position in league survey",
-      "title_ja": "Colts OT Bernhard Raimann がリーグサーベイでポジション別トップ10選手投票を獲得",
+      "title_ja": null,
       "excerpt": "Colts starting LT Bernhard Raimann received some consideration in this ESPN annually conducted league survey.",
-      "excerpt_ja": "Colts スターティング LT Bernhard Raimann は ESPN が毎年実施するこのリーグサーベイで検討の対象となった",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -502,9 +662,9 @@
     {
       "kind": "signing",
       "title": "Vinod Khosla's wife, Neeru, will be controlling owner of Seahawks",
-      "title_ja": "Vinod Khosla の妻 Neeru が Seahawks のコントロール・オーナーになる",
+      "title_ja": null,
       "excerpt": "Their son, Neal, is expected to have a significant role in the organization.",
-      "excerpt_ja": "彼らの息子 Neal はオーガニゼーション内で重要な役割を担うことが予想されている",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -518,9 +678,9 @@
     {
       "kind": "other",
       "title": "Steelers Super Bowl champion passes away",
-      "title_ja": "Steelers スーパーボウルチャンピオンが亡くなる",
+      "title_ja": null,
       "excerpt": "A former Steelers running back passes away.",
-      "excerpt_ja": "元 Steelers ランニングバック が亡くなる",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -532,11 +692,155 @@
       "url": "https://sports.yahoo.com/articles/steelers-super-bowl-champion-passes-202151194.html"
     },
     {
+      "kind": "signing",
+      "title": "Niners part owner agrees to purchase Seahawks",
+      "title_ja": null,
+      "excerpt": "A group led by Niners limited partner Vinod Khosla has agreed to purchase the Seahawks, with sources telling ESPN the selling price will be a record $9.612 billion. The Khosla family will be required to divest its interest in the 49ers.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 20:14:12 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49337716/khosla-led-group-agrees-buy-seahawks-sources-say-96-billion"
+    },
+    {
+      "kind": "signing",
+      "title": "No GPS tracker for Arnold, can work out for teams",
+      "title_ja": null,
+      "excerpt": "Former Lions cornerback Terrion Arnold does not need to wear a GPS tracker as a condition of his release, a Florida judge ruled Friday, allowing him to continue to work out with NFL teams in an effort to get re-signed after being cut.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 20:14:12 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49325177/no-gps-tracker-terrion-arnold-work-nfl-teams"
+    },
+    {
+      "kind": "other",
+      "title": "Commanders to retire No. 44 of HOF RB Riggins",
+      "title_ja": null,
+      "excerpt": "The Commanders are retiring the No. 44 worn by Hall of Famer and franchise rushing leader John Riggins -- more than 40 years after one of the most famous runs in Super Bowl history.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "WAS",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 20:14:12 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49315574/commanders-retire-no-44-worn-hall-famer-john-riggins"
+    },
+    {
+      "kind": "other",
+      "title": "Late Cowboys' player Kneeland diagnosed with CTE",
+      "title_ja": null,
+      "excerpt": "Former Cowboys defensive end Marshawn Kneeland has been posthumously diagnosed with CTE.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 20:14:12 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49296262/late-cowboys-player-marshawn-kneeland-diagnosed-cte"
+    },
+    {
+      "kind": "trade",
+      "title": "Sources: CB Douglas to sign with Commanders",
+      "title_ja": null,
+      "excerpt": "Free agent CB Rasul Douglas is planning to sign a one-year deal with the Washington Commanders worth up to $3.8 million, sources told ESPN's Adam Schefter.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "WAS",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 20:14:12 EST",
+      "url": "https://www.espn.com/nba/story/_/id/49286897/sources-cb-rasul-douglas-sign-1-year-deal-commanders"
+    },
+    {
+      "kind": "other",
+      "title": "Bears QB Williams gifts Pope autographed jersey",
+      "title_ja": null,
+      "excerpt": "Bears quarterback Caleb Williams sent an autographed jersey to Pope Leo XIV, a Chicago native and the first American-born pope in the history of the Catholic Church.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 20:14:12 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49279425/bears-qb-caleb-williams-gifts-pope-leo-xiv-autographed-jersey"
+    },
+    {
+      "kind": "other",
+      "title": "🏈 Barnwell's guide to building a Super Bowl roste...",
+      "title_ja": null,
+      "excerpt": "Do teams need first-round QBs to reach the Super Bowl? Is it crucial to spend big on No. 1 receivers and top-tier edge rushers? Let's sort through rosters from the past 15 Super Bowls.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 20:14:12 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49309306/2026-nfl-season-super-bowl-roster-building-positions-draft-signings-trades"
+    },
+    {
+      "kind": "other",
+      "title": "Study: NFLers die from dementia at higher rate",
+      "title_ja": null,
+      "excerpt": "NFL players are four times more likely than the general population to die of neurodegenerative diseases such as dementia and Parkinson's, according to a study released Wednesday.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 20:14:11 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49317702/study-nfl-players-4-s-more-likely-die-neurodegenerative-disease"
+    },
+    {
+      "kind": "other",
+      "title": "Clutch Vinatieri to enter Colts' Ring of Honor",
+      "title_ja": null,
+      "excerpt": "Kicker Adam Vinatieri, who will enter the Pro Football Hall of Fame next month, will enter the Colts' Ring of Honor during a ceremony Oct. 18.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 20:14:11 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49308565/colts-add-kicker-adam-vinatieri-team-ring-honor"
+    },
+    {
       "kind": "other",
       "title": "Former Steelers first-rounder Greg Hawthorne dies",
-      "title_ja": "Steelers の元1巡目指名選手 Greg Hawthorne が逝去",
+      "title_ja": null,
       "excerpt": "Greg Hawthorne, the Steelers' first-round pick in 1979, has died.",
-      "excerpt_ja": "1979年の Steelers 1巡目指名選手 Greg Hawthorne が亡くなった",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -548,11 +852,43 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-steelers-first-rounder-greg-hawthorne-dies"
     },
     {
+      "kind": "other",
+      "title": "The best offensive tackles in the NFL: We asked ex...",
+      "title_ja": null,
+      "excerpt": "A new No. 1 OT in the league? Two blockers from the same team in the top 10? We canvassed NFL decision-makers to rank the NFL's best tackles for 2026.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 20:13:11 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49248530/ranking-nfl-top-10-offensive-tackles-2026-execs-coaches-scouts"
+    },
+    {
+      "kind": "other",
+      "title": "Who are the NFL's best tight ends? Execs, coaches ...",
+      "title_ja": null,
+      "excerpt": "Brock Bowers vs. George Kittle vs. Trey McBride for No. 1? We tasked evaluators to help rank the best.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 20:13:11 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts"
+    },
+    {
       "kind": "signing",
       "title": "Vinod Khosla-led group agrees to buy the Seahawks for a reported $9.612 billion",
-      "title_ja": "Vinod Khosla 率いるグループが Seahawks を報じられている96億1200万ドルで買収することに合意",
+      "title_ja": null,
       "excerpt": "Khosla ia a 49ers limited partner and will have to sell his stake as part of the transaction.",
-      "excerpt_ja": "Khosla は 49ers のリミテッドパートナーであり、この取引の一環として株式を売却する必要がある",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -566,9 +902,9 @@
     {
       "kind": "other",
       "title": "Dion Dawkins just outside ESPN’s Top 10 OT rankings",
-      "title_ja": "Dion Dawkins が ESPN のトップ10 OT ランキングのすぐ外",
+      "title_ja": null,
       "excerpt": "The Bills OT was just voted outside the Top 10",
-      "excerpt_ja": "Bills OT はトップ10のすぐ外の投票結果となった",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -582,9 +918,9 @@
     {
       "kind": "other",
       "title": "10 Most Important Bears of 2026: #2 Dennis Allen",
-      "title_ja": "2026年 Bears の最重要人物トップ10：第2位 Dennis Allen",
+      "title_ja": null,
       "excerpt": "Next up on @wiltfongjr’s 10 Most Important Bears series is defensive coordinator Dennis Allen.",
-      "excerpt_ja": "@wiltfongjr の「2026年 Bears の最重要人物トップ10」シリーズの次は、ディフェンスコーディネーター Dennis Allen",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -598,9 +934,9 @@
     {
       "kind": "other",
       "title": "Cowboys 2026 roster rundown: S Caleb Downs",
-      "title_ja": "Cowboys 2026年ロスター解説：S Caleb Downs",
+      "title_ja": null,
       "excerpt": "It is still crazy to remember that the Cowboys drafted Caleb Downs.",
-      "excerpt_ja": "Cowboys が Caleb Downs をドラフトしたと思い出すのはまだ信じられない",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -614,9 +950,9 @@
     {
       "kind": "other",
       "title": "Sean Payton predicts there will be more grass fields &quot;where it&#39;s possible&quot;",
-      "title_ja": "Sean Payton は「可能な限り」天然芝フィールドが増えることを予測",
+      "title_ja": null,
       "excerpt": "16 teams currently play on turf, and 16 play on artificial turf.",
-      "excerpt_ja": "現在16チームが天然芝でプレーし、16チームが人工芝でプレーしている",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -630,9 +966,9 @@
     {
       "kind": "rumor",
       "title": "Steelers defender named biggest bust of 2026",
-      "title_ja": "Steelers ディフェンダーが2026年最大のバストに指名される",
+      "title_ja": null,
       "excerpt": "Could a young Steelers defender be in for a disappointing year?",
-      "excerpt_ja": "若き Steelers ディフェンダーが今シーズン失望する可能性があるか",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -756,38 +1092,6 @@
       "url": "https://sports.yahoo.com/articles/daniel-jones-cleared-full-participation-155225351.html"
     },
     {
-      "kind": "injury",
-      "title": "2026 may be a breakout year for Dominick Puni",
-      "title_ja": null,
-      "excerpt": "Dominick Puni is the only 49er on Bucky Brooks&#39; offensive breakout list. The PCL injury context makes the case stronger.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 11 Jul 2026 15:34:00 +0000",
-      "url": "https://sports.yahoo.com/articles/2026-may-breakout-dominick-puni-153400646.html"
-    },
-    {
-      "kind": "other",
-      "title": "Packers Top Plays of 2025 Postscript: Good riddance!",
-      "title_ja": null,
-      "excerpt": "Enough of 2025 already.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 11 Jul 2026 15:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/packers-top-plays-2025-postscript-150000208.html"
-    },
-    {
       "kind": "other",
       "title": "Nearly 18,000 more seats will be replaced at Acrisure Stadium",
       "title_ja": null,
@@ -805,54 +1109,6 @@
     },
     {
       "kind": "other",
-      "title": "Aaron Donald’s potential unretirement isn’t only a Rams story",
-      "title_ja": null,
-      "excerpt": "The chance that Aaron Donald unretires has been massively talked about",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 11 Jul 2026 14:45:00 +0000",
-      "url": "https://sports.yahoo.com/articles/aaron-donald-potential-unretirement-isn-144500282.html"
-    },
-    {
-      "kind": "injury",
-      "title": "VIP experience up for grabs at Colts’ last Grand Park training camp",
-      "title_ja": null,
-      "excerpt": "The Colts have something special planned for a few fans at their last Grand Park training camp.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 11 Jul 2026 14:44:01 +0000",
-      "url": "https://sports.yahoo.com/articles/vip-experience-grabs-colts-last-144401388.html"
-    },
-    {
-      "kind": "other",
-      "title": "Commanders Laremy Tunsil, Matt Gulbin, Nick Cross, Mike Sainristil - Daily Slop",
-      "title_ja": null,
-      "excerpt": "We also hear from John Riggins about his jersey number retirement and team president Mark Clouse about new stadium plans",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "WAS",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 11 Jul 2026 14:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/commanders-laremy-tunsil-matt-gulbin-143000130.html"
-    },
-    {
-      "kind": "other",
       "title": "Sean Payton predicts there will be more grass fields \"where it's possible\"",
       "title_ja": null,
       "excerpt": "16 teams currently play on turf, and 16 play on artificial turf.",
@@ -866,38 +1122,6 @@
       "coach_name": null,
       "published_at": "Sat, 11 Jul 2026 14:20:25 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-predicts-there-will-be-more-grass-fields-where-its-possible"
-    },
-    {
-      "kind": "other",
-      "title": "What can the Cardinals expect from TE Tip Reiman?",
-      "title_ja": null,
-      "excerpt": "The talented athlete is going to have a huge job this year",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 11 Jul 2026 14:18:42 +0000",
-      "url": "https://sports.yahoo.com/articles/cardinals-expect-te-tip-reiman-141842747.html"
-    },
-    {
-      "kind": "other",
-      "title": "65 Days until Chiefs football, we are ‘Trey Smith’ days away",
-      "title_ja": null,
-      "excerpt": "We’re a day closer to the 2026 NFL season in Kansas City.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 11 Jul 2026 14:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/65-days-until-chiefs-football-140000820.html"
     },
     {
       "kind": "signing",
@@ -930,6 +1154,22 @@
       "coach_name": null,
       "published_at": "Sat, 11 Jul 2026 09:17:56 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-mike-macdonald-wasnt-referring-to-tom-brady-as-the-person-who-provided-super-bowl-help"
+    },
+    {
+      "kind": "other",
+      "title": "Better, worse or the same? Examining the Seahawks'...",
+      "title_ja": null,
+      "excerpt": "After some notable departures, let's look at key positions ahead of the 2026 season.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 11 Jul 2026 08:13:45 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49318373/seattle-seahawks-2026-depth-chart-better-worse-same"
     },
     {
       "kind": "injury",
@@ -1109,6 +1349,22 @@
     },
     {
       "kind": "rumor",
+      "title": "AFC East: Can Bills, Jets or Dolphins unseat the Patriots in 2026?",
+      "title_ja": null,
+      "excerpt": "Four big questions for our AFC East reporters, including biggest concerns and how the offseason impacted the QBs.",
+      "excerpt_ja": null,
+      "sources": [
+        "ESPN NFL"
+      ],
+      "reliability": 0.92,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 10 Jul 2026 13:00:27 EST",
+      "url": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis"
+    },
+    {
+      "kind": "rumor",
       "title": "Report: George Pickens among teammates working with Dak Prescott in Utah",
       "title_ja": null,
       "excerpt": "Cowboys wide receiver George Pickens skipped most of the team's offseason program, but he reportedly opted to get some more work in with his teammates this week.",
@@ -1218,22 +1474,6 @@
       "coach_name": null,
       "published_at": "Fri, 10 Jul 2026 08:41:25 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-saleh-d-line-rotation-designed-to-keep-jeffery-simmons-fresh"
-    },
-    {
-      "kind": "other",
-      "title": "Indiana governor remains optimistic about a Bears border crossing",
-      "title_ja": null,
-      "excerpt": "Politicians have a bad habit (in fairness, they have many) when it comes to cramming puns into sports-related topics.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 10 Jul 2026 08:27:36 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/indiana-governor-remains-optimistic-about-a-bears-border-crossing"
     },
     {
       "kind": "other",

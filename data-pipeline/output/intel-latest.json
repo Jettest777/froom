@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-07-12T23:58:17.368755+00:00",
-  "count": 119,
+  "generated_at": "2026-07-13T03:47:14.667953+00:00",
+  "count": 120,
   "items": [
     {
       "kind": "presser",
       "title": "Mike Macdonald got Super Bowl advice from someone with a \"conflict of interest\"",
-      "title_ja": "Mike Macdonald、『利益相反』のある人物からスーパーボウルのアドバイスを受ける",
+      "title_ja": "Mike Macdonald、「利益相反」を抱える人物からスーパーボウルのアドバイスを受ける",
       "excerpt": "Remember when Tom Brady said before the Patriots-Seahawks Super Bowl that he didn't have a \"dog in the fight\"?",
-      "excerpt_ja": "Patriots対Seahawks スーパーボウルの前、Tom Brady が『どちらに味方するわけでもない』と言ったのを覚えているか？",
+      "excerpt_ja": "Patriots対Seahawksのスーパーボウルの前、Tom Bradyが「自分は利害関係がない」と語ったことを覚えているだろうか",
       "sources": [
         "Pro Football Talk"
       ],
@@ -22,9 +22,9 @@
     {
       "kind": "other",
       "title": "Raiders owner Mark Davis is committed to grass \"for safety purposes\"",
-      "title_ja": "Raiders オーナー Mark Davis、『安全性』を理由にグラス（天然芝）にこだわる",
+      "title_ja": "Raiders オーナーのMark Davis、「安全性」を理由に天然芝への転換を強調",
       "excerpt": "Davis is willing to spend the money to give his players a better surface.",
-      "excerpt_ja": "Davis はプレイヤーたちにより良いサーフェスを提供するために資金を投じる覚悟がある",
+      "excerpt_ja": "Davisは選手たちによりよいプレーサーフェスを提供するための資金投入を惜しまない構えだ",
       "sources": [
         "Pro Football Talk"
       ],
@@ -38,9 +38,9 @@
     {
       "kind": "other",
       "title": "Two groups emerge from pack in effort to buy Seahawks",
-      "title_ja": "Seahawks 買収に向けて、2つのグループが競争激化",
+      "title_ja": "Seahawks買収に向け、群雄割拠の中から2つのグループが浮上",
       "excerpt": "An unnamed (for now) former Seahawks player is attached to one of the two groups.",
-      "excerpt_ja": "2つのグループの1つには、名前は未公開だがかつての Seahawks 選手が関わっている",
+      "excerpt_ja": "2つのグループの一方には、名前は明かされていない元Seahawksの選手が関わっているという",
       "sources": [
         "Pro Football Talk"
       ],
@@ -52,11 +52,27 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/two-groups-emerge-from-pack-in-effort-to-buy-seahawks"
     },
     {
+      "kind": "signing",
+      "title": "Stefon Diggs has challenge for NFL teams as free agency lingers after Patriots split",
+      "title_ja": "Stefon Diggs、Patriotsとの別れからフリーエージェント市場が停滞する中、NFLチームにとって課題に",
+      "excerpt": "NFL training camps will open in the coming weeks and he has not been signed after he was released by the Patriots back in March.",
+      "excerpt_ja": "今後数週間でNFLのトレーニングキャンプが開始するが、3月にPatriotsからリリースされた彼はまだ契約先が決まっていない",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 23:25:10 +0000",
+      "url": "https://sports.yahoo.com/articles/stefon-diggs-challenge-nfl-teams-232510491.html"
+    },
+    {
       "kind": "other",
       "title": "NFL minds rank Jake Ferguson as top half tight end",
-      "title_ja": "NFL の識者たちが Jake Ferguson をトップハーフのタイトエンドに格付け",
+      "title_ja": "NFL関係者、Jake Fergusonをタイトエンドの上位陣に評価",
       "excerpt": "Where would you rank Jake Ferguson among NFL tight ends?",
-      "excerpt_ja": "NFL のタイトエンドの中で Jake Ferguson をどう評価する？",
+      "excerpt_ja": "あなたならJake FergusonをNFLのタイトエンドの中でどうランク付けするか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +86,9 @@
     {
       "kind": "rumor",
       "title": "Patriots scouting report: Jared Wilson has reached his destination",
-      "title_ja": "Patriots スカウティングレポート：Jared Wilson は目的地に到達した",
+      "title_ja": "Patriotsのスカウティングレポート：Jared Wilson、目的地に到着",
       "excerpt": "Previewing the Patriots center heading into his second NFL season.",
-      "excerpt_ja": "2シーズン目を迎える Patriots センターをプレビュー",
+      "excerpt_ja": "NFL2年目を迎えるPatriotsのセンターをプレビュー",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -84,11 +100,27 @@
       "url": "https://sports.yahoo.com/articles/patriots-scouting-report-jared-wilson-222828392.html"
     },
     {
+      "kind": "injury",
+      "title": "New York Mets’ 40-57 Start Marks Franchise’s Worst First Half Since 1995",
+      "title_ja": "New York Mets、0勝57敗のスタートは1995年以来、31年ぶりの悪い前半戦",
+      "excerpt": "After starting the season with high expectations and a payroll to match, the New York Mets stumbled into the All-Star break following their worst first half in 31 years.",
+      "excerpt_ja": "高い期待と潤沢なペイロールで開幕したNew York Metsだったが、31年ぶりとなる悪い前半戦を経験してオールスターブレイクを迎えた",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 21:24:04 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/new-york-mets-40-57-start-marks-franchises-worst-first-half-since-1995"
+    },
+    {
       "kind": "other",
       "title": "Venture seekers want to steer new NFL seas with Seahawks",
-      "title_ja": "新たなオーナーたちが Seahawks で NFL の新しい時代を切り開きたいと意欲",
+      "title_ja": "ベンチャー企業、Seahawksとともに新たなNFLの航海を切り開く狙い",
       "excerpt": "The Seahawks were purchased for a record $9.6 billion. Meet Neeru Khosla, who will be the new controlling owner.",
-      "excerpt_ja": "Seahawks は記録的な96億ドルで買収された。新しい筆頭オーナーとなる Neeru Khosla を紹介しよう",
+      "excerpt_ja": "Seahawksが過去最高の96億ドルで買収された。新しいコントローリングオーナーとなるNeeru Khoslaを紹介する",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +134,9 @@
     {
       "kind": "other",
       "title": "Miami Dolphins training camp 2026: Which position group will you be watching?",
-      "title_ja": "2026年 Miami Dolphins トレーニングキャンプ：どのポジショングループに注目する？",
+      "title_ja": "Miami Dolphins トレーニングキャンプ2026：どのポジショングループに注目する",
       "excerpt": "What are Dolphins fans going to be watching in training camp this year? Seems like it is always the offensive line.",
-      "excerpt_ja": "Dolphins ファンが今年のトレーニングキャンプで何を見るか？オフェンシブラインに注目が集まるのはいつものことのようだ",
+      "excerpt_ja": "Dolphins ファンは今年のトレーニングキャンプで何を見守るのか。いつもはOラインのようだが",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +150,9 @@
     {
       "kind": "other",
       "title": "Cowboys 2026 roster rundown: QB Dak Prescott",
-      "title_ja": "2026年 Cowboys ロスター総覧：QB Dak Prescott",
+      "title_ja": "Cowboys 2026ロスター概観：QBのDak Prescott",
       "excerpt": "It feels like the silly arguments about Dak Prescott have finally gone away.",
-      "excerpt_ja": "Dak Prescott についての馬鹿げた議論もようやく消え去ったようだ",
+      "excerpt_ja": "Dak Prescottについての下らないい議論がようやく消え去ったような気がする",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +166,9 @@
     {
       "kind": "other",
       "title": "Does Ty Simpson have potential to surpass Matthew Stafford?",
-      "title_ja": "Ty Simpson は Matthew Stafford を上回る可能性を持つか？",
+      "title_ja": "Ty SimpsonはMatthew Staffordを上回るポテンシャルを持っているのか",
       "excerpt": "What is Ty Simpson’s NFL ceiling?",
-      "excerpt_ja": "Ty Simpson の NFL でのポテンシャルの上限はどこか",
+      "excerpt_ja": "Ty SimpsonのNFLの天井はどこまでか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -148,11 +180,27 @@
       "url": "https://sports.yahoo.com/articles/does-ty-simpson-potential-surpass-205526219.html"
     },
     {
+      "kind": "other",
+      "title": "FIFA's Four Best Teams Will Make Star-Studded World Cup Semis A Treat For Fans",
+      "title_ja": "FIFAの上位4チームが、豪華なワールドカップ準決勝を実現",
+      "excerpt": "This week's World Cup semifinals feature FIFA's four top-ranked teams for the first time in history.",
+      "excerpt_ja": "今週のワールドカップ準決勝では、FIFAランキング上位4チームが歴史上初めて揃い踏みする",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 20:53:10 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/fifas-four-best-teams-will-make-star-studded-world-cup-semis-treat-fans"
+    },
+    {
       "kind": "rumor",
       "title": "Patriots scouting report: Otis Reese needs to put his money where Christian Elliss’ mouth is",
-      "title_ja": "Patriots スカウティングレポート：Otis Reese は Christian Elliss の言葉に行動で応える必要がある",
+      "title_ja": "Patriotsのスカウティングレポート：Otis Reese、Christian Ellissの言葉に行動で応える必要がある",
       "excerpt": "Previewing the Patriots linebacker heading into his fourth NFL season.",
-      "excerpt_ja": "4シーズン目を迎える Patriots ラインバッカーをプレビュー",
+      "excerpt_ja": "NFL4年目を迎えるPatriotsのラインバッカーをプレビュー",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +214,9 @@
     {
       "kind": "signing",
       "title": "Minnesota Vikings News and Links: Two Weeks To Go!",
-      "title_ja": "Minnesota Vikings ニュースとリンク：残り2週間！",
+      "title_ja": "Minnesota Vikings ニュースとリンク：あと2週間！",
       "excerpt": "We are getting close! The rookies report in a little over two weeks. I still am hoping the team signs Derek Barnett. He was solid last year as a rotational EDGE rusher, wont cost too much, and seems like a perfect fit. He has been praised as a really good teammate as well.  Eagles […]",
-      "excerpt_ja": "いよいよ近づいてきた！ルーキーたちが2週間余りで報告する。Derek Barnett と契約してほしいと願ってやまない。去年はローテーション EDGE ラッシャーとして堅実で、費用もかからず、うってつけの適性があると思う。チームメイトとしても高く評価されているようだ。Eagles […]",
+      "excerpt_ja": "いよいよ近づいてきた！ルーキーたちが2週間ちょっとで合流する。チームがDerek Barnettに署名することを願っている。彼は昨年ロテーションのEDGEラッシャーとして堅実だったし、コストもそこまでかからず、完璧なフィットに思える。チームメイトとしても定評のある選手だ。Eagles […]",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +230,9 @@
     {
       "kind": "other",
       "title": "Eagles News: Makai Lemon among most exciting Week 1 debut candidates",
-      "title_ja": "Eagles：Makai Lemon、ウィーク1デビュー候補として最も注目を集める",
+      "title_ja": "Eagles ニュース：Makai Lemon、Week 1デビュー最有力候補の一角",
       "excerpt": "Philadelphia Eagles news and links for 7/12/26.",
-      "excerpt_ja": "Philadelphia Eagles ニュースとリンク（7/12/26）",
+      "excerpt_ja": "Philadelphia Eagles ニュースとリンク（7月12日）",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +246,9 @@
     {
       "kind": "other",
       "title": "Why limiting Jonathan Taylor’s workload needs to be smart, not automatic",
-      "title_ja": "Jonathan Taylor のワークロード削減は賢明に、機械的ではなく",
+      "title_ja": "Jonathan Taylorのワークロード制限は、無差別ではなく賢明でなければならない",
       "excerpt": "The Colts want to manage Jonathan Taylor’s workload, but reducing his touches has to be situational.",
-      "excerpt_ja": "Colts は Jonathan Taylor のワークロード管理を望んでいるが、タッチ数削減は状況に応じた判断が必要",
+      "excerpt_ja": "Coltsはjonathan Taylorのワークロード管理を望んでいるが、タッチ数の削減は場面に応じた対応である必要がある",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -212,11 +260,27 @@
       "url": "https://sports.yahoo.com/articles/why-limiting-jonathan-taylor-workload-201637427.html"
     },
     {
+      "kind": "injury",
+      "title": "Kevin De Bruyne and Thibaut Courtois Weigh Belgium Futures After World Cup Exit",
+      "title_ja": "Kevin De BruyneとThibaut Courtois、ワールドカップ敗退後、ベルギー代表の将来について疑問視",
+      "excerpt": "Kevin De Bruyne and Thibaut Courtois have cast doubt over their Belgium futures following the Red Devils' World Cup exit to Spain.",
+      "excerpt_ja": "Kevin De BruyneとThibaut Courtoaisは、Red Devilsがスペインにワールドカップで敗退した後、ベルギー代表での今後について不透明感を示した",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 12 Jul 2026 20:06:32 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/kevin-de-bruyne-thibaut-courtois-weigh-belgium-futures-after-world-cup-exit"
+    },
+    {
       "kind": "other",
       "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 63",
-      "title_ja": "Cowboys キックオフまでのカウントダウン：歴史的試合トップ100 – 63日目",
+      "title_ja": "Cowboys キックオフまでのカウントダウン：史上最高のアイコニックゲーム100選 - 第63日目",
       "excerpt": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 63",
-      "excerpt_ja": "キックオフまで100日間、Cowboys 史上最も歴史的な試合を数えていく。本日は63日目",
+      "excerpt_ja": "キックオフまで100日間、Cowboys史上最高のアイコニックゲーム100試合をカウントダウン。今日は第63日目",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +294,9 @@
     {
       "kind": "other",
       "title": "MLB All-Star Team Of The Century: The Greatest First-Half Performers Since 2000",
-      "title_ja": "MLB オールスターセンチュリーチーム：2000年以降の最高の前半パフォーマー",
+      "title_ja": "MLB オールスターチームの100年：2000年以降の最高の前半戦パフォーマー",
       "excerpt": "In the spirit of the Midsummer Classic, we've put together a team of 26 players who amassed the greatest first-half résumés this century.",
-      "excerpt_ja": "ミッドサマークラシックの精神で、今世紀最高の前半の実績を積み上げた26人の選手で編成したチーム",
+      "excerpt_ja": "ミッドサマークラシックの精神に則り、今世紀最高の前半戦の功績を残した26人の選手で構成したチームを編成した",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -246,9 +310,9 @@
     {
       "kind": "other",
       "title": "Harry Kane Defends Thomas Tuchel Criticism: 'He’s Trying To Drag It Out Of Us'",
-      "title_ja": "Harry Kane、Thomas Tuchel 批判を擁護：『彼は僕たちから最高のパフォーマンスを引き出そうとしている』",
+      "title_ja": "Harry Kane、Thomas Tuchel批判に弁明：「彼は僕たちから引き出そうとしている」",
       "excerpt": "Harry Kane came to the defense of Thomas Tuchel after the England coach delivered a scathing assessment of the Three Lions' quarterfinal victory.",
-      "excerpt_ja": "Harry Kane は、イングランド代表監督の Thomas Tuchel が準々決勝勝利について厳しい評価を下した後、彼を擁護した",
+      "excerpt_ja": "Harry KaneはThomas Tuchel監督を擁護。Tuchelはイングランドの準々決勝勝利について厳しい評価を下していた",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -262,9 +326,9 @@
     {
       "kind": "signing",
       "title": "Jürgen Klopp Agrees Principles Of Contract To Become Next Germany Head Coach",
-      "title_ja": "Jürgen Klopp、ドイツ代表監督の契約に基本合意",
+      "title_ja": "Jürgen Klopp、ドイツ代表監督就任で基本合意",
       "excerpt": "Jurgen Klopp is on the verge of becoming the new head coach of the German national team after reaching an agreement in principle with the DFB.",
-      "excerpt_ja": "Jurgen Klopp は DFB との基本合意に達した後、ドイツ代表の新監督就任が秒読み段階",
+      "excerpt_ja": "Jurgen Kloppはドイツサッカー協会（DFB）との間で基本合意に至り、ドイツ代表の新監督になる寸前の状況だ",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -278,9 +342,9 @@
     {
       "kind": "other",
       "title": "ESPN Survey: Darnell Wright is the Top Right Tackle in the NFL",
-      "title_ja": "ESPN サーベイ：Darnell Wright が NFL 最高のライトタックル",
+      "title_ja": "ESPN調査：Darnell WrightはNFL屈指の右タックル",
       "excerpt": "The Bears’ offensive roster continues to be praised by industry insiders",
-      "excerpt_ja": "Bears のオフェンシブロスターは業界関係者から絶賛され続けている",
+      "excerpt_ja": "Bearsのオフェンシブロスターは引き続き業界関係者から高く評価されている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +358,9 @@
     {
       "kind": "rumor",
       "title": "Bellingham The GOAT? Lineker Thinks He Could Be 'England's Greatest Footballer'",
-      "title_ja": "Bellingham は GOAT？Lineker は彼が『イングランドの最高の選手』になり得ると考える",
+      "title_ja": "Bellingham、GOATか？ Lineker、彼は「イングランド最高の選手」になる可能性と指摘",
       "excerpt": "Gary Lineker thinks Real Madrid midfielder Jude Bellingham is on a path to becoming England's greatest ever player.",
-      "excerpt_ja": "Gary Lineker は Real Madrid のミッドフィールダー Jude Bellingham がイングランド史上最高の選手になる道を歩んでいると考えている",
+      "excerpt_ja": "Gary LinekerはReal Madrid ミッドフィールダーのJude Bellinghamがイングランド史上最高の選手になる道を歩んでいると考えている",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -310,9 +374,9 @@
     {
       "kind": "other",
       "title": "Free agent Stefon Diggs says no WR2 is better than him",
-      "title_ja": "フリーエージェント Stefon Diggs、自分より優れた WR2 はいないと主張",
+      "title_ja": "フリーエージェントのStefon Diggs、「自分より優れたWR2はいない」と主張",
       "excerpt": "With training camp right around the corner, wide receiver Stefon Diggs is among several big-name players who remain without a home.",
-      "excerpt_ja": "トレーニングキャンプが目前に迫る中、ワイドレシーバー Stefon Diggs を含む複数の有名選手がまだ所属先がない",
+      "excerpt_ja": "トレーニングキャンプ開始を控え、ワイドレシーバーのStefon Diggsを含む複数の大物選手がまだ契約先が決まっていない",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -326,9 +390,9 @@
     {
       "kind": "other",
       "title": "Opinions about the Rams offensive line are split around the NFL",
-      "title_ja": "Rams のオフェンシブラインについて、NFL 内で意見が二分",
+      "title_ja": "Ramsのオフェンシブラインについて、NFL全体で評価が分かれている",
       "excerpt": "Advanced metrics and league personnel differ when it comes to the Rams’ OL talent.",
-      "excerpt_ja": "先進的な指標とリーグのパーソネルでは、Rams のオフェンシブラインの評価が異なる",
+      "excerpt_ja": "高度な分析指標とNFLの関係者では、RamsのOラインの評価が異なる",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -342,9 +406,9 @@
     {
       "kind": "other",
       "title": "Pittsburgh Steelers top 10 players ahead of 2026 season",
-      "title_ja": "2026シーズン前 Pittsburgh Steelers トップ10選手",
+      "title_ja": "Pittsburgh Steelers 2026シーズン前トップ10プレイヤー",
       "excerpt": "Ranking the top 10 Steelers of 2026",
-      "excerpt_ja": "2026年の Steelers トップ10をランキング",
+      "excerpt_ja": "2026年のSteelersトップ10ランキング",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -358,9 +422,9 @@
     {
       "kind": "other",
       "title": "Josh Allen to &#39;entertain&#39; idea of broadcasting after NFL career is over",
-      "title_ja": "Josh Allen、NFL 現役後の放送業界参入を『検討する』",
+      "title_ja": "Josh Allen、NFL引退後のブロードキャスト活動を「検討する」",
       "excerpt": "Josh Allen is in the prime of his NFL career, but that doesn&#39;t mean the Bills&#39; QB isn&#39;t thinking about what comes next.",
-      "excerpt_ja": "Josh Allen は NFL キャリアの最盛期だが、Bills QB は次のステップについて考えている",
+      "excerpt_ja": "Josh AllenはNFLキャリアの充実期を迎えているが、それでもBillsのQBは引退後のことを考えている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -374,7 +438,7 @@
     {
       "kind": "injury",
       "title": "MLB 2026 Buzz: Astros’ Brice Matthews Leaves Game With Left Knee Injury",
-      "title_ja": "MLB 2026 情報：Astros の Brice Matthews、左膝の怪我で試合を途中棄権",
+      "title_ja": "MLB 2026ブザー：Astrosの Brice Matthews、左膝負傷で途中退場",
       "excerpt": "Notable news, notes and buzz from MLB's 2026 season.",
       "excerpt_ja": "MLB 2026シーズンからの注目ニュース、ノート、そしてバズ",
       "sources": [
@@ -390,9 +454,9 @@
     {
       "kind": "rumor",
       "title": "Exploring why DJ Glaze entrenched as the Raiders starting right tackle",
-      "title_ja": "DJ Glaze が Raiders スターティング右タックルとして確立した理由を探る",
+      "title_ja": "DJ Glazeが Raidersのスターティング右タックルとして定着している理由を探る",
       "excerpt": "A 17-game starter in 2025, third-year player has taken almost all of the first-team reps on an island this offseason",
-      "excerpt_ja": "2025年に17試合でスターターを務めた3年目の選手は、このオフシーズン、ファーストチームの大部分のリプスに専念している",
+      "excerpt_ja": "昨シーズン17試合先発した3年目の選手が、オフシーズンは第1陣のほぼ全てのリップスを独占している",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -406,9 +470,9 @@
     {
       "kind": "injury",
       "title": "5 defensive players Cowboys need to step up their game in 2026",
-      "title_ja": "2026年 Cowboys の防御で奮起すべき5人のディフェンシブプレイヤー",
+      "title_ja": "Cowboys が2026年に奮起が必要なディフェンスプレイヤー5人",
       "excerpt": "Who do you think absolutely has to step up on defense?",
-      "excerpt_ja": "ディフェンスで絶対に奮起すべきは誰だと思う？",
+      "excerpt_ja": "ディフェンスで絶対に奮起する必要があると思う選手は誰か",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -422,9 +486,9 @@
     {
       "kind": "other",
       "title": "The Ohio State Of The World Cup? Each Semifinalist As A College Football Powerhouse",
-      "title_ja": "ワールドカップの Ohio State？各準決勝進出国をカレッジフットボールの強豪に例えると",
+      "title_ja": "ワールドカップの Ohio State？各準決勝進出国をカレッジフットボールの名門校に例えると",
       "excerpt": "Comparing the final four World Cup teams standing to some of college football's top programs? Let's do it.",
-      "excerpt_ja": "ワールドカップ準決勝に残った4チームをカレッジフットボールのトップカンファレンスに例えてみよう",
+      "excerpt_ja": "ワールドカップの最終4チームをカレッジフットボールの名門校に例えてみようか",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -438,9 +502,9 @@
     {
       "kind": "signing",
       "title": "Video Footage Indicates England's Jude Bellingham Still Hampered By Shoulder Injury",
-      "title_ja": "映像：イングランドの Jude Bellingham、肩の怪我の影響が残る",
+      "title_ja": "映像が示す：Englandの Jude Bellingham、肩負傷がまだ影響している可能性",
       "excerpt": "England fans have been left sweating over the fitness of Jude Bellingham after the Real Madrid midfielder was seen clutching his shoulder during the World Cup quarter-final against Norway. Despite undergoing corrective surgery in the past, the 23-year-old appeared to be in significant discomfort dur",
-      "excerpt_ja": "イングランドファンは、Real Madrid のミッドフィールダー Jude Bellingham がワールドカップ準々決勝（ノルウェー戦）で肩をかかえているのが映像で確認されたことから、彼のコンディションを心配している。過去に矯正手術を受けているにもかかわらず、23歳は著しい不快感を感じているようだ",
+      "excerpt_ja": "Englandの Jude Bellingham の体調に不安が残る。Real Madrid のミッドフィールダーはノルウェー戦の準々決勝で肩をつかんでいるのが映像に映った。過去に矯正手術を受けているが、23歳は重大な違和感を感じているようにみえた",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -454,9 +518,9 @@
     {
       "kind": "other",
       "title": "2026 NASCAR Odds: Pole-sitter Ryan Blaney Favored For Atlanta",
-      "title_ja": "2026年 NASCAR オッズ：ポールポジション獲得の Ryan Blaney がアトランタで優勝最有力",
+      "title_ja": "2026 NASCAR オッズ：ポールシッターのRyan Blaneyがアトランタで優勝候補筆頭",
       "excerpt": "Ryan Blaney captured the pole for Atlanta. Can he get his second win of the season or will Tyler Reddick find his hot hand again? Here are the odds.",
-      "excerpt_ja": "Ryan Blaney はアトランタのポールポジションを獲得した。彼が今シーズン2勝目を挙げるか、それとも Tyler Reddick が好調を継続させるか？オッズを見てみよう",
+      "excerpt_ja": "Ryan Blaneyはアトランタのポールポジションを獲得した。彼が今シーズン2勝目を挙げるか、それとも Tyler Reddick が調子を取り戻すか。オッズはこうだ",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -470,9 +534,9 @@
     {
       "kind": "other",
       "title": "Erling Haaland Labels England 'Lucky To Have' Jude Bellingham After World Cup Heroics",
-      "title_ja": "Erling Haaland がイングランドを『Jude Bellingham という才能に恵まれている』と評価、ワールドカップでの活躍に言及",
+      "title_ja": "Erling Haaland、ワールドカップでの活躍の後、Englandに「Jude Bellinghamを持つことは幸運」と警告",
       "excerpt": "Erling Haaland has warned England that they are fortunate to possess a talent like Jude Bellingham after the midfielder's heroics propelled the Three Lions into the World Cup semi-finals.",
-      "excerpt_ja": "Erling Haaland は、Jude Bellingham のワールドカップでの活躍がイングランドをワールドカップ準決勝に導いたことから、イングランドがそのような才能を持つことに恵まれていることを警告している",
+      "excerpt_ja": "Erling Haaland はEnglandに対し、Jude Bellinghamのようなタレントを持つことがいかに幸運であるかを警告した。ミッドフィールダーの活躍でThree Lionsはワールドカップ準決勝に進出した",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -486,9 +550,9 @@
     {
       "kind": "other",
       "title": "Chiefs strike out on top players at key positions in ESPN survey series",
-      "title_ja": "Chiefs、ESPN サーベイシリーズで重要なポジションの有力選手の獲得に失敗",
+      "title_ja": "Chiefs、ESPN調査で主要ポジションのトップ選手の獲得に失敗",
       "excerpt": "Kansas City is entering the 2026 season without top-tier talent at some of football’s most important positions.",
-      "excerpt_ja": "Kansas City は2026シーズンに向け、フットボールの最も重要なポジションのいくつかでトップレベルの才能がない状況で臨む",
+      "excerpt_ja": "Kansas City は2026シーズンを、フットボールの重要ポジションの中でも一流のタレントがいない状況で迎える",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -502,9 +566,9 @@
     {
       "kind": "other",
       "title": "Summer scouting: Can Minnesota guard Greg Johnson catch the Giants’ eye?",
-      "title_ja": "サマースカウティング：Minnesota の左ガード Greg Johnson は Giants の注目を集めるか？",
+      "title_ja": "サマースカウティング：Minnesota のガードGreg Johnsonは Giants の目に留まるか",
       "excerpt": "Is Minnesota left guard Greg Johnson an answer for the NY Giants offensive line in the 2027 NFL Draft?",
-      "excerpt_ja": "Minnesota の左ガード Greg Johnson は2027年 NFL ドラフトで NY Giants のオフェンシブラインの救世主となり得るか？",
+      "excerpt_ja": "Minnesota の左ガードGreg Johnsonは2027 NFL ドラフトでNY Giants のOラインの答えになり得るか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -518,9 +582,9 @@
     {
       "kind": "other",
       "title": "Phillies' Cristopher Sánchez, Jays' Dylan Cease To Start 2026 MLB All-Star Game",
-      "title_ja": "Phillies の Cristopher Sánchez、Blue Jays の Dylan Cease が2026年 MLB オールスターゲームの先発投手に",
+      "title_ja": "Philliesの Cristopher Sánchez、Blue Jaysの Dylan Cease が2026 MLB オールスターゲームの先発投手に",
       "excerpt": "Cristopher Sánchez of the Phillies and Dylan Cease of the Blue Jays will be the starting pitchers for the 2026 MLB All-Star Game.",
-      "excerpt_ja": "Phillies の Cristopher Sánchez と Blue Jays の Dylan Cease が2026年 MLB オールスターゲームの先発投手を務める",
+      "excerpt_ja": "PhilliesのCristopher SánchezとBlue JaysのDylan Ceaseが2026 MLBオールスターゲームの先発投手を務める",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -534,9 +598,9 @@
     {
       "kind": "other",
       "title": "World Cup Expansion? FIFA President Gianni Infantino Says It Will Be 'Examined'",
-      "title_ja": "ワールドカップ拡大？FIFA 会長 Gianni Infantino は『検討対象となる』と述べる",
+      "title_ja": "ワールドカップ拡大？FIFA会長Gianni Infantino、「検討される」と言及",
       "excerpt": "FIFA president Gianni Infantino opened the door for the World Cup to expand to 64 countries.",
-      "excerpt_ja": "FIFA 会長 Gianni Infantino はワールドカップが64カ国に拡大される可能性を開く",
+      "excerpt_ja": "FIFA会長Gianni Infantino はワールドカップを64カ国に拡大する可能性を示唆した",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -550,9 +614,9 @@
     {
       "kind": "injury",
       "title": "Cowboys fans pick the 2026 interception leader for the team",
-      "title_ja": "Cowboys ファンが2026年の球団インターセプションリーダーを選出",
+      "title_ja": "Cowboys ファン、2026年の球団インターセプションリーダーを予想",
       "excerpt": "Cowboys fans pick their INT leader for 2026",
-      "excerpt_ja": "Cowboys ファンが2026年のインターセプションリーダーを選ぶ",
+      "excerpt_ja": "Cowboys ファン、2026年のインターセプションリーダーを予想",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -566,9 +630,9 @@
     {
       "kind": "other",
       "title": "Tigers Rookie Kevin McGonigle Set For Hometown All-Star Appearance In Philadelphia",
-      "title_ja": "Tigers ルーキー Kevin McGonigle、フィラデルフィアで行われるオールスターゲームで地元出場が決定",
+      "title_ja": "Tigers ルーキーKevin McGonigleはPhiladelphiaでのオールスターゲーム出場が地元帰郷",
       "excerpt": "Detroit Tigers rookie Kevin McGonigle can't wait to go home for the All-Star Game in Philadelphia.",
-      "excerpt_ja": "Detroit Tigers のルーキー Kevin McGonigle は、フィラデルフィアで行われるオールスターゲームで故郷に帰ることをわくわくして待っている",
+      "excerpt_ja": "Detroit Tigers のルーキーKevin McGonigleはPhiladelphiaでのオールスターゲーム出場が楽しみで仕方ない。地元でプレーできるからだ",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -582,9 +646,9 @@
     {
       "kind": "other",
       "title": "Former 49ers WR Trent Taylor announces retirement after seven NFL seasons",
-      "title_ja": "元 49ers WR Trent Taylor、7シーズンの NFL キャリア後に引退を表明",
+      "title_ja": null,
       "excerpt": "Former San Francisco 49ers wide receiver Trent Taylor has announced that he will be retiring from the NFL.",
-      "excerpt_ja": "元 San Francisco 49ers のワイドレシーバー Trent Taylor は NFL から引退することを表明した",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -598,9 +662,9 @@
     {
       "kind": "other",
       "title": "At $2m, was RB Rachaad White ‘the biggest steal of free agency’? - Daily Slop",
-      "title_ja": "200万ドルで、RB Rachaad White は『フリーエージェンシーの最大の掘り出し物』か？- Daily Slop",
+      "title_ja": null,
       "excerpt": "Also today: Terry McLaurin, Nick Cross, Kain Medrano, Ben Sinnott & John Riggins",
-      "excerpt_ja": "本日のその他：Terry McLaurin、Nick Cross、Kain Medrano、Ben Sinnott ＆ John Riggins",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -614,9 +678,9 @@
     {
       "kind": "other",
       "title": "Peyton Bonds, Nephew of Barry Bonds, Drafted By Giants 90th Overall In MLB Draft",
-      "title_ja": "Barry Bonds の甥 Peyton Bonds、MLB ドラフトで Giants に全体90位で指名される",
+      "title_ja": null,
       "excerpt": "The San Francisco Giants have drafted Rutgers outfielder Peyton Bonds in the third round.",
-      "excerpt_ja": "San Francisco Giants は Rutgers の外野手 Peyton Bonds を3巡目で指名した",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -630,9 +694,9 @@
     {
       "kind": "other",
       "title": "Free agent Stefon Diggs says no WR2 is better than him",
-      "title_ja": "フリーエージェント Stefon Diggs、自分より優れた WR2 はいないと主張",
+      "title_ja": null,
       "excerpt": "With training camp right around the corner, wide receiver Stefon Diggs is among several big-name players who remain without a home.",
-      "excerpt_ja": "トレーニングキャンプが目前に迫る中、ワイドレシーバー Stefon Diggs を含む複数の有名選手がまだ所属先がない",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -770,38 +834,6 @@
       "coach_name": null,
       "published_at": "Sun, 12 Jul 2026 13:00:00 +0000",
       "url": "https://sports.yahoo.com/articles/top-5-special-teamers-denver-130000100.html"
-    },
-    {
-      "kind": "other",
-      "title": "Why Cowboys fans are allowed to be optimistic about 2026",
-      "title_ja": null,
-      "excerpt": "Are you letting yourself feel optimistic about this season?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 12 Jul 2026 13:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/why-cowboys-fans-allowed-optimistic-130000902.html"
-    },
-    {
-      "kind": "other",
-      "title": "Fans expect multiple 2026 Chicago Bears Pro Bowlers",
-      "title_ja": null,
-      "excerpt": "The people have spoken, and they expect the Chicago Bears to go back-to-back years with multiple Pro Bowl players. @wiltfongjr makes his picks here.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 12 Jul 2026 13:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/fans-expect-multiple-2026-chicago-130000104.html"
     },
     {
       "kind": "other",
@@ -1045,38 +1077,6 @@
     },
     {
       "kind": "other",
-      "title": "Are There Any World Cup Games Today? Semifinal Schedule France vs Spain, England vs Argentina",
-      "title_ja": null,
-      "excerpt": "No World Cup matches today. See the full semifinals schedule for France, Argentina and more, airing on FOX starting Tuesday.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 12 Jul 2026 08:01:44 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/any-world-cup-games-today-semifinal-schedule-france-vs-spain-england-vs-argentina"
-    },
-    {
-      "kind": "other",
-      "title": "How INDYCAR Drivers Quickly Bounce Back From In-Race Mistakes At 200 MPH",
-      "title_ja": null,
-      "excerpt": "INDYCAR racing is definitely a physical sport, but as James Hinchcliffe explains, the mental component is just as important.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 12 Jul 2026 07:00:04 -0400",
-      "url": "https://www.foxsports.com/stories/motor/indycar-analysis-james-hinchcliffe-mistakes-heat-silly-season"
-    },
-    {
-      "kind": "other",
       "title": "Aaron Rodgers can become the fifth quarterback in NFL history with 70,000 passing yards",
       "title_ja": null,
       "excerpt": "In what he says will be his final NFL season, Steelers quarterback Aaron Rodgers is in pursuit of a statistical milestone reached by only four other quarterbacks in NFL history.",
@@ -1250,6 +1250,22 @@
       "coach_name": null,
       "published_at": "Sat, 11 Jul 2026 03:45:45 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-urges-lebron-james-to-sign-in-philadelphia-be-remembered-forever"
+    },
+    {
+      "kind": "other",
+      "title": "How many touchdowns will Carnell Tate have in 2026?",
+      "title_ja": null,
+      "excerpt": "Can Carnell Tate break the rookie receiving record for touchdown catches?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 13 Jul 2026 00:21:47 +0000",
+      "url": "https://sports.yahoo.com/articles/many-touchdowns-carnell-tate-2026-002147814.html"
     },
     {
       "kind": "signing",

@@ -1,21 +1,62 @@
 {
   "version": 2,
-  "generated_at": "2026-07-13T22:51:27.938621+00:00",
-  "time_of_day": "morning",
+  "generated_at": "2026-07-14T12:07:50.351292+00:00",
+  "time_of_day": "evening",
   "model": "claude-haiku-4-5-20251001",
   "skipped": false,
-  "source_item_count": 134,
+  "source_item_count": 116,
   "ranked_item_count": 25,
-  "source_fingerprint": "f9ebcf483805fe490fa77aba846b5c43383bf4fd",
+  "source_fingerprint": "9b4d663f53f2d4bc2c0bf7f08b6185620cbc6e6f",
   "digest": {
-    "headline_en": "Digest generation failed",
-    "headline_ja": "ダイジェスト生成に失敗しました",
-    "lead_en": "Claude API call failed: Could not parse Claude JSON (Expecting value: line 21 column 22 (char 5539)); stop_reason=end_turn.",
-    "lead_ja": "Claude API 呼び出しに失敗しました: Could not parse Claude JSON (Expecting value: line 21 column 22 (char 5539)); stop_reason=end_turn.",
-    "body_en": "",
-    "body_ja": "",
-    "topics": [],
-    "watch_tomorrow_en": "",
-    "watch_tomorrow_ja": ""
+    "headline_en": "Offseason Churn Continues: QB Extensions, Defensive Depth Shape 2026",
+    "headline_ja": "オフシーズンの主役交代：QBとDFの補強が2026年を左右",
+    "lead_en": "With training camps looming and free agency winding down, NFL teams are locking in key contributors and wrestling with contract deadlines. From Baker Mayfield's stalled extension talks with TB to Demario Davis's leadership arrival in New York, the league's architecture for next season is crystallizing.",
+    "lead_ja": "トレーニングキャンプ開始が迫る中、NFLの各チームは主力選手との契約交渉を急ピッチで進めている。Baker Mayfield のタンパベイとの交渉膠着から、Demario Davis がNew York Jetsにもたらす文化的インパクトまで、2026年シーズンの土台が固まりつつある。",
+    "body_en": "The quarterback extension market remains a flashpoint. Baker Mayfield and the Buccaneers are nowhere near alignment on a long-term deal, with Tampa Bay's self-imposed training camp deadline now in play—a common tactic to force negotiation resolution. Mayfield endured a brutal 2025 campaign hampered by knee, bicep, and AC joint injuries that derailed the Bucs from a 5-1 start to an 8-9 finish and playoff miss. His injury history and the team's defensive regression create genuine complexity in valuing a new contract. Both sides have incentive to resolve this, but the gap appears wide; expect either a last-minute compromise or a franchise-tag scenario if discussions continue to stall.\n\nDefensive leadership additions are reshaping contender depth charts. GB's extension of LB Isaiah McDuffie signals confidence in their special-teams and defensive infrastructure, while NYJ's acquisition of Demario Davis in March (now speaking publicly about building winning culture under Aaron Glenn's Year 2 regime) suggests the Jets are serious about stabilizing a historically volatile defense. These moves, though unglamorous compared to pass-catcher trades, often prove foundational—a stable linebacker room and special-teams anchor can be worth millions in hidden value.\n\nThe broader offseason landscape reflects teams still hunting for depth even as July winds down. WAS's addition of cornerback Rasul Douglas to an eight-player pool of unsigned top-100 free agents underscores that several notable veterans remain available. The Commanders are actively building, and Douglas—a proven CB2/slot option—fills a legitimate secondary gap. Meanwhile, Stefon Diggs's public positioning as an elite No. 2 wide receiver (rather than a fading WR1) is a savvy re-branding move that makes him more attractive to cap-conscious suitors heading into free agency's final phase.\n\nTrade deadline speculation for November 2026 is already circulating, with Yahoo Sports floating 13 potential candidates who could move before the deadline. This perpetual churn reflects the modern NFL's unwillingness to stand pat mid-season; expect aggressive in-season roster shuffles to remain a fixture. Adam Schefter's multi-year contract re-signing with ESPN ensures the league's most reliable trade-and-signing insider will continue dominating the narrative—a reminder that information asymmetry and timing remain king in the offseason arms race.",
+    "body_ja": "QBの契約延長交渉が焦点となっている。Baker Mayfield とTampa Bay Buccaneersは新契約で大きく乖離したままで、タンパベイはトレーニングキャンプ開始を交渉期限に設定している。Mayfield は2025年に膝、上腕二頭筋、肩鎖関節の負傷に見舞われ、チームを5勝1敗から8勝9敗、プレイオフ落ちへと転落させた。双方とも解決への動機があるが、溝は深く、最終的には妥協か、フランチャイズ・タグの可能性も視野に入る。\n\nDFのリーダーシップ強化が各チームの守備布陣を再構築している。Green Bay Packersの LB Isaiah McDuffie との延長契約はスペシャルチームスと守備構成への確実な投資を示唆し、New York Jets が3月に獲得した Demario Davis は、Aaron Glenn ヘッドコーチの2年目体制下で勝利文化を築くという強い意思を表明している。これらの地味な補強は、パスキャッチャーのトレード以上に基盤となることが多く、LBルームとスペシャルチームスのアンカーの安定性は測り知れない価値を持つ。\n\nオフシーズンの全体像は、7月終盤でもなお深さを求めるチームの姿勢を映している。Washington Commanders が CB Rasul Douglas を獲得したほか、トップ100フリーエージェントの中でも8名が未契約のままだ。Douglas は信頼できるCB2/スロットオプションで、ワシントンのセカンダリーギャップを埋める。一方、Stefon Diggs がWR1からWR2へとポジショニングを転換させた動きはしたたかで、サラリーキャップに厳しいチームへのアピール力を高めている。\n\n11月の2026年トレードデッドラインに向けた推測はすでに始まっており、Yahoo Sports は動く可能性のある13選手を列挙している。この絶え間ないチャーンはシーズン中の積極的なロスターシャッフルが常態化していることを反映している。また、Adam Schefter の ESPN との複数年契約更新は、NFLの最も信頼できるトレード・サイニング記者が引き続きナラティブを支配することを保証し、情報の非対称性とタイミングがオフシーズン競争の鍵であることを改めて示している。",
+    "topics": [
+      {
+        "title_en": "Mayfield-Buccaneers Standoff Tests Resolve",
+        "title_ja": "Mayfield とBuccaneers の交渉が膠着状態に",
+        "body_en": "Baker Mayfield's 2025 injury troubles (knee, bicep, AC joint) and Tampa Bay's 5-1 to 8-9 collapse have created genuine valuation complexity. The Buccaneers' self-imposed training camp deadline suggests they want resolution soon, but both sides appear far apart on terms. This standoff could reshape the TB offense's trajectory if it bleeds into camp.",
+        "body_ja": "Baker Mayfield の2025年の負傷歴と Tampa Bay の劇的な成績悪化は、契約額の算定を難しくしている。トレーニングキャンプ開始を期限に設けた Buccaneers の姿勢は急速な解決を望んでいるが、双方の開きは大きい。この交渉が長引けば、タンパベイのOFの体制や心理状態に大きな影響を与える可能性がある。",
+        "team_abbrev": "TB",
+        "importance": "high"
+      },
+      {
+        "title_en": "Jets Build Defensive Culture Under Glenn",
+        "title_ja": "Jets が Glenn の下で守備文化を構築",
+        "body_en": "Demario Davis's arrival in March and recent public statements about building winning culture suggest Aaron Glenn's Year 2 regime is serious about stability. LB depth and leadership have historically plagued NY; Davis's veteran presence and tone-setting could prove foundational for a young defense trying to improve from last season's struggles.",
+        "body_ja": "Demario Davis の入団と、勝利文化構築に関する最近の発言から、Aaron Glenn コーチの2年目体制が守備の安定性を重視していることが伺える。LB層のリーダーシップは New York Jets の慢性的な課題だったが、Davis のベテラン的存在感は若き守備陣の進化に根本的な影響を持つだろう。",
+        "team_abbrev": "NYJ",
+        "importance": "high"
+      },
+      {
+        "title_en": "Rasul Douglas Plugs Secondary Gap for Commanders",
+        "title_ja": "Rasul Douglas がワシントンのDFバックを補強",
+        "body_en": "Washington's acquisition of CB Rasul Douglas fills a legitimate secondary depth need as eight of the top 100 free agents remain unsigned heading into late July. Douglas is a proven slot and CB2 option; his addition shores up a Commanders secondary competing in the NFC East.",
+        "body_ja": "Washington Commanders が CB Rasul Douglas を獲得したことで、セカンダリーの層を大きく強化した。トップ100 FAの8名がまだ契約中のこの時期、Douglas のようなプルーブンな CB2/スロット選手の獲得はディフェンスバックの補強として効果的だ。",
+        "team_abbrev": "WAS",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Packers Lock Down McDuffie on Special Teams",
+        "title_ja": "Packers が McDuffie との延長契約を確定",
+        "body_en": "Green Bay's extension of LB Isaiah McDuffie reinforces organizational commitment to defensive depth and special-teams reliability. McDuffie has been a Swiss Army knife for the Packers; locking him in early signals a team culture that values unsexy but essential contributors.",
+        "body_ja": "Green Bay Packers が LB Isaiah McDuffie との延長契約を決めたことで、守備の層厚さとスペシャルチームスの安定性へのコミットメントが明確になった。McDuffie はマルチロール対応ができる選手で、早期の契約延長は地味だが不可欠な貢献者を重視する組織文化を示している。",
+        "team_abbrev": "GB",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Schefter's ESPN Deal Keeps Information Asymmetry Intact",
+        "title_ja": "Schefter の ESPN 契約更新で情報覇権が継続",
+        "body_en": "Adam Schefter's multi-year re-signing with ESPN cements the NFL's most reliable inside source for four more years. In a league where information timing is currency, his retention by a major network guarantees continued narrative dominance in the offseason arms race.",
+        "body_ja": "Adam Schefter の ESPN との複数年契約更新は、NFLの最も信頼できるインサイダーをさらに4年間確保することになった。オフシーズンにおいて情報のタイミングが価値そのものであるNFL界では、Schefter の大手メディアへの継続はナラティブ支配を保証するものである。",
+        "team_abbrev": null,
+        "importance": "medium"
+      }
+    ],
+    "watch_tomorrow_en": "Monitor whether Mayfield and TB move closer to an extension agreement or if training camp arrives with unresolved QB contract tension.",
+    "watch_tomorrow_ja": "Mayfield と Tampa Bay の交渉が進展するか、あるいはトレーニングキャンプがQB契約交渉の緊張を引きずったまま開始するのか、その推移に注視すべき。"
   }
 }

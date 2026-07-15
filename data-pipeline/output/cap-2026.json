@@ -1,7 +1,7 @@
 {
   "version": 1,
   "season": 2026,
-  "generated_at": "2026-07-14T08:35:08.880616+00:00",
+  "generated_at": "2026-07-15T08:42:07.195133+00:00",
   "teams": {
     "ARI": {
       "teamId": "ARI",
@@ -713,7 +713,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:18.998648+00:00"
+      "updatedAt": "2026-07-15T08:41:15.183180+00:00"
     },
     "ATL": {
       "teamId": "ATL",
@@ -1425,14 +1425,14 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:20.751473+00:00"
+      "updatedAt": "2026-07-15T08:41:16.797963+00:00"
     },
     "BAL": {
       "teamId": "BAL",
       "season": 2026,
       "salaryCap": 255.4,
-      "totalCapSpent": 2286.0,
-      "activeContracts": 88,
+      "totalCapSpent": 2311.0,
+      "activeContracts": 89,
       "deadCap": 0,
       "capSpace": 0,
       "topCapHits": [
@@ -2137,14 +2137,14 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:22.376010+00:00"
+      "updatedAt": "2026-07-15T08:41:18.520910+00:00"
     },
     "BUF": {
       "teamId": "BUF",
       "season": 2026,
       "salaryCap": 255.4,
-      "totalCapSpent": 2312.0,
-      "activeContracts": 88,
+      "totalCapSpent": 2285.0,
+      "activeContracts": 87,
       "deadCap": 0,
       "capSpace": 0,
       "topCapHits": [
@@ -2697,20 +2697,6 @@
         {
           "teamId": "BUF",
           "season": 2026,
-          "playerName": "ThompkinsDeven ThompkinsVSB",
-          "position": "WR",
-          "jerseyNumber": null,
-          "capHit": 27.0,
-          "baseSalary": null,
-          "signingBonusProration": null,
-          "restructureBonus": null,
-          "roster": "active",
-          "isDeadMoney": false,
-          "isTopHeavy": false
-        },
-        {
-          "teamId": "BUF",
-          "season": 2026,
           "playerName": "RousseauGreg Rousseau",
           "position": "ED",
           "jerseyNumber": null,
@@ -2847,9 +2833,23 @@
           "roster": "active",
           "isDeadMoney": false,
           "isTopHeavy": false
+        },
+        {
+          "teamId": "BUF",
+          "season": 2026,
+          "playerName": "WilliamsDorian Williams",
+          "position": "LB",
+          "jerseyNumber": null,
+          "capHit": 25.0,
+          "baseSalary": null,
+          "signingBonusProration": null,
+          "restructureBonus": null,
+          "roster": "active",
+          "isDeadMoney": false,
+          "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:23.968642+00:00"
+      "updatedAt": "2026-07-15T08:41:20.175615+00:00"
     },
     "CAR": {
       "teamId": "CAR",
@@ -3561,7 +3561,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:25.474474+00:00"
+      "updatedAt": "2026-07-15T08:41:21.659763+00:00"
     },
     "CHI": {
       "teamId": "CHI",
@@ -4273,7 +4273,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:27.112365+00:00"
+      "updatedAt": "2026-07-15T08:41:23.352128+00:00"
     },
     "CIN": {
       "teamId": "CIN",
@@ -4985,7 +4985,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:28.626279+00:00"
+      "updatedAt": "2026-07-15T08:41:24.984241+00:00"
     },
     "CLE": {
       "teamId": "CLE",
@@ -5697,7 +5697,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:30.173976+00:00"
+      "updatedAt": "2026-07-15T08:41:26.629684+00:00"
     },
     "DAL": {
       "teamId": "DAL",
@@ -6409,7 +6409,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:31.823854+00:00"
+      "updatedAt": "2026-07-15T08:41:28.300917+00:00"
     },
     "DEN": {
       "teamId": "DEN",
@@ -7121,7 +7121,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:33.377869+00:00"
+      "updatedAt": "2026-07-15T08:41:30.012204+00:00"
     },
     "DET": {
       "teamId": "DET",
@@ -7833,7 +7833,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:34.854311+00:00"
+      "updatedAt": "2026-07-15T08:41:31.688051+00:00"
     },
     "GB": {
       "teamId": "GB",
@@ -8545,7 +8545,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:36.388340+00:00"
+      "updatedAt": "2026-07-15T08:41:33.362602+00:00"
     },
     "HOU": {
       "teamId": "HOU",
@@ -9257,7 +9257,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:37.924897+00:00"
+      "updatedAt": "2026-07-15T08:41:34.976823+00:00"
     },
     "IND": {
       "teamId": "IND",
@@ -9969,7 +9969,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:39.398470+00:00"
+      "updatedAt": "2026-07-15T08:41:36.599964+00:00"
     },
     "JAX": {
       "teamId": "JAX",
@@ -10681,7 +10681,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:40.983206+00:00"
+      "updatedAt": "2026-07-15T08:41:38.314012+00:00"
     },
     "KC": {
       "teamId": "KC",
@@ -11393,7 +11393,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:42.478889+00:00"
+      "updatedAt": "2026-07-15T08:41:39.937292+00:00"
     },
     "LV": {
       "teamId": "LV",
@@ -12105,7 +12105,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:44.099498+00:00"
+      "updatedAt": "2026-07-15T08:41:41.652717+00:00"
     },
     "LAC": {
       "teamId": "LAC",
@@ -12817,7 +12817,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:45.630435+00:00"
+      "updatedAt": "2026-07-15T08:41:43.317490+00:00"
     },
     "LAR": {
       "teamId": "LAR",
@@ -13529,7 +13529,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:47.185242+00:00"
+      "updatedAt": "2026-07-15T08:41:44.981727+00:00"
     },
     "MIA": {
       "teamId": "MIA",
@@ -14241,7 +14241,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:48.812794+00:00"
+      "updatedAt": "2026-07-15T08:41:46.714989+00:00"
     },
     "MIN": {
       "teamId": "MIN",
@@ -14953,7 +14953,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:50.328726+00:00"
+      "updatedAt": "2026-07-15T08:41:48.337230+00:00"
     },
     "NE": {
       "teamId": "NE",
@@ -15665,7 +15665,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:51.793958+00:00"
+      "updatedAt": "2026-07-15T08:41:50.062778+00:00"
     },
     "NO": {
       "teamId": "NO",
@@ -16377,7 +16377,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:53.403353+00:00"
+      "updatedAt": "2026-07-15T08:41:51.714275+00:00"
     },
     "NYG": {
       "teamId": "NYG",
@@ -17089,7 +17089,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:54.974201+00:00"
+      "updatedAt": "2026-07-15T08:41:53.327226+00:00"
     },
     "NYJ": {
       "teamId": "NYJ",
@@ -17801,7 +17801,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:56.500649+00:00"
+      "updatedAt": "2026-07-15T08:41:54.903603+00:00"
     },
     "PHI": {
       "teamId": "PHI",
@@ -18513,7 +18513,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:58.139146+00:00"
+      "updatedAt": "2026-07-15T08:41:56.528317+00:00"
     },
     "PIT": {
       "teamId": "PIT",
@@ -19225,7 +19225,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:34:59.670760+00:00"
+      "updatedAt": "2026-07-15T08:41:58.137459+00:00"
     },
     "SF": {
       "teamId": "SF",
@@ -19937,7 +19937,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:35:01.519081+00:00"
+      "updatedAt": "2026-07-15T08:41:59.723834+00:00"
     },
     "SEA": {
       "teamId": "SEA",
@@ -20649,7 +20649,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:35:03.225032+00:00"
+      "updatedAt": "2026-07-15T08:42:01.397041+00:00"
     },
     "TB": {
       "teamId": "TB",
@@ -21361,7 +21361,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:35:04.808082+00:00"
+      "updatedAt": "2026-07-15T08:42:03.024374+00:00"
     },
     "TEN": {
       "teamId": "TEN",
@@ -22073,7 +22073,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:35:06.288532+00:00"
+      "updatedAt": "2026-07-15T08:42:04.672570+00:00"
     },
     "WAS": {
       "teamId": "WAS",
@@ -22785,7 +22785,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-07-14T08:35:07.878918+00:00"
+      "updatedAt": "2026-07-15T08:42:06.193080+00:00"
     }
   }
 }

@@ -1,14 +1,382 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T12:52:51.278928+00:00",
-  "count": 109,
+  "generated_at": "2026-07-15T14:54:21.011259+00:00",
+  "count": 111,
   "items": [
     {
       "kind": "other",
+      "title": "Adam Schefter on 49ers’ Brandon Aiyuk: ‘I honestly believe he’s scared off teams like Washington’",
+      "title_ja": "Adam Schefter 49ersのBrandon Aiyukについて言及：「正直なところ、彼は Washingtonのようなチームを遠ざけてしまっていると思う」",
+      "excerpt": "Adam Schefter says Brandon Aiyuk is not getting the warmest reception around the league due to his theatrics.",
+      "excerpt_ja": "Adam Schefter いわく、Brandon Aiyukの演技的な振る舞いが原因で、リーグ全体で温かい評価を受けていないという。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 14:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/adam-schefter-49ers-brandon-aiyuk-143000718.html"
+    },
+    {
+      "kind": "other",
+      "title": "Tony Romo regrets never winning a Super Bowl with Cowboys",
+      "title_ja": "Tony Romo、Cowboyswith Super Bowl優勝できなかったことを後悔",
+      "excerpt": "Tony Romo regrets never winning a Super Bowl for the Cowboys",
+      "excerpt_ja": "Tony Romo、Cowboyswith Super Bowl優勝できなかったことを後悔",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 14:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/tony-romo-regrets-never-winning-143000644.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL starting QBs ranked by analytics before 2026 season",
+      "title_ja": "2026シーズン開幕前、アナリティクスで見るスターティングQB ランキング",
+      "excerpt": "Breaking down every QB by overall rating and tier.",
+      "excerpt_ja": "全QBを総合評価とティア別に分析",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 14:26:54 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-starting-qbs-ranked-analytics-142654325.html"
+    },
+    {
+      "kind": "other",
+      "title": "Patriots links 7/15/26: Summer spotight on OL, TE, FB",
+      "title_ja": "Patriots リンク集 7/15/26：オフシーズン注目はOL、TE、FB",
+      "excerpt": "Daily news and links for Wednesday",
+      "excerpt_ja": "水曜日のNFLニュース・リンク集",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 14:25:02 +0000",
+      "url": "https://sports.yahoo.com/articles/patriots-links-7-15-26-142502286.html"
+    },
+    {
+      "kind": "other",
+      "title": "Klint Kubiak isn’t scared of the QB sneak",
+      "title_ja": "Klint Kubiak、QBスニークプレーに怖さはない",
+      "excerpt": "Perhaps we will see Raiders’ quarterbacks score more",
+      "excerpt_ja": "もしかしたら Raidersのクォーターバックも今シーズンは得点を増やせるかもしれない",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 14:08:00 +0000",
+      "url": "https://sports.yahoo.com/articles/klint-kubiak-isn-t-scared-140800790.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chiefs with the highest career stakes this season: Rashee Rice",
+      "title_ja": "Chiefs の今シーズン最大の賭け：Rashee Rice",
+      "excerpt": "A series of posts regarding Kansas City’s key players with the most on the line this season.",
+      "excerpt_ja": "Kansas City の重要選手たちの中でも、特に今シーズン大きなプレッシャーにさらされている選手たちについてのシリーズ",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 14:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/chiefs-highest-career-stakes-season-140000982.html"
+    },
+    {
+      "kind": "other",
+      "title": "Matthew Stafford’s second act might be the best in NFL history",
+      "title_ja": "Matthew Stafford のセカンドアクトは NFL 史上最高かもしれない",
+      "excerpt": "Few quarterbacks have ever come close to second-team, late-career success like this.",
+      "excerpt_ja": "このような晩年キャリアの成功に匹敵したQBはほとんどいない",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 14:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/matthew-stafford-second-act-might-140000293.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Grey Zabel reveals which NFC West rival is his ‘kryptonite right now’",
+      "title_ja": "Grey Zabel が現在自分の『弱点』である NFC West ライバルを明かす",
+      "excerpt": "I’m not sure how many Seahawks fans would agree with Grey’s midwestern kindness.",
+      "excerpt_ja": "Grey の中西部的な優しさに同意する Seahawks ファンがどれだけいるか疑問だ",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 14:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/grey-zabel-reveals-nfc-west-140000884.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Grey Zabel reveals which NFC West rival is his ‘kryptonite right now’",
+      "title_ja": "Grey Zabel が現在自分の『弱点』である NFC West ライバルを明かす",
+      "excerpt": "I’m not sure how many Seahawks fans would agree with Grey’s midwestern kindness.",
+      "excerpt_ja": "Grey の中西部的な優しさに同意する Seahawks ファンがどれだけいるか疑問だ",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 14:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/grey-zabel-reveals-nfc-west-140000884.html"
+    },
+    {
+      "kind": "other",
+      "title": "Mike Macdonald: We worry about ourselves, not what rest of NFC West is doing",
+      "title_ja": "Mike Macdonald：「NFC West の他チームは気にしない。自分たちのことに集中する」",
+      "excerpt": "Repeating as Super Bowl champions is a tough task for any team, so the Seahawks would face a daunting path under any circumstances this season.",
+      "excerpt_ja": "Super Bowl を連覇するのはどのチームにとっても困難だが、Seahawks は今シーズン、いかなる状況下でも厳しい道を歩むことになるだろう。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 13:52:45 +0000",
+      "url": "https://sports.yahoo.com/articles/mike-macdonald-worry-ourselves-not-135245391.html"
+    },
+    {
+      "kind": "other",
+      "title": "Will Ashton Jeanty rush for 1,200 yards?",
+      "title_ja": "Ashton Jeanty は 1,200 ヤードラッシュを達成できるか？",
+      "excerpt": "Checking the Raider Nation",
+      "excerpt_ja": "Raider Nation の最新情報",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 13:50:03 +0000",
+      "url": "https://sports.yahoo.com/articles/ashton-jeanty-rush-1-200-135003015.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chargers Daily Links: Wednesday Open Thread",
+      "title_ja": "Chargers デイリーリンク：水曜日のオープンスレッド",
+      "excerpt": "Your source for all Chargers and NFL news from around the web.",
+      "excerpt_ja": "Chargers と NFL の全ニュース情報源",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 13:50:00 +0000",
+      "url": "https://sports.yahoo.com/articles/chargers-daily-links-wednesday-open-135000156.html"
+    },
+    {
+      "kind": "other",
+      "title": "Browns LB Carson Schwesinger already near top of NFL, compared to Hall of Famer",
+      "title_ja": "Browns LB Carson Schwesinger 既に NFL トップクラス、殿堂入り選手と比較される",
+      "excerpt": "The Cleveland Browns 2025 NFL draft has a lot of talent, including LB Carson Schwesinger who ESPN has ranked 3rd best",
+      "excerpt_ja": "Cleveland Browns の 2025 NFL ドラフトは才能あふれており、LB Carson Schwesinger は ESPN のランキング 3 位に位置する",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 13:42:30 +0000",
+      "url": "https://sports.yahoo.com/articles/browns-lb-carson-schwesinger-already-134230391.html"
+    },
+    {
+      "kind": "other",
+      "title": "Bills news: Josh Allen earns top spot in QB rankings",
+      "title_ja": "Bills ニュース：Josh Allen が QB ランキングで首位",
+      "excerpt": "Josh Allen named top QB because he’s “the most singularly unstoppable player at the position when you get his A-game.”",
+      "excerpt_ja": "Josh Allen が最高のQBとして選ばれた理由は「自分の最高のパフォーマンスを発揮した時のポジションで最も圧倒的に止められない選手だから」",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 13:30:09 +0000",
+      "url": "https://sports.yahoo.com/articles/bills-news-josh-allen-earns-133009161.html"
+    },
+    {
+      "kind": "other",
+      "title": "Commanders offensive coordinator David Blough 50-min interview that you need to see - Daily Slop",
+      "title_ja": "Commanders オフェンシブコーディネーター David Blough の 50 分インタビュー必見 - Daily Slop",
+      "excerpt": "Also today: Athan Kaliakmanis interview, evaluating Keenan Allen’s fit with Washington, NFL-soccer crossover jerseys",
+      "excerpt_ja": "本日のその他：Athan Kaliakmanis インタビュー、Keenan Allen と Washington のフィット感を検証、NFL とサッカーのコラボユニフォーム",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "WAS",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 13:16:23 +0000",
+      "url": "https://sports.yahoo.com/articles/commanders-offensive-coordinator-david-blough-131623691.html"
+    },
+    {
+      "kind": "other",
+      "title": "Pre-Snap Reads 7/15: Who are the most important Seahawks players?",
+      "title_ja": "Pre-Snap Reads 7/15：Seahawks の最重要選手は誰か？",
+      "excerpt": "May be the same as your favorite Seahawk?",
+      "excerpt_ja": "あなたのお気に入りの Seahawk と同じ選手かもしれない",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 13:09:13 +0000",
+      "url": "https://sports.yahoo.com/articles/pre-snap-reads-7-15-130913792.html"
+    },
+    {
+      "kind": "other",
+      "title": "#Jagurs: 2026 Rookie Impact Meter",
+      "title_ja": "#Jaguars：2026 ルーキーインパクトメーター",
+      "excerpt": "Realistic expectations, depth chart projections, & rookie impact scores for every member of the Jags&#39; 2026 draft class.",
+      "excerpt_ja": "Jaguars の 2026 ドラフト全選手についての現実的な期待値、デプスチャート予想、ルーキーインパクトスコア",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 13:04:00 +0000",
+      "url": "https://sports.yahoo.com/articles/jagurs-2026-rookie-impact-meter-130400445.html"
+    },
+    {
+      "kind": "other",
+      "title": "61 Days until Chiefs football, we are ‘Tim Grunhard’ days away",
+      "title_ja": "Chiefs フットボール開幕まであと 61 日、『Tim Grunhard』日数分残っている",
+      "excerpt": "We’re a day closer to the 2026 NFL season in Kansas City.",
+      "excerpt_ja": "2026 NFL シーズン開幕が Kansas City でもう 1 日近づいた",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 13:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/61-days-until-chiefs-football-130000004.html"
+    },
+    {
+      "kind": "other",
+      "title": "Individual OL performances 2016-2025: Part 2 – the Best",
+      "title_ja": "2016-2025 個別 OL パフォーマンス：パート 2 - 最高の選手たち",
+      "excerpt": "If I ask you which QBs had the 10 best seasons 2016-2025, you will get a lot of consensus. This is also true for RBs, WRs and TEs, because most fans tend to pay attention to the stats that these ball carriers put up. Unfortunately, it is much harder for the rest of the players […]",
+      "excerpt_ja": "もしあなたに 2016-2025 年の QB の 10 ベストシーズンを聞いたら、かなりのコンセンサスが得られるだろう。RB、WR、TE についても同様で、多くのファンはボールキャリアーの成績に注目する傾向がある。しかし残りの選手たちについてはより難しく...",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 13:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/individual-ol-performances-2016-2025-130000127.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Patriots scouting report: Andrew Rupcich has thrown his hat into the backup OL ring",
+      "title_ja": "Patriots スカウティングレポート：Andrew Rupcich がバックアップ OL の座をうかがっている",
+      "excerpt": "Previewing the Patriots offensive lineman heading into his fifth NFL season.",
+      "excerpt_ja": "NFL キャリア 5 年目を迎える Patriots のオフェンシブラインマンをプレビュー",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 13:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/patriots-scouting-report-andrew-rupcich-130000186.html"
+    },
+    {
+      "kind": "signing",
+      "title": "NFL offseason power rankings: No. 16 Jacksonville Jaguars had a fun breakout and a very quiet offseason",
+      "title_ja": "NFL オフシーズンパワーランキング：第 16 位 Jacksonville Jaguars は楽しい躍進を遂げ、非常に静かなオフシーズンを過ごした",
+      "excerpt": "The Jaguars signed the fewest outside free agents among all NFL teams.",
+      "excerpt_ja": "Jaguars は NFL 全体で最も少ないフリーエージェント外国人を獲得した",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "JAX",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 12:51:07 +0000",
+      "url": "https://sports.yahoo.com/mlb/article/nfl-offseason-power-rankings-no-16-jacksonville-jaguars-had-a-fun-breakout-and-a-very-quiet-offseason-125107397.html"
+    },
+    {
+      "kind": "other",
+      "title": "Random Ramsdom: Will Aaron Donald find the ‘passion’ to play again?",
+      "title_ja": "Random Ramsdom：Aaron Donald は再びプレーする『情熱』を見つけるか？",
+      "excerpt": "Los Angeles Rams News and Links for 7/15/26",
+      "excerpt_ja": "Los Angeles Rams ニュース・リンク集 7/15/26",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 12:47:00 +0000",
+      "url": "https://sports.yahoo.com/articles/random-ramsdom-aaron-donald-passion-124700881.html"
+    },
+    {
+      "kind": "other",
+      "title": "Giants 2026 Position Breakdown: Make-or-break season for Paulson Adebo",
+      "title_ja": "Giants 2026 ポジション分析：Paulson Adebo の正念場シーズン",
+      "excerpt": "In this series, we’ll break down the Giants&#39; depth chart for every position group. This time, we’ll go in-depth at the cornerback spot.",
+      "excerpt_ja": "本シリーズでは Giants のデプスチャートを全ポジションで分析。今回はコーナーバックについて詳しく掘り下げる",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 15 Jul 2026 12:40:00 +0000",
+      "url": "https://sports.yahoo.com/articles/giants-2026-position-breakdown-break-124000612.html"
+    },
+    {
+      "kind": "other",
       "title": "Fantasy Football Sleepers, Busts &#038; Predictions: 2026 Las Vegas Raiders",
-      "title_ja": null,
+      "title_ja": "ファンタジーフットボール スリーパー、バスト＆予想：2026 Las Vegas Raiders",
       "excerpt": "The Raiders have been the ultimate coaching carousel in recent history. The team hasn’t had the same head coach in consecutive full seasons since Jon Gruden captained the ship in 2019 and 2020 (and, not that it applies to on-field&hellip;",
-      "excerpt_ja": null,
+      "excerpt_ja": "Raiders は最近、ヘッドコーチの交代が多いチームだ。同じ HCが連続したシーズンで指揮を執るのは 2019-2020 年の Jon Gruden 以来",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -22,9 +390,9 @@
     {
       "kind": "other",
       "title": "Jets 2026 Position Breakdown: How will cornerbacks perform in the post-Sauce Gardner era?",
-      "title_ja": null,
+      "title_ja": "Jets 2026 ポジション分析：Sauce Gardner の後、コーナーバックはどうなるか？",
       "excerpt": "In this series, we’ll break down the Jets depth chart for every position group. This time, we’ll go in depth at the cornerback position.",
-      "excerpt_ja": null,
+      "excerpt_ja": "本シリーズでは Jets のデプスチャートを全ポジションで分析。今回はコーナーバックについて詳しく掘り下げる",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +406,9 @@
     {
       "kind": "other",
       "title": "Fleur-de-links, July 15: How will the rookies impact training camp?",
-      "title_ja": null,
+      "title_ja": "Fleur-de-links，7 月 15 日：ルーキーたちはトレーニングキャンプにどう影響するか？",
       "excerpt": "Here are today&#39;s Saints news links",
-      "excerpt_ja": null,
+      "excerpt_ja": "本日の Saints ニュース・リンク集",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +422,9 @@
     {
       "kind": "injury",
       "title": "Broncos EDGE Nik Bonitto will be a strong DPOY candidate in 2026",
-      "title_ja": null,
+      "title_ja": "Broncos EDGE Nik Bonitto は 2026 年の DPOY 有力候補となるだろう",
       "excerpt": "In the second round of the 2022 NFL Draft, the Denver Broncos selected Oklahoma edge rusher Nik Bonitto with their 64th overall selection. Expectations were high on the young pass rusher; however, his rookie year would be a struggle. He would only total 1.5 sacks and struggle against the run, which,",
-      "excerpt_ja": null,
+      "excerpt_ja": "2022 NFL ドラフト第 2 巡で Denver Broncos は Oklahoma のエッジラッシャー Nik Bonitto を全体 64 番目で指名した。期待は高かったが、ルーキーシーズンは苦しく...",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +438,9 @@
     {
       "kind": "other",
       "title": "NFC East Grades: Where do the NY Giants stack up at quarterback?",
-      "title_ja": null,
+      "title_ja": "NFC East グレード評価：NY Giants はクォーターバックでどう評価されるか？",
       "excerpt": "Where does Jaxson Dart stack up at the quarterback position in the NFC East?",
-      "excerpt_ja": null,
+      "excerpt_ja": "Jaxson Dart は NFC East のクォーターバックポジションでどうランクされるか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -85,362 +453,138 @@
     },
     {
       "kind": "other",
-      "title": "Panthers Reacts Survey: When did you start rooting for Carolina?",
-      "title_ja": null,
-      "excerpt": "Thirty odd years has attracted several generations of fans",
-      "excerpt_ja": null,
+      "title": "Keon Coleman: Critics don't bother me, none of them will try to stand in front of me",
+      "title_ja": "Keon Coleman：「批評家なんて気にしない。誰も俺の前に立ちはだかろうとはしない」",
+      "excerpt": "Bills wide receiver Keon Coleman is well aware that he's been the subject of much criticism from fans and the media.",
+      "excerpt_ja": "Bills のワイドレシーバー Keon Coleman は、ファンやメディアから多くの批判を浴びていることをよく認識している",
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 12:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/panthers-reacts-survey-did-start-120000793.html"
-    },
-    {
-      "kind": "other",
-      "title": "Bengals News: NFL’ No. 1 Triplets",
-      "title_ja": null,
-      "excerpt": "It isn’t hard to argue who the top Triplets are. It might be a matter of how much better they are.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 12:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bengals-news-nfl-no-1-120000321.html"
-    },
-    {
-      "kind": "other",
-      "title": "Patriots training camp preview: Christian Barmore heavily influences D-line",
-      "title_ja": null,
-      "excerpt": "Analyzing New England’s interior defensive line as training camp approaches.﻿",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 12:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/patriots-training-camp-preview-christian-120000811.html"
-    },
-    {
-      "kind": "other",
-      "title": "Kris Jenkins Jr. can help transform the Bengals defense",
-      "title_ja": null,
-      "excerpt": "It’s put-up-or-shut-up time for the former Michigan captain.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 11:15:00 +0000",
-      "url": "https://sports.yahoo.com/articles/kris-jenkins-jr-help-transform-111500226.html"
-    },
-    {
-      "kind": "other",
-      "title": "Will DJ Moore addition lead to more unbalanced formations from Bills in 2026?",
-      "title_ja": null,
-      "excerpt": "There’s one clear indication this will be different for the Bills on offense",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "BUF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 11:15:00 +0000",
-      "url": "https://sports.yahoo.com/articles/dj-moore-addition-lead-more-111500911.html"
+      "published_at": "Wed, 15 Jul 2026 10:47:15 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keon-coleman-critics-dont-bother-me-none-of-them-will-try-to-stand-in-front-of-me"
     },
     {
       "kind": "other",
-      "title": "New York Jets News: Geno Smith battery investigation inactive due to lack of evidence",
-      "title_ja": null,
-      "excerpt": "Your daily links to the New York Jets",
-      "excerpt_ja": null,
+      "title": "Ethan Pocic medically cleared after suffering torn Achilles in December",
+      "title_ja": "Ethan Pocic、12 月のアキレス腱断裂から医学的にクリア",
+      "excerpt": "Center Ethan Pocic is available for work.",
+      "excerpt_ja": "センター Ethan Pocic は活動可能な状態だ",
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 11:00:13 +0000",
-      "url": "https://sports.yahoo.com/articles/york-jets-news-geno-smith-110013575.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cowboys news: Newest pass rusher suspended to start season",
-      "title_ja": null,
-      "excerpt": "The latest news and notes around the Dallas Cowboys",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-news-newest-pass-rusher-110000217.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Are there low expectations for Cardinals’ receiver Simi Fehoko?",
-      "title_ja": null,
-      "excerpt": "How many injuries can one player endure?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/low-expectations-cardinals-receiver-simi-110000356.html"
-    },
-    {
-      "kind": "other",
-      "title": "Titans training camp preview: Offensive Line",
-      "title_ja": null,
-      "excerpt": "Previewing Tennessee Titans 2026 training camp with a look at the 16 offensive linemen on the offseason roster.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/titans-training-camp-preview-offensive-110000754.html"
-    },
-    {
-      "kind": "other",
-      "title": "Top 10 WRs of 2026: Amon-Ra St. Brown climbs, Jameson Williams gets love",
-      "title_ja": null,
-      "excerpt": "Detroit Lions WR Amon-Ra St. Brown has now climbed to be considered a top-five WR in the NFL.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/top-10-wrs-2026-amon-110000268.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Chiefs News: There are still veteran edge rushers to consider signing",
-      "title_ja": null,
-      "excerpt": "The latest Chiefs news, brought fresh to you every morning!",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 10:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/chiefs-news-still-veteran-edge-103000524.html"
-    },
-    {
-      "kind": "other",
-      "title": "How much will this rookie LB contribute to Bills defense in 2026?",
-      "title_ja": null,
-      "excerpt": "This rookie is likely to play a large role at some point this season",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 10:15:00 +0000",
-      "url": "https://sports.yahoo.com/articles/much-rookie-lb-contribute-bills-101500941.html"
-    },
-    {
-      "kind": "other",
-      "title": "The NFL offseason move each team got exactly right in 2026",
-      "title_ja": null,
-      "excerpt": "Here&#39;s a look at the best move every NFL team made during the 2026 offseason.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 10:02:34 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-offseason-move-team-got-100234554.html"
+      "published_at": "Wed, 15 Jul 2026 10:40:53 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ethan-pocic-medically-cleared-after-suffering-torn-achilles-in-december"
     },
     {
       "kind": "other",
-      "title": "The Bear’s Den, July 15, 2026",
-      "title_ja": null,
-      "excerpt": "Cubs or Sox?",
-      "excerpt_ja": null,
+      "title": "NFLPA sues video-game licensee for more than $3 million",
+      "title_ja": "NFLPA がビデオゲームライセンシーを 300 万ドル以上で提訴",
+      "excerpt": "Last summer, the NFL Players Association spent weeks playing defense.",
+      "excerpt_ja": "昨夏、NFL プレイヤーズアソシエーションは数週間を守勢で費やした",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bear-den-july-15-2026-100000797.html"
+      "published_at": "Wed, 15 Jul 2026 10:17:34 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-sues-video-game-licensee-for-more-than-3-million"
     },
     {
       "kind": "other",
-      "title": "Cleveland Browns news (7/15): Safeties. Visors. And training camp tix.",
-      "title_ja": null,
-      "excerpt": "﻿﻿The latest Cleveland Browns news and notes from around the NFL in today’s edition of the Daily Dawg Chow.",
-      "excerpt_ja": null,
+      "title": "2030 World Cup: Locations, Hosts, Dates, For The Centenary Tournament",
+      "title_ja": "2030 ワールドカップ：開催地、開催国、日程、100 周年トーナメント",
+      "excerpt": "Here is everything you need to know about the 2030 FIFA World Cup.",
+      "excerpt_ja": "2030 FIFA ワールドカップについて知っておくべきすべてのことはここにある",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CLE",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-7-15-100000613.html"
+      "published_at": "Wed, 15 Jul 2026 10:06:02 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/2030-world-cup-locations-hosts-dates-100-years"
     },
     {
       "kind": "other",
-      "title": "Giants news: No handcuffs on Jaxson Dart in run game",
-      "title_ja": null,
-      "excerpt": "New York Giants headlines for Wednesday.",
-      "excerpt_ja": null,
+      "title": "Mike Macdonald: We worry about ourselves, not what rest of NFC West is doing",
+      "title_ja": "Mike Macdonald：「NFC West の他チームは気にしない。自分たちのことに集中する」",
+      "excerpt": "Repeating as Super Bowl champions is a tough task for any team, so the Seahawks would face a daunting path under any circumstances this season.",
+      "excerpt_ja": "Super Bowl を連覇するのはどのチームにとっても困難だが、Seahawks は今シーズン、いかなる状況下でも厳しい道を歩むことになるだろう。",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
+      "reliability": 0.54,
+      "team_abbrev": "SEA",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/giants-news-no-handcuffs-jaxson-100000669.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Horse Tracks: The Broncos’ running back room will be fun to watch",
-      "title_ja": null,
-      "excerpt": "The most interesting group to watch through training camp for me is going to be the running back room. The running game for the Broncos last season was largely ineffective once J.K. Dobbins was injured. This Broncos offense with an actual functioning running game would have won a Super Bowl last sea",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/horse-tracks-broncos-running-back-100000339.html"
+      "published_at": "Wed, 15 Jul 2026 09:52:45 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-we-worry-about-ourselves-not-what-rest-of-nfc-west-is-doing"
     },
     {
       "kind": "other",
-      "title": "MVP runner-up Drake Maye voted 8th-best QB in the NFL",
-      "title_ja": null,
-      "excerpt": "ESPN asked coaches, executive and scouts to rank the league’s quarterbacks, and the Patriots’ finished in the top 10.",
-      "excerpt_ja": null,
+      "title": "Mbappé Criticizes 'Sloppy' Play, Tactics And His Own Performance Against Spain",
+      "title_ja": "Mbappé がスペイン戦での『ずさんな』プレー、戦術、自身のパフォーマンスを批判",
+      "excerpt": "Kylian Mbappé criticized France's \"sloppy\" play, including his own, and failure to execute against a difficult Spain team.",
+      "excerpt_ja": "Kylian Mbappé はフランスの『ずさんな』プレーと自分自身の不出来、そして困難なスペインチームへの対応失敗を批判した",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NE",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/mvp-runner-drake-maye-voted-100000868.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Patriots scouting report: Will Campbell is ripe for a rebound",
-      "title_ja": null,
-      "excerpt": "Previewing the Patriots offensive tackle heading into his second NFL season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 09:30:21 +0000",
-      "url": "https://sports.yahoo.com/articles/patriots-scouting-report-campbell-ripe-093021309.html"
+      "published_at": "Wed, 15 Jul 2026 09:39:30 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-france-spain-semifinal-kylian-mbappe"
     },
     {
       "kind": "other",
-      "title": "Grades for Chiefs&#39; offseason reset, from free agency haul to Taylor Swift aura",
-      "title_ja": null,
-      "excerpt": "The Chiefs are looking to bounce back from a disappointing 2025 season. Did they do enough during the offseason re-emerge as a Super Bowl contender?",
-      "excerpt_ja": null,
+      "title": "Steve Bisciotti will put Joe Flacco in Ravens Ring of Honor, when Flacco finally retires",
+      "title_ja": "Steve Bisciotti は Joe Flacco が引退する時、彼を Ravens Ring of Honor に入れる予定",
+      "excerpt": "Flacco is in no hurry to receive that specific recognition.",
+      "excerpt_ja": "Flacco はそのような栄誉を急いで受け取ることはないようだ",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "KC",
+      "team_abbrev": "BAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 09:27:26 +0000",
-      "url": "https://sports.yahoo.com/articles/grades-chiefs-offseason-reset-free-092726874.html"
+      "published_at": "Wed, 15 Jul 2026 09:19:29 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steve-bisciotti-will-put-joe-flacco-in-ravens-ring-of-honor-when-flacco-finally-retires"
     },
     {
       "kind": "other",
-      "title": "What should the Dolphins identity be this season – The Splash Zone 7/15/26",
-      "title_ja": null,
-      "excerpt": "Welcome to the Splash Zone, the quickest way to get your day started off right. We bring you a rundown of Miami Dolphins news from the last 24 hours.",
-      "excerpt_ja": null,
+      "title": "Chicago moves toward kicking in $424 million for new MLS stadium",
+      "title_ja": "Chicago、新 MLS スタジアムのために 4 億 2,400 万ドルを投じる方向に",
+      "excerpt": "At a time when Illinois isn't doing much to keep the Bears from crossing the border to Indiana, the powers-that-be are finding the funding to build a new stadium for the local MLS team.",
+      "excerpt_ja": "Illinois が Bears をインディアナに渡らせないことに動かない中、地元 MLS チームの新スタジアム建設の資金調達が進められている",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "MIA",
+      "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 09:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/dolphins-identity-season-splash-zone-090000639.html"
-    },
-    {
-      "kind": "other",
-      "title": "49ers News: Halfway through July, the last football-free month of the calendar year",
-      "title_ja": null,
-      "excerpt": "Your daily San Francisco 49ers news for Wednesday, July 15th, 2026",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 09:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/49ers-news-halfway-july-last-090000365.html"
+      "published_at": "Wed, 15 Jul 2026 08:55:24 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chicago-moves-toward-kicking-in-424-million-for-new-mls-stadium"
     },
     {
       "kind": "injury",
       "title": "England vs. Argentina History: Every Head to Head Match Between the World Cup Rivals",
-      "title_ja": null,
+      "title_ja": "England vs Argentina 対戦史：ワールドカップ強豪国のすべてのヘッドトゥヘッド",
       "excerpt": "England and Argentina meet Wednesday in the World Cup semifinal, their first match in 21 years. Here's every result in one of soccer's fiercest rivalries.",
-      "excerpt_ja": null,
+      "excerpt_ja": "England と Argentina が水曜日のワールドカップ準決勝で対戦、21 年ぶりの試合となる。サッカーの激烈なライバル関係のすべての結果はここに",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -454,9 +598,9 @@
     {
       "kind": "other",
       "title": "How to Watch England vs. Argentina and Messi: TV Channel, Live Stream, Time",
-      "title_ja": null,
+      "title_ja": "England vs Argentina と Messi を視聴する方法：テレビチャンネル、ライブストリーム、時刻",
       "excerpt": "Learn which TV channel or how to live stream the England and Argentina FIFA World Cup match.",
-      "excerpt_ja": null,
+      "excerpt_ja": "England と Argentina の FIFA ワールドカップ試合をどのテレビチャンネルで見るか、またはライブストリーム方法を学ぶ",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -470,9 +614,9 @@
     {
       "kind": "injury",
       "title": "Mike McCarthy on Roman Wilson: There's a lot there to work with",
-      "title_ja": null,
+      "title_ja": "Mike McCarthy が Roman Wilson について：「やれることがたくさんある」",
       "excerpt": "The Steelers head into the 2026 season with higher hopes for their receiving corps.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Steelers は 2026 シーズンに向けてレシーバーコープスの成長に期待を寄せている",
       "sources": [
         "Pro Football Talk"
       ],
@@ -484,27 +628,11 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mccarthy-on-roman-wilson-theres-a-lot-there-to-work-with"
     },
     {
-      "kind": "injury",
-      "title": "Roger Goodell: Janice McNair&#39;s impact on Houston and the NFL will be felt for generations",
-      "title_ja": null,
-      "excerpt": "NFL Commissioner Roger Goodell is remembering Texans co-founder Janice McNair for her role in brining pro football back to Houston and her leadership during the quarter-century since the Texans joined the NFL.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "HOU",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 08:23:14 +0000",
-      "url": "https://sports.yahoo.com/articles/roger-goodell-janice-mcnairs-impact-082314600.html"
-    },
-    {
       "kind": "other",
       "title": "How to Watch the World Cup Today: Schedule, Time, TV, Streaming for Second Semifinal",
-      "title_ja": null,
+      "title_ja": "本日のワールドカップ視聴方法：準決勝第 2 試合のスケジュール、時刻、テレビ、ストリーミング",
       "excerpt": "England meets Argentina in a 2026 World Cup semifinal today. See the kickoff time, TV channel and how to stream the match live on FOX.",
-      "excerpt_ja": null,
+      "excerpt_ja": "England が Argentina と 2026 ワールドカップ準決勝で本日対戦。FOX でのキックオフ時刻、テレビチャンネル、ライブストリーム方法を確認",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -546,38 +674,6 @@
       "coach_name": null,
       "published_at": "Wed, 15 Jul 2026 08:08:42 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hydration-breaks-can-help-the-beautiful-game-become-a-beautiful-business"
-    },
-    {
-      "kind": "injury",
-      "title": "5 Eagles heading into 2026 poised for Pro Bowl jump",
-      "title_ja": null,
-      "excerpt": "Here are five Eagles who might be poised for their Pro Bowl jump entering the 2026 season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 07:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/5-eagles-heading-2026-poised-070000833.html"
-    },
-    {
-      "kind": "other",
-      "title": "Eagles 2026 most important list: DeVonta Smith",
-      "title_ja": null,
-      "excerpt": "Receiver DeVonta Smith takes his place on the list of most important Eagles of 2026.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 15 Jul 2026 07:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-2026-most-important-list-070000665.html"
     },
     {
       "kind": "other",
@@ -1077,54 +1173,6 @@
     },
     {
       "kind": "other",
-      "title": "James Cook: There's \"a new energy in the building\" with Joe Brady as head coach",
-      "title_ja": null,
-      "excerpt": "Joe Brady has been in the Bills' building since 2022, working his way up from quarterbacks coach, to offensive coordinator, and now to head coach in 2026.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 14 Jul 2026 10:52:45 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-cook-theres-a-new-energy-in-the-building-with-joe-brady-as-head-coach"
-    },
-    {
-      "kind": "other",
-      "title": "Orlando Brown Jr.: I feel Bengals have the best pass protection unit in the NFL",
-      "title_ja": null,
-      "excerpt": "Defensive upgrades have been the main focus of the Bengals offseason, but they'll need to remain a potent offensive team as well if they are going to make it back to the playoffs for the first time since 2022.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 14 Jul 2026 10:20:23 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/orlando-brown-jr-i-feel-bengals-have-the-best-pass-protection-unit-in-the-nfl"
-    },
-    {
-      "kind": "signing",
-      "title": "Study finds former NFL players die from ALS before age 50 at alarmingly high rates",
-      "title_ja": null,
-      "excerpt": "The news that 39-year-old former NFL running back Chris Johnson has ALS has reignited the discussion about the risks of playing football, and recent research puts into focus just how significant the link between playing in the NFL and developing ALS at a young age appears to be.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 14 Jul 2026 09:40:50 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/study-finds-former-nfl-players-die-from-als-before-age-50-at-alarmingly-high-rates"
-    },
-    {
-      "kind": "other",
       "title": "Jon Gruden wants to become a play-by-play announcer",
       "title_ja": null,
       "excerpt": "Between his stints with the Buccaneers and a second run as Raiders coach, Jon Gruden served as the analyst on Monday Night Football for nine years.",
@@ -1138,54 +1186,6 @@
       "coach_name": null,
       "published_at": "Tue, 14 Jul 2026 08:49:32 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jon-gruden-wants-to-become-a-play-by-play-announcer"
-    },
-    {
-      "kind": "injury",
-      "title": "John Harbaugh: Jaxson Dart can live in a lot of different worlds offensively",
-      "title_ja": null,
-      "excerpt": "John Harbaugh coached Lamar Jackson to a pair of MVPs in Baltimore, but the duo couldn't find a way to navigate through the playoffs to a Super Bowl before Harbaugh was dismissed after the 2025 season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 14 Jul 2026 08:31:08 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-jaxson-dart-can-live-in-a-lot-of-different-worlds-offensively"
-    },
-    {
-      "kind": "other",
-      "title": "Buccaneers use viral bison flip video for social-media post",
-      "title_ja": null,
-      "excerpt": "It was inevitable.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 14 Jul 2026 08:23:12 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-use-viral-bison-flip-video-for-social-media-post"
-    },
-    {
-      "kind": "other",
-      "title": "Chad Kelly blames Toronto Argonauts struggles on World Cup",
-      "title_ja": null,
-      "excerpt": "FIFA's takeover of 11 NFL stadiums (in which 13 teams play) has created various complications and annoyances, including the displacement of the New York Giants to West Virginia for training camp.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 14 Jul 2026 07:55:51 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chad-kelly-blames-toronto-argonauts-struggles-on-world-cup"
     },
     {
       "kind": "other",
@@ -1266,6 +1266,70 @@
       "coach_name": null,
       "published_at": "Mon, 13 Jul 2026 13:04:33 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-falls-67-spots-on-the-nfln-list-of-top-100-players"
+    },
+    {
+      "kind": "trade",
+      "title": "Justin Boone&#39;s 2026 RB dynasty fantasy football rankings and trade value chart updates for July",
+      "title_ja": null,
+      "excerpt": "Yahoo analyst Justin Boone takes you through his running back dynasty rankings and trade value charts for fantasy football in the 2026 offseason.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Jan 2026 18:31:16 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-dynasty-rankings-2026-trade-value-charts-justin-boone-rb-running-back-183116441.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Justin Boone&#39;s 2026 QB dynasty fantasy football rankings and trade value chart updates for July",
+      "title_ja": null,
+      "excerpt": "Yahoo analyst Justin Boone takes you through his quarterback dynasty rankings and trade value charts for fantasy football in the 2026 offseason.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Jan 2026 18:24:45 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-dynasty-rankings-2026-trade-value-charts-justin-boone-qb-quarterback-182445797.html"
+    },
+    {
+      "kind": "other",
+      "title": "AL pitchers blank NL in MLB All-Star Game; Spain shut down France to reach World Cup final",
+      "title_ja": null,
+      "excerpt": "Plus, why the NBA expanded its investigation into Kawhi Leonard and the Clippers",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Wed, 15 Jul 2026 12:53:56 +0000\n                    ",
+      "url": "https://www.cbssports.com/mlb/news/al-pitchers-nl-mlb-all-star-game-spain-france-world-cup-final/"
+    },
+    {
+      "kind": "other",
+      "title": "Biggest remaining offseason priority for every NFC team: Eight are in need at cornerback",
+      "title_ja": null,
+      "excerpt": "From the Lions' secondary to the Cardinals' offensive line, here is the biggest roster hole for every NFC team before the 2026 season",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Wed, 15 Jul 2026 12:37:33 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-2026-nfc-needs/"
     },
     {
       "kind": "other",
@@ -1509,22 +1573,6 @@
     },
     {
       "kind": "other",
-      "title": "Aaron Rodgers' last dance: What to expect from future Hall of Fame quarterback and the Steelers in 2026",
-      "title_ja": null,
-      "excerpt": "Rodgers is in a position to cap off his career on a high note",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PIT",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Tue, 07 Jul 2026 12:43:34 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/quarterback-aaron-rodgers-final-season-prediction-steelers/"
-    },
-    {
-      "kind": "other",
       "title": "Ranking the top 25 players under 25, plus the NFL's best offenses revealed and Harry Kane's NFL chances",
       "title_ja": null,
       "excerpt": "Here's everything you need to know about the NFL for July 9",
@@ -1650,22 +1698,6 @@
       "coach_name": null,
       "published_at": "\n                        Mon, 13 Jul 2026 12:07:39 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/super-bowl-hangover-seahawks-patriots-regress-or-regroup-2026/"
-    },
-    {
-      "kind": "other",
-      "title": "Did Caleb Williams leak the Bears' new alternate uniform with gift to Pope Leo XIV? Here's what we know",
-      "title_ja": null,
-      "excerpt": "An autographed jersey gifted to Pope Leo XIV has Chicago fans wondering whether Williams accidentally revealed the team's next alternate uniform",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Mon, 06 Jul 2026 17:54:50 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/caleb-williams-pope-leo-bears-jersey/"
     },
     {
       "kind": "rumor",

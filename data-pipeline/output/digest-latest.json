@@ -1,21 +1,62 @@
 {
   "version": 2,
-  "generated_at": "2026-07-15T22:54:29.522076+00:00",
-  "time_of_day": "morning",
+  "generated_at": "2026-07-16T12:18:07.417088+00:00",
+  "time_of_day": "evening",
   "model": "claude-haiku-4-5-20251001",
   "skipped": false,
-  "source_item_count": 108,
+  "source_item_count": 117,
   "ranked_item_count": 25,
-  "source_fingerprint": "9813bcb477c17d69cf34dec0ba07231add91d8bf",
+  "source_fingerprint": "0136c5395d43db988df204af7e8239c19cfe2046",
   "digest": {
-    "headline_en": "Digest generation failed",
-    "headline_ja": "ダイジェスト生成に失敗しました",
-    "lead_en": "Claude API call failed: Could not parse Claude JSON (Expecting value: line 45 column 22 (char 9409)); stop_reason=end_turn.",
-    "lead_ja": "Claude API 呼び出しに失敗しました: Could not parse Claude JSON (Expecting value: line 45 column 22 (char 9409)); stop_reason=end_turn.",
-    "body_en": "",
-    "body_ja": "",
-    "topics": [],
-    "watch_tomorrow_en": "",
-    "watch_tomorrow_ja": ""
+    "headline_en": "Pickens Franchise Tagged; Contract Stalemates Reshape NFL's Offseason",
+    "headline_ja": "Pickensがフランチャイズタグ適用；複数の契約交渉がにらみ合い",
+    "lead_en": "The NFL's offseason contract chess match reached critical inflection points Wednesday. George Pickens will play 2026 on Dallas's franchise tag after missing the long-term deal deadline, while Baker Mayfield and Tampa Bay remain locked in extension talks—signaling broader tensions between star talent and teams unwilling to break the bank.",
+    "lead_ja": "NFLのオフシーズン契約交渉が水曜日に重要な転機を迎えた。George Pickensは長期契約期限を逃しDallasのフランチャイズタグで2026シーズンをプレー予定。同様にBaker Mayofieldと Buccaneersの契約交渉も膠着状態が続いており、スター選手と給与を抑制したいチーム間の対立の深さが明らかになっている。",
+    "body_en": "The George Pickens saga crystallizes a recurring tension in modern football: teams increasingly comfortable with the franchise tag as a negotiating cudgel, and premium receivers growing impatient with the risk it entails. At $27.3 million, Pickens will play 2026 under the non-exclusive tag—which technically permits other teams to sign him away with compensation. Dallas's willingness to let the deadline pass without a deal suggests either confidence in his willingness to play, or genuine disagreement about his market value relative to cap flexibility. The precedent here matters: if Pickens produces at an elite level in year one of the tag, the Cowboys face an even larger franchise tag hit in 2027, or they must finally reach a long-term settlement. This is the calculus that catches franchises.\n\nBaker Mayfield's situation in Tampa Bay operates on a similar axis but with different pressure. The Buccaneers have self-imposed a training camp deadline to resolve his contract, suggesting internal urgency—likely because offensive chemistry deteriorates when your starting quarterback is playing under contract uncertainty. Mayfield had a career year in 2025 (by most accounts), which only heightened his leverage. The gap between team and player valuations likely hinges on how much of last season the Bucs view as Mayfield's baseline versus anomalous success. If Tampa believes he proved his worth, they'll cave. If they see regression risk, they'll gamble on the tag. Either way, both sides are gambling—Pickens with injury risk, Mayfield with the specter of being moved if negotiations sour.\n\nElsewhere, Alvin Kamara's imminent re-signing with New Orleans signals smart portfolio management by the Saints. After acquiring Travis Etienne in free agency—ostensibly to address a running back need—GM Mickey Loomis evidently recognized that moving on from Kamara created more problems than it solved. Kamara's receiving skill set and institutional knowledge in Dennis Allen's offense proved irreplaceable. The renegotiation likely trades years for cap relief, a common maneuver for veteran backs entering their 30s. For the Saints' salary cap outlook, this is probably the path of least resistance, though it does indicate limited cap headroom for secondary reinforcements.\n\nThe broader trend reflected in these three sagas is cap tightness league-wide. Teams like DAL, TB, and NO are all operating in windows where they can't afford wholesale roster turnover, so they're choosing to franchise tag or renegotiate rather than extend at market rates. This creates a funky offseason where superstardom doesn't guarantee long-term security—a seismic shift from the 2010s, when elite talent essentially wrote blank checks. The next wave of franchise tag applications will reveal how many more stars are willing to play on one-year deals versus capitulating to team demands.",
+    "body_ja": "George Pickensの契約交渉が浮き彫りにする課題は、現代フットボール特有のジレンマだ：チーム側がフランチャイズタグを交渉の武器として活用することに慣れ、一流レシーバーがそのリスク（特に怪我）への不安を募らせている。$27.3百万のタグは非独占的なもので、技術的には他チームがペナルティ付きで彼をサインできる。Dallasが期限を逃したのは、Pickensが受け入れると信じているのか、それともサラリーキャップとのバランスで彼の市場価値評価に本当にズレがあるのか。重要なのは先例だ：Pickensがタグ初年度にエリート級のパフォーマンスを見せれば、2027年はさらに大きなフランチャイズタグのコスト負担か長期契約の決断を迫られる。\n\nBaker Mayofieldの状況はTampa Bayで類似の力学が働いている。しかし違うのは、Buccaneersが訓練キャンプまでに決着をつけるという自発的な期限を設定していることだ。QBの契約不確定性がチームの連携を損なうことへの懸念が背景にあると考えられる。Mayofieldは昨シーズン（多くの評価で）キャリア年を過ごしたのであり、それは彼のレバレッジを高めた。契約額の溝は、昨シーズンをMayofieldの基準値と見なすか、あるいは異常なサクセスと見なすかで決まる。Tampa Bayが彼の価値実証を信じれば譲歩する。衰退リスクを懸念すれば、タグ適用で賭ける。Pickensは怪我リスク、Mayofieldは交渉決裂時の放出リスク—双方がリスクを負っている。\n\nAlvin KamaraがNew Orleansと再契約する見通しも注目すべき経営判断だ。Travis Etienneを獲得しながら、結局Kamaraを失うデメリットが勝ることをGMが認識したのだろう。Kamaraのレシーバー能力とDennis Allenのオフェンス内での知見は代替不可能だ。再契約は年数を減らす代わりにサラリーキャップを圧縮するもの。New Orleansのキャップ余地は限定的であり、この選択肢は妥当性がある。\n\nこれら三つの交渉が指し示す共通点は、リーグ全体のサラリーキャップの逼迫だ。DAL、TB、NOはすべてロスターの大幅刷新ができない状況にあり、市場レート満額でのエクステンション拒否とタグ・再契約への傾斜を見せている。スターパワーが必ずしも長期保障をもたらさない時代へシフトしている。2010年代はエリート選手がほぼ白紙委任に近い契約を引き出していたが、その時代は終わった。",
+    "topics": [
+      {
+        "title_en": "George Pickens Franchise Tagged After Missed Deadline",
+        "title_ja": "George Pickensがフランチャイズタグで2026シーズンへ",
+        "body_en": "DAL's deadline for a long-term deal with Pickens expired Wednesday without agreement. The star receiver will play 2026 under a non-exclusive franchise tag worth $27.3M—exposing him to injury risk while Dallas avoids committing long-term dollars. This negotiation failure signals either team confidence in Pickens accepting the terms or genuine disagreement on his market value amid cap constraints.",
+        "body_ja": "Dallasとの長期契約交渉が水曜日に期限切れになった。一流レシーバーは非独占フランチャイズタグ（$27.3M）で2026をプレーすることになり、怪我のリスクにさらされつつ、チームは長期契約債務を回避できた。この交渉決裂は、チーム側がPickensの受け入れを見込むか、サラリーキャップ圧力下での市場価値評価の相違かを示唆している。",
+        "team_abbrev": "DAL",
+        "importance": "high"
+      },
+      {
+        "title_en": "Baker Mayfield–Buccaneers Stalemate Looms Over Training Camp",
+        "title_ja": "Baker Mayfield–Buccaneerの契約協議が訓練キャンプ期限に",
+        "body_en": "TB and Mayfield remain far apart on extension terms, with a self-imposed training camp deadline approaching. A career year in 2025 bolstered his leverage, but the Bucs must weigh whether that performance is sustainable or a statistical anomaly. Contract uncertainty entering camp can fracture offensive chemistry—another reason Tampa faces pressure to settle before pads are strapped.",
+        "body_ja": "TBと彼の間にはまだ大きな溝があり、訓練キャンプ期限が迫っている。昨シーズンのキャリア年が交渉力を高めたが、チームはそのパフォーマンスが継続可能か異常値かを判断しなければならない。キャンプ入り時の契約不確定性はオフェンスの連携を損なわせる。",
+        "team_abbrev": "TB",
+        "importance": "high"
+      },
+      {
+        "title_en": "Alvin Kamara Re-Signs with Saints; Cap Choreography Continues",
+        "title_ja": "Alvin KamaraがNew Orleansと再契約；キャップ調整が進行",
+        "body_en": "Despite acquiring Travis Etienne, the Saints elected to renegotiate with Kamara rather than move on. The move preserves his receiving threat and institutional knowledge in Dennis Allen's system. Renegotiations for veterans typically reduce guaranteed money in exchange for lower salary cap charges—a pragmatic solution when roster flexibility is limited.",
+        "body_ja": "Travis Etienne獲得後もNew Orleansはkamaraとの再契約を選んだ。彼のレシーバー能力とシステム知識を保全し、ベテランの再契約は年数短縮とキャップ削減をトレードするものだ。",
+        "team_abbrev": "NO",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Franchise Tag as Leverage: The 2026 Offseason's Defining Pattern",
+        "title_ja": "フランチャイズタグが交渉の主軸に；リーグ全体の傾向",
+        "body_en": "Multiple contract stalemates across DAL, TB, and NO reveal league-wide cap tightness. Teams are increasingly comfortable deploying the franchise tag and short-term renegotiations rather than extending at market rates. This marks a structural shift: elite talent no longer guarantees long-term security. Injury risk and leverage both shifted against players.",
+        "body_ja": "複数チームの契約膠着がリーグ全体のサラリーキャップ逼迫を示唆。フランチャイズタグと短期再契約が市場レート満額エクステンションに代わって活用される傾向が強まった。エリート選手でも長期保障が約束されない構造へシフト。",
+        "team_abbrev": null,
+        "importance": "high"
+      },
+      {
+        "title_en": "Bills Secure Dawson Knox with Renegotiated Deal",
+        "title_ja": "Billsが Dawson Knoxとの再契約で結束を示す",
+        "body_en": "Buffalo's renegotiation with Knox reinforces his strategic importance to the offense despite veteran status. The move reflects Josh Allen's reliance on tight end stability and an organizational priority to maintain continuity rather than chase cap savings through roster churn.",
+        "body_ja": "BuffaloのrenegotiationはKnoxのオフェンス内での戦略的重要性を再確認。Josh Allenのタイトエンド依存度が高く、ロスター流動化によるキャップ削減より連続性を優先する組織方針を反映。",
+        "team_abbrev": "BUF",
+        "importance": "medium"
+      }
+    ],
+    "watch_tomorrow_en": "Monitor whether Dallas and George Pickens issue a joint statement clarifying franchise tag acceptance—silence could signal deeper fracture heading into training camp.",
+    "watch_tomorrow_ja": "DallasとPickensが共同声明を発表し、フランチャイズタグ受け入れを明確化するかを注視；沈黙は訓練キャンプへの亀裂を示唆する可能性。"
   }
 }

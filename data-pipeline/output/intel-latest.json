@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T20:13:22.929307+00:00",
-  "count": 118,
+  "generated_at": "2026-07-18T21:25:31.518640+00:00",
+  "count": 115,
   "items": [
     {
       "kind": "other",
       "title": "Nate Burleson wants to host The NFL Today, but will wait for James Brown",
-      "title_ja": "Nate Burleson が The NFL Today のホスト就任を望んでいるが、James Brown の動向を見守る構え",
+      "title_ja": "Nate Burlesonが『The NFL Today』のホスト就任を望んでいるが、James Brownの動向を待つ方針",
       "excerpt": "James Brown, the long-time host of The NFL Today on CBS, has no plans to retire.",
-      "excerpt_ja": "CBS の The NFL Today の長年ホストを務める James Brown は、引退の予定がない",
+      "excerpt_ja": "CBS『The NFL Today』の長年のホストを務めるJames Brownは、引退の予定はない",
       "sources": [
         "Pro Football Talk"
       ],
@@ -22,9 +22,9 @@
     {
       "kind": "signing",
       "title": "Report: Alvin Kamara set to make $6 million in base salary on new deal",
-      "title_ja": "レポート：Alvin Kamara は新契約で年間600万ドルのベースサラリーを獲得予定",
+      "title_ja": "レポート：Alvin Kamaraが新契約で600万ドルのベースサラリーを獲得へ",
       "excerpt": "On Wednesday, news emerged that running back Alvin Kamara had agreed to a new deal to stick with the Saints.",
-      "excerpt_ja": "水曜日、RB Alvin Kamara が Saints に残留する新契約に合意したというニュースが報じられた",
+      "excerpt_ja": "水曜日、RB Alvin Kamaraが Saints残留の新契約に合意したことが報じられた",
       "sources": [
         "Pro Football Talk"
       ],
@@ -38,9 +38,9 @@
     {
       "kind": "injury",
       "title": "Quarterback series includes Jayden Daniels working with VR headset",
-      "title_ja": "QB育成シリーズ：Jayden Daniels が VR ヘッドセットを使用したトレーニングに取り組む",
+      "title_ja": "QBシリーズ企画：Jayden Danielsが最新のVRヘッドセットを活用したトレーニングを実施",
       "excerpt": "Ten years ago (or thereabouts), stories began to emerge about NFL quarterbacks using virtual reality to augment their training.",
-      "excerpt_ja": "約10年前から、NFL のクォーターバックたちがバーチャルリアリティを活用してトレーニングを補強するという報道が相次ぐようになった",
+      "excerpt_ja": "約10年前から、NFLのQBがバーチャルリアリティを活用してトレーニングを強化する取り組みが報道され始めた",
       "sources": [
         "Pro Football Talk"
       ],
@@ -52,11 +52,75 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quarterback-series-includes-jayden-daniels-working-with-vr-headset"
     },
     {
+      "kind": "signing",
+      "title": "49ers sign punter Jack Bouwmeester to a 3-year deal; place UDFA on Active/Non-Football Injury List",
+      "title_ja": "49ersがパンター Jack Bouwmeesterと3年契約を締結、UDFAをActive/Non-Football Injury Listに指定",
+      "excerpt": "UDFA Khalil Dinkins was placed on the Active/Non-Football Injury List. The 49ers now have two punters on the roster.",
+      "excerpt_ja": "UDFA Khalil Dinkinsが Active/Non-Football Injury Listに指定された。49ersのロスターには現在2名のパンターが在籍",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 18 Jul 2026 21:03:23 +0000",
+      "url": "https://sports.yahoo.com/articles/49ers-sign-punter-jack-bouwmeester-210323374.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Seahawks place rookie Deven Eastern on PUP list",
+      "title_ja": "Seahawksがルーキー Deven Easternをシーズン前傷害者リスト(PUP)に指定",
+      "excerpt": "The defensive tackle will have an uphill battle to make the Seahawks roster after missing much of OTAs and minicamp with injury.",
+      "excerpt_ja": "DLは OTAsとミニキャンプの大部分を怪我で欠場したため、Seahawksロスター入りに向けて困難な状況に直面している",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 18 Jul 2026 20:37:16 +0000",
+      "url": "https://sports.yahoo.com/articles/seahawks-place-rookie-deven-eastern-203716158.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cowboys 2026 roster rundown: CB Caelen Carson",
+      "title_ja": "Cowboys 2026ロスター徹底解説：CB Caelen Carson",
+      "excerpt": "What are your expectations for Caelen Carson?",
+      "excerpt_ja": "Caelen Carsonに対してどのような期待を持っていますか？",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 18 Jul 2026 20:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-2026-roster-rundown-cb-203000813.html"
+    },
+    {
+      "kind": "other",
+      "title": "The Colts five most critical games of 2026",
+      "title_ja": "Colts 2026シーズンの5つの重要ゲーム",
+      "excerpt": "These five games are critical for the Colts.",
+      "excerpt_ja": "これら5つのゲームはColtsにとって極めて重要である",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 18 Jul 2026 20:22:43 +0000",
+      "url": "https://sports.yahoo.com/articles/colts-five-most-critical-games-202243170.html"
+    },
+    {
       "kind": "other",
       "title": "Would the NFL adopt the UFL&#39;s four-point field goal rule?",
-      "title_ja": "NFL は UFL の4点フィールドゴール制を採用するだろうか",
+      "title_ja": "NFLはUFLの4ポイントフィールドゴールルールを採用するだろうか？",
       "excerpt": "The UFL made an interesting tweak to the rules in 2026, boosting the points for a 60-yard field goal from three to four.",
-      "excerpt_ja": "UFL は2026年にルール改正を行い、60ヤードフィールドゴールの得点を3点から4点に引き上げた",
+      "excerpt_ja": "UFLは2026年にルール改正を実施し、60ヤード以上のフィールドゴールの得点を3ポイントから4ポイントに引き上げた",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +134,9 @@
     {
       "kind": "other",
       "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 57",
-      "title_ja": "Cowboys カウントダウン：歴史的名試合トップ100 - Day 57",
+      "title_ja": "Cowboys歴史的試合カウントダウン：トップ100 - 57日目",
       "excerpt": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 57",
-      "excerpt_ja": "キックオフまで100日のカウントダウンで Cowboys の歴史的名試合を振り返る。本日は Day 57",
+      "excerpt_ja": "キックオフまで100日間、Cowboys歴史上の最高の試合をカウントダウン。本日は57日目",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +150,9 @@
     {
       "kind": "signing",
       "title": "This might be Marquis Hays’ last chance with the Jets",
-      "title_ja": "Marquis Hayes にとって Jets での残留が最後のチャンスとなるかもしれない",
+      "title_ja": "これがMarquis Hayesの Jetsでの最後の機会になるかもしれない",
       "excerpt": "Through the summer, we will be counting down the Jets roster player by player. We continue the series by discussing Marquis Hayes. Name: Marquis Hayes Number: 77 Year With Jets: 2nd Projected Role: Depth guard His 2025: The Jets signed Hayes before the start of training camp. He was waived on cutdow",
-      "excerpt_ja": "この夏、Jets のロスターを選手ごとにカウントダウンしていく。今回は Marquis Hayes について取り上げる。名前：Marquis Hayes　背番号：77　Jets でのシーズン：2年目　予想される役割：ディープガード　2025年シーズン：Jets はトレーニングキャンプ開始前に Hayes と契約。その後のカットダウン時に",
+      "excerpt_ja": "夏の間、Jetsのロスターをプレイヤー毎に検証していく。Marquis Hayesを取り上げる。選手名：Marquis Hayes、背番号：77、Jetsでの在籍：2シーズン目、予想される役割：控えガード。2025年：Jetsはキャンプ開始前にHayesを獲得。カットダウンで解放された",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +166,9 @@
     {
       "kind": "injury",
       "title": "Bengals unveil their theme games for the 2026 season",
-      "title_ja": "Bengals が2026シーズンのテーマゲームを発表",
+      "title_ja": "Bengalsが2026シーズンのテーマゲームを発表",
       "excerpt": "What to know about the Open in Orange, Stripe the Jungle, and White Bengal games for the 2026 NFL season.",
-      "excerpt_ja": "2026年 NFL シーズンの Open in Orange、Stripe the Jungle、White Bengal ゲームについて知っておくべきこと",
+      "excerpt_ja": "2026 NFLシーズンの『Open in Orange』『Stripe the Jungle』『White Bengal』ゲームについて知っておくべきこと",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +182,9 @@
     {
       "kind": "other",
       "title": "Brandon Aiyuk takes aim at NFLPA in latest Instagram message",
-      "title_ja": "Brandon Aiyuk が最新の Instagram メッセージで NFLPA に異論を唱える",
+      "title_ja": "Brandon Aiyukが最新のInstagram投稿で NFLPAを批判",
       "excerpt": "Did Aiyuk believe that, by not appealing the voiding of his guarantees, he&#39;d be released?",
-      "excerpt_ja": "Aiyuk は保証給の無効化に異議を唱えなければ、解雇されると考えていたのだろうか",
+      "excerpt_ja": "Aiyukは保証給の無効化に異議申し立てをしないことで解雇されると考えていたのか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +198,9 @@
     {
       "kind": "other",
       "title": "3-Point Stance: Drake Maye’s potential 2026 leap goes beyond the stat sheet",
-      "title_ja": "3ポイント・スタンス：Drake Maye の2026年の躍進は数字以上の意味を持つ",
+      "title_ja": "3ポイント・スタンス：Drake Mayeの2026年のジャンプアップはスタットシート以上の意味がある",
       "excerpt": "Drake Maye doesn’t need better numbers to show improvement.",
-      "excerpt_ja": "Drake Maye は成長を示すためにより良い成績が必ずしも必要ではない",
+      "excerpt_ja": "Drake Mayeがさらなる成長を示すために、より優れた数字は必ずしも必要ではない",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +214,9 @@
     {
       "kind": "other",
       "title": "One prediction for Cowboys training camp, QB edition",
-      "title_ja": "Cowboys トレーニングキャンプの予想 - QB 編",
+      "title_ja": "QB2の座は誰が勝ち取ると思いますか？",
       "excerpt": "Who do you think winds up QB2?",
-      "excerpt_ja": "QB2 の座は誰のものになると思いますか",
+      "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +230,9 @@
     {
       "kind": "signing",
       "title": "Puka Nacua plans to stay with Rams",
-      "title_ja": "Puka Nacua は Rams に残留する意向",
+      "title_ja": "Puka Nacuaが Ramsとの契約継続を表明",
       "excerpt": "Will the Rams and Nacua come to contract agreement before training camp?",
-      "excerpt_ja": "Rams と Nacua はトレーニングキャンプ前に契約合意に至るだろうか",
+      "excerpt_ja": "RamsとNacuaはキャンプ開始前に契約合意に至るだろうか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +246,9 @@
     {
       "kind": "rumor",
       "title": "Las Vegas Raiders Mailbag: Could DJ Glaze improve similarly to Kolton Miller?",
-      "title_ja": "Las Vegas Raiders メールバッグ：DJ Glaze は Kolton Miller のように成長する可能性があるか",
+      "title_ja": "Las Vegas Raidersメールバッグ：DJ GlazeはKolton Millerのような成長が期待できるか？",
       "excerpt": "Returning Raider Nation’s questions for the week.",
-      "excerpt_ja": "Raider Nation からの今週の質問に応答",
+      "excerpt_ja": "Raider Nationからの週間の質問に答える",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +262,9 @@
     {
       "kind": "other",
       "title": "Bills news: How is Keon Coleman preparing for pivotal season?",
-      "title_ja": "Bills ニュース：Keon Coleman は重要なシーズンに向けてどのような準備をしているか",
+      "title_ja": "Billsニュース：Keon Colemanは重要なシーズンに向けてどのように準備しているか？",
       "excerpt": "Coming off a second straight up-and-down campaign, Keon Coleman says he is facing a “make or break” year with the Bills.",
-      "excerpt_ja": "2シーズン連続で浮き沈みのあるシーズンを過ごした Keon Coleman は、Bills での\"勝負の年\"に直面していると語っている",
+      "excerpt_ja": "連続で浮き沈みのシーズンを経て、Keon Colemanは Billsでの今シーズンを『勝負の年』と語っている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +278,9 @@
     {
       "kind": "other",
       "title": "Steelers will be given case of deja vu vs. Bengals in Week 10",
-      "title_ja": "Steelers は Week 10 で Bengals 戦にデジャヴを感じることになるだろう",
+      "title_ja": "Steelersは Week 10でBengalsとの対戦で苦い思い出を呼び起こす",
       "excerpt": "The Steelers will get an unfortunate reminder of a painful loss in 2026.",
-      "excerpt_ja": "Steelers は2026年の痛手となった敗北の不幸な思い出を呼び起こされることになる",
+      "excerpt_ja": "Steelersは2026年の痛手となった敗北を嫌というほど思い出させられることになる",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +294,9 @@
     {
       "kind": "other",
       "title": "Is Nick Sirianni, Jalen Hurts, or Sean Mannion under the most pressure?",
-      "title_ja": "Nick Sirianni、Jalen Hurts、Sean Mannion のうち、誰が最もプレッシャーを受けているか",
+      "title_ja": "Nick Sirianni、Jalen Hurts、Sean Mannionの中で最もプレッシャーを受けているのは誰か？",
       "excerpt": "No one wants to think about the worst case scenario, obviously.",
-      "excerpt_ja": "最悪のシナリオについて考えたい人はいない。明らかに",
+      "excerpt_ja": "最悪のシナリオについて考えたい人はいないだろう",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -245,10 +309,42 @@
     },
     {
       "kind": "other",
+      "title": "MLB 2026 Buzz: Brewers RHP Brandon Woodruff Set For Another Shoulder Surgery",
+      "title_ja": "MLB 2026トレンド：Brewersの右腕 Brandon Woodruffが肩の手術に向かう",
+      "excerpt": "Notable news, notes and buzz from MLB's 2026 season.",
+      "excerpt_ja": "MLBの2026シーズンから注目すべきニュース、ノート、トレンド",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 18 Jul 2026 16:18:39 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-2026-buzz-injuries-news-trades-rumors"
+    },
+    {
+      "kind": "other",
+      "title": "Who Has The Most To Gain (Or Lose) From The 2026 World Cup Final?",
+      "title_ja": "2026 FIFAワールドカップ決勝から最も得るもの（または失うもの）がある人物は誰か？",
+      "excerpt": "Lionel Messi and Lamine Yamal can both make history in the 2026 FIFA World Cup final, but they're not the only ones whose legacies stand to benefit from the match — far from it.",
+      "excerpt_ja": "Lionel MessiとLamine Yamalは2026 FIFAワールドカップ決勝で歴史を作ることができるが、この試合から恩恵を受ける可能性があるのは彼らだけではない",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 18 Jul 2026 16:06:50 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/who-has-most-gain-or-lose-from-2026-world-cup-final"
+    },
+    {
+      "kind": "other",
       "title": "Darrell Jackson Jr’s job as a rookie with the Jets is to learn",
-      "title_ja": "ルーキー Darrell Jackson Jr. の Jets での役割は学ぶこと",
+      "title_ja": "Darrell Jackson Jr.のルーキーとしての Jetsでの役割は学ぶこと",
       "excerpt": "Through the summer, we will be counting down the Jets roster player by player. We continue the series by discussing Darrell Jackson Jr. Name: Darrell Jackson Jr. Number: 78 Year With Jets: 1st Projected Role: Depth defensive lineman His 2025: Jackson’s final collegiate season at Florida State saw hi",
-      "excerpt_ja": "この夏、Jets のロスターを選手ごとにカウントダウンしていく。今回は Darrell Jackson Jr. について取り上げる。名前：Darrell Jackson Jr.　背番号：78　Jets でのシーズン：1年目　予想される役割：ディープ DL　2025年シーズン：Jackson の Florida State での最後のシーズンは",
+      "excerpt_ja": "夏の間、Jetsのロスターをプレイヤー毎に検証していく。Darrell Jackson Jr.を取り上げる。選手名：Darrell Jackson Jr.、背番号：78、Jetsでの在籍：1シーズン目、予想される役割：控えDL。2025年：Florida Stateでのジュニアシーズンを終えた Jackson",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +358,9 @@
     {
       "kind": "other",
       "title": "Biggest question mark for Cowboys offense heading in training camp",
-      "title_ja": "トレーニングキャンプ前の Cowboys オフェンスの最大の懸念事項",
+      "title_ja": "Cowboysのオフェンスにおけるキャンプ開始時の最大の懸念事項",
       "excerpt": "What is the biggest question you have for the Cowboys entering camp?",
-      "excerpt_ja": "キャンプを前に Cowboys のオフェンスについて、最大の疑問は何ですか",
+      "excerpt_ja": "キャンプ開始を前に、Cowboysのオフェンスについて最も大きな疑問は何ですか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -278,9 +374,9 @@
     {
       "kind": "injury",
       "title": "Survey results: NY Giants fans expect Isaiah Likely to be an impact player",
-      "title_ja": "調査結果：NY Giants ファンは Isaiah Likely がインパクトプレイヤーになると予想",
+      "title_ja": "調査結果：NY Giants ファンが Isaiah Likelyが大物FAになると期待",
       "excerpt": "NY Giants fans think TE Isaiah Likely will be their biggest impact free agent",
-      "excerpt_ja": "NY Giants ファンは TE Isaiah Likely が最大のインパクトをもたらすフリーエージェントになると考えている",
+      "excerpt_ja": "NY Giants ファンはTE Isaiah Likelyが彼らにとって最大のインパクトを持つフリーエージェントになると考えている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +390,9 @@
     {
       "kind": "other",
       "title": "Kalshi Promo Code FOXSPORTS Unlocks a $10 Bonus for France vs. England",
-      "title_ja": "Kalshi プロモコード FOXSPORTS で France vs. England に$10ボーナスが獲得できる",
+      "title_ja": "Kalshiプロモコード FOXSPORTS：France vs. Englandで10ドルボーナスをアンロック",
       "excerpt": "Kalshi Promo Code FOXSPORTS Unlocks a $10 Bonus for France vs. England.",
-      "excerpt_ja": "Kalshi プロモコード 'FOXSPORTS' で France vs. England に$10ボーナスが獲得できる",
+      "excerpt_ja": "Kalshiプロモコード『FOXSPORTS』でFrance vs. Englandの10ドルボーナスを獲得",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -310,9 +406,9 @@
     {
       "kind": "other",
       "title": "Evaluating Wisconsin’s QB room ahead of fall camp",
-      "title_ja": "秋季キャンプを前に Wisconsin の QB ルームを評価する",
+      "title_ja": "秋季キャンプ前のWisconsinのQBルーム評価",
       "excerpt": "What are the strengths and weaknesses of Wisconsin’s new look quarterback room?",
-      "excerpt_ja": "Wisconsin の新しい QB ルームの強み・弱みは何か",
+      "excerpt_ja": "Wisconsinの新しいQBルームの強みと弱みは何か？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -326,9 +422,9 @@
     {
       "kind": "other",
       "title": "The Miracle Of Lionel Messi: Embrace Him And Celebrate His Greatness",
-      "title_ja": "Lionel Messi の奇跡：彼を受け入れ、その偉大さを祝賀する",
+      "title_ja": "Lionel Messiの奇跡：彼を受け入れ、その偉大さを祝おう",
       "excerpt": "\"Don't touch your idols: a little gold always rubs off.\" But with Lionel Messi, the gold never does.",
-      "excerpt_ja": "「偶像に触れるな。ほんの少しの輝きはいつも移る」。だが Lionel Messi の場合、その輝きは決して移らない",
+      "excerpt_ja": "『偶像には触れるな、少しの金が必ず移る』だが、Lionel Messiの場合、その金は決して移らない",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -342,9 +438,9 @@
     {
       "kind": "other",
       "title": "Would the NFL adopt the UFL's four-point field goal rule?",
-      "title_ja": "NFL は UFL の4点フィールドゴール制を採用するだろうか",
+      "title_ja": "NFLはUFLの4ポイントフィールドゴールルールを採用するだろうか？",
       "excerpt": "The UFL made an interesting tweak to the rules in 2026, boosting the points for a 60-yard field goal from three to four.",
-      "excerpt_ja": "UFL は2026年にルール改正を行い、60ヤードフィールドゴールの得点を3点から4点に引き上げた",
+      "excerpt_ja": "UFLは2026年にルール改正を実施し、60ヤード以上のフィールドゴールの得点を3ポイントから4ポイントに引き上げた",
       "sources": [
         "Pro Football Talk"
       ],
@@ -358,9 +454,9 @@
     {
       "kind": "other",
       "title": "What would you consider a ‘failed’ season for the 2026 Seahawks?",
-      "title_ja": "2026年 Seahawks にとって\"失敗\"とは何だと考えますか",
+      "title_ja": "2026年のSeahawksにとって『失敗した』シーズンとは何か？",
       "excerpt": "Are you Super Bowl or bust? Or are your expectations a little bit lower for the 2026 Seahawks?",
-      "excerpt_ja": "Super Bowl 優勝か全滅かのどちらかですか。それとも2026年 Seahawks に対する期待は少し低めですか",
+      "excerpt_ja": "2026年のSeahawksに対してスーパーボウル優勝か、それとも期待値を低めに設定していますか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -374,9 +470,9 @@
     {
       "kind": "other",
       "title": "Former top WR says Browns WR room: ‘They have a lot of talent,’ vets ‘on notice’",
-      "title_ja": "元トップ WR が Browns の WR ルームを評価：\"才能豊かだ\"、ベテランは\"注視される\"",
+      "title_ja": "元トップ WRが Brownsの WRルームを評価：『才能に溢れている』、ベテランは『要注意』",
       "excerpt": "The Cleveland Browns added WR KC Concepcion, Denzel Boston to the roster. Former NFL great Steve Smith gives his thoughts",
-      "excerpt_ja": "Cleveland Browns は WR KC Concepcion と Denzel Boston をロスターに加えた。元 NFL の大物 Steve Smith の評価",
+      "excerpt_ja": "Cleveland Brownsが WR KC ConcepcionとDenzel Bostonをロスターに追加。元NFL スター Steve Smithの見解",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -390,9 +486,9 @@
     {
       "kind": "other",
       "title": "David Malukas Goes To Hospital For Testing Following Nashville Accident",
-      "title_ja": "David Malukas がナッシュビル事故の検査で入院",
+      "title_ja": "David Malukas、Nashville事故後の検査のため病院に搬送",
       "excerpt": "David Malukas' status for Sunday's Music City Grand Prix is still to be determined after a scary accident in practice.",
-      "excerpt_ja": "David Malukas の日曜日の Music City Grand Prix 出場状況は、練習中の危険な事故の後、未定のままである",
+      "excerpt_ja": "日曜日のMusic City Grand Prixにおける David Malukas の出場は、練習中の恐ろしい事故の後、未定のままである",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -406,9 +502,9 @@
     {
       "kind": "other",
       "title": "What Do The World Cup Third-Place Winners Get?",
-      "title_ja": "ワールドカップ3位入賞者は何を獲得するのか",
+      "title_ja": "FIFAワールドカップ3位決定戦の勝者は何を獲得するか？",
       "excerpt": "France and England face off for a third-place finish in the 2026 FIFA World Cup. What does the winner receive besides bronze recognition?",
-      "excerpt_ja": "France と England が2026年 FIFA ワールドカップの3位決定戦で対戦。銅メダル以外に優勝者が獲得するものは何か",
+      "excerpt_ja": "France と England が2026 FIFAワールドカップ3位決定戦で対戦する。銅メダル以外の栄誉を受ける勝者は何を獲得するか？",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -422,9 +518,9 @@
     {
       "kind": "other",
       "title": "Predicting headlines from the first week of training camp",
-      "title_ja": "トレーニングキャンプ第1週のヘッドラインを予想する",
+      "title_ja": "キャンプ初週からのヘッドラインを予想",
       "excerpt": "What types of headlines do you think will emerge from the first week of training camp?",
-      "excerpt_ja": "トレーニングキャンプの第1週からどのようなヘッドラインが生まれると思いますか",
+      "excerpt_ja": "キャンプ初週からどのようなヘッドラインが生まれると思いますか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -438,9 +534,9 @@
     {
       "kind": "other",
       "title": "LB Leo Chenal brings winning ways from KC to DC - Daily Slop",
-      "title_ja": "LB Leo Chenal が KC での優勝の経験を DC にもたらす - Daily Slop",
+      "title_ja": "LB Leo Chenalが KCの勝利の伝統を Washingtonに持ち込む - Daily Slop",
       "excerpt": "Washington has executed a total overhaul of the defensive front-7 this offseason",
-      "excerpt_ja": "Washington はこのオフシーズン、ディフェンシブフロント7の完全なリビルドを実行した",
+      "excerpt_ja": "Washingtonはこのオフシーズンにディフェンスのフロント7を完全に改編した",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -454,9 +550,9 @@
     {
       "kind": "other",
       "title": "Random Ramsdom: You can rank the quarterback room however you want",
-      "title_ja": "Random Ramsdom：QB ルームのランキングはどのようにでも付けられる",
+      "title_ja": "Random Ramsdom：QBルームはどのようにランク付けしたいのか、あなたの自由",
       "excerpt": "Los Angeles Rams News and Links for 7/18/26",
-      "excerpt_ja": "Los Angeles Rams ニュース＆リンク（7/18/26）",
+      "excerpt_ja": "Los Angeles Ramsのニュースとリンク（7/18/26）",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -470,9 +566,9 @@
     {
       "kind": "other",
       "title": "How Spain's Men's And Women's National Teams Rose Above The Rest Of The World",
-      "title_ja": "Spain の男女代表がいかに世界を圧倒したか",
+      "title_ja": "スペインの男女ナショナルチームが世界の頂点に登り詰めた方法",
       "excerpt": "As the reigning women's World Cup champ and the men playing in Sunday's final, Spain has a chance to set a new standard for sustained dominance.",
-      "excerpt_ja": "女子ワールドカップの現チャンピオンであり、日曜日の決勝に進む男子の Spain は、持続的な優位性の新しい基準を確立する機会がある",
+      "excerpt_ja": "女子ワールドカップの現王者であり、男子が日曜日の決勝に臨むスペインは、継続的な優位性の新たな基準を設定する機会を持っている",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -486,9 +582,9 @@
     {
       "kind": "other",
       "title": "Caesars Promo Code FOXDYW: 10 × 100% Profit Boost Tokens",
-      "title_ja": "Caesars プロモコード FOXDYW：10個の100%プロフィットブーストトークン",
+      "title_ja": "Caesarsプロモコード FOXDYW：10 × 100% プロフィットブーストトークン",
       "excerpt": "Caesars Sportsbook Promo Code 'FOXDYW' Bet $1, Double Your Winnings Your Next 10 Wagers.",
-      "excerpt_ja": "Caesars Sportsbook プロモコード 'FOXDYW' $1ベットで次の10回の賭けの配当が2倍に",
+      "excerpt_ja": "Caesars Sportsbook プロモコード『FOXDYW』1ドル賭けて、次の10ベットで賞金を2倍に",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -502,9 +598,9 @@
     {
       "kind": "other",
       "title": "Brandon Aiyuk takes aim at NFLPA in latest Instagram message",
-      "title_ja": "Brandon Aiyuk が最新の Instagram メッセージで NFLPA に異論を唱える",
+      "title_ja": "Brandon Aiyukが最新のInstagram投稿で NFLPAを批判",
       "excerpt": "Did Aiyuk believe that, by not appealing the voiding of his guarantees, he'd be released?",
-      "excerpt_ja": "Aiyuk は保証給の無効化に異議を唱えなければ、解雇されると考えていたのだろうか",
+      "excerpt_ja": "Aiyukは保証給の無効化に異議申し立てをしないことで解雇されると考えていたのか？",
       "sources": [
         "Pro Football Talk"
       ],
@@ -518,9 +614,9 @@
     {
       "kind": "injury",
       "title": "3 players on Las Vegas Raiders’ roster make ESPN’s Top 10 at their position",
-      "title_ja": "Las Vegas Raiders のロスターの3選手が ESPN のポジション別トップ10に選出",
+      "title_ja": "Las Vegas Raidersロスターの3選手がESPNのトップ10に選出",
       "excerpt": "3 more received ‘Honorable Mention’ or votes from NFL execs and coaches",
-      "excerpt_ja": "さらに3選手が NFL エグゼクティブとコーチからの Honorable Mention または投票を獲得",
+      "excerpt_ja": "3名がさらに『Honorable Mention』またはNFLエグゼクティブとコーチからの投票を獲得",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -534,9 +630,9 @@
     {
       "kind": "other",
       "title": "NY Giants training camp: Under-achieving safety ready for breakout year?",
-      "title_ja": "NY Giants トレーニングキャンプ：期待を下回る安全保障は躍進の年を迎える準備ができているか",
+      "title_ja": "NY Giants キャンプ：期待を下回るセーフティが ブレークアウト年を迎える準備はできているか？",
       "excerpt": "Dennard Wilson’s defense may allow Tyler Nubin to play to his strengths, unlocking his playmaking ability.",
-      "excerpt_ja": "Dennard Wilson のディフェンスは Tyler Nubin が自身の強みを活かし、プレイメイキング能力を引き出す機会を与えるかもしれない",
+      "excerpt_ja": "Dennard Wilsonのディフェンスは Tyler Nubinが自らの強みを活かしプレーメイキング能力を解き放つことを可能にする",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -550,9 +646,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Young Player of the Tournament Odds: Lamine Yamal Favored",
-      "title_ja": "2026年ワールドカップ最優秀若手選手オッズ：Lamine Yamal が筆頭候補",
+      "title_ja": null,
       "excerpt": "Can anyone — or anything — stop Lamine Yamal from winning Young Player of the Tournament at the World Cup? See the odds.",
-      "excerpt_ja": "ワールドカップで最優秀若手選手を獲得する Lamine Yamal を止めることができるか。オッズを確認しましょう",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -566,9 +662,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Golden Glove: Unai Simón Heavily Favored",
-      "title_ja": "2026年ワールドカップゴールデングローブ：Unai Simón が大きく支持されている",
+      "title_ja": null,
       "excerpt": "The 2026 FIFA World Cup Golden Glove odds are rounding into shape as the tournament reaches a conclusion.",
-      "excerpt_ja": "2026年 FIFA ワールドカップゴールデングローブのオッズがトーナメント終盤に向けて確定しつつある",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -581,10 +677,10 @@
     },
     {
       "kind": "other",
-      "title": "2026 World Cup Golden Ball Odds: Messi Heavily Favored After Semifinal Win",
-      "title_ja": "2026年ワールドカップゴールデンボール：Messi が準決勝勝利後に大きく支持されている",
+      "title": "2026 World Cup Golden Ball Odds: Messi Heavily Favored Ahead Of Final",
+      "title_ja": null,
       "excerpt": "Check out Golden Ball race is taking shape. Check out the latest odds to win the 2026 FIFA World Cup Player of the Tournament award.",
-      "excerpt_ja": "ゴールデンボール争いが形成されている。2026年 FIFA ワールドカップ最優秀選手賞の最新オッズをご確認ください",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -597,10 +693,10 @@
     },
     {
       "kind": "other",
-      "title": "2026 World Cup Golden Boot Odds: Messi Heavily Favored After Semifinal Heroics",
-      "title_ja": "2026年ワールドカップゴールデンブーツ：Messi が準決勝の活躍後に大きく支持されている",
+      "title": "2026 World Cup Golden Boot Odds: Can Messi Hold Off Mbappé?",
+      "title_ja": null,
       "excerpt": "The superstars have shined at the 2026 FIFA World Cup so far. Check out the latest Golden Boot odds.",
-      "excerpt_ja": "スーパースターたちは2026年 FIFA ワールドカップで活躍している。最新のゴールデンブーツのオッズをご確認ください",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -614,9 +710,9 @@
     {
       "kind": "other",
       "title": "2026 World Cup Third-Place Odds: France Favored Over England",
-      "title_ja": "2026年ワールドカップ3位決定戦オッズ：France が England に支持されている",
+      "title_ja": null,
       "excerpt": "A third-place finish is still on the line for France and England. Check out the odds, and what to know about Saturday's powerhouse matchup.",
-      "excerpt_ja": "France と England の3位の座がまだ決まっていない。土曜日の強豪対決のオッズと注目点をご確認ください",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -630,9 +726,9 @@
     {
       "kind": "other",
       "title": "Spain vs. Argentina Odds: Spain Favored In World Cup Final",
-      "title_ja": "Spain vs. Argentina オッズ：ワールドカップ決勝で Spain が支持されている",
+      "title_ja": null,
       "excerpt": "Here are the latest odds to win the 2026 FIFA World Cup now that Spain and Argentina have advanced to the championship.",
-      "excerpt_ja": "Spain と Argentina が決勝に進んだ今、2026年 FIFA ワールドカップ優勝の最新オッズをご確認ください",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -738,70 +834,6 @@
       "coach_name": null,
       "published_at": "Sat, 18 Jul 2026 13:19:20 +0000",
       "url": "https://sports.yahoo.com/articles/seahawks-plan-heavy-workload-rookie-131920925.html"
-    },
-    {
-      "kind": "other",
-      "title": "Chiefs News: Nate Burleson really wants Travis Kelce on CBS post-career",
-      "title_ja": null,
-      "excerpt": "The latest Chiefs news, brought fresh to you every morning!",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 18 Jul 2026 13:15:00 +0000",
-      "url": "https://sports.yahoo.com/articles/chiefs-news-nate-burleson-really-131500613.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Commanders fans fear another injury-filled season could be ahead for Jayden Daniels - poll results",
-      "title_ja": null,
-      "excerpt": "This week’s survey results say that fans are worried about JD5’s injury risk, unless they’re not",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "WAS",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 18 Jul 2026 13:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/commanders-fans-fear-another-injury-130000293.html"
-    },
-    {
-      "kind": "other",
-      "title": "Seahawks News: Ricky White III’s potential as Seahawks’ WR2",
-      "title_ja": null,
-      "excerpt": "He’s got the power.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 18 Jul 2026 13:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/seahawks-news-ricky-white-iii-130000904.html"
-    },
-    {
-      "kind": "other",
-      "title": "Chicago Bears Question of the Day: Which NFC North rival makes you most nervous?",
-      "title_ja": null,
-      "excerpt": "Every team in the NFC North has a legit shot at the division crown, so which rival makes you most nervous?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 18 Jul 2026 13:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/chicago-bears-day-nfc-north-130000292.html"
     },
     {
       "kind": "injury",
@@ -1012,38 +1044,6 @@
       "url": "https://www.foxsports.com/stories/soccer/world-cup-argentina-spain-messi-last-game"
     },
     {
-      "kind": "other",
-      "title": "Yankees Star Aaron Judge Will 'Definitely' Return, But No Baseball Activities Yet",
-      "title_ja": null,
-      "excerpt": "Aaron Judge is convinced — adamant, even — that he will return to the Yankees lineup this year.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 17 Jul 2026 21:19:08 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/yankees-star-aaron-judge-will-definitely-return-no-baseball-activities-yet"
-    },
-    {
-      "kind": "other",
-      "title": "Lionel Messi Tells Tom Brady 'Crazy' Story Behind Viral Lamine Yamal Baby Photoshoot",
-      "title_ja": null,
-      "excerpt": "Tom Brady found out Lionel Messi is just as blown by the viral Lamine Yamal photoshoot picture as the next person.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 17 Jul 2026 20:40:58 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/lionel-messi-tells-tom-brady-insane-story-behind-viral-lamine-yamal-baby-photoshoot"
-    },
-    {
       "kind": "presser",
       "title": "Tom Brady, angling for yet another paycheck, moves toward a WWE match",
       "title_ja": null,
@@ -1061,22 +1061,6 @@
     },
     {
       "kind": "other",
-      "title": "Jude Bellingham Shares Poem From England's Bus Driver After World Cup Exit",
-      "title_ja": null,
-      "excerpt": "England's Jude Bellingham shared an uplifting poem given to him by the team's driver, Michael Chandler, following the Three Lions' World Cup semifinal loss to Argentina.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 17 Jul 2026 20:27:58 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/jude-bellingham-shares-poem-from-englands-bus-driver-after-world-cup-exit"
-    },
-    {
-      "kind": "other",
       "title": "Robert Griffin III hints at a Netflix documentary on the day he tore his ACL",
       "title_ja": null,
       "excerpt": "Five years after former Washington quarterback Robert Griffin III announced, then scrapped, a tell-all book about his time with an inherently dysfunctional franchise, Griffin is apparently ready to tell his story.",
@@ -1090,38 +1074,6 @@
       "coach_name": null,
       "published_at": "Fri, 17 Jul 2026 20:17:24 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-griffin-iii-hints-at-a-netflix-documentary-on-the-day-he-tore-his-acl"
-    },
-    {
-      "kind": "other",
-      "title": "How Lionel Messi's Barcelona Exit Set Up A Poetic World Cup Final With Lamine Yamal",
-      "title_ja": null,
-      "excerpt": "Sunday’s World Cup final has a chapter deeply embedded in its theme: the role of FC Barcelona.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 17 Jul 2026 19:57:26 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/how-lionel-messis-barcelona-exit-set-up-poetic-world-cup-final-lamine-yamal"
-    },
-    {
-      "kind": "other",
-      "title": "Barcelona Makes Bold Claims About Club Icons Messi, Yamal Head Of World Cup Final",
-      "title_ja": null,
-      "excerpt": "Barcelona president Joan Laporta believes the World Cup final between Argentina and Spain will showcase the strength of FC Barcelona, with club legends and rising stars like Lionel Messi and Lamine Yamal.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 17 Jul 2026 19:50:42 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-final-agrentina-spain-will-showcase-fc-barcelona-talent-lionel-messi-lamine-yamal"
     },
     {
       "kind": "rumor",

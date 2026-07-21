@@ -1,14 +1,238 @@
 {
   "version": 1,
-  "generated_at": "2026-07-21T18:17:25.771097+00:00",
-  "count": 115,
+  "generated_at": "2026-07-21T20:01:25.359914+00:00",
+  "count": 116,
   "items": [
+    {
+      "kind": "rumor",
+      "title": "ESPN layoffs see wave of top talent depart including Cam Newton and Karl Ravech: updates",
+      "title_ja": "ESPN大規模人員削減、Cam NewtonやKarl Ravechら一流人材が退社",
+      "excerpt": "ESPN also announced it was parting ways with NFL analyst Ryan Clark and additional cuts are expected among behind-the-scenes staff",
+      "excerpt_ja": "ESPNはNFL解説者Ryan Clarkとの契約解除を発表、舞台裏のスタッフにも追加削減の見通し",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 19:45:02 +0000",
+      "url": "https://sports.yahoo.com/articles/espn-hit-another-wave-layoffs-143653150.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Netflix is expected to have Noah Eagle call play-by-play for 49ers-Rams in Australia",
+      "title_ja": "NetflixがオーストラリアでのNiners-Ramsの試合にNoah Eagleの実況を起用予定",
+      "excerpt": "Netflix is expected to have Noah Eagle on the play-by-play call for the second game of the 2026 NFL regular season.",
+      "excerpt_ja": "2026年NFL通常シーズンの第2週、NetflixがNoah Eagleを実況担当で起用する見通し",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 19:42:04 +0000",
+      "url": "https://sports.yahoo.com/articles/netflix-expected-noah-eagle-call-194204654.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Panthers put CB Jaylon Guilbeau on NFI list",
+      "title_ja": "PanthersがCB Jaylon GuilbeauをNFI(非フットボール負傷)リストに登録",
+      "excerpt": "The Panthers have added another player to their non-football injury list.",
+      "excerpt_ja": "Panthersがさらに1人の選手をNFIリストに追加登録した",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 19:31:04 +0000",
+      "url": "https://sports.yahoo.com/articles/panthers-put-cb-jaylon-guilbeau-193104857.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Starting Panthers RT Taylor Moton sidelined with blood clot, potentially clearing path for 1st-round rookie in critical season for Bryce Young",
+      "title_ja": "Panthers先発RT Taylor Motonが血栓で離脱、ルーキーOTが第1ラウンド指名を受け、Bryce Young評価の重要シーズンで出場機会が広がる可能性",
+      "excerpt": "Offensive line play will be key in Carolina as the Panthers continue to evaluate quarterback Bryce Young, who enters his fourth NFL season without a contract extension.",
+      "excerpt_ja": "Carolinaではオフェンスラインの出来が鍵となる。Panthersは契約延長なしで4年目を迎えるQB Bryce Youngの評価を続けている",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 19:30:12 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/starting-panthers-rt-taylor-moton-sidelined-with-blood-clot-potentially-clearing-path-for-1st-round-rookie-in-critical-season-for-bryce-young-193012677.html"
+    },
+    {
+      "kind": "other",
+      "title": "49ers roster preview: Why Carver Willis needs a redshirt year",
+      "title_ja": "49ersロスター分析：Carver Willisが本熱の時間が必要な理由",
+      "excerpt": "Breaking down the 90 players on the 49ers’ offseason roster in 90 posts (over 90 or so days). Today is OL Carver Willis",
+      "excerpt_ja": "49ersのオフシーズンロスター90人を90日かけて分析、本日はOL Carver Willis",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 19:22:44 +0000",
+      "url": "https://sports.yahoo.com/articles/49ers-roster-preview-why-carver-192244134.html"
+    },
+    {
+      "kind": "other",
+      "title": "John Harbaugh’s reaction to Cam Skattebo’s failed backflip? ‘Dude, at least stick it’",
+      "title_ja": "John Harbaughがcam Skatteboの失敗バク宙に反応：『おい、少なくとも決めてくれよ』",
+      "excerpt": "The Giants coach didn’t sound angry.",
+      "excerpt_ja": "Giants HCは怒った様子はなかった",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 19:19:19 +0000",
+      "url": "https://sports.yahoo.com/articles/john-harbaugh-reaction-cam-skattebo-191919869.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL Rookie of the Year Odds: Jeremiyah Love, David Bailey Emerge as Early Favorites",
+      "title_ja": "NFLルーキー・オブ・ザ・イヤー予想：Jeremiyah LoveとDavid Baileyが序盤の有力候補に",
+      "excerpt": "A look at updated NFL Rookie of the Year odds, with Jeremiyah Love (+430) and David Bailey (+500) listed as the betting favorites.",
+      "excerpt_ja": "NFLルーキー・オブ・ザ・イヤーのオッズ更新版。Jeremiyah Love（+430）とDavid Bailey（+500）が最有力候補として上げられている",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 19:05:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-rookie-odds-emeka-egbuka-155300006.html"
+    },
+    {
+      "kind": "other",
+      "title": "Best- and worst-case scenario for Las Vegas Raiders’ 2026 NFL draft class during training camp",
+      "title_ja": "Las Vegas Raidersの2026年ドラフト指名選手、キャンプでの最高・最低シナリオ分析",
+      "excerpt": "Diving into the situation each rookie draft pick is facing heading into camp",
+      "excerpt_ja": "ドラフト指名選手それぞれの直面する状況をキャンプ突入直前にチェック",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 19:01:00 +0000",
+      "url": "https://sports.yahoo.com/articles/best-worst-case-scenario-las-190100862.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Taylor Moton to miss start of 2026 NFL season due to blood clots: What it means",
+      "title_ja": "Taylor Motonが血栓で2026年シーズン開幕を欠場：その意味するところ",
+      "excerpt": "Taylor Moton has long been the Panthers&#39; starting right tackle, but that will be put on hold to start the 2026 season as he deals with a blood clot.",
+      "excerpt_ja": "Taylor Motonは長らくPanthersの先発RTを務めてきたが、血栓の治療のため2026年シーズン開幕時点での出場は見送られる",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 19:00:57 +0000",
+      "url": "https://sports.yahoo.com/articles/taylor-moton-miss-start-2026-190057008.html"
+    },
+    {
+      "kind": "other",
+      "title": "#PostPulpit Mailbag: Submit your questions for this week",
+      "title_ja": "＃PostPulpit メールバッグ：今週の質問を寄せてください",
+      "excerpt": "Submit your questions down below.",
+      "excerpt_ja": "下記でご質問をお願いします",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 19:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/postpulpit-mailbag-submit-questions-week-190000979.html"
+    },
+    {
+      "kind": "other",
+      "title": "The Packers will face a new-look Jets in Week 2",
+      "title_ja": "PackersはWeek 2で新体制のJetsと対戦",
+      "excerpt": "The New York Jets will have a “white out” against the Green Bay Packers in Week 2",
+      "excerpt_ja": "New York JetsはWeek 2のGreen Bay Packers戦で『ホワイトアウト』を実施",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 18:51:31 +0000",
+      "url": "https://sports.yahoo.com/articles/packers-face-look-jets-week-185131418.html"
+    },
+    {
+      "kind": "presser",
+      "title": "Stephen A. Smith reacts to Ryan Clark layoff at ESPN: &#39;I am not happy&#39;",
+      "title_ja": "Stephen A. SmithがESPNのRyan Clark解雇に反応：『納得がいかない』",
+      "excerpt": "Stephen A. Smith reacted to ESPN&#39;s decision to lay off Ryan Clark and expressed unhappiness with the network. Here&#39;s what he said.",
+      "excerpt_ja": "Stephen A. SmithはESPNのRyan Clark解雇決定に反応し、このネットワークの判断に不満を表明した",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 18:39:27 +0000",
+      "url": "https://sports.yahoo.com/articles/stephen-smith-reacts-ryan-clark-183927919.html"
+    },
+    {
+      "kind": "other",
+      "title": "John Harbaugh reacts to Skattebo&#39;s botched backflip: &#39;Dude, at least stick it&#39;",
+      "title_ja": "John HarbaughがSkatteboの失敗バク宙に反応：『おい、少なくとも決めてくれよ』",
+      "excerpt": "Giants coach John Harbaugh didn&#39;t seem too bothered by Cam Skattebo&#39;s botched backflip at a Fanatics Fest event.",
+      "excerpt_ja": "Giants HC John HarbaughはFanatics Festイベントでのcam Skatteboの失敗バク宙にも特に動じた様子は見せなかった",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 18:23:23 +0000",
+      "url": "https://sports.yahoo.com/articles/john-harbaugh-reacts-skattebos-botched-182323279.html"
+    },
+    {
+      "kind": "other",
+      "title": "Packers Discussion: Which rookie are you expecting the most from in 2026?",
+      "title_ja": "Packersディスカッション：2026年のルーキーの中で誰の活躍が最も期待できますか？",
+      "excerpt": "Will is be kicker Trey Smack, cornerback Brandon Cisse or defensive lineman Chris McClellan?",
+      "excerpt_ja": "キッカーのTrey SmackかCB Brandon CisseかDL Chris McClellannか",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 18:18:32 +0000",
+      "url": "https://sports.yahoo.com/articles/packers-discussion-rookie-expecting-most-181832707.html"
+    },
     {
       "kind": "signing",
       "title": "Dolphins sign NFL tackling leader to extension amid rebuild",
-      "title_ja": "タックルリーダーと契約延長、Dolphins再構築の最中",
+      "title_ja": "Dolphinsがタックルリーダーの契約延長で合意、チーム再構築の中で",
       "excerpt": "Jordyn Brooks and the Dolphins have agreed to a three-year, $51.3 million extension.",
-      "excerpt_ja": "Jordyn BrooksとDolphinsが3年総額5,130万ドルの契約延長に合意",
+      "excerpt_ja": "Jordyn BrooksとDolphinsが3年総額5130万ドルの契約延長で合意",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -21,10 +245,42 @@
     },
     {
       "kind": "other",
+      "title": "Former Steelers safety Ryan Clark releases statement following ESPN firing",
+      "title_ja": "元Steelers安全保障官Ryan ClarkがESPN解雇後の声明を発表",
+      "excerpt": "Former Steelers safety Ryan Clark releases statement after ESPN firing.",
+      "excerpt_ja": "元Steelers安全保障官Ryan ClarkがESPN解雇後の声明を発表した",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 18:01:25 +0000",
+      "url": "https://sports.yahoo.com/articles/former-steelers-safety-ryan-clark-180125876.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "5 free agents Cowboys could consider bringing to training camp",
+      "title_ja": "Cowboysが検討すべき5人のフリーエージェント",
+      "excerpt": "Which free agents do you think the Cowboys should consider bringing in during camp?",
+      "excerpt_ja": "Cowboysがキャンプに招待を検討すべきフリーエージェントは誰だと思いますか？",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 18:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/5-free-agents-cowboys-could-180000163.html"
+    },
+    {
+      "kind": "other",
       "title": "Future of the NFL: this is how the game is evolving with Domonique Foxworth",
-      "title_ja": "NFLの未来：Domonique Foxworthと共に考えるゲームの進化",
+      "title_ja": "NFLの未来：Domonique Foxworthと語るゲームの進化",
       "excerpt": "Nate Tice sits down with Domonique Foxworth to cover how the NFL game is evolving over time, including the biggest issues the league faces entering the 2026 season.",
-      "excerpt_ja": "Nate TiceがDomonique Foxworthと対談し、NFLの進化とリーグが2026シーズンに直面する重要課題について語る",
+      "excerpt_ja": "Nate TiceがDomonique Foxworthと対談。2026年シーズン突入時点でリーグが直面する主要課題を含め、NFLゲームがいかに進化しているかを掘り下げる",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -36,27 +292,11 @@
       "url": "https://sports.yahoo.com/nfl/article/future-of-the-nfl-this-is-how-the-game-is-evolving-with-domonique-foxworth-174842114.html"
     },
     {
-      "kind": "rumor",
-      "title": "ESPN layoffs see wave of top talent depart including Cam Newton and Karl Ravech: updates",
-      "title_ja": "ESPN大規模レイオフ、Cam Newtonら有名人が次々と去る",
-      "excerpt": "On Monday, ESPN announce it was parting ways with NFL analyst Ryan Clark and additional cuts are expected among behind-the-scenes staff",
-      "excerpt_ja": "月曜日、ESPNはNFL解説者Ryan Clarkとの契約解除を発表、スタッフへのさらなるカットが予定されている",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 17:47:06 +0000",
-      "url": "https://sports.yahoo.com/articles/espn-hit-another-wave-layoffs-143653150.html"
-    },
-    {
       "kind": "other",
       "title": "The Giants’ knucklehead circus is the NFL’s most fascinating powderkeg",
-      "title_ja": "Giants混乱劇、NFLで最も目が離せないスキャンダル",
+      "title_ja": "Giantsのカオス劇場はNFL界最高にエキサイティングな火薬樽",
       "excerpt": "Let the show begin.",
-      "excerpt_ja": "ショーの幕が上がる",
+      "excerpt_ja": "ショーが始まろう",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -72,7 +312,7 @@
       "title": "Explaining the biggest difference between the 2025 and 2026 49ers",
       "title_ja": "2025年と2026年の49ersの最大の違いを解説",
       "excerpt": "Identifying the biggest changes year over year between the 49ers. For us, it’s obvious, and it won’t take long to notice",
-      "excerpt_ja": "49ersの年ごとの最大変化を分析。我々にとっては明らか、すぐに気づくだろう",
+      "excerpt_ja": "49ersの年間変動の最大要因を分析。我々にとって明白で、すぐに気づける点だ",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +326,9 @@
     {
       "kind": "other",
       "title": "Bills left tackle Dion Dawkins comes included in NFL’s Top 100 Players of 2026",
-      "title_ja": "Bills左タックルDion DawkinsがNFL Top 100 Players 2026にランクイン",
+      "title_ja": "Bills左タックルDion DawkinsがNFLの2026年トップ100プレイヤーに選出",
       "excerpt": "The Bills left tackle makes the Top 100 list",
-      "excerpt_ja": "Bills左タックルがTop 100リストに選出",
+      "excerpt_ja": "Bills左タックルがトップ100リストにランクイン",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +342,9 @@
     {
       "kind": "signing",
       "title": "Dolphins, Jordyn Brooks agree to extension",
-      "title_ja": "DolphinsとJordyn Brooksが契約延長で合意",
+      "title_ja": "DolphinsがJordyn Brooksとの契約延長で合意",
       "excerpt": "The Dolphins locked up another core piece as they continue their roster rebuild.",
-      "excerpt_ja": "Dolphinsはロスター再構築の中でもう一つのコア選手を確保した",
+      "excerpt_ja": "Dolphinsはロスター再構築の続行中、またひとつのコア選手を確保した",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +358,9 @@
     {
       "kind": "other",
       "title": "Not a Drill: Training Camp is Here!",
-      "title_ja": "本当だ：トレーニングキャンプが始まる！",
+      "title_ja": "速報：トレーニングキャンプが始まった！",
       "excerpt": "Things That Will Catch This Vikings Fan’s Eye",
-      "excerpt_ja": "Vikings ファンが注目したいポイント",
+      "excerpt_ja": "Vikings ファンが注目すべきポイント",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +374,9 @@
     {
       "kind": "rumor",
       "title": "Which NFL player can do the most to impact his legacy in 2026?",
-      "title_ja": "2026年にレガシーを最も高める可能性があるのはどのNFL選手か",
+      "title_ja": "2026年にレガシーに最も影響を与えるNFL選手は誰か？",
       "excerpt": "Which NFL player could benefit most from a Super Bowl win or an MVP trophy in 2026? Legacies defined this season.",
-      "excerpt_ja": "2026年にスーパーボウル優勝かMVP獲得でレガシーを最も高める可能性があるのはどの選手か。今シーズンがレガシーを決める",
+      "excerpt_ja": "2026年にスーパーボウル優勝またはMVPトロフィーで自身のレガシーを確固たるものにできるNFL選手は誰か。レガシーが定義される季節だ",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +390,9 @@
     {
       "kind": "other",
       "title": "Tuesday Cheese Curds: Devonte Wyatt’s contract is a worthwhile risk",
-      "title_ja": "Tuesday Cheese Curds：Devonte Wyattの契約は価値ある冒険",
+      "title_ja": "Tuesday Cheese Curds：Devonte Wyattの契約は価値ある賭け",
       "excerpt": "Like many Packers, Wyatt has been very good when healthy, but staying healthy has been the challenge.",
-      "excerpt_ja": "多くのPackers選手同様、Wyattは健康なときは非常に活躍していたが、健康を保つことが課題だった",
+      "excerpt_ja": "Packersの多くの選手同様、Wyattは健康な時には素晴らしいパフォーマンスを見せるが、怪我の予防が課題だ",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +406,9 @@
     {
       "kind": "other",
       "title": "Las Vegas Raiders undrafted free agents: Meet Jacob Clark",
-      "title_ja": "Las Vegas Raidersドラフト外フリーエージェント：Jacob Clarkを紹介",
+      "title_ja": "Las Vegas Raidersのアンドラフテッドフリーエージェント：Jacob Clarkに会う",
       "excerpt": "Quarterback from Missouri State is looking to stick in program",
-      "excerpt_ja": "Missouri State出身のクォーターバックがプログラムでの生き残りを目指している",
+      "excerpt_ja": "Missouri State出身のQBがこのプログラムでの生き残りを目指す",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +422,9 @@
     {
       "kind": "other",
       "title": "&#39;Hard Knocks&#39; featuring Super Bowl champion Seahawks to debut Aug. 4",
-      "title_ja": "スーパーボウル優勝Seahawks出演『Hard Knocks』8月4日デビュー",
+      "title_ja": "スーパーボウル制覇SeahawksのHard Knocksが8月4日に初放映",
       "excerpt": "It&#39;s the first time a reigning Super Bowl winner will appear on the show since 2001.",
-      "excerpt_ja": "スーパーボウル優勝チームの出演は2001年以来初となる",
+      "excerpt_ja": "2001年以来、現スーパーボウルチャンピオンがこの番組に出演するのは初めてのこと",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +438,9 @@
     {
       "kind": "trade",
       "title": "Jonathan Greenard: My job is to help Nolan Smith, Jalyx Hunt continue to grow",
-      "title_ja": "Jonathan Greenard：僕の役割はNolan SmithとJalyx Huntの成長を助けることだ",
+      "title_ja": "Jonathan Greenard：俺の役目はNolan SmithとJalyx Huntの成長を助けること",
       "excerpt": "The Eagles traded for veteran edge rusher Jonathan Greenard in April and signed him to a new four-year contract because they think he can make an impact for them on the field.",
-      "excerpt_ja": "Eagles は4月にベテランパスラッシャーJonathan Greenardをトレードで獲得し、4年契約で再契約を結んだ。彼がフィールドでインパクトを与えると考えている",
+      "excerpt_ja": "Eaglesは4月にベテランエッジラッシャーJonathan Greenardをトレードで獲得し、4年間の新契約を締結。フィールドでの活躍に期待している",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +454,9 @@
     {
       "kind": "other",
       "title": "Ryan Clark, Karl Ravech and Cam Newton exit ESPN in round of layoffs",
-      "title_ja": "Ryan Clark、Karl Ravech、Cam Newtonが大規模レイオフでESPNを去る",
+      "title_ja": "Ryan ClarkとKarl RavechとcCam NewtonがESPN人員削減で退社",
       "excerpt": "Most of the cuts announced Tuesday are tied to ESPN&#39;s acquisition of the NFL Network.",
-      "excerpt_ja": "火曜日に発表されたカットの多くはESPNのNFL Network買収に関連している",
+      "excerpt_ja": "火曜日に発表された削減の大部分はESPNのNFL Network買収に関連している",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -228,43 +468,11 @@
       "url": "https://sports.yahoo.com/articles/ryan-clark-karl-ravech-exit-164046820.html"
     },
     {
-      "kind": "other",
-      "title": "The Rams starter under the most pressure to keep his job",
-      "title_ja": "Rams先発選手の中で最もポジション維持に追い詰められているのは誰か",
-      "excerpt": "Will starting linebacker Omar Speights fend off Rams competition?",
-      "excerpt_ja": "先発ラインバッカーOmar Speightsがramsの競争を制し続けられるか",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 16:38:09 +0000",
-      "url": "https://sports.yahoo.com/articles/rams-starter-under-most-pressure-163809246.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Tom Pelissero had a year left on his NFLN deal",
-      "title_ja": "Tom PelisseroはNFLN契約にあと1年を残していた",
-      "excerpt": "When ESPN acquired NFL Network, frayed nerves at NFLN were calmed by the news that ESPN would honor the existing contracts with on-air personnel, and that ESPN would make a decision when the current deals end.",
-      "excerpt_ja": "ESPNがNFL Networkを買収した際、NFLN関係者の不安はESPNがオンエア人員の既存契約を尊重し、現在の契約終了時に判断することで和らいだ",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 16:37:38 +0000",
-      "url": "https://sports.yahoo.com/articles/tom-pelissero-had-left-nfln-163738279.html"
-    },
-    {
       "kind": "rumor",
       "title": "NFL news, live updates: Dolphins extend All-Pro LB Jordyn Brooks; Rookies report for training camp as offseason activities ramp up",
-      "title_ja": "NFL最新ニュース：DolphinsがAll-Pro LB Jordyn Brooksと契約延長、ルーキーがトレーニングキャンプに報告開始",
+      "title_ja": "NFL速報：Dolphins All-Pro LB Jordyn Brooksと契約延長、ルーキーらがトレーニングキャンプに報告、オフシーズン活動が加速",
       "excerpt": "Follow along with the latest NFL news and updates as training camps around the league kick off.",
-      "excerpt_ja": "リーグ各地でトレーニングキャンプが開幕する中、最新NFLニュースを追いかけよう",
+      "excerpt_ja": "トレーニングキャンプがリーグ全体で開幕する中、最新のNFLニュースと速報をフォローしましょう",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -277,202 +485,106 @@
     },
     {
       "kind": "rumor",
-      "title": "Five Questions Surrounding The Chicago Bears Heading Into Training Camp",
-      "title_ja": "シカゴ Bears トレーニングキャンプに向けての5つの疑問",
-      "excerpt": "Bears rookies report this week, which means training camp is almost here. Here are five questions heading into camp from @AaronLemingNFL.",
-      "excerpt_ja": "Bears ルーキーが今週報告予定、トレーニングキャンプまであと少し。@AaronLemingNFLから、キャンプ前の5つの質問をピックアップ",
+      "title": "Netflix is expected to have Noah Eagle call play-by-play for 49ers-Rams in Australia",
+      "title_ja": "NetflixがオーストラリアでのNiners-Ramsの試合にNoah Eagleの実況を起用予定",
+      "excerpt": "Netflix is expected to have Noah Eagle on the play-by-play call for the second game of the 2026 NFL regular season.",
+      "excerpt_ja": "2026年NFL通常シーズンの第2週、NetflixがNoah Eagleを実況担当で起用する見通し",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
+      "reliability": 0.54,
+      "team_abbrev": "LAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 16:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/five-questions-surrounding-chicago-bears-163000304.html"
+      "published_at": "Tue, 21 Jul 2026 15:42:04 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-is-expected-to-have-noah-eagle-call-play-by-play-for-49ers-rams-in-australia"
     },
     {
       "kind": "injury",
-      "title": "Ryan Clark breaks silence, comments on ESPN layoff in series of posts",
-      "title_ja": "Ryan ClarkがESPNレイオフについて沈黙を破る、SNSで連投",
-      "excerpt": "Ryan Clark reacted to being laid off by ESPN with a pair of social media posts on July 21, including one with &quot;proof of life&quot; evidence.",
-      "excerpt_ja": "Ryan ClarkはESPNからのレイオフに対し、7月21日に複数のSNS投稿で反応、証拠の投稿も含まれていた",
+      "title": "Panthers put CB Jaylon Guilbeau on NFI list",
+      "title_ja": "PanthersがCB Jaylon GuilbeauをNFI（非フットボール負傷）リストに登録",
+      "excerpt": "The Panthers have added another player to their non-football injury list.",
+      "excerpt_ja": "Panthersがさらに1人の選手をNFIリストに追加登録した",
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 16:24:21 +0000",
-      "url": "https://sports.yahoo.com/articles/ryan-clark-breaks-silence-comments-162421595.html"
-    },
-    {
-      "kind": "other",
-      "title": "Fernando Mendoza, Tyler Shough top NFLPA&#39;s Rising Stars list",
-      "title_ja": "Fernando MendozaとTyler ShoughがNFLPA Rising Starsリストのトップに",
-      "excerpt": "The NFL Players Association released its annual Rising Stars list on Tuesday and the first overall pick of this year&#39;s draft is one of the players at the top.",
-      "excerpt_ja": "NFL Players AssociationがRising Starsリストを発表、今ドラフトの全体1位選手もトップに名を連ねている",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 16:22:02 +0000",
-      "url": "https://sports.yahoo.com/articles/fernando-mendoza-tyler-shough-top-162202571.html"
-    },
-    {
-      "kind": "other",
-      "title": "2026 Fantasy Football Rankings: Analysis for players ranked 13-24 in Half-PPR",
-      "title_ja": "2026ファンタジーフットボールランキング：Half-PPRで13位～24位の選手分析",
-      "excerpt": "Fantasy Football analyst Hayden Winks provides analysis for his players ranked 13-24 for 2026.",
-      "excerpt_ja": "ファンタジーフットボール解説者Hayden Winksが2026年の13～24位選手について分析",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 16:05:36 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-rankings-analysis-for-players-ranked-13-24-in-half-ppr-160536658.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Jordyn Brooks, Dolphins agree to three-year extension",
-      "title_ja": "Jordyn BrooksとDolphinsが3年契約延長で合意",
-      "excerpt": "After leading the league in tackles last season, Brooks has agreed to a new contract to keep him off the free agent market next March.",
-      "excerpt_ja": "昨シーズンリーグトップのタックル数を記録したBrooksは、来年3月のフリーエージェント市場を避けるため新契約に合意した",
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.54,
-      "team_abbrev": "MIA",
+      "team_abbrev": "CAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 16:01:45 +0000",
-      "url": "https://sports.yahoo.com/articles/jordyn-brooks-dolphins-agree-three-160145118.html"
+      "published_at": "Tue, 21 Jul 2026 15:31:04 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-put-cb-jaylon-guilbeau-on-nfi-list"
+    },
+    {
+      "kind": "presser",
+      "title": "ESPN ties layoffs to NFL Network acquisition",
+      "title_ja": "ESPNがNFL Network買収に人員削減を結びつけ",
+      "excerpt": "One of my all-time favorite jokes (which may or may not be the untold \"joke\" from Big Shield) is a simple one that was told by David Letterman during a week of shows from Las Vegas in 1987.",
+      "excerpt_ja": "俺が今までで好きなジョークの一つは（『Big Shield』の未公開ジョークかもしれないが）、1987年ラスベガスからのDavid Lettermanの番組で語られたシンプルなものだ",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 21 Jul 2026 15:10:18 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-ties-layoffs-to-nfl-network-acquisition"
     },
     {
       "kind": "rumor",
-      "title": "Former NFL QB Cam Newton among ESPN layoffs, per reports",
-      "title_ja": "元NFL QBのCam NewtonがESPNレイオフに含まれる",
-      "excerpt": "Stephen A. Smith will need a new NFL debate partner on &#39;First Take.&#39; Cam Newton will no longer hold down the role after being laid off by ESPN.",
-      "excerpt_ja": "Stephen A. Smithが『First Take』での新しいNFL対談相手を必要とする。Cam NewtonはESPNのレイオフで職を失った",
+      "title": "Report: Jacoby Brissett, Cardinals still have no resolution to contract dispute",
+      "title_ja": "報道：Jacoby BrissettとCardinalsがまだ契約紛争の解決に至らず",
+      "excerpt": "The Cardinals report to training camp on Wednesday.",
+      "excerpt_ja": "Cardinalsは水曜日にトレーニングキャンプに報告する予定だ",
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 16:01:30 +0000",
-      "url": "https://sports.yahoo.com/articles/former-nfl-qb-cam-newton-160130261.html"
-    },
-    {
-      "kind": "other",
-      "title": "The 3 biggest questions the Cowboys will need to answer in training camp",
-      "title_ja": "Cowboysがトレーニングキャンプで答えなければならない3つの大きな質問",
-      "excerpt": "Training camp is going to answer so many questions.",
-      "excerpt_ja": "トレーニングキャンプは数多くの質問への答えをもたらすだろう",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 16:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/3-biggest-questions-cowboys-answer-160000311.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Dolphins reportedly sign All-Pro linebacker Jordyn Brooks to 3-year, $51.3 million extension",
-      "title_ja": "DolphinsがAll-Pro LB Jordyn Brooksと3年総額5,130万ドルの契約延長で署名と報道",
-      "excerpt": "Jordyn Brooks is coming off his first All-Pro selection.",
-      "excerpt_ja": "Jordyn Brooksは初のAll-Pro選出シーズンを終えたばかり",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 15:47:30 +0000",
-      "url": "https://sports.yahoo.com/nfl/breaking-news/article/dolphins-reportedly-sign-all-pro-linebacker-jordyn-brooks-to-3-year-513-million-extension-154730423.html"
-    },
-    {
-      "kind": "other",
-      "title": "The Jets just unveiled new helmets. Do you like them?",
-      "title_ja": "Jetsが新しいヘルメットをお披露目。気に入った？",
-      "excerpt": "The Jets have rolled out white helmets which the team says will debut in the Week 2 home opener against the Green Bay Packers. The Jets will be wearing white jerseys for the game as well. It will be part of a “white out” where fans will be encouraged to wear white Jets apparel. The […]",
-      "excerpt_ja": "Jetsが白いヘルメットをお披露目、Week 2のGreen Bay Packersホームゲームでのデビューとチームは発表。この試合でも白いジャージを着用予定。ファンは白いJetsアパレルの着用が推奨される『white out』企画の一環となる",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 15:36:31 +0000",
-      "url": "https://sports.yahoo.com/articles/jets-just-unveiled-helmets-them-153631612.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cardinals roster: Training Camp CB Outlook",
-      "title_ja": "Cardinals ロスター：トレーニングキャンプCBの見通し",
-      "excerpt": "Strength of the defense? Or a hospital ward?",
-      "excerpt_ja": "ディフェンスの強さか、それとも医療施設か",
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "ARI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 15:30:15 +0000",
-      "url": "https://sports.yahoo.com/articles/cardinals-roster-training-camp-cb-153015705.html"
+      "published_at": "Tue, 21 Jul 2026 14:50:18 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jacoby-brissett-cardinals-still-have-no-resolution-to-contract-dispute"
     },
     {
-      "kind": "rumor",
-      "title": "First players report to Patriots training camp on Tuesday",
-      "title_ja": "Patriots トレーニングキャンプに最初の選手が火曜日に報告",
-      "excerpt": "Rookies and quarterbacks have begun checking into Gillette Stadium.",
-      "excerpt_ja": "ルーキーとQBがGillette Stadiumへのチェックインを開始",
+      "kind": "other",
+      "title": "Panthers to place CB Jaycee Horn, OT Taylor Moton on NFI list",
+      "title_ja": "PanthersがCB Jaycee HornとOT Taylor MotonをNFIリストに登録予定",
+      "excerpt": "Carolina will not have two key veterans when they begin training camp.",
+      "excerpt_ja": "Carolinaはトレーニングキャンプ開始時点で2人の主力ベテランを欠くことになる",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NE",
+      "team_abbrev": "CAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 15:29:51 +0000",
-      "url": "https://sports.yahoo.com/articles/first-players-report-patriots-training-152951856.html"
+      "published_at": "Tue, 21 Jul 2026 14:47:45 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-to-place-cb-jaycee-horn-ot-taylor-moton-on-nfi-list"
     },
     {
       "kind": "injury",
-      "title": "From Malik Nabers to Patrick Mahomes, here are the injuries you need to note for 2026 fantasy football",
-      "title_ja": "Malik NabersからPatrick Mahomesまで、2026ファンタジーフットボールで注視すべき怪我",
-      "excerpt": "Here, we&#39;ll go over some key injuries from last season and what their impact may be on fantasy football for 2026.",
-      "excerpt_ja": "昨シーズンの主要な怪我と2026ファンタジーフットボールへの影響を紹介",
+      "title": "INDYCAR Power Rankings: Look Out, Here Comes Josef Newgarden",
+      "title_ja": "INDYCARパワーランキング：注目はJosef Newgardenだ",
+      "excerpt": "Look out! Josef Newgarden is soaring but so is an injured David Malukas.",
+      "excerpt_ja": "Josef Newgardenが好調だ。けが人のDavid Malukas も上昇中",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 15:29:47 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/from-malik-nabers-to-patrick-mahomes-here-are-the-injuries-you-need-to-note-for-2026-fantasy-football-152947326.html"
+      "published_at": "Tue, 21 Jul 2026 14:39:58 -0400",
+      "url": "https://www.foxsports.com/stories/motor/indycar-power-rankings-josef-newgarden-rises-after-nashville"
     },
     {
       "kind": "injury",
       "title": "NASCAR Power Rankings: Joey Logano Is Back But Watch Out For SVG",
-      "title_ja": "NASCARパワーランキング：Joey LoganoがジャンプバックもSVGに注視",
+      "title_ja": "NASCARパワーランキング：Joey Loganoが復帰、SVGに要注目",
       "excerpt": "Joey Logano finally found his way back into the rankings, but there's another driver who's proving he might not be just a one-trick pony.",
-      "excerpt_ja": "Joey Loganoがようやくランキングに戻ったが、注視すべき別のドライバーがいる",
+      "excerpt_ja": "Joey Loganoがようやくランキングに戻ってきたが、一発屋ではないことを証明するドライバーがいる",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -486,9 +598,9 @@
     {
       "kind": "other",
       "title": "2026 NFL Odds: Which Division Loser Can Go Worst To First?",
-      "title_ja": "2026 NFLオッズ：どのディビジョン最下位チームが最大躍進する可能性があるか",
+      "title_ja": "2026年NFLオッズ：最下位から優勝へ。逆転優勝の可能性がある地区最下位チームは？",
       "excerpt": "Which last-place division finisher has a chance to reverse course next season? See the odds for if a team can go worst to first.",
-      "excerpt_ja": "前シーズン最下位だったチームが来シーズン優勝する可能性は。Worst to Firstを達成できるチームのオッズを見よう",
+      "excerpt_ja": "前年度最下位から逆転優勝の可能性がありますか？ワースト・トゥ・ファーストを達成するチームのオッズをチェック",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -500,27 +612,11 @@
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-division-loser-can-go-worst-first"
     },
     {
-      "kind": "rumor",
-      "title": "ESPN to reportedly lay off Tom Pelissero, Karl Ravech and Cam Newton",
-      "title_ja": "ESPNがTom Pelissero、Karl Ravech、Cam Newtonらをレイオフへ",
-      "excerpt": "Karl Ravech joined ESPN back in 1993.",
-      "excerpt_ja": "Karl Ravechは1993年にESPNに加わった",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 21 Jul 2026 13:36:33 +0000",
-      "url": "https://sports.yahoo.com/mlb/article/espn-to-reportedly-lay-off-tom-pelissero-karl-ravech-and-cam-newton-133633351.html"
-    },
-    {
       "kind": "other",
       "title": "BetMGM Bonus Code FOXSPORTS: $1500 in Bonus Bets if Your First Bet Loses",
-      "title_ja": "BetMGMボーナスコードFOXSPORTS：初回ベット喪失時に最大1,500ドルのボーナスベット",
+      "title_ja": "BetMGMボーナスコードFOXSPORTS：初回ベット敗北時に$1500のボーナスベット",
       "excerpt": "Use BetMGM Bonus Code FOXSPORTS to get up to $1,500 back in Bonus Bets if your first wager loses. Claim your BetMGM welcome offer today.",
-      "excerpt_ja": "BetMGMボーナスコードFOXSPORTSを使用して、初回ベットが外れた場合最大1,500ドルをボーナスベットで回収。今すぐウェルカムオファーを獲得しよう",
+      "excerpt_ja": "BetMGMボーナスコードFOXSPORTSを使用して、初回ベット敗北時に最大$1,500のボーナスベットを獲得。本日からBetMGMウェルカムオファーを申請しましょう",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -534,9 +630,9 @@
     {
       "kind": "other",
       "title": "Underdog Promo Code FOXSPORTS: Play $5 Get $50 in Bonus Entries",
-      "title_ja": "Underdog プロモコードFOXSPORTS：5ドル投じて50ドルのボーナスエントリー獲得",
+      "title_ja": "Underdogプロモコード FOXSPORTS：$5をプレイして$50のボーナスエントリーを獲得",
       "excerpt": "Claim the Underdog Fantasy promo code and unlock $50 in bonus cash when you play just $5. Learn how to claim, terms, app features, and more.",
-      "excerpt_ja": "Underdog Fantasyプロモコードを利用して、わずか5ドルで50ドルのボーナスを獲得。利用方法、規約、アプリ機能など詳細を確認しよう",
+      "excerpt_ja": "Underdogファンタジープロモコードを申請して、わずか$5のプレイで$50のボーナスキャッシュを獲得。申請方法、規約、アプリ機能などを詳しく解説",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -550,9 +646,9 @@
     {
       "kind": "other",
       "title": "John Harbaugh on Cam Skattebo backflip: \"Dude, at least stick it\"",
-      "title_ja": "John HarbaughがCam Skatteboのバックフリップについてコメント：『おい、せめて着地を決めてくれ』",
+      "title_ja": null,
       "excerpt": "Giants running back Cam Skattebo was tempting fate when he decided to do a backflip at Fanatics Fest over the weekend.",
-      "excerpt_ja": "Giants RB Cam Skatteboは週末のFantastics Festでバックフリップを披露し、運を試していた",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -566,9 +662,9 @@
     {
       "kind": "other",
       "title": "Cam Newton is laid off by ESPN, too",
-      "title_ja": "Cam Newtonもレイオフ対象、ESPNから去る",
+      "title_ja": null,
       "excerpt": "The latest round of ESPN layoffs is impacting plenty of recognizable names — including a former NFL MVP.",
-      "excerpt_ja": "火曜日のESPN大規模レイオフは元NFL MVP を含む著名人に大きな影響を与えている",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -582,9 +678,9 @@
     {
       "kind": "trade",
       "title": "Jonathan Greenard: My job is to help Nolan Smith, Jalyx Hunt continue to grow",
-      "title_ja": "Jonathan Greenard：僕の役割はNolan SmithとJalyx Huntの成長を助けることだ",
+      "title_ja": null,
       "excerpt": "The Eagles traded for veteran edge rusher Jonathan Greenard in April and signed him to a new four-year contract because they think he can make an impact for them on the field.",
-      "excerpt_ja": "Eagles は4月にベテランパスラッシャーJonathan Greenardをトレードで獲得し、4年契約で再契約を結んだ。彼がフィールドでインパクトを与えると考えている",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -598,13 +694,13 @@
     {
       "kind": "trade",
       "title": "Tom Pelissero had a year left on his NFLN deal",
-      "title_ja": "Tom PelisseroはNFLN契約にあと1年を残していた",
+      "title_ja": null,
       "excerpt": "When ESPN acquired NFL Network, frayed nerves at NFLN were calmed by the news that ESPN would honor the existing contracts with on-air personnel, and that ESPN would make a decision when the current deals end.",
-      "excerpt_ja": "ESPNがNFL Networkを買収した際、NFLN関係者の不安はESPNがオンエア人員の既存契約を尊重し、現在の契約終了時に判断することで和らいだ",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
@@ -614,9 +710,9 @@
     {
       "kind": "rumor",
       "title": "2026 NFL Offseason Buzz: Miami Dolphins Extend LB Jordyn Brooks",
-      "title_ja": "2026 NFLオフシーズンバズ：Miami Dolphins がLB Jordyn Brooksと契約延長",
+      "title_ja": null,
       "excerpt": "Here's the latest offseason buzz and rumors around the NFL.",
-      "excerpt_ja": "NFLオフシーズンの最新バズと噂をお届けする",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -630,9 +726,9 @@
     {
       "kind": "other",
       "title": "Fernando Mendoza, Tyler Shough top NFLPA's Rising Stars list",
-      "title_ja": "Fernando MendozaとTyler ShoughがNFLPA Rising Starsリストのトップに",
+      "title_ja": null,
       "excerpt": "The NFL Players Association released its annual Rising Stars list on Tuesday and the first overall pick of this year's draft is one of the players at the top.",
-      "excerpt_ja": "NFL Players AssociationがRising Starsリストを発表、今ドラフトの全体1位選手もトップに名を連ねている",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -684,7 +780,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "MIA",
       "player_name": null,
       "coach_name": null,
@@ -837,7 +933,7 @@
     },
     {
       "kind": "other",
-      "title": "MLB 2026 Buzz: Royals Superstar Bobby Witt Jr. Leaves Game With Back Issue",
+      "title": "MLB 2026 Buzz: White Sox Place C Kyle Teel On IL",
       "title_ja": null,
       "excerpt": "Notable news, notes and buzz from MLB's 2026 season.",
       "excerpt_ja": null,
@@ -1234,86 +1330,6 @@
       "coach_name": null,
       "published_at": "Mon, 20 Jul 2026 17:19:42 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-espn-cuts-ties-with-ryan-clark"
-    },
-    {
-      "kind": "presser",
-      "title": "Missouri RB Ahmad Hardy medically cleared from gunshot wound, but return still TBD",
-      "title_ja": null,
-      "excerpt": "Missouri running back Ahmad Hardy is medically cleared from a gunshot wound to the leg, but coach Eli Drinkwitz said Monday that a timetable for Hardy's return remains uncertain.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 20 Jul 2026 16:58:53 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/missouri-rb-ahmad-hardy-medically-cleared-from-gunshot-wound-but-return-still-tbd"
-    },
-    {
-      "kind": "injury",
-      "title": "Broncos are expected to re-hire Michael Wilhoite as a member of their staff",
-      "title_ja": null,
-      "excerpt": "The Broncos are expected to re-hire outside linebackers coach Michael Wilhoite as a member of the staff, Matt Zenitz of CBS Sports reports.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 20 Jul 2026 16:29:47 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-are-expected-to-re-hire-michael-wilhoite-as-a-member-of-their-staff"
-    },
-    {
-      "kind": "other",
-      "title": "Seahawks place Nick Emmanwori, Kenny McIntosh, Tyrone Broden on PUP list",
-      "title_ja": null,
-      "excerpt": "One of Seattle’s key defensive players is not yet ready to practice at training camp.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 20 Jul 2026 16:25:38 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-place-nick-emmanwori-kenny-mcintosh-tyrone-broden-on-pup-list"
-    },
-    {
-      "kind": "other",
-      "title": "CFL LB Jayden Dalke killed in a wreck",
-      "title_ja": null,
-      "excerpt": "CFL linebacker Jayden Dalke was killed in a wreck Saturday night.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 20 Jul 2026 16:04:25 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cfl-lb-jayden-dalke-killed-in-a-wreck"
-    },
-    {
-      "kind": "signing",
-      "title": "Devonte Wyatt agrees to three-year extension with Packers",
-      "title_ja": null,
-      "excerpt": "Packers defensive tackle Devonte Wyatt is no longer in the final year of his contract.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 20 Jul 2026 15:24:05 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devonte-wyatt-agrees-to-three-year-extension-with-packers"
     },
     {
       "kind": "other",

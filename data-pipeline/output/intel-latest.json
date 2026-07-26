@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-07-26T06:21:24.105971+00:00",
-  "count": 112,
+  "generated_at": "2026-07-26T08:57:44.773662+00:00",
+  "count": 114,
   "items": [
     {
       "kind": "injury",
       "title": "NFL training camp news, live updates: Kyle Shanahan injured in car wreck; Patriots make Christian Gonzalez a hefty offer; Patrick Mahomes cleared",
-      "title_ja": "NFLトレーニングキャンプ速報：Kyle Shanahan自動車事故で負傷、Patriotsが Christian Gonzalezに大型契約を提示、Patrick Mahomesはクリア",
+      "title_ja": "NFL training camp最新情報：Kyle Shanahan自動車事故で負傷、Patriotsが Christian Gonzalez に大型契約提示、Patrick Mahomes は出場可能",
       "excerpt": "Follow along with the latest NFL news and updates as training camps around the league kick off.",
-      "excerpt_ja": "各地でトレーニングキャンプが開始され、NFLの最新ニュースと速報を随時お伝えします。",
+      "excerpt_ja": "リーグ各地のトレーニングキャンプが始動する中、NFL最新ニュースをお届けします。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -21,10 +21,42 @@
     },
     {
       "kind": "injury",
+      "title": "Giants waive linebacker Cam Jones and defensive lineman C.J. Ravenell",
+      "title_ja": "Giants が LB Cam Jones とDL C.J. Ravenell をウェーバーに出す",
+      "excerpt": "The Giants opened up two spots on their 90-player roster ahead of training camp.",
+      "excerpt_ja": "Giants はトレーニングキャンプ開始前に90人ロスターの2枠を空けた。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 08:11:14 +0000",
+      "url": "https://sports.yahoo.com/articles/giants-waive-linebacker-cam-jones-081114763.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Giants waive linebacker Cam Jones and defensive lineman C.J. Ravenell",
+      "title_ja": "Giants が LB Cam Jones とDL C.J. Ravenell をウェーバーに出す",
+      "excerpt": "The Giants opened up two spots on their 90-player roster ahead of training camp.",
+      "excerpt_ja": "Giants はトレーニングキャンプ開始前に90人ロスターの2枠を空けた。",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 04:11:14 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-waive-linebacker-cam-jones-and-defensive-lineman-c-j-ravenell"
+    },
+    {
+      "kind": "injury",
       "title": "Seahawks training camp 2026: News, notes, quotes, and highlights from Day 1",
-      "title_ja": "Seahawks 2026年トレーニングキャンプ初日：ニュース、注目点、コメント、ハイライト",
+      "title_ja": "Seahawks 2026年トレーニングキャンプ：初日のニュース、ノート、コメント、ハイライト",
       "excerpt": "The Seahawks got their 2026 training camp underway, and the best news is a lack of injury news to report.",
-      "excerpt_ja": "Seahawksが2026年のトレーニングキャンプをスタートさせた。何より良いニュースは、目立った怪我の報告がないことだ。",
+      "excerpt_ja": "Seahawks が2026年のトレーニングキャンプを開始したが、何より良いニュースは傷害報告がないことだ。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +70,9 @@
     {
       "kind": "rumor",
       "title": "Report: NFLPA investigating Panthers for possible CBA violation. Here&#39;s why",
-      "title_ja": "報道：NFLPAがPanthersへのCBA違反の可能性で調査を実施。その理由は",
+      "title_ja": "レポート：NFLPA が Panthers の CBA 違反の可能性で調査。その理由は",
       "excerpt": "The NFL Players Association is investigating the Carolina Panthers for the circumstances surrounding Nic Scourton&#39;s recent ACL tear.",
-      "excerpt_ja": "全米アメフト選手会（NFLPA）が、Nic Scourtonの最近のACL損傷を巡る経緯について、Carolina Panthersを調査している。",
+      "excerpt_ja": "NFL選手会が、Nic Scourton の最近の ACL 損傷の経緯について Carolina Panthers の調査に入った。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +86,9 @@
     {
       "kind": "other",
       "title": "Kevin Dotson shows full Rams spirit ahead of 2026 training camp",
-      "title_ja": "Kevin Dotson、2026年トレーニングキャンプ前にRamsの一員ぶりを全力でアピール",
+      "title_ja": "Kevin Dotson が2026年トレーニングキャンプ前に Rams の精神を全面的に表現",
       "excerpt": "Kevin Dotson did not need a jersey to make it clear which team he plays for when he arrived at Los Angeles Rams training camp.",
-      "excerpt_ja": "Kevin DotsonはLos Angeles Ramsのトレーニングキャンプに到着した時、ユニフォームなしでも自分がどのチームに所属しているかを示していた。",
+      "excerpt_ja": "Kevin Dotson は Los Angeles Rams のトレーニングキャンプに到着した際、ジャージなしでもどのチームでプレーしているかを明確に示した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +102,9 @@
     {
       "kind": "other",
       "title": "Mike Macdonald noncommittal on S Nick Emmanwori&#39;s availability for Week 1",
-      "title_ja": "Mike Macdonald、S Nick EmmanworiのWeek 1出場可能性について明言を避ける",
+      "title_ja": "Mike Macdonald、S Nick Emmanwori の Week 1 出場可能性について言及を避ける",
       "excerpt": "Seahawks safety Nick Emmanwori required arthroscopic surgery on his right ankle earlier this month.",
-      "excerpt_ja": "Seahawks safety Nick Emmanworiは今月初め、右足首の関節鏡手術を受けた。",
+      "excerpt_ja": "Seahawks セーフティの Nick Emmanwori は先月、右足首の関節鏡手術を受けた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +118,9 @@
     {
       "kind": "other",
       "title": "NFC East training camp preview: New-look Giants try to make waves in tight division",
-      "title_ja": "NFC East トレーニングキャンプ展望：新体制Giants、激戦区で躍進を狙う",
+      "title_ja": "NFC East トレーニングキャンプ展望：新布陣の Giants が激戦区で波乱を起こそうと狙う",
       "excerpt": "The Post&#39;s Ryan Dunleavy previews the NFC East ahead of training camp.",
-      "excerpt_ja": "本紙Ryan Dunleavyがトレーニングキャンプに向けてNFC Eastを展望。",
+      "excerpt_ja": "The Post の Ryan Dunleavy がトレーニングキャンプ前の NFC East を展望します。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +134,9 @@
     {
       "kind": "injury",
       "title": "49ers’ Fred Warner ‘full throttle’ to open training camp, plus updates on Bosa, Kittle, Aiyuk",
-      "title_ja": "49ers' Fred Warner『全力疾走』でトレーニングキャンプ開始、Bosa、Kittle、Aiyukの情報も",
+      "title_ja": "49ers の Fred Warner が'全力疾走'でキャンプインへ、Bosa、Kittle、Aiyuk の情報も",
       "excerpt": "The biggest questions that were expected to define the 49ers’ training camp played second fiddle to the health of their head coach on the team’s first day together.",
-      "excerpt_ja": "49ersのトレーニングキャンプを特徴づけるはずだった大きな注目点は、初日にヘッドコーチの健康問題に後回しにされた。",
+      "excerpt_ja": "49ers のトレーニングキャンプを左右すると予想されていた主な課題は、初日の練習で HC Kyle Shanahan の健康状態のニュースに後回しにされた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +150,9 @@
     {
       "kind": "other",
       "title": "Your Miami Dolphins 2026 Sleeper",
-      "title_ja": "Miami Dolphins 2026年の穴狙い選手",
+      "title_ja": "あなたの Miami Dolphins 2026年のダークホース候補",
       "excerpt": "Miami Dolphins fans share which player they belive will emerge as a sleeper to make the 2026 roster.",
-      "excerpt_ja": "Dolphins ファンが、2026年のロースター入りを狙う穴狙い選手として誰が出てくると考えているかをシェア。",
+      "excerpt_ja": "Miami Dolphins ファンが、2026年ロスター獲得に向けて台頭すると考える選手を挙げています。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +166,9 @@
     {
       "kind": "other",
       "title": "AFC East training camp preview 2026: Patriots vying for division repeat after tumultuous offseason",
-      "title_ja": "AFC East トレーニングキャンプ展望 2026：Patriotsが激動のオフシーズンを経てディビジョン連覇を狙う",
+      "title_ja": "AFC East トレーニングキャンプ展望2026：Patriots がオフシーズンの波乱の後、地区連覇を狙う",
       "excerpt": "The Post&#39;s Ryan Dunleavy previews the AFC East ahead of training camp.",
-      "excerpt_ja": "本紙Ryan Dunleavyがトレーニングキャンプに向けてAFC Eastを展望。",
+      "excerpt_ja": "The Post の Ryan Dunleavy がトレーニングキャンプ前の AFC East を展望します。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +182,9 @@
     {
       "kind": "injury",
       "title": "Ravens DT Nnamdi Madubuike lands on PUP but cleared to return",
-      "title_ja": "Ravens DT Nnamdi Madubuike、PUPリストに登録も復帰がクリア",
+      "title_ja": "Ravens DT Nnamdi Madubuike が PUP に指定されるも、復帰可能とクリア",
       "excerpt": "Ravens defensive tackle Nnamdi Madubuike injured his neck in Week 2 last season and has not seen the field since.",
-      "excerpt_ja": "Ravens DT Nnamdi Madubuikeは昨シーズンWeek 2で首を怪我し、それ以来フィールドに立っていない。",
+      "excerpt_ja": "Ravens DL Nnamdi Madubuike は昨シーズン第2週に首を負傷しており、それ以来フィールドに出ていない。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +198,9 @@
     {
       "kind": "rumor",
       "title": "Ravens place Nnamdi Madubuike, Travis Jones and others on PUP list",
-      "title_ja": "Ravens、Nnamdi Madubuike、Travis Jones他をPUPリストに配置",
+      "title_ja": "Ravens が Nnamdi Madubuike、Travis Jones ら PUP リストに指定",
       "excerpt": "On Saturday evening, the Ravens officially placed defensive lineman Nnamdi Madubuike on the Physically Unable to Perform (PUP) list, as reported by The Athletic’s Jeff Zrebeic. In addition to Madbuike, they also placed several other players on the PUP list: DT Travis Jones, ILB Teddye Buchanan, CB B",
-      "excerpt_ja": "土曜夜、Ravensは正式にDL Nnamdi Madubuikeを故障者名簿（PUP）に登録した。The AthleticのJeff Zrebcicの報道による。Madubuike他、複数選手がPUPリストに登録された：DT Travis Jones、ILB Teddye Buchanan、CB B",
+      "excerpt_ja": "土曜夜、Ravens は DL Nnamdi Madubuike を Physically Unable to Perform（PUP）リストに正式指定した（The Athletic の Jeff Zrebeic 報道）。Madubuike に加え、他数名の選手も PUP リストに指定：DT Travis Jones、ILB Teddye Buchanan、CB B",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +214,9 @@
     {
       "kind": "rumor",
       "title": "What’s the ceiling on the Rams edge unit?",
-      "title_ja": "Ramsのエッジラッシャー陣の上限はどこか？",
+      "title_ja": "Rams のエッジラッシャー陣の上限はどこか？",
       "excerpt": "Potentially one of the best in the NFL",
-      "excerpt_ja": "NFL全体でも屈指の可能性を秘める",
+      "excerpt_ja": "NFL でも最高級の可能性がある",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +230,9 @@
     {
       "kind": "rumor",
       "title": "Despite ongoing legal issue, Alaric Jackson will practice with Rams",
-      "title_ja": "法的問題が続く中、Alaric JacksonはRamsと練習予定",
+      "title_ja": "法的問題が続く中、Alaric Jackson は Rams と練習を行う予定",
       "excerpt": "Even though Rams tackle Alaric Jackson won&#39;t be charged with a felony following an offseason domestic battery accusation, he could be entering a diversion program in lieu of a misdemeanor prosecution.",
-      "excerpt_ja": "Rams T Alaric Jacksonはオフシーズンの暴力事件の容疑で重罪起訴は免れたが、軽罪起訴の代わりに転向プログラムに参加する可能性がある。",
+      "excerpt_ja": "Rams タックルの Alaric Jackson はオフシーズンの家庭内暴力疑惑で重罪起訴はされないが、軽罪起訴の代わりに転向プログラムに入る可能性がある。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +246,9 @@
     {
       "kind": "other",
       "title": "Chicago Bears 2026 Training Camp Position Breakdown: The Specialists",
-      "title_ja": "Chicago Bears 2026年トレーニングキャンプ ポジション別展望：スペシャリスト",
+      "title_ja": "Chicago Bears 2026年トレーニングキャンプ ポジション別分析：スペシャルティーズ",
       "excerpt": "Next up in his training camp preview series, @wiltfongjr looks at the Chicago Bears specialists!",
-      "excerpt_ja": "トレーニングキャンプ展望シリーズの次は、@wiltfongjr がChicago Bearsのスペシャリストに注目！",
+      "excerpt_ja": "トレーニングキャンプ展望シリーズの次は、@wiltfongjr が Chicago Bears のスペシャルティーズに迫ります。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +262,9 @@
     {
       "kind": "other",
       "title": "Mike Macdonald on ownership change: \"We're entering a new chapter in our organization's history\"",
-      "title_ja": "Mike Macdonald、オーナーシップ変更について：「私たちの組織の歴史に新しい章が始まります」",
+      "title_ja": "Mike Macdonald がオーナーシップ変更について：「我々の組織の歴史の新しい章に入ろうとしています」",
       "excerpt": "The Seahawks opened training camp on Saturday, only two weeks after the organization announced that the team would be sold to a group led by Vinod Khosla, pending league approval.",
-      "excerpt_ja": "Seahawksはトレーニングキャンプを土曜に開始した。Vinod Khosla率いるグループへのチーム売却がリーグの承認待ちであることが発表されてからわずか2週間だ。",
+      "excerpt_ja": "Seahawks はトレーニングキャンプを土曜日に開始した。リーグ承認待ちで Vinod Khosla 率いるグループに買収される発表からわずか2週間後だ。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -246,9 +278,9 @@
     {
       "kind": "other",
       "title": "News Analysis: Despite what Sean McVay says, definition of Rams&#39; success hinges on Super Bowl title",
-      "title_ja": "ニュース解説：Sean McVayの発言とは別に、Ramsの成功定義はSuper Bowl優勝に左右される",
+      "title_ja": "ニュース分析：Sean McVay が何を言おうが、Rams の成功の定義は Super Bowl 優勝にかかっている",
       "excerpt": "Heading into training camp, Rams coach Sean McVay says a Super Bowl title won&#39;t necessarily determine if the season has been a success or failure.",
-      "excerpt_ja": "トレーニングキャンプを前に、Rams HCのSean McVayはSuper Bowl優勝が必ずしもシーズン成功の判断基準にはならないと述べている。",
+      "excerpt_ja": "Rams ヘッドコーチの Sean McVay はトレーニングキャンプを控えて、Super Bowl 優勝がシーズンの成功失敗を必ずしも決めるものではないと述べている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +294,9 @@
     {
       "kind": "injury",
       "title": "What claiming Kobe Prentice, waiving Sebastian Gutierrez means for the Patriots",
-      "title_ja": "Kobe PrenticeをClaimし Sebastian Gutierrezをリリース。Patriotsにとっての意味",
+      "title_ja": "Kobe Prentice 獲得、Sebastian Gutierrez ウェーバーが Patriots に意味するもの",
       "excerpt": "The Patriots made a pair of transactions on their first day of training camp.",
-      "excerpt_ja": "Patriotsはトレーニングキャンプ初日に2つのトランザクションを実行した。",
+      "excerpt_ja": "Patriots はトレーニングキャンプ初日に2つのトランザクションを実行した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -278,9 +310,9 @@
     {
       "kind": "signing",
       "title": "Patriots owner Robert Kraft says team has offered CB Christian Gonzalez &#39;the highest contract&#39; in franchise history",
-      "title_ja": "Patriots owner Robert Kraft、CB Christian Gonzalezに『フランチャイズ史上最高額』の契約を提示したと表明",
+      "title_ja": "Patriots オーナーの Robert Kraft がチームが CB Christian Gonzalez に提示した契約が「フランチャイズ史上最高」だと発言",
       "excerpt": "The offer also reportedly would have exceeded Trent McDuffie&#39;s four-year, $124 million deal for the largest cornerback contract in NFL history.",
-      "excerpt_ja": "その契約は、Trent McDuffieのNFL歴代最高CBコントラクトである4年1億2,400万ドルをも上回るものだったと報じられている。",
+      "excerpt_ja": "このオファーは Trent McDuffie の4年1億2400万ドル契約（NFL史上最高額のコーナーバック契約）も超える額とも報じられている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +326,9 @@
     {
       "kind": "other",
       "title": "Trey McBride regrets offseason comments about Cardinals fans",
-      "title_ja": "Trey McBride、Cardinalsファンについてのオフシーズンコメントを後悔",
+      "title_ja": "Trey McBride がオフシーズンに Cardinals ファンについて述べたコメントを後悔",
       "excerpt": "Cardinals tight end Trey McBride had some things to say about Cardinals fans during the offseason.",
-      "excerpt_ja": "Cardinals TE Trey McBrideはオフシーズンにCardinalsファンについて何か言いたいことがあった。",
+      "excerpt_ja": "Cardinals TE Trey McBride がオフシーズン中に Cardinals ファンについて言及していた。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -310,9 +342,9 @@
     {
       "kind": "other",
       "title": "Robert Kraft, Patriots put historic contract offer on table for Christian Gonzalez",
-      "title_ja": "Robert Kraft、Patriotsが Christian Gonzalezに歴史的な大型契約を提示",
+      "title_ja": "Robert Kraft、Patriots が Christian Gonzalez に歴史的な契約提示",
       "excerpt": "Robert Kraft is offering this budding star a record-breaking sum of money.",
-      "excerpt_ja": "Robert Kraftは、この才能ある若きスターに破格の金額を提示している。",
+      "excerpt_ja": "Robert Kraft がこの有望な若きスターに破格の金額を提示している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -326,9 +358,9 @@
     {
       "kind": "signing",
       "title": "49ers equipped to handle Kyle Shanahan’s stunning news",
-      "title_ja": "49ers、Kyle Shanahan's衝撃的なニュースへの対応は万全",
+      "title_ja": "49ers は Kyle Shanahan の衝撃的なニュースに対応する態勢が整っている",
       "excerpt": "The start of every NFL team’s season comes with a certain inevitability: At some point, adversity will have to be handled and dealt with. It’s rare, though, when that hardship...",
-      "excerpt_ja": "すべてのNFLチームシーズンの開始には必然性が伴う。あるいはいつかは、逆境に直面し対処する必要が生じる。ただし、そうした困難が...",
+      "excerpt_ja": "すべてのNFLチームのシーズンは一定の不可避性を伴って始まる：いつかは逆境に直面し、対処しなければならない。しかし、その困難が...",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -342,9 +374,9 @@
     {
       "kind": "other",
       "title": "Cowboys 2026 roster rundown: DB Zion Childress",
-      "title_ja": "Cowboys 2026年ロースター解説：DB Zion Childress",
+      "title_ja": "Cowboys 2026年ロスター運営：DB Zion Childress",
       "excerpt": "Another versatile safety, but this one is scrapping for a roster spot",
-      "excerpt_ja": "多才なセーフティ。ただしこいつはロースター争いに必死だ",
+      "excerpt_ja": "もう一人の多才なセーフティだが、こちらはロスター争いで奮闘中",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -358,9 +390,9 @@
     {
       "kind": "other",
       "title": "Former NFL player Jordan Devey, who won Super Bowl with Patriots, dies by suicide at 38",
-      "title_ja": "元NFLプレイヤー Jordan Devey、Patriotsと共にSuper Bowlを制した後、38歳で自ら命を絶つ",
+      "title_ja": "Patriots と Super Bowl を制覇した元NFL選手 Jordan Devey が38歳で自殺",
       "excerpt": "Former NFL guard Jordan Devey, who won Super Bowl 49 with the New England Patriots, died this week. He was 38.",
-      "excerpt_ja": "New England Patriotsと共にSuper Bowl 49を制した元NFL G Jordan Deveyが今週亡くなった。享年38歳。",
+      "excerpt_ja": "New England Patriots と Super Bowl 49 を制覇した元NFL G Jordan Devey が今週自殺した。彼は38歳だった。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -374,9 +406,9 @@
     {
       "kind": "injury",
       "title": "Giants waive 2 players just days before training camp",
-      "title_ja": "Giants、トレーニングキャンプ数日前に2選手をリリース",
+      "title_ja": "Giants がトレーニングキャンプ数日前に2選手をウェーバーに出す",
       "excerpt": "New York now has a pair of spots to fill before training camp begins.",
-      "excerpt_ja": "New Yorkはトレーニングキャンプスタート前に、2つのポジション穴を埋める必要がある。",
+      "excerpt_ja": "New York はトレーニングキャンプ開始前に2枠を埋める必要がある。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -390,9 +422,9 @@
     {
       "kind": "other",
       "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
-      "title_ja": "Patriots最新デプスチャート：現在ロースター上には誰がいる？",
+      "title_ja": "Patriots 最新デプスチャート：現在ロスターに誰がいるか？",
       "excerpt": "An updated look at the Patriots’ roster in 2026.",
-      "excerpt_ja": "2026年Patriotsロースターの最新情報。",
+      "excerpt_ja": "2026年の Patriots ロスターの最新状況です。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -406,9 +438,9 @@
     {
       "kind": "other",
       "title": "Patriots claim former Panthers wide receiver Kobe Prentice, waive tackle",
-      "title_ja": "Patriots、元Panthers WR Kobe Prenticeをクレーム、T をリリース",
+      "title_ja": "Patriots が元 Panthers WR Kobe Prentice をクレーム、タックルをウェーバーに出す",
       "excerpt": "Kobe Prentice checks in as the 12th member of New England’s wideout room.",
-      "excerpt_ja": "Kobe PrenticeはNew England のWR陣の12番目のメンバーとなる。",
+      "excerpt_ja": "Kobe Prentice は New England のワイドアウト陣の12番目のメンバーに加わる。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -422,9 +454,9 @@
     {
       "kind": "injury",
       "title": "49ers star has unflinching four-word message to Kyle Shanahan after horrific car crash",
-      "title_ja": "49ers スター、Kyle Shanahan自動車事故後、ぶれない4語のメッセージ",
+      "title_ja": "49ers スター選手が Kyle Shanahan の深刻な自動車事故後に4語の揺るがない メッセージ",
       "excerpt": "Fred Warner wasted little time reassuring Kyle Shanahan after learning that the 49ers coach had been seriously injured in a car crash.",
-      "excerpt_ja": "Fred WarnerはKyle Shanahan HCが重大な自動車事故で怪我を負ったことを知ると、すぐに安心させるメッセージを送った。",
+      "excerpt_ja": "Fred Warner は49ers HC Kyle Shanahan が深刻な自動車事故で大怪我をしたことを知った直後、彼を安心させるのに時間を費やさなかった。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -438,9 +470,9 @@
     {
       "kind": "injury",
       "title": "Chicago Bears place 1 on the Non-Football Injury list and 5 on the PUP list",
-      "title_ja": "Chicago Bears、1選手をNFL外傷害リストに、5選手をPUPリストに配置",
+      "title_ja": "Chicago Bears が1選手を NFI リストに、5選手を PUP リストに指定",
       "excerpt": "The Chicago Bears start camp with some roster moves for their injured players. Details here from @wiltfongjr.",
-      "excerpt_ja": "Chicago Bearsはキャンプスタートにあたり、怪我をしている選手に関する数件のロースタームーブを実行。詳細は@wiltfongjrから。",
+      "excerpt_ja": "Chicago Bears はキャンプ開始で負傷選手のロスター調整を行います。@wiltfongjr の詳細をご覧ください。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -454,9 +486,9 @@
     {
       "kind": "other",
       "title": "Super Bowl Champions Seattle Seahawks Open Training Camp With Key Players On PUP",
-      "title_ja": "Super Bowl チャンピオン Seattle Seahawks、トレーニングキャンプを主要選手がPUP状態で開始",
+      "title_ja": "Super Bowl チャンピオン Seattle Seahawks がトレーニングキャンプを主要選手の PUP 指定で開始",
       "excerpt": "Seattle Seahawks head coach Mike Macdonald opens training camp with key players on PUP list.",
-      "excerpt_ja": "Seattle Seahawks HC Mike MacdonaldはPUPリスト上に主要選手を抱えたままトレーニングキャンプをオープン。",
+      "excerpt_ja": "Seattle Seahawks ヘッドコーチ Mike Macdonald が主要選手を PUP リスト指定でトレーニングキャンプを開始する。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -470,9 +502,9 @@
     {
       "kind": "other",
       "title": "Rams’ defensive backs coach has some interesting history",
-      "title_ja": "Rams DBコーチには興味深い経歴がある",
+      "title_ja": "Rams のディフェンシブバックスコーチはなかなか興味深い経歴の持ち主",
       "excerpt": "Jimmy Lake coached Trent McDuffie at Washington",
-      "excerpt_ja": "Jimmy LakeはWashingtonで Trent McDuffieをコーチした",
+      "excerpt_ja": "Jimmy Lake は Washington で Trent McDuffie をコーチしていた",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -486,9 +518,9 @@
     {
       "kind": "injury",
       "title": "No Seahawks land on nonfootball injury list for first time under Mike Macdonald",
-      "title_ja": "Seahawks、Mike Macdonald就任以来初めて、NFI（NFL外傷害）リストに選手を配置せずキャンプ開始",
+      "title_ja": "Seahawks の誰も Mike Macdonald 時代初のトレーニングキャンプで NFI リストに指定されず",
       "excerpt": "Eleven Seahawks had landed on NFI to start camp in Macdonald’s tenure, but 2026 shows things have changed at the VMAC.",
-      "excerpt_ja": "Macdonald就任中はキャンプスタート時に11名のSeahawksがNFIにいたが、2026年はVMACで状況が変わったことを示している。",
+      "excerpt_ja": "Macdonald 就任以来、キャンプ開始で11名の Seahawks が NFI に指定されていたが、2026年は VMAC での状況が変わったことを示している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -502,9 +534,9 @@
     {
       "kind": "other",
       "title": "Saturday Night Open Thread: ‘King Kong ain’t got anything on me!’",
-      "title_ja": "土曜夜のオープンスレッド：『King Kongなんて俺の敵じゃねぇ！』",
+      "title_ja": "土曜夜のオープンスレッド：'King Kong だって俺には敵わない！'",
       "excerpt": "Come and join this merry band of Steelers’ faithful for some lively debate about our Steelers, good food, music, and the merits of the odd cold beverage.",
-      "excerpt_ja": "Steelersの熱きファンがこのメリーな集いに加わり、Steelersについて、グルメ、音楽、冷たい飲料の素晴らしさについて活発に論じる。",
+      "excerpt_ja": "Steelers ファンの皆さん、Steelers、グルメ、音楽、そして冷えたドリンクの価値について楽しく議論するこのメリーバンドにご参加ください。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -517,26 +549,10 @@
     },
     {
       "kind": "other",
-      "title": "Sean McVay says Aaron Donald is still working on comeback decision, but Rams will try to &#39;make that happen&#39; if he&#39;s ready",
-      "title_ja": "Sean McVay、Aaron Donaldはまだ復帰判断を検討中と述べるも、Ramsは復帰なら『それを実現させたい』",
-      "excerpt": "Aaron Donald is deliberating on whether he should return to the Rams.",
-      "excerpt_ja": "Aaron Donaldはramsへの復帰の可否を判断している最中。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 25 Jul 2026 21:29:28 +0000",
-      "url": "https://sports.yahoo.com/article/sean-mcvay-says-aaron-donald-is-still-working-on-comeback-decision-but-rams-will-try-to-make-that-happen-if-hes-ready-212928256.html"
-    },
-    {
-      "kind": "other",
       "title": "Shohei Ohtani Skips Bullpen Session Due To Left Knee Irritation",
-      "title_ja": "大谷翔平、左膝違和感で練習試合をスキップ",
+      "title_ja": "Shohei Ohtani が左膝の違和感でブルペンセッションをスキップ",
       "excerpt": "Shohei Ohtani has skipped a tentatively scheduled bullpen session, and won't throw off a mound again until his irritated left knee feels 100%.",
-      "excerpt_ja": "大谷翔平は予定していたブルペン投球をスキップ。左膝の違和感が100%解消されるまで、マウンドからの投球は行わない予定。",
+      "excerpt_ja": "Shohei Ohtani は予定されていたブルペンセッションをスキップし、左膝の違和感が100%解消されるまでマウンドから投げ込まない。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -550,9 +566,9 @@
     {
       "kind": "other",
       "title": "Mike Macdonald noncommittal on S Nick Emmanwori's availability for Week 1",
-      "title_ja": "Mike Macdonald、S Nick EmmanworiのWeek 1出場可能性について明言を避ける",
+      "title_ja": "Mike Macdonald、S Nick Emmanwori の Week 1 出場可能性について言及を避ける",
       "excerpt": "Seahawks safety Nick Emmanwori required arthroscopic surgery on his right ankle earlier this month.",
-      "excerpt_ja": "Seahawks safety Nick Emmanworiは今月初め、右足首の関節鏡手術を受けた。",
+      "excerpt_ja": "Seahawks セーフティの Nick Emmanwori は先月、右足首の関節鏡手術を受けた。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -566,9 +582,9 @@
     {
       "kind": "injury",
       "title": "Ravens DT Nnamdi Madubuike lands on PUP but cleared to return",
-      "title_ja": "Ravens DT Nnamdi Madubuike、PUPリストに登録も復帰がクリア",
+      "title_ja": "Ravens DT Nnamdi Madubuike が PUP に指定されるも、復帰可能とクリア",
       "excerpt": "Ravens defensive tackle Nnamdi Madubuike injured his neck in Week 2 last season and has not seen the field since.",
-      "excerpt_ja": "Ravens DT Nnamdi Madubuikeは昨シーズンWeek 2で首を怪我し、それ以来フィールドに立っていない。",
+      "excerpt_ja": "Ravens DL Nnamdi Madubuike は昨シーズン第2週に首を負傷しており、それ以来フィールドに出ていない。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -582,9 +598,9 @@
     {
       "kind": "rumor",
       "title": "Despite ongoing legal issue, Alaric Jackson will practice with Rams",
-      "title_ja": "法的問題が続く中、Alaric JacksonはRamsと練習予定",
+      "title_ja": "法的問題が続く中、Alaric Jackson は Rams と練習を行う予定",
       "excerpt": "Even though Rams tackle Alaric Jackson won't be charged with a felony following an offseason domestic battery accusation, he could be entering a diversion program in lieu of a misdemeanor prosecution.",
-      "excerpt_ja": "Rams T Alaric Jacksonはオフシーズンの暴力事件の容疑で重罪起訴は免れたが、軽罪起訴の代わりに転向プログラムに参加する可能性がある。",
+      "excerpt_ja": "Rams タックルの Alaric Jackson はオフシーズンの家庭内暴力疑惑で重罪起訴はされないが、軽罪起訴の代わりに転向プログラムに入る可能性がある。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -598,9 +614,9 @@
     {
       "kind": "other",
       "title": "Kalshi Promo Code FOXSPORTS Unlocks up to $500 in Bonuses for Anthony Joshua vs. Kristian Prenga",
-      "title_ja": "Kalshi プロモコード FOXSPORTS、Anthony Joshua vs. Kristian Prentaに最大$500のボーナスをアンロック",
+      "title_ja": "Kalshi プロモコード FOXSPORTS で Anthony Joshua vs. Kristian Prenga に最大500ドルのボーナス獲得",
       "excerpt": "Kalshi Promo Code FOXSPORTS Unlocks up to $500 in Bonuses for Anthony Joshua vs. Kristian Prenga.",
-      "excerpt_ja": "Kalshi プロモコード FOXSPORTS、Anthony Joshua vs. Kristian Prentaに最大$500のボーナスをアンロック。",
+      "excerpt_ja": "Kalshi プロモコード FOXSPORTS で Anthony Joshua vs. Kristian Prenga に最大500ドルのボーナス獲得。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -614,9 +630,9 @@
     {
       "kind": "other",
       "title": "Will Lionel Messi Play In MLS All-Star Game? Latest On Inter Miami Star's Status",
-      "title_ja": "Lionel Messi、MLSオールスターゲーム出場予定は？Inter Miami スターの最新情報",
+      "title_ja": "Lionel Messi が MLS オールスターゲームに出場するか？Inter Miami スターの最新情報",
       "excerpt": "The latest on Lionel Messi's status for the 2026 MLS All-Star Game on Wednesday at Bank of America Stadium.",
-      "excerpt_ja": "水曜日にBank of America Stadiumで開催される2026年MLSオールスターゲームへのLionel Messiの出場可能性の最新情報。",
+      "excerpt_ja": "Bank of America Stadium で水曜日に開催される2026年 MLS オールスターゲームへの Lionel Messi の出場可能性に関する最新情報です。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -630,9 +646,9 @@
     {
       "kind": "injury",
       "title": "Jets place DL T'Vondre Sweat on the active/non-football injury list",
-      "title_ja": "Jets、DL T'Vondre Sweatを有効/NFL外傷害リストに配置",
+      "title_ja": null,
       "excerpt": "The Jets made three moves on Saturday ahead of the start of training camp next week.",
-      "excerpt_ja": "Jetsは来週のトレーニングキャンプスタートに向け、土曜に3つのムーブを実行した。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -1125,22 +1141,6 @@
     },
     {
       "kind": "other",
-      "title": "Jaxon Smith-Njigba: We're ready for the next thing",
-      "title_ja": null,
-      "excerpt": "One of Seahawks head coach Mike Macdonald's talking points this offseason was the need for the team to \"run it forward\" after winning the Super Bowl and that mindset was on players' minds on Friday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 25 Jul 2026 08:43:33 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxon-smith-njigba-were-ready-for-the-next-thing"
-    },
-    {
-      "kind": "other",
       "title": "Tony Romo's OWI arrest came after he participated in a golf tournament",
       "title_ja": null,
       "excerpt": "More details are emerging regarding the arrest of former Cowboys quarterback and current CBS analyst Tony Romo on suspicion of Operating While Intoxicated.",
@@ -1314,6 +1314,38 @@
       "coach_name": null,
       "published_at": "Fri, 24 Jul 2026 16:22:52 -0400",
       "url": "https://www.foxsports.com/stories/soccer/belgium-appoints-bayern-munich-legend-mark-van-bommel-new-mens-head-coach"
+    },
+    {
+      "kind": "presser",
+      "title": "Rams Target Super Bowl Champs During Uniform Reveal. Is Aaron Donald's Return Next?",
+      "title_ja": null,
+      "excerpt": "The Rams want all the smoke, and a league source told us that they could get Aaron Donald back this season.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 24 Jul 2026 16:01:44 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/rams-target-super-bowl-champs-during-uniform-reveal-aaron-donalds-return-next"
+    },
+    {
+      "kind": "other",
+      "title": "Betr Promo Code FOXSPORTS Unlocks $200 + a Free Pick for the MLB",
+      "title_ja": null,
+      "excerpt": "Betr Promo Code FOXSPORTS Unlocks $200 + a Free Pick for the MLB.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 24 Jul 2026 15:52:14 -0400",
+      "url": "https://www.foxsports.com/stories/betting/betr-promo-code-foxsports-unlocks-200-free-pick-mlb"
     },
     {
       "kind": "other",

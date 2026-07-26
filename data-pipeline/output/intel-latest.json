@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-07-26T21:28:06.854520+00:00",
-  "count": 113,
+  "generated_at": "2026-07-26T22:32:52.003499+00:00",
+  "count": 110,
   "items": [
     {
       "kind": "injury",
       "title": "NFL training camp news, live updates: Jacoby Brissett gets raise from Cardinals; Kyle Shanahan injured in car wreck",
-      "title_ja": null,
+      "title_ja": "NFLトレーニングキャンプ ニュース・ライブアップデート：Jacoby Brissett が Cardinals との契約を改定、Kyle Shanahan が交通事故で負傷",
       "excerpt": "Follow along with the latest NFL news and updates as training camps around the league kick off.",
-      "excerpt_ja": null,
+      "excerpt_ja": "リーグ全体のトレーニングキャンプが本格始動する中、NFL の最新ニュースと更新情報をフォローしよう。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -21,10 +21,90 @@
     },
     {
       "kind": "other",
+      "title": "Rams place G Justin Dedich on NFI list, DB Al&#39;zillion Hamilton on PUP list",
+      "title_ja": "Rams、G Justin Dedich を NFI リストに、DB Al'zillion Hamilton を PUP リストに登録",
+      "excerpt": "The Rams opened training camp this weekend, but a couple of players aren&#39;t ready to practice at this point.",
+      "excerpt_ja": "Rams は今週末トレーニングキャンプを開始したが、数名の選手はこの時点ではまだ練習に参加できない状態だ。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 21:58:22 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-place-g-justin-dedich-215822566.html"
+    },
+    {
+      "kind": "other",
+      "title": "Packers to work out kicker on Monday",
+      "title_ja": "Packers、月曜日にキッカーのワークアウトを予定",
+      "excerpt": "Lenny Krieg went 14 of 14 at the 2025 NFL Scouting Combine",
+      "excerpt_ja": "Lenny Krieg、2025 NFL Scouting Combine で 14/14 を記録",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 21:54:32 +0000",
+      "url": "https://sports.yahoo.com/articles/packers-kicker-monday-215432051.html"
+    },
+    {
+      "kind": "other",
+      "title": "Eagles News: Saquon Barkley says he doesn’t want to be remembered for the reverse hurdle",
+      "title_ja": "Eagles ニュース：Saquon Barkley、逆向きハードルプレーでの評価は望んでいないと語る",
+      "excerpt": "Philadelphia Eagles news and links for 7/26/26.",
+      "excerpt_ja": "Philadelphia Eagles ニュースとリンク（7/26/26）",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 21:36:22 +0000",
+      "url": "https://sports.yahoo.com/articles/eagles-news-saquon-barkley-says-213622427.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Broncos put LB Jordan Turner on NFI, G Nick Gargiulo on PUP",
+      "title_ja": "Broncos、LB Jordan Turner を NFI、G Nick Gargiulo を PUP に登録",
+      "excerpt": "The Broncos announced a pair of roster moves on Sunday.",
+      "excerpt_ja": "Broncos は日曜日にロスター関連の動きを発表した。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 21:30:13 +0000",
+      "url": "https://sports.yahoo.com/articles/broncos-put-lb-jordan-turner-213013649.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Patriots put Gabe Jacas on non-football injury list",
+      "title_ja": "Patriots、Gabe Jacas を非フットボール負傷リストに登録",
+      "excerpt": "The Patriots signed second-round pick Gabe Jacas this weekend, but the rookie is not ready to start practicing with the team.",
+      "excerpt_ja": "Patriots は今週末 2巡目指名の Gabe Jacas と契約したが、ルーキーはまだチームと練習を開始する準備が整っていない。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 21:22:22 +0000",
+      "url": "https://sports.yahoo.com/articles/patriots-put-gabe-jacas-non-212222736.html"
+    },
+    {
+      "kind": "other",
       "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
-      "title_ja": null,
+      "title_ja": "Patriots 最新デプスチャート：現在ロスターに誰がいるのか？",
       "excerpt": "An updated look at the Patriots’ roster in 2026.",
-      "excerpt_ja": null,
+      "excerpt_ja": "2026 シーズンの Patriots ロスターの最新情報。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +118,9 @@
     {
       "kind": "injury",
       "title": "Patriots place receiver on injured reserve, add second-rounder Gabe Jacas to NFI list",
-      "title_ja": null,
+      "title_ja": "Patriots、レシーバーを IR に配置、2巡目指名 Gabe Jacas を NFI リストに追加",
       "excerpt": "Wideout Jeremiah Webb no longer counts against the 91-man roster limit.",
-      "excerpt_ja": null,
+      "excerpt_ja": "ワイドアウト Jeremiah Webb は 91 人ロスター制限の対象外となった。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +134,9 @@
     {
       "kind": "other",
       "title": "NFL training camp rosters loaded with ex-Arizona players",
-      "title_ja": null,
+      "title_ja": "NFLトレーニングキャンプ、元 Arizona 選手で埋め尽くされている",
       "excerpt": "NFL training camps have started up across the country, and nearly two dozen former Arizona Wildcats are competing for spots on regular season rosters. In April the UA saw four defensive backs get taken in the 2026 NFL Draft, with Treydan Stukes and Dalton Johnson going to the Las Vegas Raiders, Gene",
-      "excerpt_ja": null,
+      "excerpt_ja": "全国の NFLトレーニングキャンプが開始される中、元 Arizona Wildcats の選手約 20 人がレギュラーシーズンロスターのポジション争いに挑んでいる。4月には UA から 4 人のディフェンシブバックが 2026 NFL ドラフトで指名され、Treydan Stukes と Dalton Johnson は Las Vegas Raiders へ、Gene は…",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +150,9 @@
     {
       "kind": "other",
       "title": "Cowboys 2026 roster rundown: OT Tyler Guyton",
-      "title_ja": null,
+      "title_ja": "Cowboys 2026 ロスター紹介：OT Tyler Guyton",
       "excerpt": "There is a lot hinging on Tyler Guyton this training camp.",
-      "excerpt_ja": null,
+      "excerpt_ja": "今年のトレーニングキャンプでは Tyler Guyton にかかる期待が大きい。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +166,9 @@
     {
       "kind": "injury",
       "title": "Broncos place OL Nick Gargiulo on the PUP and LB Jordan Turner on the NFI",
-      "title_ja": null,
+      "title_ja": "Broncos、OL Nick Gargiulo を PUP、LB Jordan Turner を NFI に登録",
       "excerpt": "The Denver Broncos announced on Sunday that they have placed offensive lineman Nick Gargiulo on the Physically Unable to Perform list (PUP) and linebacker Jordan Turner on the Actice/Non-Football Injury list (NFI). Gargiulo, a former 7th-round pick, missed all of the 2025 season after suffering a se",
-      "excerpt_ja": null,
+      "excerpt_ja": "Denver Broncos は日曜日、OL Nick Gargiulo を Physically Unable to Perform リスト（PUP）に、LB Jordan Turner を Active/Non-Football Injury リスト（NFI）に登録したと発表した。7巡目指名の Gargiulo は、2025 シーズン全体を欠場していた。負傷は…",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +182,9 @@
     {
       "kind": "other",
       "title": "4 things we think we’ve learned this weekend from Chiefs training camp",
-      "title_ja": null,
+      "title_ja": "Chiefs のトレーニングキャンプから見えてきた 4 つのポイント",
       "excerpt": "An attempt to summarize the notes from Kansas City’s first two practices of training camp.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Kansas City のトレーニングキャンプ初 2 日間の実戦から得られた知見をまとめてみた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +198,9 @@
     {
       "kind": "other",
       "title": "The Rams defensive line shouldn’t need Aaron Donald to be elite",
-      "title_ja": null,
+      "title_ja": "Rams のディフェンシブラインは Aaron Donald がいなくても精鋭であるべき",
       "excerpt": "Even without the no-doubt Hall of Famer, the Rams have a Super Bowl-caliber defensive front.",
-      "excerpt_ja": null,
+      "excerpt_ja": "確実な殿堂入り候補を欠いても、Rams のディフェンシブフロントは Super Bowl 級の実力を備えている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +214,9 @@
     {
       "kind": "injury",
       "title": "Jaguars place OL Cole Van Lanen on PUP list",
-      "title_ja": null,
+      "title_ja": "Jaguars、OL Cole Van Lanen を PUP リストに登録",
       "excerpt": "The Jaguars put a pair of offensive linemen on their physically unable to perform list ahead of the start of their training camp.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Jaguars はトレーニングキャンプ開始前に、OL を PUP リストに登録した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +230,9 @@
     {
       "kind": "injury",
       "title": "Kyle Shanahan attends roughly 30 minutes of 49ers&#39; practice on Sunday",
-      "title_ja": null,
+      "title_ja": "Kyle Shanahan、日曜日の 49ers 練習に約 30 分間参加",
       "excerpt": "49ers coach Kyle Shanahan is recovering from various injuries sustained in a July 14 car accident.",
-      "excerpt_ja": null,
+      "excerpt_ja": "49ers ヘッドコーチ Kyle Shanahan は 7 月 14 日の交通事故で負った複数の負傷から回復中だ。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +246,9 @@
     {
       "kind": "injury",
       "title": "NFLPA investigating Panthers after LB Nic Scourton&#39;s ACL injury on Day 1 of training camp",
-      "title_ja": null,
+      "title_ja": "NFLPA、Panthers を調査対象に　LB Nic Scourton のトレーニングキャンプ初日 ACL 損傷",
       "excerpt": "Nic Scourton will miss his second season in the league with a torn ACL.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Nic Scourton は ACL 断裂のため、リーグ 2 年目シーズンを棒に振ることになった。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +262,9 @@
     {
       "kind": "other",
       "title": "Trent Williams: Nick Bosa looks better than he did before he tore his ACL",
-      "title_ja": null,
+      "title_ja": "Trent Williams：Nick Bosa は ACL 断裂前より好調に見える",
       "excerpt": "49ers defensive end Nick Bosa avoided the physically unable to perform list to open training camp and his performance in the first day of practice impressed one of his longtime teammates.",
-      "excerpt_ja": null,
+      "excerpt_ja": "49ers DE Nick Bosa はトレーニングキャンプ開始時に PUP を回避し、初日の実戦パフォーマンスは長年のチームメイトの目にも好ましく映った。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +278,9 @@
     {
       "kind": "rumor",
       "title": "Cleveland Browns still looking for help at defensive end",
-      "title_ja": null,
+      "title_ja": "Cleveland Browns、ディフェンシブエンドでの戦力強化をまだ模索中",
       "excerpt": "Cleveland is reportedly still in the market for another DE. But with the options dwindling, what is the right play?",
-      "excerpt_ja": null,
+      "excerpt_ja": "Cleveland はディフェンシブエンドの追加獲得を検討しているとされるが、選択肢が限定される中で、最適な策は何か。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +294,9 @@
     {
       "kind": "signing",
       "title": "Fernando Mendoza: I&#39;m competing with, not against, Kirk Cousins",
-      "title_ja": null,
+      "title_ja": "Fernando Mendoza：Kirk Cousins と競合しているが対抗しているわけではない",
       "excerpt": "Fernando Mendoza signed his rookie deal last week and that leaves the quarterback with nothing to focus on other than football when the Raiders open training camp this week.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Fernando Mendoza は先週ルーキー契約に署名し、これでトレーニングキャンプを控える Raiders でのフットボールにのみ集中できる環境が整った。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +310,9 @@
     {
       "kind": "other",
       "title": "PFF QB Annual: Can Matthew Stafford replicate MVP season?",
-      "title_ja": null,
+      "title_ja": "PFF QB Annual：Matthew Stafford は MVP シーズンの再現ができるか",
       "excerpt": "Key takeaways from Pro Football Focus (PFF) QB Annual",
-      "excerpt_ja": null,
+      "excerpt_ja": "Pro Football Focus（PFF）QB Annual からの主要なポイント",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +326,9 @@
     {
       "kind": "signing",
       "title": "Dre’Mont Jones sees bright future for Patriots’ young, underrated pass rush",
-      "title_ja": null,
+      "title_ja": "Dre'Mont Jones、Patriots の若く過小評価されているパスラッシュの将来は明るいと語る",
       "excerpt": "Jones signed a three-year deal in free agency to serve as a top edge rusher.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Jones はトップレベルのエッジラッシャーを務めるべくフリーエージェントで 3 年契約に署名した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +342,9 @@
     {
       "kind": "other",
       "title": "Chicago Bears 2026 Training Camp Position Breakdown: Quarterback",
-      "title_ja": null,
+      "title_ja": "Chicago Bears 2026 トレーニングキャンプ ポジション解説：クォーターバック",
       "excerpt": "Next up in his position-by-position training camp preview series, @wiltfongjr looks at the Chicago Bears’ quarterbacks.",
-      "excerpt_ja": null,
+      "excerpt_ja": "ポジション別トレーニングキャンプ展望シリーズの次は、@wiltfongjr が Chicago Bears のクォーターバックに注目する。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -278,9 +358,9 @@
     {
       "kind": "other",
       "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 49",
-      "title_ja": null,
+      "title_ja": "Cowboys キックオフカウントダウン：歴史的名勝負トップ 100　第 49 日目",
       "excerpt": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 49",
-      "excerpt_ja": null,
+      "excerpt_ja": "キックオフまで 100 日を数える中で、Cowboys の歴史に刻まれた名勝負シリーズをカウントダウン。今日は第 49 日目。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +374,9 @@
     {
       "kind": "signing",
       "title": "Jacoby Brissett, Cardinals agree to revised contract. What to know",
-      "title_ja": null,
+      "title_ja": "Jacoby Brissett、Cardinals と契約改定で合意　ここで知っておきたいこと",
       "excerpt": "Jacoby Brissett and the Cardinals ended a contract dispute, agreeing to a new contract as training camp gets underway. Here&#39;s what to know.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Jacoby Brissett と Cardinals は契約争議を解決し、トレーニングキャンプが始まる中で新契約に合意した。ここが押さえるべきポイント。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -310,9 +390,9 @@
     {
       "kind": "injury",
       "title": "Rams make two injury-related moves as training camp opens",
-      "title_ja": null,
+      "title_ja": "Rams、トレーニングキャンプ開始に際して 2 件の負傷関連の動きを実施",
       "excerpt": "Rams place Justin Dedich and Al’zillion Hamilton on injury lists at the start of training camp",
-      "excerpt_ja": null,
+      "excerpt_ja": "Rams は Justin Dedich と Al'zillion Hamilton をトレーニングキャンプ開始時に負傷リストに登録",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -326,9 +406,9 @@
     {
       "kind": "other",
       "title": "Chiefs rookie Mansoor Delane admits it’s hard to turn down aggression",
-      "title_ja": null,
+      "title_ja": "Chiefs ルーキー Mansoor Delane、アグレッシブなプレーを自制するのは難しいと認める",
       "excerpt": "Kansas City’s No. 6 overall pick is learning to tame his natural aggression in his first NFL training camp.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Kansas City の全体 6 番指名は初めての NFLトレーニングキャンプで、自然な激しさを抑える術を学んでいる。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -342,9 +422,9 @@
     {
       "kind": "signing",
       "title": "Cardinals, QB Jacoby Brissett reportedly agree to 1-year, $15.5 million restructured contract",
-      "title_ja": null,
+      "title_ja": "Cardinals と QB Jacoby Brissett、1 年 1,550 万ドルの契約改定で合意と報道",
       "excerpt": "Brissett wanted a new deal, as he was set to earn just $4.48 million in base salary in 2026.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Brissett は新契約を望んでいた。2026 年のベースサラリーが 448 万ドルに留まる予定だったからだ。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -358,9 +438,9 @@
     {
       "kind": "other",
       "title": "Bills news: Previewing Buffalo’s pass-catching group",
-      "title_ja": null,
+      "title_ja": "Bills ニュース：Buffalo のパスキャッチャー陣を展望",
       "excerpt": "The Bills need bounce back seasons from DJ Moore, Keon Coleman and Joshua Palmer and a healthy year for Dalton Kincaid.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Bills は DJ Moore、Keon Coleman、Joshua Palmer の復調とホスケルセンの Dalton Kincaid の怪我なしシーズンを必要としている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -373,10 +453,42 @@
     },
     {
       "kind": "other",
+      "title": "The team ‘intriguing’ Stefon Diggs as he draws interest with NFL training camps starting",
+      "title_ja": "NFLトレーニングキャンプが始まる中、Stefon Diggs の関心を引く\"興味深い\"チーム",
+      "excerpt": "Receivers coming off of 1,000-yard seasons don’t grow on trees, but one is sitting on free agency as NFL training camps get underway.",
+      "excerpt_ja": "1,000 ヤード級のシーズンを送ったレシーバーは数少ないが、NFLトレーニングキャンプが開始する中で一人がフリーエージェント市場に取り残されている。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 18:20:19 +0000",
+      "url": "https://sports.yahoo.com/articles/team-intriguing-stefon-diggs-draws-182019695.html"
+    },
+    {
+      "kind": "other",
+      "title": "Lucas Herbert Secures Historic LIV Golf Win As Ripper GC Claims Team Title in UK",
+      "title_ja": "Lucas Herbert が歴史的 LIV Golf 優勝を獲得、Ripper GC がイギリスのチーム・タイトルを制覇",
+      "excerpt": "Lucas Herbert didn't just win LIV Golf United Kingdom Presented by JCB. He rewrote the LIV Golf record book doing it.",
+      "excerpt_ja": "Lucas Herbert は LIV Golf United Kingdom Presented by JCB に優勝しただけでなく、それにより LIV Golf の記録書も書き換えた。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 18:15:09 -0400",
+      "url": "https://www.foxsports.com/stories/golf/lucas-herbert-secures-historic-liv-golf-win-ripper-gc-claims-team-title-uk"
+    },
+    {
+      "kind": "other",
       "title": "5 performances of note from the Patriots’ second training camp practice",
-      "title_ja": null,
+      "title_ja": "Patriots トレーニングキャンプ 2 日目の注目パフォーマンス 5 選",
       "excerpt": "Who caught our eye during the Patriots’ practice on Sunday, for better or worse.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Patriots の日曜日の練習で目を引いた選手は誰か、良い意味でも悪い意味でも。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -389,78 +501,110 @@
     },
     {
       "kind": "other",
-      "title": "Cardinals OC Nathaniel Hackett declines to name rookie Jeremiyah Love starting RB as training camp opens",
-      "title_ja": null,
-      "excerpt": "Love was the No. 3 overall pick in this year&#39;s NFL Draft, but Arizona also has James Conner and Tyler Allgeier on the running back depth chart.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 26 Jul 2026 18:08:42 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/cardinals-oc-nathaniel-hackett-declines-to-name-rookie-jeremiyah-love-starting-rb-as-training-camp-opens-180842052.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Patriots training camp notebook: Pass defense wins the day",
-      "title_ja": null,
-      "excerpt": "The Patriots held their second training practice on Sunday, July 26.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 26 Jul 2026 18:07:52 +0000",
-      "url": "https://sports.yahoo.com/articles/patriots-training-camp-notebook-pass-180752450.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cardinals OC has puzzling quote on Jeremiyah Love: &#39;He&#39;s definitely a rookie&#39;",
-      "title_ja": null,
-      "excerpt": "When asked about the state of the Cardinals&#39; running back room, the first name that came to Nathaniel Hackett&#39;s mind wasn&#39;t Jeremiyah Love.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 26 Jul 2026 17:50:35 +0000",
-      "url": "https://sports.yahoo.com/articles/cardinals-oc-puzzling-quote-jeremiyah-175035570.html"
-    },
-    {
-      "kind": "injury",
-      "title": "49ers&#39; HC Kyle Shanahan injured in car accident. What we know",
-      "title_ja": null,
-      "excerpt": "Kyle Shanahan was involved in a car accident that left the 49ers&#39; head coach with multiple injuries. Here&#39;s what we know about the crash.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 26 Jul 2026 17:47:09 +0000",
-      "url": "https://sports.yahoo.com/articles/49ers-hc-kyle-shanahan-injured-174709165.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Patriots put Gabe Jacas on non-football injury list",
-      "title_ja": null,
-      "excerpt": "The Patriots signed second-round pick Gabe Jacas this weekend, but the rookie is not ready to start practicing with the team.",
-      "excerpt_ja": null,
+      "title": "Rams place G Justin Dedich on NFI list, DB Al'zillion Hamilton on PUP list",
+      "title_ja": "Rams、G Justin Dedich を NFI リストに、DB Al'zillion Hamilton を PUP リストに登録",
+      "excerpt": "The Rams opened training camp this weekend, but a couple of players aren't ready to practice at this point.",
+      "excerpt_ja": "Rams は今週末トレーニングキャンプを開始したが、数名の選手はこの時点ではまだ練習に参加できない状態だ。",
       "sources": [
         "Pro Football Talk"
       ],
       "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 17:58:22 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-place-g-justin-dedich-on-nfi-list-db-alzillion-hamilton-on-pup-list"
+    },
+    {
+      "kind": "other",
+      "title": "Brewers' Jacob Misiorowski Throws 66 Pitches At 100+ MPH In Record Outing",
+      "title_ja": "Brewers の Jacob Misiorowski が記録的活躍で 66 ピッチを時速 100+ マイルで投球",
+      "excerpt": "Milwaukee Brewers pitcher Jacob Misiorowski set a franchise record by striking out the first seven Colorado Rockies batters he faced on Sunday.",
+      "excerpt_ja": "Milwaukee Brewers の投手 Jacob Misiorowski は日曜日、対戦した Colorado Rockies の最初の 7 バッターを次々と奪三振し、球団記録を樹立した。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 17:51:16 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/jacob-misiorowski-sets-brewers-franchise-record-by-starting-game-with-7-straight-strikeouts"
+    },
+    {
+      "kind": "trade",
+      "title": "Rosenthal: Mets Could Move 'At Least' 6 Players Before MLB Trade Deadline",
+      "title_ja": "Rosenthal：Mets は MLB トレード期限前に『最低でも』6 選手をトレード可能",
+      "excerpt": "Ken Rosenthal broke down the New York Mets' plans ahead of the MLB trade deadline and highlighted the potential moves that could be on the way.",
+      "excerpt_ja": "Ken Rosenthal は MLB トレード期限を控える New York Mets の計画と、今後起こりうるトレード候補について分析した。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 17:35:49 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/rosenthal-mets-could-move-at-least-6-players-before-mlb-trade-deadline"
+    },
+    {
+      "kind": "signing",
+      "title": "Real Madrid Nears Deal For World Cup Breakout Star Yan Diomande",
+      "title_ja": "Real Madrid、World Cup の躍進スター Yan Diomande との契約間近",
+      "excerpt": "Real Madrid has reportedly reached an agreement with RB Leipzig to sign winger Yan Diomande for a transfer fee exceeding $115 million.",
+      "excerpt_ja": "Real Madrid は RB Leipzig と 1 億 1,500 万ドルを超える移籍金で、ウィンガー Yan Diomande との契約に合意に近づいているとされている。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 17:31:28 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-real-madrid-yan-diomande"
+    },
+    {
+      "kind": "injury",
+      "title": "Broncos put LB Jordan Turner on NFI, G Nick Gargiulo on PUP",
+      "title_ja": "Broncos、LB Jordan Turner を NFI、G Nick Gargiulo を PUP に登録",
+      "excerpt": "The Broncos announced a pair of roster moves on Sunday.",
+      "excerpt_ja": "Broncos は日曜日にロスター関連の動きを発表した。",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 17:30:13 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-put-lb-jordan-turner-on-nfi-g-nick-gargiulo-on-pup"
+    },
+    {
+      "kind": "signing",
+      "title": "Jacoby Brissett Agrees To Reworked One-Year, $15.5M Contract With Cardinals",
+      "title_ja": "Jacoby Brissett、Cardinals と改定 1 年 1,550 万ドル契約に合意",
+      "excerpt": "Quarterback Jacoby Brissett and the Arizona Cardinals agreed to a reworked one-year deal Sunday and coach Mike LaFleur confirmed that the veteran is the team’s likely starter for Week 1.",
+      "excerpt_ja": "QB Jacoby Brissett と Arizona Cardinals は日曜日に改定 1 年契約で合意し、Mike LaFleur ヘッドコーチはベテランが Week 1 のスターターになる見通しを示した。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 26 Jul 2026 17:28:53 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/jacoby-brissett-agrees-reworked-one-year-15-5m-contract-cardinals"
+    },
+    {
+      "kind": "signing",
+      "title": "Patriots put Gabe Jacas on non-football injury list",
+      "title_ja": "Patriots、Gabe Jacas を非フットボール負傷リストに登録",
+      "excerpt": "The Patriots signed second-round pick Gabe Jacas this weekend, but the rookie is not ready to start practicing with the team.",
+      "excerpt_ja": "Patriots は今週末 2巡目指名の Gabe Jacas と契約したが、ルーキーはまだチームと練習を開始する準備が整っていない。",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
       "team_abbrev": "NE",
       "player_name": null,
       "coach_name": null,
@@ -468,43 +612,27 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-put-gabe-jacas-on-non-football-injury-list"
     },
     {
-      "kind": "other",
-      "title": "49ers bring back DL Kevin Givens",
-      "title_ja": null,
-      "excerpt": "Defensive lineman Kevin Givens spent the last seven seasons with the 49ers and he&#39;ll have a chance to make it eight in a row.",
-      "excerpt_ja": null,
+      "kind": "presser",
+      "title": "Cristiano Ronaldo Faces Reduced Role With Portugal Under New Boss Jorge Jesus",
+      "title_ja": "Cristiano Ronaldo、新監督 Jorge Jesus の下で Portugal で役割縮小の可能性",
+      "excerpt": "Cristiano Ronaldo has been told he must accept a reduced role for the Portugal national team if he is to continue his record-breaking international journey.",
+      "excerpt_ja": "Cristiano Ronaldo は、自身の記録更新の国際的な歩みを続けるのであれば Portugal 代表で役割を縮小することを受け入れるよう言い渡された。",
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 26 Jul 2026 17:20:25 +0000",
-      "url": "https://sports.yahoo.com/articles/49ers-bring-back-dl-kevin-172025810.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Why Mack Hollins could be a secret weapon in Patriots&#39; offense",
-      "title_ja": null,
-      "excerpt": "The Patriots don&#39;t have enough tight ends. They also have too many wide receivers. Can Mack Hollins fix both problems?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NE",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sun, 26 Jul 2026 17:13:38 +0000",
-      "url": "https://sports.yahoo.com/articles/why-mack-hollins-could-secret-171338482.html"
+      "published_at": "Sun, 26 Jul 2026 17:18:00 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/sometimes-hell-play-other-times-he-wont-cristiano-ronaldo-made-aware-of-new-role-he-will-have-to-accept-under-jorge-jesus-if-233-cap-career-with-portugal-is-to-continue"
     },
     {
       "kind": "injury",
       "title": "Lions place Brian Branch, Kerby Joseph on PUP list",
-      "title_ja": null,
+      "title_ja": "Lions、Brian Branch と Kerby Joseph を PUP リストに登録",
       "excerpt": "A pair of safeties are set to start Lions training camp on the physically unable to perform list.",
-      "excerpt_ja": null,
+      "excerpt_ja": "2 人のセーフティが Lions のトレーニングキャンプを PUP で開始する見通しだ。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -716,7 +844,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "SF",
       "player_name": null,
       "coach_name": null,
@@ -1060,38 +1188,6 @@
       "url": "https://www.foxsports.com/stories/soccer/will-lionel-messi-play-mls-all-star-game-latest-inter-miami-stars-status"
     },
     {
-      "kind": "injury",
-      "title": "Jets place DL T'Vondre Sweat on the active/non-football injury list",
-      "title_ja": null,
-      "excerpt": "The Jets made three moves on Saturday ahead of the start of training camp next week.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 25 Jul 2026 17:04:48 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-place-dl-tvondre-sweat-on-the-active-non-football-injury-list"
-    },
-    {
-      "kind": "injury",
-      "title": "Bears place CB Kyler Gordon on active/PUP and T.J. Edwards on NFI",
-      "title_ja": null,
-      "excerpt": "Bears slot cornerback Kyler Gordon played only three games last season, twice landing on injured reserve.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 25 Jul 2026 16:52:01 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-place-cb-kyler-gordon-on-active-pup-and-t-j-edwards-on-nfi"
-    },
-    {
       "kind": "other",
       "title": "Arsenal Mulling Move For Real Madrid, Brazil Star Vinícius Júnior",
       "title_ja": null,
@@ -1186,150 +1282,6 @@
       "coach_name": null,
       "published_at": "Sat, 25 Jul 2026 14:11:07 -0400",
       "url": "https://www.foxsports.com/stories/nfl/christian-gonzalez-extension-rumors-patriots-owner-robert-kraft"
-    },
-    {
-      "kind": "injury",
-      "title": "49ers Coach Kyle Shanahan Hurt In Car Crash, Limited As Training Camp Opens",
-      "title_ja": null,
-      "excerpt": "San Francisco 49ers coach Kyle Shanahan was injured in a car crash earlier this month that will limit his participation at training camp.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 25 Jul 2026 13:02:28 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/kyle-shanahan-car-crash-49ers-coach"
-    },
-    {
-      "kind": "other",
-      "title": "Lucas Herbert Has 4-Shot Lead On Bryson DeChambeau After Round 2 Of LIV Golf UK",
-      "title_ja": null,
-      "excerpt": "Lucas Herbert has built a four-shot lead over Bryson DeChambeau after Round 2 of LIV Golf UK.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 25 Jul 2026 12:36:29 -0400",
-      "url": "https://www.foxsports.com/stories/golf/liv-golf-uk-round-2-leaderboard-herbert-dechambeau"
-    },
-    {
-      "kind": "other",
-      "title": "Last Night In Baseball: Astros Roar Back, Pitching Gems And A Midwest Stunner",
-      "title_ja": null,
-      "excerpt": "The Astros had an eight-run inning, Tarik Skubal is back on track, the Rockies shocked the Brewers, Rōki Sasaki was electric and more from Friday's MLB action.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 25 Jul 2026 12:01:54 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/astros-comeback-braves-giants-tarik-skubal-yankees-dodgers"
-    },
-    {
-      "kind": "other",
-      "title": "How to Watch MLB Today: Schedule, TV, Streaming for Dodgers-Mets, Mariners-Rangers, Padres-Marlins",
-      "title_ja": null,
-      "excerpt": "Get today's MLB schedule and how to watch or stream MLB games on FOX and FS1, including Dodgers-Mets, Mariners-Rangers and Padres-Marlins.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 25 Jul 2026 08:30:05 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/how-watch-mlb-today-schedule-tv-streaming-dodgers-mets-mariners-rangers-padres-marlins"
-    },
-    {
-      "kind": "signing",
-      "title": "Cape Verde World Cup Star Vozinha Reaches Agreement To Join Chilean Club Colo Colo",
-      "title_ja": null,
-      "excerpt": "Following a stellar World Cup with Cape Verde, goalkeeper Vozinha has reached a verbal agreement to join Chilean club Colo Colo.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 24 Jul 2026 22:46:25 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/cape-verde-world-cup-star-vozinha-reaches-agreement-join-chilean-club-colo-colo"
-    },
-    {
-      "kind": "other",
-      "title": "Jacoby Brissett Practices With Arizona Cardinals Despite Contract Uncertainty",
-      "title_ja": null,
-      "excerpt": "Arizona Cardinals quarterback Jacoby Brissett participated in Thursday's workout after a quiet offseason due to contract uncertainty.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 24 Jul 2026 22:11:16 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/jacoby-brissett-practices-arizona-cardinals-despite-contract-uncertainty"
-    },
-    {
-      "kind": "other",
-      "title": "Where To Find Croatia's Stars After The 2026 FIFA World Cup",
-      "title_ja": null,
-      "excerpt": "So what's next for the players who led Croatia to the last 16?",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 24 Jul 2026 20:12:24 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/where-find-croatia-stars-after-2026-fifa-world-cup"
-    },
-    {
-      "kind": "other",
-      "title": "Where To Find Ecuador's Stars After The 2026 World Cup",
-      "title_ja": null,
-      "excerpt": "Here's what's next for Ecuador's top players after the 2026 World Cup.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 24 Jul 2026 20:06:45 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/where-find-ecuadors-stars-after-2026-world-cup"
-    },
-    {
-      "kind": "injury",
-      "title": "Chiefs Star QB Patrick Mahomes Cleared For Practice Ahead Of Training Camp",
-      "title_ja": null,
-      "excerpt": "Patrick Mahomes has been cleared for practice as he continues his recovery from the ACL and LCL injury he suffered in Week 15.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 24 Jul 2026 16:39:41 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/chiefs-star-qb-patrick-mahomes-cleared-practice-ahead-training-camp"
     },
     {
       "kind": "other",

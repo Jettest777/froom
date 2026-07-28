@@ -1,14 +1,414 @@
 {
   "version": 1,
-  "generated_at": "2026-07-28T20:02:18.154629+00:00",
-  "count": 120,
+  "generated_at": "2026-07-28T21:40:06.010363+00:00",
+  "count": 117,
   "items": [
+    {
+      "kind": "signing",
+      "title": "49ers to sign DE KJ Henry",
+      "title_ja": "49ersがDE KJ Henryと契約を結ぶ",
+      "excerpt": "The 49ers are making an addition to their defensive line group.",
+      "excerpt_ja": "49ersがディフェンシブラインの陣容を補強する。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 21:27:26 +0000",
+      "url": "https://sports.yahoo.com/articles/49ers-sign-kj-henry-212726219.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Fantasy Football Video: Will Jalen Coker be a surprise breakout at wide receiver in 2026?",
+      "title_ja": "ファンタジーフットボール動画：Jalen Cokerは2026年のワイドレシーバーで予想外のブレイクアウトになるか？",
+      "excerpt": "Yahoo welcomes Josh Norris and Hayden Winks to the crew in their inaugural episode on Yahoo Fantasy.",
+      "excerpt_ja": "Yahooが初回エピソードでJosh NorrisとHayden Winksをファンタジーフットボール番組に迎える。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 21:25:37 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-video-will-jalen-coker-be-a-surprise-breakout-at-wide-receiver-in-2026-212537747.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Packers add 5 more to injury list, including Micah Parsons",
+      "title_ja": "Packersが故障者リストに5名を追加、Micah Parsonsを含む",
+      "excerpt": "11 of the Green Bay Packers’ 91 players are already on injury lists",
+      "excerpt_ja": "Green Bay Packersの91名の選手のうち11名が既に故障者リストに登録されている",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 21:15:29 +0000",
+      "url": "https://sports.yahoo.com/articles/packers-add-5-more-injury-211529594.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chicago Bears make 2 more roster moves",
+      "title_ja": "Chicago Bearsがロスター関連の動きを2件発表",
+      "excerpt": "The Bears put Montez Sweat on the NFI and Elijah Hicks on the PUP. @wiltfongjr with the details here.",
+      "excerpt_ja": "BearsはMontez SweetをNFIリストに、Elijah HicksをPUPリストに指定した。詳細は@wiltfongjrから。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 21:08:07 +0000",
+      "url": "https://sports.yahoo.com/articles/chicago-bears-2-more-roster-210807826.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Jets&#39; Breece Hall looking to continue &#39;proving&#39; himself after contract extension: &#39;It makes me more hungry&#39;",
+      "title_ja": "Jetsの契約延長後、Breece Hallが自分を『証明し続ける』意欲を示す：『より一層ハングリーになる』",
+      "excerpt": "Now heading his fifth season in the NFL, Jets RB Breece Hall wants to keep proving he deserves to be in the position he&#39;s earned.",
+      "excerpt_ja": "NFLキャリア5シーズン目に突入するJets RB Breece Hallは、自分が勝ち取ったポジションに相応しいことを示し続けたいと考えている。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 21:05:40 +0000",
+      "url": "https://sports.yahoo.com/articles/jets-breece-hall-looking-continue-210540088.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Rams&#39; Justin Dedich out with “a hand accident around the Fourth of July,&quot; Sean McVay says",
+      "title_ja": "Rams OL Justin Dedichが『独立記念日前後の手の事故』で欠場、Sean McVayが明かす",
+      "excerpt": "When the Rams announced that guard Justin Dedich would open training camp on the non-football injury list, they did not reveal the nature of that injury.",
+      "excerpt_ja": "RamsがガードJustin Dedichをトレーニングキャンプをノンフットボール故障者リストで開くと発表した際、その怪我の詳細は明かされなかった。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 21:01:20 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-justin-dedich-hand-accident-210120336.html"
+    },
+    {
+      "kind": "other",
+      "title": "Tailgate title fight: vote your favorite and enter to win $1,000 prize",
+      "title_ja": "テイルゲート対決：好きなものに投票して1000ドルの賞金を獲得するチャンス",
+      "excerpt": "Green Bay bratwurst and Philly cheesesteaks face off in the final round of the Great American Tailgate vote.",
+      "excerpt_ja": "Green BayのブラートヴルストとPhiladelphiaのチーズステーキが、Great American Tailgate投票の決勝ラウンドで対戦する。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 21:00:44 +0000",
+      "url": "https://sports.yahoo.com/articles/tailgate-title-fight-vote-favorite-210044319.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cowboys 2026 roster rundown: WR Denzel Mims",
+      "title_ja": "Cowboys 2026ロスター解説：WR Denzel Mims",
+      "excerpt": "Which wide receivers do you think the Cowboys will carry?",
+      "excerpt_ja": "Cowboysがどのワイドレシーバーを確保すると思いますか？",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 21:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-2026-roster-rundown-wr-210000661.html"
+    },
+    {
+      "kind": "other",
+      "title": "Sean McVay: Aaron Donald&#39;s training going well, but no decision imminent",
+      "title_ja": "Sean McVay：Aaron Donaldのトレーニング好調だが決定はまだ",
+      "excerpt": "Aaron Donald may end up coming back to the Rams to play in 2026.",
+      "excerpt_ja": "Aaron Donaldは2026年シーズンのためにRamsに復帰する可能性がある。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:50:18 +0000",
+      "url": "https://sports.yahoo.com/articles/sean-mcvay-aaron-donalds-training-205018229.html"
+    },
+    {
+      "kind": "other",
+      "title": "T.J. Watt shares promising insight into Steelers’ pass rush plan",
+      "title_ja": "T.J. Wattが前向きなコメント、Steelersのパスラッシュプランについて",
+      "excerpt": "Steelers’ pass rusher T.J. Watt shares a promising note on Pittsburgh’s defense ahead of training camp.",
+      "excerpt_ja": "Steelers DEのT.J. Wattがトレーニングキャンプ前のPittsburghのディフェンス戦略について前向きなコメントを述べた。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:47:13 +0000",
+      "url": "https://sports.yahoo.com/articles/t-j-watt-shares-promising-204713016.html"
+    },
+    {
+      "kind": "other",
+      "title": "Detroit Lions place 2 on NFI, release NT Jay Tufele",
+      "title_ja": "Lions がNFIに2名を指定、NT Jay Tuféleをリリース",
+      "excerpt": "The Detroit Lions make three transactions on training camp eve.",
+      "excerpt_ja": "Detroit Lionsがトレーニングキャンプ直前に3件のトランザクションを実行した。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:47:04 +0000",
+      "url": "https://sports.yahoo.com/articles/detroit-lions-place-2-nfi-204704949.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Baker Mayfield to free agency? What&#39;s next after QB, Bucs miss extension deadline",
+      "title_ja": "Baker Mayfiieldはフリーエージェントへ？QBとBucsが契約延長期限を逃した後の展開",
+      "excerpt": "The Tampa Bay Buccaneers and Baker Mayfield were unable to come to terms on a contract extension for the QB. Here&#39;s what that means.",
+      "excerpt_ja": "Tampa Bay BuccaneersとQB Baker MayfiieldがQBの契約延長でまとまることができなかった。その意味するところは。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:39:30 +0000",
+      "url": "https://sports.yahoo.com/articles/baker-mayfield-hit-free-agency-203930913.html"
+    },
+    {
+      "kind": "other",
+      "title": "Saints Reacts Survey: Who will win the backup QB position?",
+      "title_ja": "Saints Reacts調査：バックアップQBのポジション争いは誰が勝つ？",
+      "excerpt": "Vote in this week’s Saints reacts poll and let us know your thoughts",
+      "excerpt_ja": "今週のSaints Reacts投票に参加して、あなたの考えを教えてください",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NO",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:35:23 +0000",
+      "url": "https://sports.yahoo.com/articles/saints-reacts-survey-win-backup-203523231.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Lions place G Christian Mahogany on NFI, release DT Jay Tufele",
+      "title_ja": "Lions がG Christian Mahoganyをメディカルリストに指定、DT Jay Tuféleをリリース",
+      "excerpt": "The Lions put one of their starting offensive linemen on the non-football injury list on Tuesday.",
+      "excerpt_ja": "Lionsが火曜日、先発オフェンシブラインマンの1人をノンフットボール故障者リストに指定した。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:29:44 +0000",
+      "url": "https://sports.yahoo.com/articles/lions-place-g-christian-mahogany-202944480.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Klint Kubiak: Maxx Crosby is ready to go, ready to practice",
+      "title_ja": "Klint Kubiak：Maxx Crosbyは準備万端、プラクティス参加の態勢が整っている",
+      "excerpt": "The Ravens infamously backed out of their trade for Maxx Crosby due to concerns about a degenerative issue in the edge rusher&#39;s knee.",
+      "excerpt_ja": "Ravensはエッジラッシャー Maxx Crosbyのニーの変性疾患に関する懸念からトレード話を有名に打ち切った。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:23:40 +0000",
+      "url": "https://sports.yahoo.com/articles/klint-kubiak-maxx-crosby-ready-202340466.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Packers sign tight end Thomas Yassmin, designate him as international exemption",
+      "title_ja": "Packersが TE Thomas Yasminと契約、インターナショナルエクセプション指定",
+      "excerpt": "Green Bay added a former rugby player from Australia, on top of a German kicker, on Tuesday",
+      "excerpt_ja": "Green Bayはオーストラリアの元ラグビー選手に加え、火曜日にドイツ人キッカーも加入させた",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:19:41 +0000",
+      "url": "https://sports.yahoo.com/articles/packers-sign-tight-end-thomas-201941178.html"
+    },
+    {
+      "kind": "other",
+      "title": "Bears DE Montez Sweat lands on non-football illness list",
+      "title_ja": "Bears DE Montez SweetがNFIリストに登録",
+      "excerpt": "The Bears continued making moves Tuesday ahead of the team&#39;s first practice.",
+      "excerpt_ja": "Bearsがチーム初プラクティス前に火曜日もロスター関連の動きを続けた。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:17:07 +0000",
+      "url": "https://sports.yahoo.com/articles/bears-montez-sweat-lands-non-201707678.html"
+    },
+    {
+      "kind": "other",
+      "title": "Jets add DE Joseph Ossai to the PUP list, activate WR Tim Patrick to active roster",
+      "title_ja": "JetsがDE Joseph Ossaiをプププリストに追加、WR Tim Patrickをアクティブロスターに復帰",
+      "excerpt": "The Jets moved wide receiver Tim Patrick back to the active roster on Tuesday, the team announced.",
+      "excerpt_ja": "JetsはWR Tim Patrickを火曜日、アクティブロスターに戻したと発表した。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:08:44 +0000",
+      "url": "https://sports.yahoo.com/articles/jets-add-joseph-ossai-pup-200844195.html"
+    },
+    {
+      "kind": "other",
+      "title": "3 Training Camp notes from 49ers Day 2 practice: There’s 1 constant at safety",
+      "title_ja": "49ersトレーニングキャンプDay 2プラクティス：セーフティで1つの課題が浮き彫りに",
+      "excerpt": "The rookie wide receiver has his opportunity right in front of him",
+      "excerpt_ja": "ルーキーワイドレシーバーのチャンスが目の前にある",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:07:36 +0000",
+      "url": "https://sports.yahoo.com/articles/3-training-camp-notes-49ers-200736730.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL Offensive Player of the Year Odds: Jahmyr Gibbs Poised for a Career Year?",
+      "title_ja": "NFL攻撃的プレイヤー・オブ・ザ・イヤーオッズ：Jahmyr Gibbsは史上最高のシーズンを迎えるか？",
+      "excerpt": "2026 NFL Offensive Player of the Year betting odds, headlined by Jahmyr Gibbs (+650).",
+      "excerpt_ja": "2026 NFL攻撃的プレイヤー・オブ・ザ・イヤーのベッティングオッズで、Jahmyr Gibbs（+650）が筆頭。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:02:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-offensive-player-odds-nacua-183400310.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Klint Kubiak: Kirk Cousins is the starting QB, Fernando Mendoza and Aidan O&#39;Connell should push him",
+      "title_ja": "Klint Kubiak：Kirk CousinsがスターティングQB、Fernando MendozaとAidan O'Connellがプッシュすべき",
+      "excerpt": "The Raiders signed quarterback Kirk Cousins to be their starter, and that’s exactly how he’s set to enter training camp.",
+      "excerpt_ja": "RaidersがQB Kirk Cousinsをスターターとして契約し、トレーニングキャンプで彼はまさにそのポジションで臨む。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:01:42 +0000",
+      "url": "https://sports.yahoo.com/articles/klint-kubiak-kirk-cousins-starting-200142649.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chiefs Market Movers: Bulls and Bears at start of training camp",
+      "title_ja": "Chiefs Market Movers：トレーニングキャンプ開始時点での強気と弱気",
+      "excerpt": "Who’s up and who’s down on Kansas City’s roster heading into the preseason.",
+      "excerpt_ja": "プレシーズン開幕に向けたKansas Cityロスターの上昇トレンドと下降トレンド。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 20:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/chiefs-market-movers-bulls-bears-200000150.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Kyle Shanahan corrects car accident report, says crash was his fault. What we know",
+      "title_ja": "Kyle Shanahan が車の事故報告を訂正、クラッシュは自分の責任だと述べる。分かっていること",
+      "excerpt": "Kyle Shanahan continues to recover from injuries sustained in a car accident. Here&#39;s what we know as details emerge.",
+      "excerpt_ja": "Kyle Shanahan が自動車事故で負った怪我から回復中。詳細が明かされるにつれ、分かっていることを整理。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 19:56:53 +0000",
+      "url": "https://sports.yahoo.com/articles/kyle-shanahan-corrects-car-accident-195653407.html"
+    },
+    {
+      "kind": "other",
+      "title": "New York Giants 2026 schedule and scores",
+      "title_ja": "New York Giants 2026スケジュール・スコア",
+      "excerpt": "Complete New York Giants schedule and results for the 2026-27 season. All times are Eastern Time.",
+      "excerpt_ja": "2026-27シーズンのNew York Giantsの全スケジュール・スコア。全て東部時間。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 19:55:22 +0000",
+      "url": "https://sports.yahoo.com/articles/york-giants-2026-schedule-scores-195522548.html"
+    },
+    {
+      "kind": "other",
+      "title": "2026 NFL Defensive Player of the Year Award Odds: Myles Garrett Eyes Hollywood Encore",
+      "title_ja": "2026 NFLディフェンシブプレイヤー・オブ・ザ・イヤーアワードオッズ：Myles Garrettがハリウッドン・コール狙う",
+      "excerpt": "2026 NFL Defensive Player of the Year betting odds, headlined by new Los Angeles Rams defensive end Myles Garrett (+400).",
+      "excerpt_ja": "2026 NFLディフェンシブプレイヤー・オブ・ザ・イヤーのベッティングオッズで、新Los Angeles Rams DE Myles Garrett（+400）が筆頭。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 19:54:00 +0000",
+      "url": "https://sports.yahoo.com/articles/2025-26-nfl-defensive-player-153900255.html"
+    },
     {
       "kind": "other",
       "title": "Chris Olave, Jordyn Tyson good to go at Saints camp",
-      "title_ja": null,
+      "title_ja": "Chris OlaveとJordyn Tysonがセインツキャンプで準備完了",
       "excerpt": "Saints wide receiver Chris Olave was not fully cleared for football activities during the offseason program, but he&#39;s set to hit the field without restrictions at training camp.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Saints WR Chris Olave はオフシーズンプログラム中はフットボール活動全てで完全クリアされなかったが、トレーニングキャンプでは無制限での出場態勢が整っている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -20,11 +420,27 @@
       "url": "https://sports.yahoo.com/articles/chris-olave-jordyn-tyson-good-195340342.html"
     },
     {
+      "kind": "other",
+      "title": "NFL Rookie of the Year Odds: Jeremiyah Love, David Bailey Emerge as Early Favorites",
+      "title_ja": "NFL Rookie of the Year オッズ：Jeremiyah Love、David Baileyが序盤の本命に",
+      "excerpt": "A look at the latest 2026-27 NFL Rookie of the Year odds, with Jeremiyah Love (+430) and David Bailey (+550) listed as the betting favorites.",
+      "excerpt_ja": "最新の2026-27 NFL Rookie of the Yearオッズを見ると、Jeremiyah Love（+430）とDavid Bailey（+550）がベッティング本命として記載されている。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 19:44:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-rookie-odds-emeka-egbuka-155300006.html"
+    },
+    {
       "kind": "signing",
       "title": "Reports: Packers sign K Lenny Krieg, cut K Lucas Havrisik",
-      "title_ja": null,
+      "title_ja": "Packersが K Lenny Kriegと契約、K Lucas Havrisikをカット",
       "excerpt": "The Packers can&#39;t get their kicking situation settled, and Tuesday&#39;s transactions showed that the position is still a work in progress.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Packersのキッカー状況は未だに安定せず、火曜日のトランザクションはそのポジションが依然工事中であることを示している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -36,436 +452,244 @@
       "url": "https://sports.yahoo.com/articles/reports-packers-sign-k-lenny-194133731.html"
     },
     {
-      "kind": "injury",
-      "title": "Late reporting, terrible injuries, 49ers camp: sorting through the wreckage from Coach Kyle Shanahan&#39;s car accident",
-      "title_ja": null,
-      "excerpt": "A car accident that seriously injured San Francisco 49ers coach Kyle Shanahan wasn&#39;t made public for 11 days, leading to criticism of media outlets.",
-      "excerpt_ja": null,
+      "kind": "other",
+      "title": "NFL Comeback Player of the Year Odds: The Empire Strikes Back",
+      "title_ja": "NFL Comeback Player of the Year オッズ：帝国の逆襲",
+      "excerpt": "A look at NFL Comeback Player of the Year odds, with Patrick Mahomes (+185) penned as the betting favorite.",
+      "excerpt_ja": "NFL Comeback Player of the Yearのベッティングオッズで、Patrick Mahomes（+185）が本命として記載されている。",
       "sources": [
         "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 19:36:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-comeback-player-odds-mccaffrey-180300692.html"
+    },
+    {
+      "kind": "injury",
+      "title": "49ers Head Coach Kyle Shanahan Takes Blame for Crash Resulting In Concussion",
+      "title_ja": "49ers HC Kyle Shanahan が脳震盪で入院、車の衝突について責任を認める",
+      "excerpt": "San Francisco 49ers coach Kyle Shanahan took the blame for the car crash that left him with a concussion and other injuries.",
+      "excerpt_ja": "San Francisco 49ers HC Kyle Shanahan が脳震盪を含む怪我を負った自動車衝突について責任を認めた。",
+      "sources": [
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": "SF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:34:44 +0000",
-      "url": "https://sports.yahoo.com/articles/reporting-terrible-injuries-49ers-camp-193444329.html"
-    },
-    {
-      "kind": "presser",
-      "title": "Brian Schottenheimer: Tyler Booker will get training camp work at center",
-      "title_ja": null,
-      "excerpt": "Brian Schottenheimer said Tyler Booker will get work at center",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/brian-schottenheimer-tyler-booker-training-193000577.html"
-    },
-    {
-      "kind": "other",
-      "title": "From a former Raven: what Lamar Jackson’s film and record actually show",
-      "title_ja": null,
-      "excerpt": "Criticism of Lamar Jackson’s play is outdated and uninformed, writes former Ravens Super Bowl champion Femi Ayanbadejo.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/former-raven-lamar-jackson-film-193000881.html"
+      "published_at": "Tue, 28 Jul 2026 17:31:30 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-coach-kyle-shanahan-takes-blame-for-the-crash-that-left-him-with-a-concussion"
     },
     {
       "kind": "signing",
-      "title": "Jerry Jones: George Pickens could be a Cowboy the rest of his career",
-      "title_ja": null,
-      "excerpt": "The Cowboys announced during the draft that they would not negotiate with George Pickens on a long-term deal.",
-      "excerpt_ja": null,
+      "title": "49ers to sign DE KJ Henry",
+      "title_ja": "49ersがDE KJ Henryと契約を結ぶ",
+      "excerpt": "The 49ers are making an addition to their defensive line group.",
+      "excerpt_ja": "49ersがディフェンシブラインの陣容を補強する。",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.54,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:27:55 +0000",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-george-pickens-could-192755804.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Top 10 NFL offenses in 2026: who has the #1 scariest attack?",
-      "title_ja": null,
-      "excerpt": "Nate Tice & Matt Harmon reveal their top 10 scariest NFL offenses heading into the 2026 season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:26:08 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/top-10-nfl-offenses-in-2026-who-has-the-1-scariest-attack-192608070.html"
-    },
-    {
-      "kind": "other",
-      "title": "Dolphins training camp 2026: Physicality takes center stage",
-      "title_ja": null,
-      "excerpt": "The Dolphins are going top be physical this summer as Jeff Hafley puts his stamp on the team.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:25:47 +0000",
-      "url": "https://sports.yahoo.com/articles/dolphins-training-camp-2026-physicality-192547778.html"
-    },
-    {
-      "kind": "other",
-      "title": "NFL Coach of the Year Odds: John Harbaugh Ushers in New Era for the Giants",
-      "title_ja": null,
-      "excerpt": "A look at NFL Coach of the Year odds, with first-year New York Giants head coach John Harbaugh (+650) as the betting favorite.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:22:00 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-coach-odds-vrabel-proves-210900770.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Jaguars free agent CB signing retires before playing a snap in Jacksonville",
-      "title_ja": null,
-      "excerpt": "The Jacksonville Jaguars signed CB Dane Jackson to a one-year deal in June. Just over one month later, he has retired after a six-year career.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "JAX",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:15:46 +0000",
-      "url": "https://sports.yahoo.com/articles/jaguars-free-agent-cb-signing-191546699.html"
-    },
-    {
-      "kind": "other",
-      "title": "Klint Kubiak provides updates on Maxx Crosby’s, Jermod McCoy’s status for Las Vegas Raiders 1st training camp practice",
-      "title_ja": null,
-      "excerpt": "“Everyone is going to be practicing [on Wednesday],” via the head coach.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:15:00 +0000",
-      "url": "https://sports.yahoo.com/articles/klint-kubiak-provides-updates-maxx-191500536.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Stephen Jones: Cowboys interested in Quinnen Williams extension",
-      "title_ja": null,
-      "excerpt": "The Cowboys appear ready to get a Quinnen Williams deal done",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:15:00 +0000",
-      "url": "https://sports.yahoo.com/articles/stephen-jones-cowboys-interested-quinnen-191500891.html"
-    },
-    {
-      "kind": "other",
-      "title": "Raiders coach Klint Kubiak: Kirk Cousins is &#39;the starting quarterback&#39; over No. 1 pick Fernando Mendoza",
-      "title_ja": null,
-      "excerpt": "How Mendoza develops and is placed into the starting position will be the most important challenge for Kubiak as a rookie head coach.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:11:02 +0000",
-      "url": "https://sports.yahoo.com/nfl/breaking-news/article/raiders-coach-klint-kubiak-kirk-cousins-is-the-starting-quarterback-over-no-1-pick-fernando-mendoza-191102071.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Cowboys owner Jerry Jones already talking about making a big trade as he eyes Super Bowl",
-      "title_ja": null,
-      "excerpt": "Cowboys owner Jerry Jones said he&#39;s confident with his team as camp begins.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:55:07 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/cowboys-owner-jerry-jones-already-talking-about-making-a-big-trade-as-he-eyes-super-bowl-185507394.html"
-    },
-    {
-      "kind": "other",
-      "title": "Dak Prescott, Cowboys embracing Super Bowl talk",
-      "title_ja": null,
-      "excerpt": "Dak Prescott showed up to training camp in Oxnard, California, wearing a Cowboys&#39; Super Bowl XXX championship T-shirt.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:49:54 +0000",
-      "url": "https://sports.yahoo.com/articles/dak-prescott-cowboys-embracing-super-184954517.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Vita Vea reportedly wants to play on the West Coast; do the 49ers have the pieces for a trade?",
-      "title_ja": null,
-      "excerpt": "Vita Vea requested a trade on Monday. He grew up in the Bay Area",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
       "team_abbrev": "SF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:49:33 +0000",
-      "url": "https://sports.yahoo.com/articles/vita-vea-reportedly-wants-play-184933424.html"
-    },
-    {
-      "kind": "presser",
-      "title": "Jerry Jones says Cowboys did not walk away from Maxx Crosby idea",
-      "title_ja": null,
-      "excerpt": "Jerry Jones said the Cowboys did not walk away from Maxx Crosby",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:43:38 +0000",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-says-cowboys-did-184338234.html"
+      "published_at": "Tue, 28 Jul 2026 17:27:26 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-to-sign-de-k-j-henry"
     },
     {
       "kind": "other",
-      "title": "Aaron Rodgers says there&#39;s &#39;zero debate&#39; 2026 will be his final NFL season",
-      "title_ja": null,
-      "excerpt": "Aaron Rodgers will not consider playing beyond the 2026 NFL season.",
-      "excerpt_ja": null,
+      "title": "USA's Sebastian Berhalter Joins Middlesbrough From Vancouver Whitecaps",
+      "title_ja": "アメリカ代表 Sebastian BerhalterがVancouver Whitecapsから Middlesbroughに移籍",
+      "excerpt": "United States midfielder Sebastian Berhalter has transferred to English Championship side Middlesbrough from the Vancouver Whitecaps, announced by both clubs Tuesday.",
+      "excerpt_ja": "アメリカ代表MF Sebastian Berhalterが火曜日、Vancouver WhitecapsからイングランドChampionship所属のMiddlesbroughに移籍した。両クラブが発表。",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:38:30 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/aaron-rodgers-says-theres-zero-debate-2026-will-be-his-final-nfl-season-183830004.html"
+      "published_at": "Tue, 28 Jul 2026 17:27:09 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/usa-sebastian-berhalter-joins-middlesbrough-from-vancouver-whitecaps"
     },
     {
-      "kind": "signing",
-      "title": "Packers make kicker swap, signing Lenny Krieg and releasing Lucas Havrisik",
-      "title_ja": null,
-      "excerpt": "A kicker swap changes up the dynamic of the impending training camp battle in Green Bay.",
-      "excerpt_ja": null,
+      "kind": "trade",
+      "title": "Kalshi Promo Code FOXSPORTS: Get up to $500 in Bonuses When You Trade on Today's MLB, WNBA Action and More",
+      "title_ja": "Kalshi プロモコード FOXSPORTS：今日のMLB、WNBAアクション等で$500までのボーナスを獲得",
+      "excerpt": "Kalshi Promo Code FOXSPORTS: Get up to $500 in Bonuses When You Trade on Today's MLB, WNBA action and More.",
+      "excerpt_ja": "Kalshi プロモコード FOXSPORTS：今日のMLB、WNBAアクション等で$500までのボーナスを獲得。",
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:33:26 +0000",
-      "url": "https://sports.yahoo.com/articles/packers-kicker-swap-signing-lenny-183326168.html"
-    },
-    {
-      "kind": "other",
-      "title": "Chiefs’ rookie E.J. Smith has different path to NFL than his father did",
-      "title_ja": null,
-      "excerpt": "The son of Hall of Fame running back Emmitt Smith is looking to make his own path to NFL stardom.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/chiefs-rookie-e-j-smith-183000263.html"
-    },
-    {
-      "kind": "other",
-      "title": "Seahawks announce throwback jersey games for 2026 season",
-      "title_ja": null,
-      "excerpt": "The Seahawks’ beloved throwbacks are coming to primetime at Lumen Field.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:26:28 +0000",
-      "url": "https://sports.yahoo.com/articles/seahawks-announce-throwback-jersey-games-182628945.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Colts G.M. Chris Ballard says he wouldn&#39;t agree to extension with team before season",
-      "title_ja": null,
-      "excerpt": "&quot;I&#39;m in the last year of my deal,&quot; Ballard said. &quot;We need to win.&quot;",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:24:24 +0000",
-      "url": "https://sports.yahoo.com/articles/colts-g-m-chris-ballard-182424629.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Jaguars sign CB Corey Ballentine, place CB Dane Jackson on reserve/retired list",
-      "title_ja": null,
-      "excerpt": "The Jaguars made a couple of roster moves involving cornerbacks as they opened training camp on Tuesday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "JAX",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:24:05 +0000",
-      "url": "https://sports.yahoo.com/articles/jaguars-sign-cb-corey-ballentine-182405773.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Kyler Murray and J.J. McCarthy will split first-team reps as QB battle continues into Vikings camp",
-      "title_ja": null,
-      "excerpt": "Head coach Kevin O&#39;Connell met with each of his quarterbacks as they reported to camp this week to explain his vision and plan for managing snaps and determining who will start Week 1.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:21:33 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/kyler-murray-and-jj-mccarthy-will-split-first-team-reps-as-qb-battle-continues-into-vikings-camp-182133295.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Fantasy Football: Big-name players who could struggle through tough early-season schedules",
-      "title_ja": null,
-      "excerpt": "An rough schedule shouldn&#39;t deter you from drafting a fantasy football star, but it still cannot be ignored.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:18:22 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-big-name-players-who-could-struggle-through-tough-early-season-schedules-181822721.html"
+      "published_at": "Tue, 28 Jul 2026 17:18:25 -0400",
+      "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code-foxsports-get-up-500-bonuses-when-you-trade-todays-mlb-wnba-action-more"
     },
     {
       "kind": "other",
-      "title": "Steelers CB Joey Porter Jr. joins Jalen Ramsey on PUP list to begin training camp",
-      "title_ja": null,
-      "excerpt": "Pittsburgh opens camp with three cornerbacks on the PUP list.",
-      "excerpt_ja": null,
+      "title": "2026 MLB Odds: Bettors Backing Brewers To Win World Series, 'Miz' For Cy Young",
+      "title_ja": "2026 MLBオッズ：ベッターがBrewersのワールドシリーズ優勝、Cy Young賞を予想",
+      "excerpt": "Are the Milwaukee Brewers worth all the hype? Bettors certainly believe so. See the latest.",
+      "excerpt_ja": "Milwaukee Brewersはすべてのハイプに値するのか？ベッターは確実にそう信じている。最新情報を見る。",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 17:12:29 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-odds-milwaukee-brewers-world-series-misiorowski"
+    },
+    {
+      "kind": "injury",
+      "title": "Rams' Justin Dedich out with “a hand accident around the Fourth of July,\" Sean McVay says",
+      "title_ja": "Rams OL Justin Dedichが『独立記念日前後の手の事故』で欠場、Sean McVayが明かす",
+      "excerpt": "When the Rams announced that guard Justin Dedich would open training camp on the non-football injury list, they did not reveal the nature of that injury.",
+      "excerpt_ja": "RamsがガードJustin Dedichをトレーニングキャンプをノンフットボール故障者リストで開くと発表した際、その怪我の詳細は明かされなかった。",
+      "sources": [
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "LAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:16:20 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/steelers-cb-joey-porter-jr-joins-jalen-ramsey-on-pup-list-to-begin-training-camp-181620809.html"
+      "published_at": "Tue, 28 Jul 2026 17:01:20 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-justin-dedich-out-with-a-hand-accident-around-the-fourth-of-july-sean-mcvay-says"
     },
     {
-      "kind": "other",
-      "title": "Which QB will finally topple Norm Van Brocklin’s record?",
-      "title_ja": null,
-      "excerpt": "Van Brocklin’s record has stood for nearly 75 years, and there are several candidates to break it during the 2026 season",
-      "excerpt_ja": null,
+      "kind": "trade",
+      "title": "Polymarket Promo Code FOX: Claim $20 When You Trade on the MLB, WNBA, or Any Other Game Today",
+      "title_ja": "Polymarket プロモコード FOX：MLB、WNBA、またはその他のゲーム取引時に$20を獲得",
+      "excerpt": "Polymarket Promo Code FOX: Claim $20 When You Trade on the MLB, WNBA, or Any Other Event Today.",
+      "excerpt_ja": "Polymarket プロモコード FOX：MLB、WNBA、またはその他のイベント取引時に$20を獲得。",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:15:00 +0000",
-      "url": "https://sports.yahoo.com/articles/qb-finally-topple-norm-van-181500145.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Patriots training camp notebook: Kayshon Boutte delivers another highlight",
-      "title_ja": null,
-      "excerpt": "The Patriots held their fourth training practice on Tuesday, July 28.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:13:21 +0000",
-      "url": "https://sports.yahoo.com/articles/patriots-training-camp-notebook-kayshon-181321255.html"
+      "published_at": "Tue, 28 Jul 2026 16:51:43 -0400",
+      "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code-fox-claim-20-when-you-trade-mlb-wnba-any-other-game-today"
     },
     {
       "kind": "other",
-      "title": "Pre-Training Camp Chicago Bears 53-Man Roster Projection",
-      "title_ja": null,
-      "excerpt": "Training camp is here! That means it’s time for a pre-training camp 53-man roster projection from @AaronLemingNFL.",
-      "excerpt_ja": null,
+      "title": "Sean McVay: Aaron Donald's training going well, but no decision imminent",
+      "title_ja": "Sean McVay：Aaron Donaldのトレーニング好調だが決定はまだ",
+      "excerpt": "Aaron Donald may end up coming back to the Rams to play in 2026.",
+      "excerpt_ja": "Aaron Donaldは2026年シーズンのためにRamsに復帰する可能性がある。",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 16:50:18 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-aaron-donalds-training-going-well-but-no-decision-imminent"
+    },
+    {
+      "kind": "other",
+      "title": "Betr Promo Code FOXSPORTS: Get a $200 Bonus for MLB or the WNBA Plus Your Favorite Pick",
+      "title_ja": "Betr プロモコード FOXSPORTS：MLBまたはWNBA、プラス好みのピックで$200ボーナスを獲得",
+      "excerpt": "Betr Promo Code FOXSPORTS: Get a $200 Bonus for MLB or the WNBA Plus Your Favorite Pick.",
+      "excerpt_ja": "Betr プロモコード FOXSPORTS：MLBまたはWNBA、プラス好みのピックで$200ボーナスを獲得。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 16:48:03 -0400",
+      "url": "https://www.foxsports.com/stories/betting/betr-promo-code-foxsports-get-200-bonus-mlb-wnba-plus-your-favorite-pick"
+    },
+    {
+      "kind": "injury",
+      "title": "Lions place G Christian Mahogany on NFI, release DT Jay Tufele",
+      "title_ja": "Lions がG Christian Mahoganyをノンフットボール故障者リストに指定、DT Jay Tuféleをリリース",
+      "excerpt": "The Lions put one of their starting offensive linemen on the non-football injury list on Tuesday.",
+      "excerpt_ja": "Lionsが火曜日、先発オフェンシブラインマンの1人をノンフットボール故障者リストに指定した。",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 16:29:44 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-place-g-christian-mahogany-on-nfi-release-dt-jay-tufele"
+    },
+    {
+      "kind": "trade",
+      "title": "Klint Kubiak: Maxx Crosby is ready to go, ready to practice",
+      "title_ja": "Klint Kubiak：Maxx Crosbyは準備万端、プラクティス参加の態勢が整っている",
+      "excerpt": "The Ravens infamously backed out of their trade for Maxx Crosby due to concerns about a degenerative issue in the edge rusher's knee.",
+      "excerpt_ja": "Ravensはエッジラッシャー Maxx Crosbyのニーの変性疾患に関する懸念からトレード話を有名に打ち切った。",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 16:23:40 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-maxx-crosby-is-ready-to-go-ready-to-practice"
+    },
+    {
+      "kind": "other",
+      "title": "Bears DE Montez Sweat lands on non-football illness list",
+      "title_ja": null,
+      "excerpt": "The Bears continued making moves Tuesday ahead of the team's first practice.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
       "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/pre-training-camp-chicago-bears-180000711.html"
+      "published_at": "Tue, 28 Jul 2026 16:17:07 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-de-montez-sweat-lands-on-non-football-illness-list"
+    },
+    {
+      "kind": "other",
+      "title": "Jets add DE Joseph Ossai to the PUP list, activate WR Tim Patrick to active roster",
+      "title_ja": null,
+      "excerpt": "The Jets moved wide receiver Tim Patrick back to the active roster on Tuesday, the team announced.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 16:08:44 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-add-de-joseph-ossai-to-the-pup-list-activate-wr-tim-patrick-to-active-roster"
+    },
+    {
+      "kind": "signing",
+      "title": "Klint Kubiak: Kirk Cousins is the starting QB, Fernando Mendoza and Aidan O'Connell should push him",
+      "title_ja": null,
+      "excerpt": "The Raiders signed quarterback Kirk Cousins to be their starter, and that’s exactly how he’s set to enter training camp.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 16:01:42 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-kirk-cousins-is-the-starting-qb-fernando-mendoza-and-aidan-oconnell-should-push-him"
     },
     {
       "kind": "other",
@@ -556,7 +780,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
@@ -604,7 +828,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
@@ -700,7 +924,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "JAX",
       "player_name": null,
       "coach_name": null,
@@ -965,22 +1189,6 @@
     },
     {
       "kind": "other",
-      "title": "Vikings suspend DB coach Gerald Alexander for three weeks",
-      "title_ja": null,
-      "excerpt": "The Vikings will be without defensive backs coach Gerald Alexander for the next few weeks.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 12:59:06 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-suspend-db-coach-gerald-alexander-three-weeks-after-dwi-guilty-plea"
-    },
-    {
-      "kind": "other",
       "title": "NASCAR Power Rankings: Toyotas Rule While Joey Logano Surges",
       "title_ja": null,
       "excerpt": "Toyotas reigned supreme at the Brickyard but did the manufacturer dominate the power rankings, too? Here's the latest.",
@@ -1010,22 +1218,6 @@
       "coach_name": null,
       "published_at": "Tue, 28 Jul 2026 12:56:42 -0400",
       "url": "https://www.foxsports.com/stories/motor/indycar-new-car-design-reveal-2028-ride"
-    },
-    {
-      "kind": "trade",
-      "title": "Anthony Richardson's trade request hasn't been rescinded, Colts intend to keep three QBs",
-      "title_ja": null,
-      "excerpt": "Anthony Richardson requested a trade this offseason, but he remains on the Colts' roster and it doesn't sound like any move involving the quarterback is imminent.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 12:51:56 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardsons-trade-request-hasnt-been-rescinded-colts-intend-to-keep-three-qbs"
     },
     {
       "kind": "other",
@@ -1109,22 +1301,6 @@
     },
     {
       "kind": "other",
-      "title": "With 20 sacks, Myles Garrett would top Reggie White for sacks in a player's first 10 years",
-      "title_ja": null,
-      "excerpt": "Myles Garrett is heading into his 10th NFL season, and his first with the Rams.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 12:14:00 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-20-sacks-myles-garrett-would-top-reggie-white-for-sacks-in-a-players-first-10-years"
-    },
-    {
-      "kind": "other",
       "title": "theScore Bet Promo Code: Get $1,000 Bet Reset",
       "title_ja": null,
       "excerpt": "theScore Bet Promo Code: Get $1,000 Bet Reset.",
@@ -1138,86 +1314,6 @@
       "coach_name": null,
       "published_at": "Tue, 28 Jul 2026 12:13:20 -0400",
       "url": "https://www.foxsports.com/stories/betting/thescore-bet-promo-code"
-    },
-    {
-      "kind": "other",
-      "title": "Adrian Peterson will enter Vikings Ring of Honor on November 9 vs. Bills",
-      "title_ja": null,
-      "excerpt": "Running back Adrian Peterson played for seven NFL teams.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 12:11:49 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adrian-peterson-will-enter-vikings-ring-of-honor-on-november-9-vs-bills"
-    },
-    {
-      "kind": "other",
-      "title": "'Emotional' Zinedine Zidane: Taking Over France National Team A 'Dream'",
-      "title_ja": null,
-      "excerpt": "Zinedine Zidane is France’s new coach, and he's in awe of the opportunity in front of him.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 12:11:18 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/new-france-coach-zinedine-zidane-emotional-dream"
-    },
-    {
-      "kind": "other",
-      "title": "Last Night In Baseball: Max Scherzer Is 2 Strikeouts From Making MLB History",
-      "title_ja": null,
-      "excerpt": "Max Scherzer returned against his old team and inched toward history, the Red Sox had a grand victory, the Yankees and Astros rallied late, squirrel! and more from Monday's MLB action.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 12:08:52 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/max-scherzer-blue-jays-red-sox-astros-yankees-mets"
-    },
-    {
-      "kind": "other",
-      "title": "Best Sportsbook Promos & Bonus Bets - July 2026 Top Offers",
-      "title_ja": null,
-      "excerpt": "Discover the best sportsbook promos and bonus bets for July 2026. Compare welcome offers and top bonuses from leading betting sites.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 12:06:42 -0400",
-      "url": "https://www.foxsports.com/stories/betting/sportsbook-promo-bonus"
-    },
-    {
-      "kind": "trade",
-      "title": "Who Is Rams DT Kobie Turner? L.A.'s 'Conductor' Ready To Lead Super Team Over The Hump",
-      "title_ja": null,
-      "excerpt": "Rams DT Kobie Turner discusses the high expectations for his team, the bittersweet feelings of the Myles Garrett trade and Aaron Donald's possible return in a Q&A with our Eric D. Williams.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 11:58:55 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/who-rams-defensive-tackle-kobie-turner"
     },
     {
       "kind": "signing",
@@ -1237,22 +1333,6 @@
     },
     {
       "kind": "other",
-      "title": "De'Von Achane set for full practice after offseason shoulder surgery",
-      "title_ja": null,
-      "excerpt": "Dolphins running back De'Von Achane is ready to get back on the field without limitations.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 11:25:26 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devon-achane-set-for-full-practice-after-offseason-shoulder-surgery"
-    },
-    {
-      "kind": "other",
       "title": "Les Snead on Aaron Donald: This is the first time there’s a \"real itch\" to come back",
       "title_ja": null,
       "excerpt": "Aaron Donald has the proverbial itch.",
@@ -1266,38 +1346,6 @@
       "coach_name": null,
       "published_at": "Tue, 28 Jul 2026 11:20:57 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/les-snead-on-aaron-donald-this-is-the-first-time-theres-a-real-itch-to-come-back"
-    },
-    {
-      "kind": "rumor",
-      "title": "Report: Chiefs DE Ethan Downs tore his ACL",
-      "title_ja": null,
-      "excerpt": "Defensive end Ethan Downs's bid to make the Chiefs has come to an early end.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 11:16:10 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-chiefs-de-ethan-downs-tore-his-acl"
-    },
-    {
-      "kind": "other",
-      "title": "Madden NFL 27 Ratings: Who Are The 10 Highest-Rated Rookies In This Year's Game?",
-      "title_ja": null,
-      "excerpt": "Who are the 10 highest-rated rookies in \"Madden NFL 27?\" Here's the full list, which doesn't include Fernando Mendoza.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 11:13:04 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/madden-nfl-27-ratings-who-10-highest-rated-rookies-years-game"
     },
     {
       "kind": "signing",
@@ -1316,120 +1364,24 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ohio-state-lands-a-record-jersey-patch-deal"
     },
     {
-      "kind": "signing",
-      "title": "Vikings announce signings of running back Jordan Mims, linebacker Jamal Adams",
-      "title_ja": null,
-      "excerpt": "The Vikings' veterans are reporting to training camp today, and they've added two new veteran players.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 11:06:10 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-announce-signings-of-running-back-jordan-mims-linebacker-jamal-adams"
-    },
-    {
-      "kind": "other",
-      "title": "DeForest Buckner cleared to practice after neck surgery",
-      "title_ja": null,
-      "excerpt": "The Colts' defense has received a boost for the start of training camp.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 10:38:52 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deforest-buckner-cleared-to-practice-after-neck-surgery"
-    },
-    {
       "kind": "rumor",
-      "title": "2026 NFL Offseason Buzz: Steelers DB Jalen Ramsey Expected To Hit PUP List",
+      "title": "Report: Kyle Shanahan was holding, using cell phone at time of accident",
       "title_ja": null,
-      "excerpt": "Here's the latest offseason buzz and rumors around the NFL.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 10:33:07 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors"
-    },
-    {
-      "kind": "injury",
-      "title": "Jalen Ramsey starts training camp on PUP list due to knee injury",
-      "title_ja": null,
-      "excerpt": "One of Pittsburgh's key defenders is not quite ready for the start of training camp.",
+      "excerpt": "Shanahan was not cited for violation of California Vehicle Code.",
       "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 10:20:52 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-ramsey-starts-training-camp-on-pup-list-due-to-knee-injury"
-    },
-    {
-      "kind": "other",
-      "title": "TBT Schedule Today: How to Watch, TV, Streaming for Tuesday, July 28",
-      "title_ja": null,
-      "excerpt": "TBT has two Las Vegas Bracket semifinals today, both on FS1. Here's the schedule and how to watch as the field narrows to two.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 09:05:42 -0400",
-      "url": "https://www.foxsports.com/stories/other/tbt-schedule-today-how-watch-tv-streaming-tuesday-july-28"
-    },
-    {
-      "kind": "other",
-      "title": "2026 NFL Power Rankings: Where Every Team Stands Heading Into Training Camp",
-      "title_ja": null,
-      "excerpt": "Ralph Vacchiano updates the NFL hierarchy as teams break camp across the league.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 08:00:16 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-where-every-team-stands-heading-training-camp"
-    },
-    {
-      "kind": "other",
-      "title": "3 Keys To Alex Palou's Dominance As The INDYCAR Driver Chases History",
-      "title_ja": null,
-      "excerpt": "What separates Alex Palou from the rest of the INDYCAR field.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 07:00:38 -0400",
-      "url": "https://www.foxsports.com/stories/motor/indycar-analysis-james-hinchcliffe-alex-palou-schumacher-rahal-letterman"
+      "published_at": "Tue, 28 Jul 2026 09:40:42 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-kyle-shanahan-was-holding-using-cell-phone-at-time-of-accident"
     },
     {
       "kind": "signing",
-      "title": "NFL training camp news, live updates: Jalen Carter, Eagles agree to record-setting contract extension; Kirk Cousins named starting QB over Fernando Mendoza to open camp",
+      "title": "NFL training camp news, live updates: Kirk Cousins named QB1 over Fernando Mendoza to open camp; 49ers&#39; Kyle Shanahan admits fault in car crash; Eagles&#39; Jalen Carter gets record-setting extension;",
       "title_ja": null,
       "excerpt": "Follow along with the latest NFL news and updates as training camps around the league kick off.",
       "excerpt_ja": null,
@@ -1442,6 +1394,38 @@
       "coach_name": null,
       "published_at": "Mon, 27 Jul 2026 17:42:55 +0000",
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-live-updates-training-camp-2026-schedule-injury-news-174255317.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Kyle Shanahan injured in car accident: 49ers coach says it was his fault",
+      "title_ja": null,
+      "excerpt": "Reports say Shanahan suffered a broken nose, three broken ribs, a broken hand, a concussion and required more than 40 stitches to his face after the July 14 crash",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 28 Jul 2026 21:03:21 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/kyle-shanahan-car-accident-injuries-49ers-training-camp/"
+    },
+    {
+      "kind": "trade",
+      "title": "How Buccaneers opened training camp on worst foot possible with cloud of uncertainty",
+      "title_ja": null,
+      "excerpt": "Tampa Bay's training camp opened with Vita Vea requesting a trade and Baker Mayfield poised to play out the final year of his contract",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Tue, 28 Jul 2026 20:28:32 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/buccaneers-training-camp-baker-mayfield-vita-vea-trade/"
     },
     {
       "kind": "signing",
@@ -1506,22 +1490,6 @@
       "coach_name": null,
       "published_at": "\n                        Tue, 28 Jul 2026 17:16:32 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/ranking-seven-worst-nfl-uniforms-of-all-time/"
-    },
-    {
-      "kind": "injury",
-      "title": "Kyle Shanahan injured in car accident: 49ers coach to begin training camp in limited role",
-      "title_ja": null,
-      "excerpt": "Reports say Shanahan suffered a broken nose, three broken ribs, a broken hand, a concussion and required more than 40 stitches to his face after the July 14 crash",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Tue, 28 Jul 2026 15:45:41 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/kyle-shanahan-car-accident-injuries-49ers-training-camp/"
     },
     {
       "kind": "other",
@@ -1650,22 +1618,6 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 23 Jul 2026 20:00:19 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/panthers-nic-scourton-carted-off-field-nfl-training-camp/"
-    },
-    {
-      "kind": "signing",
-      "title": "Agent's Take: How high can Jahmyr Gibbs and Bijan Robinson take a resurgent RB market?",
-      "title_ja": null,
-      "excerpt": "After years of depressed salaries, the running back market has rebounded with deals for Christian McCaffrey, Saquon Barkley and others",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 23 Jul 2026 19:22:04 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/agents-take-jahmyr-gibbs-bijan-robinson-nfl-rb-contract/"
     },
     {
       "kind": "signing",

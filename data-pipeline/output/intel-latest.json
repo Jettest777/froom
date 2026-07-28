@@ -1,14 +1,174 @@
 {
   "version": 1,
-  "generated_at": "2026-07-28T00:56:14.297170+00:00",
+  "generated_at": "2026-07-28T04:13:59.236755+00:00",
   "count": 115,
   "items": [
     {
+      "kind": "injury",
+      "title": "Seahawks Roster News: Running back Kenny McIntosh waived",
+      "title_ja": "Seahawks ロスター速報：RB Kenny McIntosh がウェイバーに",
+      "excerpt": "The 2023 seventh-round pick has struggled with knee injuries in his Seahawks career.",
+      "excerpt_ja": "2023年のドラフト7巡目指名選手は、Seahawks での膝の怪我に苦しんでいた。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 03:12:46 +0000",
+      "url": "https://sports.yahoo.com/articles/seahawks-roster-news-running-back-013056710.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Colts’ PUP list contained another notable omission",
+      "title_ja": "Colts の PUP リストにはもう1つの注目すべき欠落があった",
+      "excerpt": "This could be an encouraging update for veteran defensive tackle DeForest Buckner, or maybe there’s still a move left.",
+      "excerpt_ja": "これは DT DeForest Buckner にとって励みになるニュースかもしれないが、まだ動きがあるかもしれない。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 02:47:09 +0000",
+      "url": "https://sports.yahoo.com/articles/colts-pup-list-contained-another-024709874.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Seahawks cut RB Kenny McIntosh",
+      "title_ja": "Seahawks が RB Kenny McIntosh をカット",
+      "excerpt": "The Seahawks plan to waive running back Kenny McIntosh, Brady Henderson of ESPN reports.",
+      "excerpt_ja": "ESPN の Brady Henderson によると、Seahawks は RB Kenny McIntosh をウェイバーに出す計画だ。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 02:12:49 +0000",
+      "url": "https://sports.yahoo.com/articles/report-seahawks-cut-rb-kenny-021249697.html"
+    },
+    {
+      "kind": "other",
+      "title": "How the Vikings’ Offensive Scheme May Evolve This Season",
+      "title_ja": "Vikings のオフェンス体系が今シーズンどう進化するか",
+      "excerpt": "As the Minnesota Vikings get ready for the start of training camp, one thing the Vikings’ offensive coaching staff is likely preparing for is continuing the installation of the offense. That carries added importance this season if the Vikings have a new starting quarterback, particularly in the pass",
+      "excerpt_ja": "Minnesota Vikings がトレーニングキャンプの開始に向けて準備を進める中、Vikings のオフェンシブコーチングスタッフが注視していることの1つが、オフェンスのインストレーションの継続だ。特に Vikings が新しいスターティングQBを迎える場合、今シーズンはこれが非常に重要になる。パス関連では……",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 02:12:22 +0000",
+      "url": "https://sports.yahoo.com/articles/vikings-offensive-scheme-may-evolve-021222303.html"
+    },
+    {
+      "kind": "other",
+      "title": "Jamal Adams set for Year 10 in NFL with the Vikings",
+      "title_ja": "Jamal Adams、Vikings での NFL 10年目を迎える",
+      "excerpt": "Jamal Adams, who has been named to three All-Pro teams, posted on X that he&#39;s joining the Minnesota Vikings in 2026.",
+      "excerpt_ja": "3度の All-Pro に選ばれた Jamal Adams は、X に投稿して2026年に Minnesota Vikings に加入することを明かした。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 01:38:22 +0000",
+      "url": "https://sports.yahoo.com/articles/jamal-adams-set-10-nfl-013822769.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Offensive guard Ben Powers agrees to contract restructure",
+      "title_ja": "OG Ben Powers が契約の再編に合意",
+      "excerpt": "The Denver Broncos and left guard Ben Powers have agreed to restructured contract that will result in salary cap savings.",
+      "excerpt_ja": "Denver Broncos と左ガード Ben Powers は、サラリーキャップの削減につながる契約再編で合意した。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 01:15:46 +0000",
+      "url": "https://sports.yahoo.com/articles/offensive-guard-ben-powers-agrees-011546520.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Cowboys WR George Pickens reports to training camp as expected",
+      "title_ja": "Cowboys WR George Pickens、予定通りトレーニングキャンプに報告",
+      "excerpt": "Wide receiver George Pickens&#39; signature on the franchise tag on April 29 all but guaranteed he would attend the team&#39;s mandatory minicamp and report to training camp.",
+      "excerpt_ja": "WR George Pickens が4月29日にフランチャイズタグに署名したことで、チームの強制ミニキャンプ参加とトレーニングキャンプ報告はほぼ確実だった。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 01:15:33 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-wr-george-pickens-reports-011533853.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Vikings Signing LB/S Jamal Adams",
+      "title_ja": "Vikings が LB/S Jamal Adams と契約",
+      "excerpt": "A Nolan Teasley special, perhaps?",
+      "excerpt_ja": "Nolan Teasley らしい人事選別かもしれない。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 01:12:35 +0000",
+      "url": "https://sports.yahoo.com/articles/vikings-signing-lb-jamal-adams-011235024.html"
+    },
+    {
+      "kind": "other",
+      "title": "Jamal Adams joins the Vikings",
+      "title_ja": "Jamal Adams が Vikings に加入",
+      "excerpt": "The sixth overall pick in the 2017 draft will be joining his sixth team.",
+      "excerpt_ja": "2017年ドラフト全体6位指名選手が、6番目のチームに加わることになる。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "MIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 01:06:30 +0000",
+      "url": "https://sports.yahoo.com/articles/jamal-adams-joins-vikings-010630348.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Report: OG Ben Powers takes a pay cut to stay with Broncos",
+      "title_ja": "速報：OG Ben Powers、Broncos に留まるため給与カット",
+      "excerpt": "Left guard Ben Powers wanted to stay with the Broncos so much that he accepted a restructured, one-year contract, Mike Klis of 9News reports.",
+      "excerpt_ja": "9News の Mike Klis によると、左ガード Ben Powers は Broncos に留まりたい一心で、再編1年契約を受け入れた。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 28 Jul 2026 00:51:30 +0000",
+      "url": "https://sports.yahoo.com/articles/report-og-ben-powers-takes-005130612.html"
+    },
+    {
       "kind": "signing",
       "title": "Giants sign 2 players to fill open roster spots",
-      "title_ja": "Giants、ロスターの空きポジション埋めるため2選手と契約",
+      "title_ja": "Giants がロスター空き枠を埋めるため2選手と契約",
       "excerpt": "The Giants add to their defensive line with a former second-round pick.",
-      "excerpt_ja": "Giantsがかつての2巡目指名選手でDラインを補強",
+      "excerpt_ja": "Giants はディフェンシブラインを強化し、元2巡目指名選手を加える。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -22,9 +182,9 @@
     {
       "kind": "injury",
       "title": "Beatdown roundtable: favorite almost-coaching hire in Ravens history",
-      "title_ja": "Beatdown座談会：Ravens史上で惜しくも実現しなかったコーチ人事のベストピック",
+      "title_ja": "Beatdown ラウンドテーブル：Ravens 史上で実現しなかったコーチング候補のお気に入り",
       "excerpt": "Baltimore Beatdown’s staff offers their favorite almost-coaching hire in Ravens franchise history.",
-      "excerpt_ja": "Baltimore Beatdownスタッフが選ぶRavensフランチャイズ史上「あと一歩だったコーチ候補」",
+      "excerpt_ja": "Baltimore Beatdown のスタッフが、Ravens フランチャイズ史上で実現しなかったコーチング候補の最高のピックを挙げた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +198,9 @@
     {
       "kind": "other",
       "title": "Eric Bieniemy&#39;s wife called police after being shot, sheriff says",
-      "title_ja": "銃撃事件後、Eric Bieniemyの妻が警察に通報——保安官が明かす",
+      "title_ja": "Eric Bieniemy の妻が銃撃後に警察に通報、保安官が発表",
       "excerpt": "Elijah Bieniemy, son of the Chiefs OC, faces felony charges related to an alleged shooting that occurred on July 26.",
-      "excerpt_ja": "Chiefs OC Eric Bieniemyの息子Elijah、7月26日の銃撃事件に関する重罪で起訴",
+      "excerpt_ja": "Chiefs OC Eric Bieniemy の息子 Elijah Bieniemy は、7月26日に発生した銃撃事件に関連した重罪に直面している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +214,9 @@
     {
       "kind": "signing",
       "title": "Raiders sign DE Patrick Johnson, LB Buddy Johnson, WR Deven Thompkins",
-      "title_ja": "Raiders、DE Patrick Johnson、LB Buddy Johnson、WR Deven Thompkinsと契約",
+      "title_ja": "Raiders が DE Patrick Johnson、LB Buddy Johnson、WR Deven Thompkins と契約",
       "excerpt": "The Raiders signed defensive end Patrick Johnson, linebacker Buddy Johnson and wide receiver Deven Thompkins, the team announced Monday.",
-      "excerpt_ja": "Raidersは月曜日、DE Patrick Johnson、LB Buddy Johnson、WR Deven Thompkinsの3選手の獲得を発表した",
+      "excerpt_ja": "Raiders は月曜日、DE Patrick Johnson、LB Buddy Johnson、WR Deven Thompkins と契約したことを発表した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +230,9 @@
     {
       "kind": "injury",
       "title": "NFL training camp news, live updates: Jacoby Brissett gets raise from Cardinals; Kyle Shanahan injured in car wreck",
-      "title_ja": "NFL訓練キャンプニュース速報：CardinalのJacoby Brissettが昇給、Kyle Shanahan車の事故で負傷",
+      "title_ja": "NFL トレーニングキャンプ速報、ライブ更新：Cardinals の Jacoby Brissett が昇給、Kyle Shanahan が交通事故で負傷",
       "excerpt": "Follow along with the latest NFL news and updates as training camps around the league kick off.",
-      "excerpt_ja": "リーグ各地での訓練キャンプ開幕に伴い、NFLの最新ニュースと速報をお届けします",
+      "excerpt_ja": "リーグ全体のトレーニングキャンプが開幕する中、NFL の最新ニュースと更新を追いかけよう。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -84,11 +244,27 @@
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-live-updates-training-camp-2026-schedule-injury-news-163112222.html"
     },
     {
+      "kind": "presser",
+      "title": "49ers QB Brock Purdy shares incredulous reaction to Kyle Shanahan crash",
+      "title_ja": "49ers QB Brock Purdy、Kyle Shanahan の事故に驚きのコメント",
+      "excerpt": "brock purdy at press conference / kyle shanahan 49ers coachSANTA CLARA — Brock Purdy didn’t beat around the bush. It’s been strange going through the 49ers’ first two days of...",
+      "excerpt_ja": "サンタクララ — Brock Purdy は前置きなく話を始めた。49ers のトレーニングキャンプ初日と2日目を過ごすのは奇妙だった……",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 27 Jul 2026 23:30:22 +0000",
+      "url": "https://sports.yahoo.com/articles/49ers-qb-brock-purdy-shares-233022419.html"
+    },
+    {
       "kind": "trade",
       "title": "Vita Vea trade request: Should the Giants be interested?",
-      "title_ja": "Vita Veaトレード要求：Giantsが獲得すべき？",
+      "title_ja": "Vita Vea トレード要求：Giants は興味を持つべき？",
       "excerpt": "Could the NY Giants upgrade their defensive line by trading for Vita Vea?",
-      "excerpt_ja": "Vita Veaのトレード獲得でNY Giantsのディフェンスラインは強化されるか",
+      "excerpt_ja": "NY Giants は Vita Vea をトレードで獲得してディフェンシブラインを強化できるか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +278,9 @@
     {
       "kind": "trade",
       "title": "Buccaneers&#39; Vita Vea requests a trade, per reports",
-      "title_ja": "Buccaneersの Vita Vea、トレード要求——複数メディアが報道",
+      "title_ja": "Buccaneers の Vita Vea、トレード要求を提出",
       "excerpt": "Vita Vea is entering the final year of his contract with the Tampa Bay Buccaneers. That could complicate things ahead of training camp.",
-      "excerpt_ja": "Vita VeaはTampa Bay Buccaneersとの契約最終年を迎えており、訓練キャンプ前に複雑な状況を招く可能性がある",
+      "excerpt_ja": "Vita Vea は Tampa Bay Buccaneers との契約最終年を迎えている。これはトレーニングキャンプ前に複雑な状況を生む可能性がある。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +294,9 @@
     {
       "kind": "injury",
       "title": "Why Alec Pierce landing on PUP list could be nerve-wracking",
-      "title_ja": "Alec PierceのPUPリスト入りが神経をとがらせる理由",
+      "title_ja": "Alec Pierce が PUP リスト入りがなぜ神経を使うのか",
       "excerpt": "There&#39;s no reason yet to panic about Alec Pierce&#39;s injury, but he won&#39;t be ready for Day 1 of training camp.",
-      "excerpt_ja": "Alec Pierceの故障について今のところ心配する必要はないが、訓練キャンプ初日は欠場する見通し",
+      "excerpt_ja": "Alec Pierce の怪我についてまだパニックになる理由はないが、トレーニングキャンプ初日には間に合わない。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +310,9 @@
     {
       "kind": "trade",
       "title": "Vita Vea requests trade: Will he become part of NFC West arms race?",
-      "title_ja": "Vita Veaトレード要求：NFC西地区の軍拡競争に加わるか",
+      "title_ja": "Vita Vea トレード要求：NFC West の軍拡競争の一部になるか？",
       "excerpt": "Aaron Donald isn’t only star DT who could be added to a defense",
-      "excerpt_ja": "Aaron Donaldだけではない——ディフェンスへの補強候補となり得るスター選手たち",
+      "excerpt_ja": "Aaron Donald だけではない、ディフェンスに加わる可能性のある有力 DT",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +326,9 @@
     {
       "kind": "trade",
       "title": "Bucs DT Vita Vea requests trade after failed attempts at contract extension",
-      "title_ja": "Bucs DT Vita Vea、契約延長協議の失敗を受けトレード要求",
+      "title_ja": "Bucs DT Vita Vea、契約延長交渉の決裂後にトレード要求",
       "excerpt": "The two-time Pro Bowler is entering the final season of his contract.",
-      "excerpt_ja": "2度のPro Bowler選出者は契約最終年を迎える",
+      "excerpt_ja": "2度のプロボウル選手は契約の最終シーズンを控えている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -164,11 +340,27 @@
       "url": "https://sports.yahoo.com/articles/bucs-dt-vita-vea-requests-223107289.html"
     },
     {
+      "kind": "injury",
+      "title": "49ers’ Trent Williams delivers stunning Nick Bosa injury observation",
+      "title_ja": "49ers の Trent Williams が Nick Bosa の怪我について驚きの観察を明かす",
+      "excerpt": "Trent Williams, Nick BosaNick Bosa has not yet returned to full practice, but Trent Williams has already seen enough to offer the San Francisco 49ers an encouraging assessment. “I couldn’t...",
+      "excerpt_ja": "Nick Bosa はまだ全力練習に復帰していないが、Trent Williams は既に San Francisco 49ers に励みになる評価をもたらした。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 27 Jul 2026 22:22:31 +0000",
+      "url": "https://sports.yahoo.com/articles/49ers-trent-williams-delivers-stunning-222231040.html"
+    },
+    {
       "kind": "trade",
       "title": "Bucs DT Vita Vea reportedly requests trade due to failed contract negotiations",
-      "title_ja": "Bucs DT Vita Vea、契約交渉の決裂によりトレード要求か——複数報道",
+      "title_ja": "Bucs DT Vita Vea、契約交渉の失敗を理由にトレード要求か",
       "excerpt": "Vea is set to earn $18 million this season, but wants a long-term deal.",
-      "excerpt_ja": "Veaは今季1800万ドルを手にする予定だが、長期契約を望んでいる",
+      "excerpt_ja": "Vea は今シーズン1,800万ドルを稼ぐ予定だが、長期契約を望んでいる。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +374,9 @@
     {
       "kind": "other",
       "title": "A.J. Brown getting increasingly comfortable in Patriots offense",
-      "title_ja": "A.J. BrownがPatriots新しいオフェンスに段々と適応",
+      "title_ja": "A.J. Brown、Patriots のオフェンスにおいてますます快適になっている",
       "excerpt": "Brown credits constant communication for early progress with Patriots quarterback Drake Maye.",
-      "excerpt_ja": "Brownはdrake MayeQBとの継続的なコミュニケーションが初期段階の進展につながったと指摘",
+      "excerpt_ja": "Brown は、Patriots QB Drake Maye との継続的なコミュニケーションが早期の進展につながったと語った。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -196,11 +388,43 @@
       "url": "https://sports.yahoo.com/articles/j-brown-getting-increasingly-comfortable-221423048.html"
     },
     {
+      "kind": "rumor",
+      "title": "Seahawks cut RB Kenny McIntosh",
+      "title_ja": "Seahawks が RB Kenny McIntosh をカット",
+      "excerpt": "The Seahawks plan to waive running back Kenny McIntosh, Brady Henderson of ESPN reports.",
+      "excerpt_ja": "ESPN の Brady Henderson によると、Seahawks は RB Kenny McIntosh をウェイバーに出す計画だ。",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 27 Jul 2026 22:12:49 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-seahawks-to-cut-rb-kenny-mcintosh"
+    },
+    {
+      "kind": "other",
+      "title": "The ‘Catch 2.0’ dream Odell Beckham Jr. is bringing to Giants return",
+      "title_ja": "Odell Beckham Jr. が Giants 復帰で描く『Catch 2.0』の夢",
+      "excerpt": "Giants star Odell Beckham Jr. has a dream that Giants fans also hope comes true.",
+      "excerpt_ja": "Giants のスター Odell Beckham Jr. は、Giants ファンも実現を望む夢を持っている。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 27 Jul 2026 22:07:35 +0000",
+      "url": "https://sports.yahoo.com/articles/catch-2-0-dream-odell-220735651.html"
+    },
+    {
       "kind": "signing",
       "title": "Dolphins sign free agent DE Clelin Ferrell",
-      "title_ja": "DolphinsがFA DE Clelin Ferrellと契約",
+      "title_ja": "Dolphins が FA DE Clelin Ferrell と契約",
       "excerpt": "The Dolphins signed veteran free agent Clelin Ferrell on Monday, the team announced.",
-      "excerpt_ja": "Dolphinsは月曜日、ベテランFAの DE Clelin Ferrellの獲得を発表した",
+      "excerpt_ja": "Dolphins は月曜日、ベテラン FA DE Clelin Ferrell と契約したことを発表した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -212,11 +436,43 @@
       "url": "https://sports.yahoo.com/articles/dolphins-sign-free-agent-clelin-215937480.html"
     },
     {
+      "kind": "rumor",
+      "title": "Deep passes at 49ers practice provide unexpected test in Kyle Shanahan’s recovery",
+      "title_ja": "49ers 練習での深いパスが Kyle Shanahan の回復に予想外のテストをもたらす",
+      "excerpt": "Kyle Shanahan, John LynchKyle Shanahan returned to the San Francisco 49ers’ practice field for a second consecutive day Monday, although watching from a safe distance proved harder than expected. David...",
+      "excerpt_ja": "Kyle Shanahan は月曜日、San Francisco 49ers の練習フィールドに2日連続で戻ったが、安全な距離から見守ることは予想以上に難しかった。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 27 Jul 2026 21:54:17 +0000",
+      "url": "https://sports.yahoo.com/articles/deep-passes-49ers-practice-unexpected-215417110.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Reporters fighting, taking cheap shots following lack of Kyle Shanahan reporting",
+      "title_ja": "Kyle Shanahan 報道の遅れに伴い、記者が衝突し、低い目線での批判が飛び交う",
+      "excerpt": "Mike Florio, Adam Schefter, Kyle ShanahanThe delayed disclosure of Kyle Shanahan’s serious car crash has turned into an increasingly personal fight among prominent NFL reporters. Shanahan was injured July 14,...",
+      "excerpt_ja": "Kyle Shanahan の重大な交通事故の遅延報告は、有名な NFL 記者の間でますます個人的な対立に発展している。Shanahan は7月14日に負傷した。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 27 Jul 2026 21:52:57 +0000",
+      "url": "https://sports.yahoo.com/articles/reporters-fighting-taking-cheap-shots-215257579.html"
+    },
+    {
       "kind": "other",
       "title": "Former Seahawks fan favorite, two-time Pro Bowler calls it a career",
-      "title_ja": "かつてSeahawksのファン人気だった2度のPro Bowler選手、現役引退を表明",
+      "title_ja": "元 Seahawks ファン好感度ナンバーワン、2度のプロボウル選手が引退",
       "excerpt": "The two-time Pro Bowl selection now has plenty of time to pursue his career in comedy.",
-      "excerpt_ja": "2度Pro Bowlに選ばれた同選手は今後、コメディアンのキャリアに注力する時間が十分できた",
+      "excerpt_ja": "2度のプロボウル選出選手は現在、コメディアンとしてのキャリアを追求する時間が十分にある。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -228,235 +484,91 @@
       "url": "https://sports.yahoo.com/articles/former-seahawks-fan-favorite-two-215151792.html"
     },
     {
-      "kind": "other",
-      "title": "The Year 2 bar for Raiders offensive lineman Caleb Rogers",
-      "title_ja": "Raiders OL Caleb Rogers、2年目のハードル",
-      "excerpt": "2025 3rd-round pick in a battle for a starting guard spot with Spencer Burford, Jackson Powers-Johnson and others",
-      "excerpt_ja": "2025年3巡目指名選手が Spencer Burford や Jackson Powers-Johnson らとスターティングガード争奪戦に参戦",
+      "kind": "signing",
+      "title": "2026 NFL Offseason Buzz: Vikings Expected To Sign Hybrid S/LB Jamal Adams",
+      "title_ja": "2026 NFL オフシーズン速報：Vikings が S/LB ハイブリッド型の Jamal Adams と契約する見通し",
+      "excerpt": "Here's the latest offseason buzz and rumors around the NFL.",
+      "excerpt_ja": "NFL 周辺の最新オフシーズン速報とウワサをお伝えする。",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "LV",
+      "team_abbrev": "MIN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 21:45:00 +0000",
-      "url": "https://sports.yahoo.com/articles/2-bar-raiders-offensive-lineman-214500957.html"
-    },
-    {
-      "kind": "other",
-      "title": "Notes: Are the Lions the biggest challenger to the LA Rams?",
-      "title_ja": "注目：Lionsはお気に入りのLA Ramsに対しNFC最大の脅威か",
-      "excerpt": "Are the Detroit Lions’ the NFC’s best contender against the conference favorite Los Angeles Rams?",
-      "excerpt_ja": "Detroit LionsはカンファレンスNo.1候補のLos Angeles Ramsに対しNFC最強の対抗馬になり得るか",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 21:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/notes-lions-biggest-challenger-la-213000423.html"
-    },
-    {
-      "kind": "other",
-      "title": "Giants worked out LB Kenneth Murray, 17 others, on Monday",
-      "title_ja": "Giantsが月曜日、LB Kenneth Murrayら18選手とワークアウト実施",
-      "excerpt": "The Giants worked out 18 players on Monday, including veteran linebacker Kenneth Murray.",
-      "excerpt_ja": "Giantsは月曜日、LB Kenneth Murrayを含む18選手とのワークアウトを行った",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 21:27:29 +0000",
-      "url": "https://sports.yahoo.com/articles/giants-worked-lb-kenneth-murray-212729187.html"
-    },
-    {
-      "kind": "other",
-      "title": "Packers work out 9 players on Monday",
-      "title_ja": "Packersが月曜日、9選手とワークアウト実施",
-      "excerpt": "It sure looks like Green Bay wants to add a running back and/or tight end",
-      "excerpt_ja": "Green Bayはランニングバックおよび/またはタイトエンドの補強を狙っているようだ",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 21:25:05 +0000",
-      "url": "https://sports.yahoo.com/articles/packers-9-players-monday-212505070.html"
-    },
-    {
-      "kind": "other",
-      "title": "In Eric Bieniemy crisis, Andy Reid can offer more than most | Opinion",
-      "title_ja": "Eric Bieniemy危機でAndy Reidが果たせる役割——オピニオン",
-      "excerpt": "No coach in the NFL more is more sensitive to the crisis Eric Bieniemy faces than Andy Reid, writes columnist Jarrett Bell.",
-      "excerpt_ja": "NFL界でEric Bieniemyが直面する危機に対してこれ以上に感受性を持つコーチはいない、とコラムニストJarrett Bellが記す",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 21:21:28 +0000",
-      "url": "https://sports.yahoo.com/articles/eric-bieniemy-crisis-andy-reid-212128435.html"
-    },
-    {
-      "kind": "other",
-      "title": "John Lynch underlines ‘heightened focus’ on area where 49ers struggled in 2025",
-      "title_ja": "John Lynch、49ersが2025年に苦しんだ分野への「重点的な取り組み」を強調",
-      "excerpt": "San Francisco made several moves with a view to making a big jump in 2026.",
-      "excerpt_ja": "San Franciscoは2026年での大躍進を見据え、複数の補強を実行した",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 21:18:14 +0000",
-      "url": "https://sports.yahoo.com/articles/john-lynch-underlines-heightened-focus-211814225.html"
-    },
-    {
-      "kind": "other",
-      "title": "Will Campbell headlines Patriots’ 2026 offseason award winners",
-      "title_ja": "Will CampbellがこのオフシーズンのPatriots表彰式の顔に",
-      "excerpt": "Mike Vrabel announced four offseason award winners on Monday.",
-      "excerpt_ja": "Mike Vrabelsが月曜日、4人のオフシーズン表彰式受賞者を発表",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 21:15:38 +0000",
-      "url": "https://sports.yahoo.com/articles/campbell-headlines-patriots-2026-offseason-211538106.html"
-    },
-    {
-      "kind": "other",
-      "title": "Colts place WR Alec Pierce, LB CJ Allen on active/PUP",
-      "title_ja": "ColtsがWR Alec Pierce、LB CJ AllenをActive/PUPリスト入りに指定",
-      "excerpt": "The Colts placed linebacker CJ Allen and wide receiver Alec Pierce on the active/physically unable to perform list.",
-      "excerpt_ja": "ColtsはLB CJ AllenとWR Alec Pierceを故障者リスト（PUP）に指定した",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 21:09:20 +0000",
-      "url": "https://sports.yahoo.com/articles/colts-place-wr-alec-pierce-210920769.html"
-    },
-    {
-      "kind": "other",
-      "title": "4 performances of note from the Patriots’ third training camp practice",
-      "title_ja": "Patriotsの3回目の訓練キャンプ練習から見えた4つの注目パフォーマンス",
-      "excerpt": "Who caught our eye during the Patriots’ practice on Monday, for better or worse.",
-      "excerpt_ja": "月曜日のPatriots練習で目を引いた選手たちを良い面、悪い面の双方からピックアップ",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 21:08:28 +0000",
-      "url": "https://sports.yahoo.com/articles/4-performances-note-patriots-third-210828700.html"
+      "published_at": "Mon, 27 Jul 2026 21:41:40 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors"
     },
     {
       "kind": "rumor",
-      "title": "Bears Training Camp Preview with Zack Pearson: Defense",
-      "title_ja": "Bears Training Camp Preview with Zack Pearson：ディフェンス編",
-      "excerpt": "Check out the Bears Banter Podcast Mega Training Camp Preview with Zack Pearson from Bear Report! Here’s an hour on Dennis, Allen, Montez Sweat, and the defense!",
-      "excerpt_ja": "Bear ReportのZack PearsonによるBears Banterポッドキャスト訓練キャンプ総特集をチェック。Dennis、Allen、Montez Sweatとディフェンスを中心に1時間にわたって解説",
+      "title": "Report: Tony Romo refused to submit to breath testing",
+      "title_ja": "速報：Tony Romo が呼気検査への応応を拒否した",
+      "excerpt": "It had been unclear whether former Cowboys quarterback and CBS analyst Tony Romo had submitted to breath testing after his Thursday arrest in Milwaukee for suspicion of operating while intoxicated.",
+      "excerpt_ja": "元 Cowboys QB で CBS アナリストの Tony Romo がミルウォーキーで危険運転容疑で逮捕された後、呼気検査に応じたかどうかは不明だった。",
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 21:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bears-training-camp-preview-zack-210000560.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cowboys offseason surprisingly drama free, enter training camp more focused",
-      "title_ja": "Cowboys、オフシーズン意外にも波乱がなく訓練キャンプへ望郷さらに集中体制",
-      "excerpt": "We really made it to training camp with no drama.",
-      "excerpt_ja": "何とか訓練キャンプまで波乱なく乗り切った",
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 21:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-offseason-surprisingly-drama-free-210000787.html"
+      "published_at": "Mon, 27 Jul 2026 21:27:14 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-tony-romo-refused-to-submit-to-breath-testing"
     },
     {
-      "kind": "rumor",
-      "title": "Vikings put RB Kejon Owens on NFI list, waive two players",
-      "title_ja": "Vikings、RB Kejon OwensをNFIリスト入り、2選手をウェーバーで放出",
-      "excerpt": "The Vikings will open training camp when veterans report on Tuesday and they set the stage for the first day by announcing a handful of roster moves.",
-      "excerpt_ja": "Vikingsは火曜日にベテラン陣が合流すると訓練キャンプを開幕。複数のロスター異動を発表し初日に向けた準備を整える",
+      "kind": "signing",
+      "title": "Cowboys WR George Pickens reports to training camp as expected",
+      "title_ja": "Cowboys WR George Pickens、予定通りトレーニングキャンプに報告",
+      "excerpt": "Wide receiver George Pickens' signature on the franchise tag on April 29 all but guaranteed he would attend the team's mandatory minicamp and report to training camp.",
+      "excerpt_ja": "WR George Pickens が4月29日にフランチャイズタグに署名したことで、チームの強制ミニキャンプ参加とトレーニングキャンプ報告はほぼ確実だった。",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 27 Jul 2026 21:15:33 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-wr-george-pickens-reports-to-training-camp-as-expected"
+    },
+    {
+      "kind": "other",
+      "title": "Jamal Adams joins the Vikings",
+      "title_ja": "Jamal Adams が Vikings に加入",
+      "excerpt": "The sixth overall pick in the 2017 draft will be joining his sixth team.",
+      "excerpt_ja": "2017年ドラフト全体6位指名選手が、6番目のチームに加わることになる。",
+      "sources": [
+        "Pro Football Talk"
       ],
       "reliability": 0.54,
       "team_abbrev": "MIN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 20:59:43 +0000",
-      "url": "https://sports.yahoo.com/articles/vikings-put-rb-kejon-owens-205943454.html"
+      "published_at": "Mon, 27 Jul 2026 21:06:30 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal-adams-joins-the-vikings"
     },
     {
       "kind": "rumor",
-      "title": "Packers place five on PUP with Micah Parsons expected to join the list Tuesday",
-      "title_ja": "Packersが5選手をPUP指定、Micah Parsonsは火曜日にリスト入り見通し",
-      "excerpt": "Five Packers will open camp on the active/physically unable to perform list, but outside linebacker Micah Parsons was not one of them.",
-      "excerpt_ja": "Packersの5選手がキャンプをActive/PUP指定で開幕するが、OLB Micah Parsonsはそのリストに含まれていない",
+      "title": "Report: OG Ben Powers takes a pay cut to stay with Broncos",
+      "title_ja": "速報：OG Ben Powers、Broncos に留まるため給与カット",
+      "excerpt": "Left guard Ben Powers wanted to stay with the Broncos so much that he accepted a restructured, one-year contract, Mike Klis of 9News reports.",
+      "excerpt_ja": "9News の Mike Klis によると、左ガード Ben Powers は Broncos に留まりたい一心で、再編1年契約を受け入れた。",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.54,
-      "team_abbrev": "GB",
+      "team_abbrev": "DEN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 20:54:08 +0000",
-      "url": "https://sports.yahoo.com/articles/packers-place-five-pup-micah-205408395.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Rams sign 2 players to roster on Monday",
-      "title_ja": "Ramsが月曜日、ロスター補強で2選手と契約",
-      "excerpt": "Rams sign Bill Murray, Alex Cook to fill in for injured players",
-      "excerpt_ja": "RamsはBill MurrayとAlex Cookを獲得し負傷選手の穴埋めに対応",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 20:53:54 +0000",
-      "url": "https://sports.yahoo.com/articles/rams-sign-2-players-roster-205354330.html"
+      "published_at": "Mon, 27 Jul 2026 20:51:30 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-og-ben-powers-takes-a-pay-cut-to-stay-with-broncos"
     },
     {
       "kind": "other",
       "title": "Cody Bellinger Placed On IL With Grade 2 Hamstring Strain, Out 4–6 Weeks",
-      "title_ja": "Cody Bellinger、グレード2ハムストリング肉離れでIL登録、4～6週間の離脱予定",
+      "title_ja": "Cody Bellinger が2度目のハムストリング肉離れで IL に登録、4～6週間の離脱",
       "excerpt": "New York Yankees outfielder Cody Bellinger will be sidelined for four to six weeks with a Grade 2 left hamstring strain.",
-      "excerpt_ja": "New York Yankeesの外野手Cody Bellingerは左ハムストリングの2度目の肉離れで4～6週間の離脱となる",
+      "excerpt_ja": "New York Yankees の外野手 Cody Bellinger は左ハムストリング2度肉離れで4～6週間の離脱予定。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -470,9 +582,9 @@
     {
       "kind": "other",
       "title": "MLB 2026 Buzz: Athletics C Shea Langeliers To Have Season-Ending Knee Surgery",
-      "title_ja": "MLB 2026シーズン注目情報：Athletics C Shea Langeleirs、シーズン終了の膝手術へ",
+      "title_ja": "MLB 2026 速報：Athletics の C Shea Langeliers がシーズン終了となる膝手術を受ける",
       "excerpt": "Notable news, notes and buzz from MLB's 2026 season.",
-      "excerpt_ja": "MLBの2026年シーズンの注目ニュースと話題をお届けします",
+      "excerpt_ja": "MLB 2026シーズンの注目ニュース、ノートと速報。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -486,9 +598,9 @@
     {
       "kind": "signing",
       "title": "Clock is ticking on a new Baker Mayfield deal",
-      "title_ja": "Baker Mayfieldの新契約交渉、時間がなくなってきた",
+      "title_ja": "Baker Mayfield の新契約交渉のタイムリミットが迫る",
       "excerpt": "Buccaneers quarterback Baker Mayfield has made it clear that his deadline for getting a new deal done is the start of training camp.",
-      "excerpt_ja": "Buccaneers QB Baker Mayfieldは訓練キャンプ開幕までが新契約合意のデッドラインであることを明言している",
+      "excerpt_ja": "Buccaneers QB Baker Mayfield は、新契約の期限がトレーニングキャンプ開始だと明言している。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -502,9 +614,9 @@
     {
       "kind": "other",
       "title": "Brock Purdy Adapts To 49ers’ Kyle Shanahan-Less Start To Training Camp",
-      "title_ja": "Kyle Shanahan不在のスタート——Brock PurdyがSF 49ersの環境に適応",
+      "title_ja": "Brock Purdy が Kyle Shanahan 不在の 49ers トレーニングキャンプ開幕に適応",
       "excerpt": "Coach Kyle Shanahan’s voice in Brock Purdy’s helmet has been nearly a constant at practice during Purdy’s first four seasons in the NFL.",
-      "excerpt_ja": "Kyle Shanahan HCのボイスがBrock Purdyのヘルメット内で鳴り響く状況は、Purdy初の4シーズンを通じてほぼ常態だった",
+      "excerpt_ja": "Kyle Shanahan ヘッドコーチのヘルメット内での指示は、Purdy の NFL での最初の4シーズンの練習でほぼ常に存在していた。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -518,9 +630,9 @@
     {
       "kind": "signing",
       "title": "Raiders sign DE Patrick Johnson, LB Buddy Johnson, WR Deven Thompkins",
-      "title_ja": "Raiders、DE Patrick Johnson、LB Buddy Johnson、WR Deven Thompkinsと契約",
+      "title_ja": "Raiders が DE Patrick Johnson、LB Buddy Johnson、WR Deven Thompkins と契約",
       "excerpt": "The Raiders signed defensive end Patrick Johnson, linebacker Buddy Johnson and wide receiver Deven Thompkins, the team announced Monday.",
-      "excerpt_ja": "Raidersは月曜日、DE Patrick Johnson、LB Buddy Johnson、WR Deven Thompkinsの3選手の獲得を発表した",
+      "excerpt_ja": "Raiders は月曜日、DE Patrick Johnson、LB Buddy Johnson、WR Deven Thompkins と契約したことを発表した。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -534,9 +646,9 @@
     {
       "kind": "other",
       "title": "Broncos will be selling some half-price tickets on Tuesday",
-      "title_ja": "Broncosが火曜日、割引チケットセール開催予定",
+      "title_ja": null,
       "excerpt": "The Broncos are a popular draw in Denver.",
-      "excerpt_ja": "Broncosはデンバーで高い人気を誇る",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -550,9 +662,9 @@
     {
       "kind": "other",
       "title": "TBT Odds: How to Bet on The Basketball Tournament With DraftKings, FanDuel and More",
-      "title_ja": "TBT オッズ：DraftKingsとFanDuelなど主要サイトでThe Basketball Tournamentに賭ける方法",
+      "title_ja": null,
       "excerpt": "TBT Odds: How to Bet on The Basketball Tournament With DraftKings, FanDuel and More.",
-      "excerpt_ja": "TBT オッズ：DraftKingsとFanDuelなど主要サイトでThe Basketball Tournamentに賭ける方法",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -566,9 +678,9 @@
     {
       "kind": "trade",
       "title": "Buccaneers DT Vita Vea Requests Trade Following Stalled Extension Talks",
-      "title_ja": "Buccaneers DT Vita Vea、停滞する契約延長協議を受けトレード要求",
+      "title_ja": null,
       "excerpt": "Extension talks between Vita Vea and the Tampa Bay Buccaneers have officially hit a wall and the star defensive tackle is now requesting a trade.",
-      "excerpt_ja": "Vita VeaとTampa Bay Buccaneersの契約延長交渉は正式に膠着状態に陥り、スター DT は現在トレードを要求している",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -582,9 +694,9 @@
     {
       "kind": "other",
       "title": "Marcus Rashford Urged To Release 'Almighty Statement' For Man United Return",
-      "title_ja": "Marcus Rashford、Manchester Unitedへの完全復帰目指し「最大級の声明」を発表するよう促される",
+      "title_ja": null,
       "excerpt": "Marcus Rashford has been warned that he must issue an \"almighty statement\" to Manchester United supporters and staff if he is to have any hope of resurrecting his career at Old Trafford.",
-      "excerpt_ja": "Marcus Rashfordは Old Traffordでのキャリア再構築を望むのであれば、Manchester United関係者とサポーターに対して「最大級の声明」を発表する必要があると警告されている",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -598,9 +710,9 @@
     {
       "kind": "other",
       "title": "German FA Confirms Unusual Terms Of Jürgen Klopp's Release From Red Bull",
-      "title_ja": "ドイツサッカー連盟、Jürgen KloppのRed Bull離脱条件が異例だったと確認",
+      "title_ja": null,
       "excerpt": "The German Football Association confirmed an unusual arrangement with Red Bull to secure Jürgen Klopp's release as national team head coach.",
-      "excerpt_ja": "ドイツサッカー連盟は、ドイツ代表監督として Jürgen Kloppを獲得するためRed Bullと結んだ異例の契約内容を確認した",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -614,9 +726,9 @@
     {
       "kind": "rumor",
       "title": "Stanford football players take first step toward forming a union",
-      "title_ja": "Stanfordフットボール選手、労働組合結成へ向け第一歩を踏み出す",
+      "title_ja": null,
       "excerpt": "The best solution to the current chaos in college football could be a nationwide union.",
-      "excerpt_ja": "現在のカレッジフットボール界の混乱を解決する最善の方法は、全国規模の労働組合結成かもしれない",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -630,9 +742,9 @@
     {
       "kind": "rumor",
       "title": "Cristiano Ronaldo To Produce And Star In Scripted Soccer Drama Series",
-      "title_ja": "Cristiano Ronaldo、脚本ドラマシリーズを製作・主演へ",
+      "title_ja": null,
       "excerpt": "Cristiano Ronaldo is reportedly producing and starring in a new television drama titled “Day 1s,\" alongside director Matthew Vaughn.",
-      "excerpt_ja": "Cristiano Ronaldoが監督Matthew Vaughnとともに、「Day 1s」と題された新作テレビドラマを製作・主演する予定と報道されている",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -764,7 +876,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "NYG",
       "player_name": null,
       "coach_name": null,
@@ -812,7 +924,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "IND",
       "player_name": null,
       "coach_name": null,
@@ -844,7 +956,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "MIN",
       "player_name": null,
       "coach_name": null,
@@ -860,7 +972,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "GB",
       "player_name": null,
       "coach_name": null,
@@ -1077,22 +1189,6 @@
     },
     {
       "kind": "other",
-      "title": "Fantasy Football: Health of Malik Nabers, Matthew Golden&#39;s role, Patriots slot man among biggest WR questions for NFL training camps",
-      "title_ja": null,
-      "excerpt": "Fantasy football analyst Joel Smyth breaks down the biggest WR questions during NFL training camps.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 16:06:05 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-health-of-malik-nabers-matthew-goldens-role-patriots-slot-man-among-biggest-wr-questions-for-nfl-training-camps-160605437.html"
-    },
-    {
-      "kind": "other",
       "title": "Brock Purdy: Rookie WR De'Zhaun Stribling is going to come in and play",
       "title_ja": null,
       "excerpt": "49ers rookie wide receiver De'Zhaun Stribling is making a positive early impression on a very important teammate.",
@@ -1188,22 +1284,6 @@
       "url": "https://www.foxsports.com/stories/soccer/karim-benzema-issues-verdict-on-zinedine-zidanes-imminent-arrival-as-new-france-national-team-manager-football"
     },
     {
-      "kind": "injury",
-      "title": "Zac Taylor: We've got what we need, up to players and coaches to do it",
-      "title_ja": null,
-      "excerpt": "The Bengals made moves to add to their defense in multiple ways this offseason and the moves earned the approval of quarterback Joe Burrow.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 15:19:18 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zac-taylor-weve-got-what-we-need-up-to-players-and-coaches-to-do-it"
-    },
-    {
       "kind": "other",
       "title": "Kylian Mbappé Writes Letter To France Fans After Fourth-Place Finish At World Cup",
       "title_ja": null,
@@ -1234,22 +1314,6 @@
       "coach_name": null,
       "published_at": "Mon, 27 Jul 2026 14:57:42 -0400",
       "url": "https://www.foxsports.com/stories/college-football/college-football-north-carolina-bill-belichick-mike-lombardi"
-    },
-    {
-      "kind": "rumor",
-      "title": "49ers rookie DE Romello Height carted off the field with cramps",
-      "title_ja": null,
-      "excerpt": "49ers rookie defensive end Romello Height needed a cart to leave the field, Matt Maiocco of NBC Sports Bay Area reports.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 14:56:45 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-rookie-de-romello-height-carted-off-the-field"
     },
     {
       "kind": "trade",
@@ -1298,70 +1362,6 @@
       "coach_name": null,
       "published_at": "Mon, 27 Jul 2026 14:18:33 -0400",
       "url": "https://www.foxsports.com/stories/nba/2026-27-nba-finals-odds"
-    },
-    {
-      "kind": "other",
-      "title": "2026 NFL Odds: Which WR Will Lead League In Receiving Yards, Touchdowns?",
-      "title_ja": null,
-      "excerpt": "Who will lead the NFL in receiving yards and touchdowns in 2026? Check out the latest odds.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 14:09:24 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-wr-will-lead-league-receiving-yards-touchdowns"
-    },
-    {
-      "kind": "other",
-      "title": "Mike Vrabel has \"a lot of respect\" for how Kayshon Boutte has handled a tricky situation",
-      "title_ja": null,
-      "excerpt": "With the Patriots adding receivers A.J.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 14:09:16 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-has-a-lot-of-respect-for-how-kayshon-boutte-has-handled-a-tricky-situation"
-    },
-    {
-      "kind": "injury",
-      "title": "Chris Simms shares some details about Kyle Shanahan's injuries",
-      "title_ja": null,
-      "excerpt": "After the 49ers announced on July 25 that coach Kyle Shanahan had been involved in a serious car accident on July 14, questions were raised regarding how the information remained under wraps for 11 days.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 13:40:18 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-simms-shares-some-details-about-kyle-shanahans-injuries"
-    },
-    {
-      "kind": "other",
-      "title": "Christian Kirk out of 49ers practice with a calf strain",
-      "title_ja": null,
-      "excerpt": "Wide receiver Christian Kirk's first training camp practice as a 49er came to an early end and he will miss more time on Monday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 27 Jul 2026 13:29:35 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-kirk-out-of-49ers-practice-with-a-calf-strain"
     },
     {
       "kind": "other",

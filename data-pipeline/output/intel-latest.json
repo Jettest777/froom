@@ -1,14 +1,190 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T14:55:21.277053+00:00",
+  "generated_at": "2026-07-29T16:24:04.142508+00:00",
   "count": 120,
   "items": [
     {
+      "kind": "signing",
+      "title": "5 Cowboys in the running for a training camp contract extension",
+      "title_ja": "トレーニングキャンプ契約延長の候補に挙がるCowboys選手5人",
+      "excerpt": "Who would you sign to a contract extension during training camp?",
+      "excerpt_ja": "トレーニングキャンプ中に契約延長を結ぶなら、誰を選びますか？",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 16:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/5-cowboys-running-training-camp-160000963.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Dorian Williams missed a bunch of offseason workouts with an injury",
+      "title_ja": "Dorian Williamsがけがでオフシーズンのワークアウト多数を欠場",
+      "excerpt": "Williams says he “feels good to go” as training camp opens",
+      "excerpt_ja": "Williamsはトレーニングキャンプ開始時に「準備万端だ」とコメント",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 15:59:55 +0000",
+      "url": "https://sports.yahoo.com/articles/dorian-williams-missed-bunch-offseason-155955300.html"
+    },
+    {
+      "kind": "other",
+      "title": "Bijan Robinson not participating in Falcons practice, seeks new contract",
+      "title_ja": "Bijan Robinsonが練習参加を見送り、Falconsとの新契約を要求",
+      "excerpt": "Bijan Robinson observed but didn&#39;t participate in practice as he looks for a new contract from the Falcons.",
+      "excerpt_ja": "Bijan Robinsonはトレーニングキャンプで練習を見学したが参加せず、Falconsとの新しい契約獲得を目指している",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ATL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 15:32:37 +0000",
+      "url": "https://sports.yahoo.com/articles/bijan-robinson-not-participating-falcons-153237361.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Zack Baun is the latest Eagle named to the NFL Top 100 list",
+      "title_ja": "Zack BaunがNFL Top 100リストに選出されたEagles最新の選手",
+      "excerpt": "The list of Eagles players named to the 2026 NFL Top 100 is expected to grow.",
+      "excerpt_ja": "2026年度のNFL Top 100にはさらに多くのEagles選手が名を連ねると予想される",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 15:32:36 +0000",
+      "url": "https://sports.yahoo.com/articles/quinyon-mitchell-joins-jalen-hurts-005623505.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Ravens Pro Bowler Nnamdi Madubuike cleared to return after career-threatening neck injury",
+      "title_ja": "Ravens Pro Bowler Nnamdi Madubuikeがキャリアを脅かす首の大けがから回復、クリアを取得",
+      "excerpt": "Nnamdi Madubuike made the Pro Bowl in both 2023 and 2024.",
+      "excerpt_ja": "Nnamdi Madubuikeは2023年と2024年の両シーズンでPro Bowlに選出された",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 15:30:19 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/ravens-pro-bowler-nnamdi-madubuike-cleared-to-return-after-career-threatening-neck-injury-153019081.html"
+    },
+    {
+      "kind": "other",
+      "title": "George Kittle or Mykel Williams: Which 49ers starter do we see first?",
+      "title_ja": "George KittleかMykel Williams、49ersのスターターは誰が先に試合に出るか",
+      "excerpt": "George Kittle or Mykel Williams? Which starter from the 49ers do we see playing first?",
+      "excerpt_ja": "George KittleかMykel Williams、49ersのどちらのスターターが先にプレーを開始するか",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 15:19:15 +0000",
+      "url": "https://sports.yahoo.com/articles/george-kittle-mykel-williams-49ers-151915773.html"
+    },
+    {
+      "kind": "other",
+      "title": "Brian Gutekunst: Micah Parsons &quot;doing great right now,&quot; but still unlikely to be ready Week 1",
+      "title_ja": "Brian Gutekunst：Micah Parsonsは「今のところ好調だ」だがWeek 1での出場は難しい見通し",
+      "excerpt": "Packers edge rusher Micah Parsons is making good progress in his rehab from a torn ACL, but it continues to sound like he will not be ready to play at the start of the season.",
+      "excerpt_ja": "Packersエッジラッシャー Micah Parsonsは前十字靱帯断裂からのリハビリで順調に回復しているが、シーズン開幕時の出場は難しい可能性が高い",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 15:18:59 +0000",
+      "url": "https://sports.yahoo.com/articles/brian-gutekunst-micah-parsons-doing-151859130.html"
+    },
+    {
+      "kind": "other",
+      "title": "Ravens activate Nnamdi Madubuike",
+      "title_ja": "Ravens が Nnamdi Madubuike をアクティベート",
+      "excerpt": "Defensive tackle Nnamdi Madubuike is ready to get back on the field for the Ravens.",
+      "excerpt_ja": "DT Nnamdi Madubuikeが、Ravensでのプレー復帰に向けて準備を整える",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 15:10:25 +0000",
+      "url": "https://sports.yahoo.com/articles/ravens-activate-nnamdi-madubuike-151025186.html"
+    },
+    {
+      "kind": "other",
+      "title": "Lions&#39; star running back seeking new contract skips practice. What to know",
+      "title_ja": "Lions スター RB が新契約要求で練習欠場 概要",
+      "excerpt": "Jahmyr Gibbs didn&#39;t practice in the Lions&#39; first of training camp as he seeks a new contract. Here&#39;s what to know.",
+      "excerpt_ja": "Jahmyr Gibbsはトレーニングキャンプ初日の練習に参加せず、新契約獲得を目指している。詳細は以下の通り",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 15:06:28 +0000",
+      "url": "https://sports.yahoo.com/articles/lions-star-running-back-seeking-150628609.html"
+    },
+    {
+      "kind": "other",
+      "title": "Rams receiver unit won’t be put in mothballs",
+      "title_ja": "Rams のレシーバーユニットが棚上げされることはない",
+      "excerpt": "Multiple tight end sets be damned!",
+      "excerpt_ja": "複数TE起用論をものともしない",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 15:02:00 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-receiver-unit-won-t-150200746.html"
+    },
+    {
+      "kind": "other",
+      "title": "Rookie versus rookie training camp battles on Las Vegas Raiders’ roster",
+      "title_ja": "Las Vegas Raiders ロスターに新人同士のトレーニングキャンプ争い",
+      "excerpt": "A handful of first-year pros will be going head to head this summer",
+      "excerpt_ja": "複数の1年目プロが今夏、一対一で競い合うことになる",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 15:02:00 +0000",
+      "url": "https://sports.yahoo.com/articles/rookie-versus-rookie-training-camp-150200848.html"
+    },
+    {
       "kind": "other",
       "title": "Bijan Robinson and Jahmyr Gibbs not participating in practice as they seek market-changing new contracts",
-      "title_ja": "Bijan RobinsonとJahmyr Gibbsが練習に参加せず、市場を変える新契約を求めている状況が続いている",
+      "title_ja": "Bijan Robinson と Jahmyr Gibbs が新契約要求で練習不参加、NFLの大型スター2選手",
       "excerpt": "Two of the NFL&#39;s biggest stars did not practice on Wednesday.",
-      "excerpt_ja": "NFLの大型スターたち2人が水曜日の練習を欠場した",
+      "excerpt_ja": "NFLの最高峰スター選手2人が水曜日の練習に参加しなかった",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -20,11 +196,27 @@
       "url": "https://sports.yahoo.com/nfl/article/bijan-robinson-and-jahmyr-gibbs-not-participating-in-practice-as-they-seek-market-changing-new-contracts-144505370.html"
     },
     {
+      "kind": "signing",
+      "title": "Texans sign WR DJ Turner",
+      "title_ja": "Texans が WR DJ Turner と契約",
+      "excerpt": "The Texans have a new wide receiver on their roster.",
+      "excerpt_ja": "Texans がロスターに新しいワイドレシーバーを加えた",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "HOU",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 14:41:52 +0000",
+      "url": "https://sports.yahoo.com/articles/texans-sign-wr-dj-turner-144152998.html"
+    },
+    {
       "kind": "rumor",
       "title": "Buffalo Bills red helmets to return in 2026, per report",
-      "title_ja": "Buffalo Billsのレッドヘルメット、2026年に復活か",
+      "title_ja": "Buffalo Bills の赤ヘルメットが2026年に復活、関係者が報告",
       "excerpt": "The Buffalo Bills appear set to give fans another on-field taste of the red helmets fans have been craving",
-      "excerpt_ja": "Buffalo Billsは、ファンが待ち望むレッドヘルメットをフィールドで再び披露する運びになりそうだ",
+      "excerpt_ja": "Buffalo Bills はファンが待ち望んでいた赤ヘルメットをフィールドで再度使用する予定のようだ",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +230,9 @@
     {
       "kind": "other",
       "title": "Michael Strahan responds to criticism over Chris Johnson ALS interview",
-      "title_ja": "Michael StrahahがChris JohnsonのALSインタビューへの批判に反論",
+      "title_ja": "Michael Strahan が Chris Johnson ALS インタビューをめぐる批判に反論",
       "excerpt": "Michael Strahan defended his Chris Johnson interview after critics noted the lack of questions about ALS and CTE&#39;s connection to football.",
-      "excerpt_ja": "Michael StrahahはChris Johnsonのインタビューを擁護。ALSとCTEとフットボールの関連性について質問が不足していたとの批判に対応した",
+      "excerpt_ja": "Michael Strahan は Chris Johnson インタビューを擁護。批評家からはALSとCTE、フットボールとの関連についての質問不足が指摘されていた",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +246,9 @@
     {
       "kind": "other",
       "title": "Wednesday Cheese Curds: Ahman Green reveals Parkinson’s diagnosis",
-      "title_ja": "水曜日のコラム：Ahman Greenがパーキンソン病の診断を明かす",
+      "title_ja": "Wednesday Cheese Curds：Ahman Green がパーキンソン病診断を公表",
       "excerpt": "Green’s news puts a damper on the opening day of training camp.",
-      "excerpt_ja": "Greenの報道はトレーニングキャンプ初日に水を差す形となった",
+      "excerpt_ja": "Green の発表はトレーニングキャンプ初日に影を落とした",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +262,9 @@
     {
       "kind": "signing",
       "title": "Bijan Robinson not participating in practice, awaiting new deal",
-      "title_ja": "Bijan Robinsonが練習に参加せず、新契約を待機中",
+      "title_ja": "Bijan Robinson が練習不参加、新契約待機中",
       "excerpt": "The Falcons are in a similar position to the Lions as the teams begin training camp this week.",
-      "excerpt_ja": "Falconsはこの週のトレーニングキャンプ開始時にLionsと同様の状況に置かれている",
+      "excerpt_ja": "Falcons は Lions と同じ状況にあり、今週トレーニングキャンプを開始する",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +278,9 @@
     {
       "kind": "injury",
       "title": "Players Cowboys need to take a cautious approach with in training camp",
-      "title_ja": "Cowboysがトレーニングキャンプで注視すべき選手たち",
+      "title_ja": "Cowboys がトレーニングキャンプで慎重な対応が必要な選手たち",
       "excerpt": "Players returning from injuries Cowboys need to monitor closely.",
-      "excerpt_ja": "けが明けで復帰したCowboyの選手たちをしっかり見守る必要がある",
+      "excerpt_ja": "けが復帰選手で Cowboys が注視すべき選手たち",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +294,9 @@
     {
       "kind": "other",
       "title": "Jonathan Greenard put on Eagles PUP list to start training camp",
-      "title_ja": "Jonathan GreenerardがEaglesのPUPリストに登録されてキャンプ開始",
+      "title_ja": "Jonathan Greenard をトレーニングキャンプ開始時に Eagles の PUP リストに登録",
       "excerpt": "The Eagles new edge rusher will be sidelined to start camp with a pec strain.",
-      "excerpt_ja": "Eaglesの新しいエッジラッシャーは大胸筋の負傷により、キャンプ序盤は出場できない",
+      "excerpt_ja": "Eagles の新しいエッジラッシャーは大胸筋のけがでキャンプ開始時は出場不可となる",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +310,9 @@
     {
       "kind": "injury",
       "title": "No Jaylin Noel: what his absence means for the Texans’ wide receiver room",
-      "title_ja": "Jaylin Noel欠場：Texansのワイドレシーバー陣にとっての影響",
+      "title_ja": "Jaylin Noel 欠場：Texans のワイドレシーバー陣に何をもたらすか",
       "excerpt": "Shocking injury news before a single snap occurred at Texans training camp",
-      "excerpt_ja": "Texansのトレーニングキャンプ開始前に衝撃的なけが人情報が判明",
+      "excerpt_ja": "Texans トレーニングキャンプ開始前に驚くべき負傷ニュース",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +326,9 @@
     {
       "kind": "other",
       "title": "A Bills WR didn’t practice at training camp due to a failed physical",
-      "title_ja": "Bills WRがトレーニングキャンプで身体検査不合格のため練習欠場",
+      "title_ja": "Bills WR がフィジカル検査不合格でトレーニングキャンプの練習に不参加",
       "excerpt": "Virgil did not pass his physical, so he missed the first day of practice",
-      "excerpt_ja": "Virgilが身体検査に合格せず、初日の練習を欠場した",
+      "excerpt_ja": "Virgil がフィジカルテストに合格できず、初日の練習を欠場",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +342,9 @@
     {
       "kind": "other",
       "title": "Patriots links 7/29/26: Jacas, Maye’s deep ball make appearance",
-      "title_ja": "Patriots情報：7月29日（現地時間）- JacasとMayeのディープボールが登場",
+      "title_ja": "Patriots リンク 7/29/26：Jacas、Maye のディープボールが登場",
       "excerpt": "Daily news and links for Wednesday",
-      "excerpt_ja": "水曜日の日々のニュース＆リンク集",
+      "excerpt_ja": "水曜日のデイリーニュース＆リンク",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +358,9 @@
     {
       "kind": "other",
       "title": "NCAA gives Tennessee linebacker Arion Carter two-game suspension",
-      "title_ja": "NCAAがTennesseeラインバッカーArion Carterに2試合出場停止処分",
+      "title_ja": "NCAA がテネシー大 LB Arion Carter に2試合の出場停止処分",
       "excerpt": "Here’s what we know.",
-      "excerpt_ja": "判明している事実をまとめた",
+      "excerpt_ja": "詳細は以下の通り",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +374,9 @@
     {
       "kind": "other",
       "title": "Texans Training Camp – Top 4 Position Battles",
-      "title_ja": "Texans トレーニングキャンプで注目のポジション争い4選",
+      "title_ja": "Texans トレーニングキャンプ－注目のポジション争い4つ",
       "excerpt": "Which stars will rise and fall this August?",
-      "excerpt_ja": "8月、どのスターが台頭し、どのスターが失速するのか",
+      "excerpt_ja": "8月、どのスター選手が台頭し、どの選手が衰えるのか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +390,9 @@
     {
       "kind": "other",
       "title": "Vita Vea as a New York Giant sounds nice, but probably isn’t happening",
-      "title_ja": "Vita VeaがNew York Giantに加入するのは理想的だが、実現の可能性は低い",
+      "title_ja": "Vita Vea を New York Giant として見るのは素敵だが、実現の可能性は低い",
       "excerpt": "Here is why this is amove the Giants probably should not make.",
-      "excerpt_ja": "Giantsがこのトレードを避けるべき理由を解説",
+      "excerpt_ja": "Giants がこのトレードを検討すべきでない理由",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +406,9 @@
     {
       "kind": "injury",
       "title": "Buffalo Bills WR Tyrell Shavers to begin training camp on PUP list",
-      "title_ja": "Buffalo Bills WR Tyrell ShaversがPUPリストで2026年キャンプ開始",
+      "title_ja": "Buffalo Bills WR Tyrell Shavers がトレーニングキャンプを PUP リストで開始",
       "excerpt": "The Buffalo Bills will head into training camp with WR Tyrell Shavers sidelined from an injury sustained in the playoffs",
-      "excerpt_ja": "Buffalo Billsはプレーオフで負傷したWR Tyrell Shaversを欠いてトレーニングキャンプに臨む",
+      "excerpt_ja": "Buffalo Bills はトレーニングキャンプをプレーオフで負ったけがで WR Tyrell Shavers を欠いて迎える",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +422,9 @@
     {
       "kind": "other",
       "title": "2026 NFL betting preview, odds: Why I&#39;m betting the Los Angeles Rams to miss the playoffs",
-      "title_ja": "2026年NFLベッティング展望と時点予測：Los Angeles Ramsがプレーオフを逃すと予想する理由",
+      "title_ja": "2026年度 NFL ベッティングプレビュー、オッズ：Los Angeles Rams がプレーオフ逃しになると予想する理由",
       "excerpt": "Our NFL handicappers gives three wagers to make/miss the playoffs that he likes right now.",
-      "excerpt_ja": "NFLハンディキャッパーが、プレーオフ進出・逃出予想で注目の3つのベットを推奨",
+      "excerpt_ja": "NFL ハンディキャッパーが現在評価している、プレーオフ進出・逃しに関する3つのベット戦略",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +438,9 @@
     {
       "kind": "other",
       "title": "Miami Dolphins training camp 2026: Position battles to watch",
-      "title_ja": "Miami Dolphins 2026年トレーニングキャンプ：注視すべきポジション争い",
+      "title_ja": "Miami Dolphins トレーニングキャンプ 2026：注目のポジション争い",
       "excerpt": "The Miami Dolphins will have position battles all across the roster in training camp this year. Which position battle will be the most important to the team?",
-      "excerpt_ja": "Miami Dolphinsは今年のトレーニングキャンプでロースター全体でポジション争いが繰り広げられる。最も重要なポジション争いはどこか",
+      "excerpt_ja": "Miami Dolphins は今年のトレーニングキャンプで全ロスターにわたってポジション争いを繰り広げる。最も重要なポジション争いはどこか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +454,9 @@
     {
       "kind": "other",
       "title": "Chargers Daily Links: Training Camp Practice #1 Open Thread",
-      "title_ja": "Chargers日報：トレーニングキャンプ初日練習スレッド",
+      "title_ja": "Chargers デイリーリンク：トレーニングキャンプ1日目オープンスレッド",
       "excerpt": "Your source for all Chargers and NFL news from around the web.",
-      "excerpt_ja": "Chargersとリーグ全体のニュース＆情報をまとめたリソース",
+      "excerpt_ja": "Chargers と NFL のニュースをウェブから厳選してお届け",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -276,207 +468,223 @@
       "url": "https://sports.yahoo.com/articles/chargers-daily-links-training-camp-135000362.html"
     },
     {
-      "kind": "other",
-      "title": "Commanders morning briefing: Terry McLaurin’s ‘joy,’ Laremy Tunsil’s impact and more",
-      "title_ja": "Commanders朝刊：Terry McLaurinの『喜び』、Laremy Tunsil のインパクト、他",
-      "excerpt": "Commanders head coach Dan Quinn provided key updates on Wednesday morning, before the start of practice",
-      "excerpt_ja": "Commanders HCのDan Quinnが水曜朝、練習前の重要な更新情報を公表した",
+      "kind": "injury",
+      "title": "Last Night In Baseball: Mariners Homer Their Way To W Against Dodgers",
+      "title_ja": "Yesterday in Baseball：Mariners が Dodgers との試合でホームランで勝利",
+      "excerpt": "Dominic Canzone and the Mariners defeated the Dodgers, the Tigers could not stop scoring, the Pirates nearly came back, do not pitch to Yordan Alvarez and more from Tuesday's MLB action.",
+      "excerpt_ja": "Dominic Canzone と Mariners が Dodgers を破り、Tigers は得点を止められず、Pirates はカムバックまで後一歩、Yordan Alvarez には投げるな、火曜日の MLB アクション",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "WAS",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:47:30 +0000",
-      "url": "https://sports.yahoo.com/articles/commanders-morning-briefing-terry-mclaurin-134730208.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Kyle Trask to work out for Panthers",
-      "title_ja": "Kyle TraskがPanthersのワークアウトに参加予定",
-      "excerpt": "Last week, Panthers General Manager Dan Morgan said that the team had “no plans” to bring in another quarterback even after the retirement of Will Grier.",
-      "excerpt_ja": "先週、Panthers GMのDan Morganは、Will Grierの現役引退後も別のQBを招くプランはないと述べていた",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "CAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:40:30 +0000",
-      "url": "https://sports.yahoo.com/articles/kyle-trask-panthers-134030840.html"
-    },
-    {
-      "kind": "other",
-      "title": "Lions may start the season without safeties Brian Branch and Kerby Joseph",
-      "title_ja": "Lionsはシーズン開幕をBrian BranchとKerby Josephなしで迎える可能性",
-      "excerpt": "When they&#39;re both healthy, the Lions have one of the best pairs of safeties in the NFL in Brian Branch and Kerby Joseph.",
-      "excerpt_ja": "両者が万全の時、LionsはNFLの最強レベルのセーフティペア、Brian BranchとKerby Josephを擁する",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:33:48 +0000",
-      "url": "https://sports.yahoo.com/articles/lions-may-start-season-without-133348038.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "NFL still has no sportsbook partner, but that could be changing soon",
-      "title_ja": "NFLはまだ公式スポーツブック提携先を確保していないが、それが変わる可能性も",
-      "excerpt": "As of April 1, the NFL had no official sportsbook partner.",
-      "excerpt_ja": "4月1日時点で、NFLは公式スポーツブックのパートナーを持っていなかった",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:31:35 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-still-no-sportsbook-partner-133135013.html"
-    },
-    {
-      "kind": "presser",
-      "title": "Tua Tagovailoa, Michael Penix Jr. both out as Falcons training camp starts",
-      "title_ja": "Tua TagovailoaとMichael Penix Jr.が不在、Falconsトレーニングキャンプ開始",
-      "excerpt": "Kevin Stefanski told reporters that Tua Tagovailoa and Michael Penix Jr. are both out as Falcons training camp begins.",
-      "excerpt_ja": "Kevin Stefaskiはメディアに対し、Tua TagovailoaとMichael Penix Jr.がFalconsキャンプ開始時に不在だと述べた",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:30:43 +0000",
-      "url": "https://sports.yahoo.com/articles/tua-tagovailoa-michael-penix-jr-133043559.html"
+      "published_at": "Wed, 29 Jul 2026 12:11:47 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/dominic-canzone-shohei-ohtani-yankees-gerrit-cole-tigers-javier-baez"
     },
     {
       "kind": "other",
-      "title": "Saints 53-man roster prediction: Pre-training camp",
-      "title_ja": "Saints 53名ロースター予想：トレーニングキャンプ前",
-      "excerpt": "Caleb Yaccarino gives his thoughts on who’s in and who’s out on the 2026 Saints roster",
-      "excerpt_ja": "Caleb Yaccarino が2026年Saintsロースターの入れ替わり予想を語る",
+      "title": "Madden NFL 27 Offensive Ratings: Who Are The 10 Highest Rated Offenses?",
+      "title_ja": "Madden NFL 27 オフェンシブレーティング：最高レーティングのオフェンス10チームは",
+      "excerpt": "Which teams have the best offenses in the NFL? Here's what \"Madden NFL 27\" thinks.",
+      "excerpt_ja": "NFLで最高のオフェンスを持つチームはどこか。『Madden NFL 27』の評価を紹介",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NO",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/saints-53-man-roster-prediction-133000699.html"
+      "published_at": "Wed, 29 Jul 2026 12:09:57 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/madden-27-offensive-ratings-who-highest-rated-nfl-offenses"
     },
     {
       "kind": "other",
-      "title": "Jonathan Greenard opens Eagles camp on the PUP list",
-      "title_ja": "Jonathan GreenerardがEaglesキャンプをPUPリストで開始",
-      "excerpt": "Jonathan Greenard will open his first Eagles training camp on the team&#39;s physically unable to perform list.",
-      "excerpt_ja": "Jonathan GreenerardはEaglesでの初トレーニングキャンプをチームのPUP（身体的不可能リスト）で迎える",
+      "title": "Baltimore Ravens Over/Under Win Total: Can BAL Eclipse 11 Wins?",
+      "title_ja": "Baltimore Ravens オーバー・アンダー勝数予想：BAL は11勝を超えられるか",
+      "excerpt": "Check out the 2026 O/U win total for the Ravens, who won eight games and finished second in the AFC North last season.",
+      "excerpt_ja": "2026年度 Ravens の勝数予想（O/U）を確認。同チームは昨シーズン8勝でAFC North2位だった",
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:21:17 +0000",
-      "url": "https://sports.yahoo.com/articles/jonathan-greenard-opens-eagles-camp-132117098.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Cooper Rush signs with the Falcons after Tua Tagovailoa injury",
-      "title_ja": "Cooper RushがTua Tagovailoa負傷後Falconsと契約",
-      "excerpt": "Welcome to Atlanta, Cooper Rush!",
-      "excerpt_ja": "Atlantaへようこそ、Cooper Rush！",
-      "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "ATL",
+      "team_abbrev": "BAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:15:16 +0000",
-      "url": "https://sports.yahoo.com/articles/cooper-rush-signs-falcons-tua-131516017.html"
+      "published_at": "Wed, 29 Jul 2026 12:09:12 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/baltimore-ravens-over-under-win-total-can-bal-eclipse-11-wins"
     },
     {
       "kind": "other",
-      "title": "Eagles training camp practice live updates from Day 1!",
-      "title_ja": "Eagles トレーニングキャンプ初日実況中継！",
-      "excerpt": "Philadelphia’s 2026 season begins here.",
-      "excerpt_ja": "Philadelphiaの2026年シーズンはここから始まる",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:11:00 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-training-camp-practice-live-131100151.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Falcons put OT Jawaan Taylor on PUP list",
-      "title_ja": "FalconsがOT Jawaan TaylorをPUPリストに登録",
-      "excerpt": "The Falcons signed offensive tackle Jawaan Taylor this offseason, but he won&#39;t be on the field for their first practice of training camp.",
-      "excerpt_ja": "Falconsはこのオフシーズンに獲得したOT Jawaan Taylorだが、トレーニングキャンプ初日の練習には参加できない",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:09:18 +0000",
-      "url": "https://sports.yahoo.com/articles/falcons-put-ot-jawaan-taylor-130918895.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Tua Tagovailoa won&#39;t practice after injury &quot;flared up,&quot; Michael Penix won&#39;t do team drills",
-      "title_ja": "Tua Tagovailoa、負傷が『悪化』し練習欠場。Michael Penix Jr.はチーム練習に不参加",
-      "excerpt": "The Falcons expect Tagovailoa back soon from a reported back issue.",
-      "excerpt_ja": "Falconsは背中の負傷と報道されるTagovailoa の早期復帰を見込んでいる",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:01:37 +0000",
-      "url": "https://sports.yahoo.com/articles/tua-tagovailoa-wont-practice-injury-130137556.html"
-    },
-    {
-      "kind": "other",
-      "title": "Random Ramsdom: CJ Daniels turning heads?",
-      "title_ja": "Ramsあれこれ：CJ Danielsが注目を集めている",
-      "excerpt": "Los Angeles Rams News and Links for 7/29/26",
-      "excerpt_ja": "Los Angeles Rams ニュース＆リンク（7月29日現地時間）",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 13:01:00 +0000",
-      "url": "https://sports.yahoo.com/articles/random-ramsdom-cj-daniels-turning-130100515.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Texans sign WR DJ Turner",
-      "title_ja": "TexansがWR DJ Turnerと契約",
-      "excerpt": "The Texans have a new wide receiver on their roster.",
-      "excerpt_ja": "Texansが新しいワイドレシーバーをロースターに加えた",
+      "title": "Dan Campbell on Jahmyr Gibbs: \"This is both sides working through something\"",
+      "title_ja": "Dan Campbell on Jahmyr Gibbs：「両者が何かを解決しようとしている」",
+      "excerpt": "Lions running back Jahmyr Gibbs did not practice on Wednesday, as he stages an apparent hold-in while awaiting a new contract.",
+      "excerpt_ja": "Lions RB Jahmyr Gibbs が水曜日の練習に参加せず、新契約獲得を目指す意図的な保留か",
       "sources": [
         "Pro Football Talk"
       ],
       "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 11:51:00 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-on-jahmyr-gibbs-this-is-both-sides-working-through-something"
+    },
+    {
+      "kind": "other",
+      "title": "Madden NFL 27 Ratings: Who Are The 10 Highest Quarterbacks In This Year's Game?",
+      "title_ja": "Madden NFL 27 レーティング：今年度の最高評価QBはどの10選手",
+      "excerpt": "EA Sports revealed the quarterback ratings for Madden NFL 27 ahead of the upcoming season, find out who made the top 10.",
+      "excerpt_ja": "EA Sports が Madden NFL 27 のQBレーティングを公開。Top 10 に選出された選手を確認しよう",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 11:44:10 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/madden-nfl-27-ratings-who-10-highest-quarterbacks-years-game"
+    },
+    {
+      "kind": "other",
+      "title": "Matt Campbell, Penn State Confident They Can Excel Where James Franklin Failed",
+      "title_ja": "Matt Campbell、Penn State が James Franklin が果たせなかったところで優秀な成績を挙げられることに確信",
+      "excerpt": "Matt Campbell and Penn State are confident they can compete for a national title in Year 1.",
+      "excerpt_ja": "Matt Campbell と Penn State はYear 1 でナショナルチャンピオンシップを争える確信を持っている",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 11:38:59 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/matt-campbell-penn-state-contention-right-away"
+    },
+    {
+      "kind": "other",
+      "title": "2026 AL, NL MVP Odds: PCA Closing In On Ohtani; Alvarez Favored",
+      "title_ja": "2026年 AL、NL MVP オッズ：PCA が Ohtani に迫る；Alvarez が優勢",
+      "excerpt": "What was thought to be a foregone MVP conclusion in the NL is now a nip-and-tuck race. See the latest odds.",
+      "excerpt_ja": "NL MVP は決定事項だと思われていたが、今は接戦となっている。最新のオッズを確認しよう",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 11:37:05 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/2026-al-nl-mvp-odds"
+    },
+    {
+      "kind": "other",
+      "title": "Michael Penix: I can't afford to have someone trip and fall on me right now",
+      "title_ja": "Michael Penix：\"今この瞬間、誰かが転んで僕の上に落ちてくるわけにはいかない\"",
+      "excerpt": "The big news from the first day of Falcons training camp involved the team's quarterbacks.",
+      "excerpt_ja": "Falcons トレーニングキャンプ初日の大きなニュースはチームの QB に関するものだった",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ATL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 11:21:08 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-i-cant-afford-to-have-someone-trip-and-fall-on-me-right-now"
+    },
+    {
+      "kind": "other",
+      "title": "Brian Gutekunst: Micah Parsons \"doing great right now,\" but still unlikely to be ready Week 1",
+      "title_ja": "Brian Gutekunst：Micah Parsons は「今のところ好調だ」だがWeek 1での出場は難しい見通し",
+      "excerpt": "Packers edge rusher Micah Parsons is making good progress in his rehab from a torn ACL, but it continues to sound like he will not be ready to play at the start of the season.",
+      "excerpt_ja": "Packersエッジラッシャー Micah Parsons は前十字靱帯断裂からのリハビリで順調に回復しているが、シーズン開幕時の出場は難しい可能性が高い",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 11:18:59 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-gutekunst-micah-parsons-doing-great-right-now-but-still-unlikely-to-be-ready-week-1"
+    },
+    {
+      "kind": "other",
+      "title": "2026 NFL Comeback Player of Year Odds: Patrick Mahomes Early Favorite",
+      "title_ja": "2026年 NFL Comeback Player of the Year オッズ：Patrick Mahomes が優位",
+      "excerpt": "Patrick Mahomes is the early favorite to win NFL Comeback Player of the Year. Which other players are near the top of the board? Here's the latest.",
+      "excerpt_ja": "Patrick Mahomes が NFL Comeback Player of the Year の優位候補。ほかにどの選手が上位候補か。最新オッズを紹介",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 11:16:43 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year"
+    },
+    {
+      "kind": "other",
+      "title": "Ravens activate Nnamdi Madubuike",
+      "title_ja": "Ravens が Nnamdi Madubuike をアクティベート",
+      "excerpt": "Defensive tackle Nnamdi Madubuike is ready to get back on the field for the Ravens.",
+      "excerpt_ja": "DT Nnamdi Madubuike が、Ravens でのプレー復帰に向けて準備を整える",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 11:10:25 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-activate-nnamdi-madubuike"
+    },
+    {
+      "kind": "injury",
+      "title": "Dan Campbell: Terrion Arnold release stinks, but best for us",
+      "title_ja": null,
+      "excerpt": "The Lions didn't expect to need a replacement for cornerback Terrion Arnold on their defense this season, but that's where they find themselves at the start of training camp.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 10:58:22 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-terrion-arnold-release-stinks-but-best-for-us"
+    },
+    {
+      "kind": "other",
+      "title": "Brian Gutekunst: Tucker Kraft may play Week 1, hopeful contract gets done",
+      "title_ja": null,
+      "excerpt": "Packers tight end Tucker Kraft may have a couple of positive developments coming to him in his near future.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 29 Jul 2026 10:57:26 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-gutekunst-tucker-kraft-may-play-week-1-hopeful-contract-gets-done"
+    },
+    {
+      "kind": "signing",
+      "title": "Texans sign WR DJ Turner",
+      "title_ja": null,
+      "excerpt": "The Texans have a new wide receiver on their roster.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
       "team_abbrev": "HOU",
       "player_name": null,
       "coach_name": null,
@@ -486,9 +694,9 @@
     {
       "kind": "trade",
       "title": "Todd Bowles: Vita Vea tweaked something in his back, team hasn't discussed trade",
-      "title_ja": "Todd Bowles：Vita Veaが背中に違和感、トレード協議はなし",
+      "title_ja": null,
       "excerpt": "Buccaneers head coach Todd Bowles addressed defensive tackle Vita Vea sitting out practice during a Wednesday press conference from training camp.",
-      "excerpt_ja": "Buccaneers HCのTodd Bowlesはトレーニングキャンプの水曜会見で、練習を欠場したDT Vita Veaについて言及した",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -502,9 +710,9 @@
     {
       "kind": "other",
       "title": "FanDuel Promo Code: Bet $5 Get $200 in Bet Reset Tokens for 5 Days",
-      "title_ja": "FanDuelプロモコード：$5ベットで5日間$200のベットリセットトークン獲得",
+      "title_ja": null,
       "excerpt": "Get $1,000 in Bonus Bets when you bet $5 for five days with our FanDuel sportsbook offer for new users.",
-      "excerpt_ja": "新規ユーザーを対象にFanDuelスポーツブックで5日間$5ベットすると$1,000のボーナスベット獲得",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -518,9 +726,9 @@
     {
       "kind": "other",
       "title": "Polymarket Promo Code FOX: Deposit $10, Get $20 Trading Bonus",
-      "title_ja": "Polymarket プロモコード FOX：$10デポジットで$20トレーディングボーナス",
+      "title_ja": null,
       "excerpt": "Use Polymarket promo code FOX to deposit $10 and get a $20 trading bonus on the world's largest prediction market platform. New users only. 18+. Not available in AZ, IL, MA, MD, MI, MT, NJ, NV, OH.",
-      "excerpt_ja": "Polymarketのプロモコード『FOX』で$10をデポジットし、世界最大の予測市場プラットフォームで$20のトレーディングボーナスを獲得（新規ユーザー対象、18歳以上、AZ, IL, MA, MD, MI, MT, NJ, NV, OHでは利用不可）",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -534,9 +742,9 @@
     {
       "kind": "other",
       "title": "Betr Promo Code FOXSPORTS: Two No Sweat Tokens, Up to $200 back in Bonuses + New User Free Pick",
-      "title_ja": "Betr プロモコード FOXSPORTS：2つのノースウェットトークン、最大$200ボーナス＋新規ユーザーフリーピック",
+      "title_ja": null,
       "excerpt": "Use the Betr promo code FOXSPORTS to get two No Sweat Tokens, up to $200 back in Bonus + a New User Free Pick.",
-      "excerpt_ja": "Betrプロモコード『FOXSPORTS』で2つのノースウェットトークンと最大$200のボーナス、新規ユーザー向けフリーピックを獲得",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -550,9 +758,9 @@
     {
       "kind": "other",
       "title": "Caesars Promo Code FOXDYW: 10 × 100% Profit Boost Tokens",
-      "title_ja": "Caesars プロモコード FOXDYW：10回の100%プロフィットブーストトークン",
+      "title_ja": null,
       "excerpt": "Caesars Sportsbook Promo Code 'FOXDYW' Bet $1, Double Your Winnings Your Next 10 Wagers.",
-      "excerpt_ja": "Caesarsスポーツブック プロモコード『FOXDYW』 $1ベットすると次の10回のベットで獲得金を2倍に",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -566,9 +774,9 @@
     {
       "kind": "other",
       "title": "Fanatics Sportsbook Promo Code FOX2026: Get Up to $1,000 in FanCash",
-      "title_ja": "Fanatics スポーツブック プロモコード FOX2026：最大$1,000のFanCash獲得",
+      "title_ja": null,
       "excerpt": "Fanatics Sportsbook Promo: 10 x $100 Bet Matches In FanCash. New customers get a 100% bet match up to $100 in FanCash for 10 days.",
-      "excerpt_ja": "Fanatics スポーツブック プロモ：10回の$100ベットマッチ。新規顧客は10日間、$100までの100%ベットマッチ（FanCash）を獲得",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -582,9 +790,9 @@
     {
       "kind": "other",
       "title": "theScore Bet Promo Code: Get $1,000 Bet Reset",
-      "title_ja": "theScore Bet プロモコード：$1,000ベットリセット獲得",
+      "title_ja": null,
       "excerpt": "theScore Bet Promo Code: Get $1,000 Bet Reset.",
-      "excerpt_ja": "theScore Bet プロモコード：$1,000ベットリセット獲得",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -598,9 +806,9 @@
     {
       "kind": "signing",
       "title": "Bijan Robinson not participating in practice, awaiting new deal",
-      "title_ja": "Bijan Robinsonが練習に参加せず、新契約を待機中",
+      "title_ja": null,
       "excerpt": "The Falcons are in a similar position to the Lions as the teams begin training camp this week.",
-      "excerpt_ja": "Falconsはこの週のトレーニングキャンプ開始時にLionsと同様の状況に置かれている",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -614,9 +822,9 @@
     {
       "kind": "other",
       "title": "BetMGM Bonus Code FOXSPORTS: $1500 in Bonus Bets if Your First Bet Loses",
-      "title_ja": "BetMGM ボーナスコード FOXSPORTS：初回ベット敗北時最大$1,500のボーナスベット",
+      "title_ja": null,
       "excerpt": "Use BetMGM Bonus Code FOXSPORTS to get up to $1,500 back in Bonus Bets if your first wager loses. Claim your BetMGM welcome offer today.",
-      "excerpt_ja": "BetMGM ボーナスコード『FOXSPORTS』で初回ベット敗北時最大$1,500のボーナスベットを獲得。BetMGM ウェルカムオファーを今すぐクレーム",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -630,9 +838,9 @@
     {
       "kind": "other",
       "title": "DraftKings Promo Code: Bet $5 and Get $150 in Bonus Bets Instantly",
-      "title_ja": "DraftKings プロモコード：$5ベットで即座に$150のボーナスベット獲得",
+      "title_ja": null,
       "excerpt": "Bet $5 and Get $150 in Bonus Bets Instantly for New Users.",
-      "excerpt_ja": "新規ユーザーは$5ベットで即座に$150のボーナスベットを獲得",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -828,7 +1036,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "CAR",
       "player_name": null,
       "coach_name": null,
@@ -844,7 +1052,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "DET",
       "player_name": null,
       "coach_name": null,
@@ -876,7 +1084,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
@@ -892,7 +1100,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "PHI",
       "player_name": null,
       "coach_name": null,
@@ -908,7 +1116,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "ATL",
       "player_name": null,
       "coach_name": null,
@@ -948,22 +1156,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-sign-wr-river-cracraft"
     },
     {
-      "kind": "trade",
-      "title": "Vita Vea is not practicing at Bucs camp",
-      "title_ja": null,
-      "excerpt": "Defensive tackle Vita Vea requested a trade this week, but he is at Buccaneers training camp for the first day of practice on Wednesday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 08:37:11 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vita-vea-is-not-practicing-at-bucs-camp"
-    },
-    {
       "kind": "other",
       "title": "TBT Schedule Today: How to Watch, TV, Streaming for Wednesday, July 29",
       "title_ja": null,
@@ -996,38 +1188,6 @@
       "url": "https://www.foxsports.com/stories/nfl/nfl-star-rookies-best-schematic-fit-from-each-afc-draft-class"
     },
     {
-      "kind": "signing",
-      "title": "49ers to sign LB Quinton Bell",
-      "title_ja": null,
-      "excerpt": "Linebacker Quinton Bell will have a chance to make the 49ers' 53-man roster this summer.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 07:42:52 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-to-sign-lb-quinton-bell"
-    },
-    {
-      "kind": "signing",
-      "title": "Mickey Loomis: Hopeful about Chris Olave contract extension, but not there yet",
-      "title_ja": null,
-      "excerpt": "Wide receiver Chris Olave's contract was a topic of conversation at Saints General Manager Mickey Loomis's press conference on Tuesday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 07:32:02 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mickey-loomis-hopeful-about-chris-olave-contract-extension-but-not-there-yet"
-    },
-    {
       "kind": "trade",
       "title": "Leonard Williams: There's been a few conversations about a new contract",
       "title_ja": null,
@@ -1044,22 +1204,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/leonard-williams-theres-been-a-few-conversations-about-a-new-contract"
     },
     {
-      "kind": "presser",
-      "title": "Ben Johnson: Caleb Williams has it all, there's nothing he can't do",
-      "title_ja": null,
-      "excerpt": "\"Elite arm talent, playmaking ability, escape-ability. He has his legs that he can hurt a defense with. There's just so many layers to who he is as a player,\" Johnson said of Williams.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 07:05:54 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-caleb-williams-has-it-all-theres-nothing-he-cant-do"
-    },
-    {
       "kind": "other",
       "title": "Michael Strahan responds to criticism over Chris Johnson interview",
       "title_ja": null,
@@ -1074,22 +1218,6 @@
       "coach_name": null,
       "published_at": "Wed, 29 Jul 2026 06:43:28 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-strahan-responds-to-criticism-over-chris-johnson-interview"
-    },
-    {
-      "kind": "other",
-      "title": "Plaxico Burress: Playing for the Jets and going to prison were \"kind of similar\"",
-      "title_ja": null,
-      "excerpt": "Plaxico Burress's NFL career was put on hold during the 2008 season, when he accidentally shot himself and then went to prison for 20 months for carrying a gun illegally.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 29 Jul 2026 04:47:10 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/plaxico-burress-playing-for-the-jets-and-going-to-prison-were-kind-of-similar"
     },
     {
       "kind": "signing",
@@ -1188,38 +1316,6 @@
       "url": "https://www.foxsports.com/stories/mlb/mlb-cy-young-race"
     },
     {
-      "kind": "other",
-      "title": "MLB MVP Race: Pete Crow-Armstrong Closes Gap On Shohei Ohtani",
-      "title_ja": null,
-      "excerpt": "Pete Crow-Armstrong is closing the gap on Shohei Ohtani in the National League MVP race. Check out the biggest risers and fallers from the past week.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 19:23:05 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-mvp-race"
-    },
-    {
-      "kind": "other",
-      "title": "MLB 2026 Buzz: Curtis Mead Placed On 10-Day IL With A Broken Left Wrist",
-      "title_ja": null,
-      "excerpt": "Notable news, notes and buzz from MLB's 2026 season.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:55:34 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-2026-buzz-injuries-news-trades-rumors"
-    },
-    {
       "kind": "trade",
       "title": "Jerry Jones is willing to give up a top pick for a defensive playmaker",
       "title_ja": null,
@@ -1234,86 +1330,6 @@
       "coach_name": null,
       "published_at": "Tue, 28 Jul 2026 18:53:36 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-is-willing-to-give-up-a-top-pick-for-a-defensive-playmaker"
-    },
-    {
-      "kind": "signing",
-      "title": "Browns' Denzel Ward Now NFL's Highest-Paid CB With $62.2 Million Extension",
-      "title_ja": null,
-      "excerpt": "The Cleveland Browns and Denzel Ward have agreed on a two-year, $62.2 million extension that will make him the league's highest paid cornerback.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:40:39 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/denzel-ward-becomes-nfls-highest-paid-cornerback-browns-62-2-million-extension"
-    },
-    {
-      "kind": "other",
-      "title": "What's Next For USA After 2026 World Cup? Jozy Altidore, Clint Dempsey Weigh In",
-      "title_ja": null,
-      "excerpt": "USA legends-turned-World Cup broadcasters Jozy Altidore and Clint Dempsey weigh in on the tournament's legacy.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:32:35 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/usmnt-world-cup-belgium-loss-clint-dempsey-jozy-altidore"
-    },
-    {
-      "kind": "other",
-      "title": "It Just Means More: Boasting Big Ten's Success, Tony Pettiti Vouches For CFP Expansion",
-      "title_ja": null,
-      "excerpt": "Big Ten commissioner Tony Pettiti believes a 24-team playoff increases the prestige for college football's postseason.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:31:16 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/just-means-more-boasting-big-tens-success-tony-pettiti-vouches-cfp-expansion"
-    },
-    {
-      "kind": "injury",
-      "title": "Who Are The NFL's Highest-Paid Players at Each Position?",
-      "title_ja": null,
-      "excerpt": "Jalen Carter and Denzel Ward were the latest players to become the highest-paid stars at their respective position.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 18:03:09 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/who-nfls-highest-paid-players-each-position"
-    },
-    {
-      "kind": "trade",
-      "title": "MLB Trade Deadline Predictions For Skubal And Other Top Targets",
-      "title_ja": null,
-      "excerpt": "Let's make some predictions on where the top trade candidates will land before the Aug. 3 deadline.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 17:54:03 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-trade-deadline-predictions-skubal-miller"
     },
     {
       "kind": "other",
@@ -1412,24 +1428,8 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-kyle-shanahan-was-holding-using-cell-phone-at-time-of-accident"
     },
     {
-      "kind": "trade",
-      "title": "Matthew Stafford: We have a high ceiling, have to continue raising our floor",
-      "title_ja": null,
-      "excerpt": "The Rams were among the favorites for Super Bowl LXI before they traded for Myles Garrett in June and acquiring the defensive player of the year has only pushed expectations for the coming season higher in Los Angeles.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 28 Jul 2026 08:02:16 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-we-have-a-high-ceiling-have-to-continue-raising-our-floor"
-    },
-    {
       "kind": "other",
-      "title": "NFL training camp news, live updates: Kirk Cousins named QB1 over Fernando Mendoza; 49ers&#39; Kyle Shanahan admits fault in car crash; Eagles&#39; Jalen Carter, Browns&#39; Denzel Ward extended",
+      "title": "NFL news, live updates: Bijan Robinson, Jahmyr Gibbs sit out training camp practices, awaiting new contracts",
       "title_ja": null,
       "excerpt": "Follow along with the latest NFL news and updates as training camps around the league kick off.",
       "excerpt_ja": null,
@@ -1437,27 +1437,11 @@
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CLE",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
       "published_at": "Mon, 27 Jul 2026 17:42:55 +0000",
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-live-updates-training-camp-2026-schedule-injury-news-174255317.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Falcons sign veteran QB with Tua Tagovailoa working through injury, Michael Penix Jr. still out of team drills",
-      "title_ja": null,
-      "excerpt": "Tagovailoa is reportedly dealing with a back issue, but head coach Kevin Stefanski said he should be back \"sooner rather than later\"",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Wed, 29 Jul 2026 13:55:39 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/tua-tagovailoa-injury-update-falcons-sign-cooper-rush/"
     },
     {
       "kind": "other",
@@ -1922,6 +1906,22 @@
       "coach_name": null,
       "published_at": "\n                        Mon, 27 Jul 2026 11:37:38 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/ranking-qb-changes-by-expected-impact-kyler-murray-vikings-playoffs/"
+    },
+    {
+      "kind": "other",
+      "title": "Rams are unprecedented Super Bowl favorites, but history offers a stark warning",
+      "title_ja": null,
+      "excerpt": "The Rams have Matthew Stafford, Myles Garrett, Puka Nacua and Davante Adams, but past overwhelming Super Bowl favorites have rarely lived up to the hype",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 24 Jul 2026 12:57:57 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/rams-super-bowl-odds-nfl-history/"
     }
   ]
 }

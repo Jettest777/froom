@@ -1,21 +1,62 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T22:50:38.197882+00:00",
-  "time_of_day": "morning",
+  "generated_at": "2026-08-03T13:37:20.620446+00:00",
+  "time_of_day": "evening",
   "model": "claude-haiku-4-5-20251001",
   "skipped": false,
-  "source_item_count": 107,
+  "source_item_count": 104,
   "ranked_item_count": 25,
-  "source_fingerprint": "7b4c7f9dc79b3fe88abf0d903c528f94784c3f4b",
+  "source_fingerprint": "1dbd86840d9fecc783fbb746a47cce7dcbf5e221",
   "digest": {
-    "headline_en": "Digest generation failed",
-    "headline_ja": "ダイジェスト生成に失敗しました",
-    "lead_en": "Claude API call failed: Could not parse Claude JSON (Expecting value: line 21 column 22 (char 7008)); stop_reason=end_turn.",
-    "lead_ja": "Claude API 呼び出しに失敗しました: Could not parse Claude JSON (Expecting value: line 21 column 22 (char 7008)); stop_reason=end_turn.",
-    "body_en": "",
-    "body_ja": "",
-    "topics": [],
-    "watch_tomorrow_en": "",
-    "watch_tomorrow_ja": ""
+    "headline_en": "Training Camp Reshuffles: Defense Dominates as Contenders Shore Up Rosters",
+    "headline_ja": "トレーニングキャンプのロスター調整が加速、守備補強が各地で進行中",
+    "lead_en": "NFL rosters are taking shape as training camp enters critical weeks, with contending teams making targeted moves on both sides of the ball. From Houston's reunion with Jadeveon Clowney to Pittsburgh's safety swap and San Francisco's season-ending injury blow, Sunday's activity signals clear priorities as teams fine-tune depth charts ahead of the regular season.",
+    "lead_ja": "トレーニングキャンプが重要な段階に入り、NFLの各チームはロスター構築を加速させている。HoustonのClowney復帰、PittsburghのSeafty入れ替え、San Franciscoの重大な選手喪失など、日曜日のロスター調整から各チームの優先順位が明確に見える。",
+    "body_en": "The Houston Texans' re-acquisition of Jadeveon Clowney represents more than nostalgia—it's a calculated move to stabilize a pass rush that figures to be central to their AFC South aspirations. Clowney, who departed Houston years ago amid injury concerns, is signaling maturity and a willingness to mentor younger edge rushers. The Texans have also added defensive lineman Mario Edwards and linebacker Sione Takitaki, suggesting defensive coordinator philosophy centers on depth and versatility up front. For a team expected to compete immediately, these moves address a unit that could determine playoff seeding.\n\nMeanwhile, the Pittsburgh Steelers' decision to cut veteran safety Darnell Savage and bring in Rayshawn Jenkins signals a shift in secondary philosophy. This swap likely reflects concerns about coverage range or age—Jenkins offers a potentially cheaper, more athletic alternative. In the AFC North, secondary depth is paramount given the passing attacks the Steelers face from Baltimore and Cincinnati; roster composition in the secondary often determines whether blitzes succeed and whether underneath coverage breaks down in critical moments.\n\nThe San Francisco 49ers face a more acute crisis: Ricky Pearsall's season-ending PCL surgery strips away one of their offensive weapons at a critical juncture. Pearsall was expected to provide vertical spacing in Kyle Shanahan's scheme, and his absence forces the 49ers to lean harder on Brandon Aiyuk and established targets while Brock Purdy continues his recovery trajectory. The signing of running back Khalil Herbert and defensive lineman Titus Leo suggests San Francisco is pivoting to run-heavy football and secondary pass-rush help—a tacit acknowledgment that their passing game faces depth constraints.\n\nThe Chicago Bears' injury to Kyle Monangai—day-to-day with a soft tissue issue—comes at an awkward moment under new leadership. Ben Johnson's offense relies on multiple-back packages and lateral movement; losing snaps from Monangai early limits the team's experimental flexibility during these formative weeks. The Bears must monitor this closely, as training-camp fluidity is essential for installing new offensive terminology.\n\nAcross the league, depth signings by Dallas (Sebastian Gutierrez), Tennessee (Khalen Saunders, Laki Tasi), Detroit (Nick Muse), and Washington (Trey Hill) reflect the typical preseason shuffle—competitive depth filling rather than statement moves. Yet they underscore a universal truth: even presumed contenders are one injury away from scrambling the depth chart. Teams building Super Bowl rosters cannot rely on a single injury report; roster construction must account for cascading absences.",
+    "body_ja": "Houston TexansのJadeveon Clowney再契約は感情的な復帰ではなく、戦略的な決定だ。AFC South制覇を目指すTexansにとって、パスラッシュの安定性は不可欠であり、Clowneyは経験と若手への指導を提供する。さらにMario EdwardsとSione Takitakiの獲得も含め、Texansのディフェンシブライン戦略は層厚さと多様性を重視していることが明確である。プレーオフシーディングを左右する守備ユニットの構築に、Texansは本気で投資している。\n\nPittsburgh SteelersがDarnell Savageを放出し、Rayshawn Jenkinsを獲得した判断は、セカンダリー戦略の転換を意味する。年齢や対応範囲に対する懸念が背景にあり、Jenkinsはより若く、より運動能力に富んだ選択肢を提供する。AFC North内で、SteelsはこれからもbaltimoreとCincinnatiの高度なパッシングアタックに対峙する必要があり、セカンダリーの層厚さがブリッツ成功率と下層カバレッジの精度を決定する。\n\nSan Francisco 49ersはより深刻な問題に直面している。Ricky Pearsallの シーズン終了手術は、Kyle Shanahan's offenseにおける垂直攻撃のバリエーションを奪い去った。Brandon AiyukとBrock Purdeyに負担が集中する中で、49ersはKhalil HerbertとTitus Leoの獲得により、ランゲーム中心とセカンダリーパスラッシュ補強にシフトしている。これはオフェンスの層厚さに制限があることを暗に示唆している。\n\nChicago BearsのKyle Monangai軟部損傷は、新体制下での不運なタイミングだ。Ben Johnsonのオフェンスはマルチバックセットと横方向のムーブメントに依存しており、トレーニングキャンプ初期段階でのスナップ機会喪失は、新しいオフェンシブ用語導入の実験的柔軟性を制限する。チームは慎重に様子見する必要がある。\n\nテキサス、テネシー、デトロイト、ワシントンなどのロスター調整は、プリシーズンの定番的な深さの補充であり、声明的な動きではない。しかし、これらはユニバーサルな真実を強調している。どのチームも数名の選手喪失で深いデプスチャート調整に直面する可能性があり、Super Bowlを目指すチームはカスケード的な欠場を考慮したロスター構築が必須である。",
+    "topics": [
+      {
+        "title_en": "Clowney's Houston Return: Experience Meets Edge Rusher Depth",
+        "title_ja": "Clowneyの Texans 復帰：パスラッシュ層厚化の実現",
+        "body_en": "The Texans are signaling that pass-rush stability is non-negotiable in their AFC South blueprint. Clowney's reunion, paired with additions of Mario Edwards and Sione Takitaki, creates a versatile front seven capable of adjusting to offensive schemes. For a team built around young QB momentum, a seasoned edge presence who can mentor while producing remains invaluable.",
+        "body_ja": "Texansはパスラッシュの安定性がAFC South制覇に不可欠であることを明確にしている。Clowneyの復帰とEdwards、Takitakiの加入は、オフェンシブスキーム対応能力を備えた多様なフロントセブンを構築する。若いQBの成長を中心に据えたチームにとって、指導と本人のプロダクションを同時に提供するベテランエッジラッシャーは極めて重要だ。",
+        "team_abbrev": "HOU",
+        "importance": "high"
+      },
+      {
+        "title_en": "49ers' Pearsall Surgery: Vertical Spacing Lost in Shanahan System",
+        "title_ja": "49ersの Pearsall 手術：Shanahan offenseの垂直攻撃喪失",
+        "body_en": "Ricky Pearsall's season-ending PCL procedure is a significant blow to San Francisco's passing architecture. Kyle Shanahan's system thrives on timing routes and vertical spacing; without Pearsall, the 49ers must compress their playbook downfield, increasing reliance on Brandon Aiyuk and limiting creative concepts. The signings of Khalil Herbert and defensive depth suggest SF is pivoting toward power running while managing reduced receiving options.",
+        "body_ja": "Ricky Pearsallのシーズン終了手術はSan Franciscoのパッシングアーキテクチャにおいて重大な打撃である。Shanahan offenseはタイミングルートと垂直スペーシングに依存しており、Pearsallの喪失はダウンフィールドプレイブック圧縮を余儀なくし、Brandon Aiyukへの依存度上昇と創意的コンセプト縮小を招く。HerbertとDL補強の獲得は、パワーランニング重視への転換を示唆している。",
+        "team_abbrev": "SF",
+        "importance": "high"
+      },
+      {
+        "title_en": "Steelers Secondary Remix: Jenkins Over Savage Signals Shift",
+        "title_ja": "Steelersセカンダリー改編：Savage放出、Jenkinsの台頭",
+        "body_en": "Pittsburgh's decision to release Darnell Savage and acquire Rayshawn Jenkins reflects secondary philosophy recalibration. The move likely addresses coverage efficiency and salary-cap flexibility while positioning a younger, more athletic safety for coordinator Teryl Austin's scheme. In a division with Lamar Jackson and Joe Burrow, this safety position figures heavily into third-down execution.",
+        "body_ja": "PittsburghがDarnell Savageを放出しRayshawn Jenkinsを獲得した判断は、セカンダリー戦略の再調整を示唆している。この動きはカバレッジ効率とサラリーキャップの柔軟性に対応しつつ、Teryl Austinのスキームに適合した若く運動能力に富んだセーフティを配置する。Lamar JacksonとJoe Burrowを相手にするこの地区では、セーフティ位置がサードダウン成功率を左右する。",
+        "team_abbrev": "PIT",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Bears' Monangai Injury: Ben Johnson's Offensive Flexibility Test",
+        "title_ja": "BearsのMonangai損傷：Ben Johnson offenseの柔軟性試験",
+        "body_en": "Kyle Monangai's soft-tissue issue early in camp is untimely for a regime installing new offensive language. Ben Johnson relies on lateral-movement and multi-back packages; limited Monangai snaps restrict experimental flexibility during critical install weeks. Monitoring this closely is essential—training-camp reps are non-negotiable for scheme absorption.",
+        "body_ja": "Kyle Monangaiの軟部損傷はBen Johnsonが新しいオフェンシブシステムをインストール中の段階では最悪のタイミングだ。Johnsonはマルチバックセットと横方向ムーブメントに依存しており、Monangaiのスナップ制限は重要なインストール期間中の実験的柔軟性を制約する。トレーニングキャンプのリペティションはシステム習得に不可欠である。",
+        "team_abbrev": "CHI",
+        "importance": "medium"
+      },
+      {
+        "title_en": "League-Wide Depth Shuffle: One Injury Away from Chaos",
+        "title_ja": "全NFL的ロスター調整：一歩間違えば深刻化の危機",
+        "body_en": "Dallas, Tennessee, Detroit, and Washington all made competitive-depth signings—Sebastian Gutierrez, Khalen Saunders, Nick Muse, and Trey Hill. While not headline-grabbing, these moves reflect universal vulnerability: top-tier rosters remain fragile and dependent on cascading health. Super Bowl contenders must build depth that accounts for realistic injury scenarios, not hope.",
+        "body_ja": "Dallas、Tennessee、Detroit、Washingtonは競争的なデプス補充を行った。これらは見出しにはならないが、普遍的な脆弱性を反映している。Super Bowlを目指すチームは、希望ではなく現実的な損傷シナリオを想定した層厚さ構築が必須だ。",
+        "team_abbrev": null,
+        "importance": "low"
+      }
+    ],
+    "watch_tomorrow_en": "Monitor injury reports from HOU, SF, and CHI—depth concerns may reshape how aggressively these contenders attack Week 1.",
+    "watch_tomorrow_ja": "HOU、SF、CHIのインジュリーレポートを注視すべき。デプス問題がWeek 1への各チームのアプローチを大きく変える可能性がある。"
   }
 }

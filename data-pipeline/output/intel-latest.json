@@ -1,14 +1,238 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04T01:00:41.844486+00:00",
+  "generated_at": "2026-08-04T04:22:27.006007+00:00",
   "count": 112,
   "items": [
     {
+      "kind": "signing",
+      "title": "Green Bay Packers to re-sign McCallan Castles",
+      "title_ja": "Green Bay Packersが McCallan Castles と再契約へ",
+      "excerpt": "Castles, a tight end who the Packers released pre-draft this offseason, is coming back to Green Bay",
+      "excerpt_ja": "オフシーズンのドラフト前に Packers からリリースされていたタイトエンド Castles が Green Bay に復帰",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 03:20:28 +0000",
+      "url": "https://sports.yahoo.com/articles/green-bay-packers-sign-mccallan-032028958.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Steelers on Aaron Rodgers: &quot;Our players are entitled to their own personal views&quot;",
+      "title_ja": "Steelers、Aaron Rodgers について「選手たちは個人的な見解を持つ権利がある」",
+      "excerpt": "Monday&#39;s rollicking, grievance-airing appearance by Steelers quarterback Aaron Rodgers on The Pat McAfee Show prompted ESPN, one of the targets of Rodgers&#39;s ire, to say nothing.",
+      "excerpt_ja": "月曜日に Steelers QBの Aaron Rodgers が The Pat McAfee Show に出演し、批判を展開した。Rodgers の矛先の一つであった ESPN は何もコメントを出さなかった",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 03:03:34 +0000",
+      "url": "https://sports.yahoo.com/articles/steelers-aaron-rodgers-players-entitled-030334956.html"
+    },
+    {
+      "kind": "injury",
+      "title": "The Chicago Bears’ offensive line is coming together",
+      "title_ja": "Chicago Bears のオフェンシブラインが形になってきた",
+      "excerpt": "The Bears had to navigate some injuries up front in 2025, and yet they performed at a high level, so how confident are you in the offensive line this year?",
+      "excerpt_ja": "Bears は 2025 年オフェンスラインで複数のケガに対応してきたが、高いレベルでプレーしている。今シーズンのオフェンシブラインにどれほど自信を持っていますか",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 03:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/chicago-bears-offensive-line-coming-030000965.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Vikings Training Camp Notes: 8/3 Edition",
+      "title_ja": "Vikings トレーニングキャンプノート：8月3日版",
+      "excerpt": "Since my last training camp notes, there have been three practices- the rained out practice on Friday that was moved indoors and turned into a walk-through practice, so nothing significant to report on that one. Saturday’s practice was significant in the quarterback competition and also positive whe",
+      "excerpt_ja": "前回のキャンプノート以降、3 度の練習が行われた。金曜日の降雨で屋内に移動されたウォークスルー練習では特に報告事項はない。土曜日の練習は QB 争いで重要な場面があり、前向きな展開も",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 01:55:53 +0000",
+      "url": "https://sports.yahoo.com/articles/vikings-training-camp-notes-8-015553083.html"
+    },
+    {
+      "kind": "other",
+      "title": "Nick Foles, Clay Matthews join Netflix studio show for the Week 1 game in Australia",
+      "title_ja": "Nick Foles と Clay Matthews がオーストラリアでの第 1 週試合の Netflix スタジオ番組に参加",
+      "excerpt": "The Netflix lineup for next month&#39;s 49ers-Rams game has been finalized.",
+      "excerpt_ja": "来月の 49ers-Rams 戦に向けた Netflix 出演陣が決定した",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 01:44:29 +0000",
+      "url": "https://sports.yahoo.com/articles/nick-foles-clay-matthews-join-014429530.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Rams tight end suffers quad injury in training camp",
+      "title_ja": "Rams のタイトエンドがトレーニングキャンプで大腿四頭筋損傷",
+      "excerpt": "The Rams have their first noteworthy injury reported in training camp",
+      "excerpt_ja": "Rams がトレーニングキャンプで初の注目すべきケガを報告",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 01:42:22 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-tight-end-suffers-quad-014222286.html"
+    },
+    {
+      "kind": "other",
+      "title": "Colts Training Camp ‘Day 5’: Quick Hits",
+      "title_ja": "Colts トレーニングキャンプ「第 5 日目」：ハイライト",
+      "excerpt": "The pads came on, and some of the cream is starting to separate at Indianapolis Colts camp.",
+      "excerpt_ja": "パッド着用による本格的な練習が始まり、Indianapolis Colts キャンプでは実力者が浮かび上がってきている",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 01:34:40 +0000",
+      "url": "https://sports.yahoo.com/articles/colts-training-camp-day-5-013440941.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Buffalo Bills S Sam Franklin Jr. gets starting reps during Monday’s practice",
+      "title_ja": "Buffalo Bills の S、Sam Franklin Jr. が月曜日の練習でスターティング出場",
+      "excerpt": "The Buffalo Bills surprised many by having Sam Franklin Jr. start Monday’s practice for an injured C.J. Gardner-Johnson.",
+      "excerpt_ja": "Buffalo Bills は月曜日の練習で、ケガをしている C.J. Gardner-Johnson に代わり Sam Franklin Jr. にスターティングの出場機会を与え、注目を集めた",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 01:25:16 +0000",
+      "url": "https://sports.yahoo.com/articles/buffalo-bills-sam-franklin-jr-012516802.html"
+    },
+    {
+      "kind": "other",
+      "title": "Falcons legend Todd McClure joins franchise’s front office",
+      "title_ja": "Falcons のレジェンド Todd McClure がフランチャイズのフロント・オフィスに加わる",
+      "excerpt": "The Ring of Honor inductee and longtime Falcons center takes on a new role with the franchise.",
+      "excerpt_ja": "Ring of Honor 入選者で Falcons の長年センターを務めた Todd McClure がフランチャイズの新しい職務に就任",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ATL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 01:23:50 +0000",
+      "url": "https://sports.yahoo.com/articles/falcons-legend-todd-mcclure-joins-012350141.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Ravens sign veteran OT Kendall Lamm following Hakeem Adeniji retirement",
+      "title_ja": "Ravens が Hakeem Adeniji 引退後に OT Kendall Lamm と契約",
+      "excerpt": "The Ravens added offensive line depth on Monday after the sudden retirement of veteran swing tackle Hakeem Adeniji.",
+      "excerpt_ja": "ベテランスイング・タックル Hakeem Adeniji の突然の引退を受け、Ravens は月曜日にオフェンシブラインの層を厚くするため Kendall Lamm と契約した",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 01:21:21 +0000",
+      "url": "https://sports.yahoo.com/articles/ravens-sign-veteran-ot-kendall-012121603.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Cowboys TE Princeton Fant carted off with knee injury",
+      "title_ja": "Cowboys TE Princeton Fant、膝ケガで搬出",
+      "excerpt": "Cowboys tight end Princeton Fant was carted off from Monday&#39;s practice after an apparent left knee injury.",
+      "excerpt_ja": "Cowboys のタイトエンド Princeton Fant が月曜日の練習で左膝ケガを負い、搬出された",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 01:19:35 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-te-princeton-fant-carted-011935059.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Seahawks training camp 2026: Day 8 news, notes, and injury updates",
+      "title_ja": "Seahawks トレーニングキャンプ 2026：8 日目のニュース、ノート、ケガ情報",
+      "excerpt": "Seattle kicked off its second week of training camp on Monday, but several notable Seahawks were not healthy enough to practice.",
+      "excerpt_ja": "Seattle は月曜日に第 2 週目のトレーニングキャンプを開始したが、複数の注目選手がケガで練習に参加できなかった",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 01:16:27 +0000",
+      "url": "https://sports.yahoo.com/articles/seahawks-training-camp-2026-day-011627899.html"
+    },
+    {
+      "kind": "other",
+      "title": "Colts make roster move at CB; Work out three other players",
+      "title_ja": "Colts が CB でロスター異動、他 3 選手とトライアウト",
+      "excerpt": "The Colts made a move at cornerback, while working out three other players.",
+      "excerpt_ja": "Colts はコーナーバック部門でロスター異動を行う一方、他 3 選手とのトライアウトを実施",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 01:10:29 +0000",
+      "url": "https://sports.yahoo.com/articles/colts-roster-move-cb-three-011029929.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Rookie edge rusher tries out for Steelers",
+      "title_ja": "ルーキーのエッジラッシャーが Steelers とのトライアウトに参加",
+      "excerpt": "Terrell Tilmon played under now-Steelers outside linebackers coach C.J. Ah You.",
+      "excerpt_ja": "Terrell Tilmon は現 Steelers のアウトサイド・ラインバッカー・コーチ C.J. Ah You の下でプレーした経験がある",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 01:07:49 +0000",
+      "url": "https://sports.yahoo.com/articles/rookie-edge-rusher-tries-steelers-010749816.html"
+    },
+    {
       "kind": "injury",
       "title": "Seahawks injury news: Robbie Ouzts misses practice again",
-      "title_ja": "Seahawks傷害情報：Robbie Ouztsが再びプラクティスを欠場",
+      "title_ja": "Seahawks ケガ情報：Robbie Ouzts が再び練習欠場",
       "excerpt": "Robbie Ouzts has been absent from practice with an undisclosed injury.",
-      "excerpt_ja": "Robbie Ouztsは非公開の怪我によりプラクティスを欠席している。",
+      "excerpt_ja": "Robbie Ouzts は不特定のケガで練習から離脱している",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -20,11 +244,59 @@
       "url": "https://sports.yahoo.com/articles/seahawks-injury-news-robbie-ouzts-003744282.html"
     },
     {
+      "kind": "other",
+      "title": "Kansas City Chiefs roster",
+      "title_ja": "Kansas City Chiefs ロスター",
+      "excerpt": "The up-to-date team roster, including contract and salary cap information.",
+      "excerpt_ja": "最新のチームロスター、契約およびサラリーキャップ情報を掲載",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 00:30:19 +0000",
+      "url": "https://sports.yahoo.com/articles/kansas-city-chiefs-roster-003019778.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Bears’ $40 million signing Coby Bryant carted off field in emotional scene",
+      "title_ja": "Bears の 4,000 万ドル契約選手 Coby Bryant が感情的なシーンで搬出",
+      "excerpt": "Bryant went down after a one-on-one drill rep with tight end Cole Kmet and was emotional after being carted off the field.",
+      "excerpt_ja": "Bryant はタイトエンド Cole Kmet とのマンツーマンドリルで倒れ、搬出時に感情的になった",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 03 Aug 2026 23:54:11 +0000",
+      "url": "https://sports.yahoo.com/articles/bears-40-million-signing-coby-235411662.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Bo Nix says ankle injury won’t affect him in 2026: ‘Nothing’s holding me back’",
+      "title_ja": "Bo Nix、2026 年でのアキレス腱ケガは影響しないと言及「何も俺を止めることはできない」",
+      "excerpt": "Bo Nix is physically ready for 2026.",
+      "excerpt_ja": "Bo Nix は 2026 年シーズンに向けて身体的に準備万端",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 03 Aug 2026 23:34:46 +0000",
+      "url": "https://sports.yahoo.com/articles/bo-nix-says-ankle-injury-233446960.html"
+    },
+    {
       "kind": "signing",
       "title": "What signing Casey Rogers means for the Patriots",
-      "title_ja": "Casey Rogersの獲得がPatriotsにもたらす意味",
+      "title_ja": "Casey Rogers と契約することが Patriots に意味するもの",
       "excerpt": "The Patriots signed Rogers to their active roster on Monday.",
-      "excerpt_ja": "Patriotsは月曜日にRogersをアクティブロスターに加えた。",
+      "excerpt_ja": "Patriots は月曜日に Rogers をアクティブロスターと契約",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +310,9 @@
     {
       "kind": "other",
       "title": "Jaylen Warren: First day of practice in pads was &quot;most tame, uneventful&quot; he&#39;s seen",
-      "title_ja": "Jaylen Warren：フルコンタクト初日は「最も穏やかで波風立たない」練習だと語る",
+      "title_ja": "Jaylen Warren：パッド着用初日の練習は「最も穏やかで退屈」だったと語る",
       "excerpt": "Things are very different in Latrobe.",
-      "excerpt_ja": "Latrobeでの環境は大きく変わっている。",
+      "excerpt_ja": "Latrobe では状況が大きく変わっている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -53,10 +325,58 @@
     },
     {
       "kind": "other",
+      "title": "Overhauled Jets defense still haunted by interception-less season",
+      "title_ja": "一新された Jets のディフェンスはインターセプション 0 のシーズンに今なお悩まされている",
+      "excerpt": "The Jets made the wrong kind of history last year as the first team to go a full season with making an interception.",
+      "excerpt_ja": "Jets は昨シーズン、全 17 試合でインターセプションを 1 本も奪わなかった NFL 初の不名誉な記録を作った",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 03 Aug 2026 23:20:30 +0000",
+      "url": "https://sports.yahoo.com/articles/overhauled-jets-defense-still-haunted-232030812.html"
+    },
+    {
+      "kind": "trade",
+      "title": "2026 MLB Trade Deadline Winners and Losers: Which Teams Fared The Best?",
+      "title_ja": "2026 年 MLB トレード・デッドライン：ウィナーとルーザー。どのチームが成功したか",
+      "excerpt": "Here are the winners and losers of the 2026 MLB trade deadline. How did the Dodgers, Red Sox and Yankees fare?",
+      "excerpt_ja": "2026 年 MLB トレード・デッドラインのウィナーとルーザーを紹介。Dodgers、Red Sox、Yankees はどのような成績を収めたか",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 03 Aug 2026 23:20:11 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-trade-deadline-skubal-dodgers-yankees-red-sox-cubs-winners-losers"
+    },
+    {
+      "kind": "other",
+      "title": "New-look Raiders get blunt ‘no turds’ assessment from Klint Kubiak",
+      "title_ja": "新体制の Raiders に Klint Kubiak が率直な「つまらないプレーは許さない」という評価",
+      "excerpt": "Maxx Crosby, Klint Kubiak, Kirk CousinsKlint Kubiak is trying to build a new culture with the Las Vegas Raiders, and the first-time head coach believes the roster already possesses one...",
+      "excerpt_ja": "Klint Kubiak は Las Vegas Raiders に新しい文化を築こうとしており、初の ヘッドコーチとしてロスターにはすでにその資質があると信じている",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 03 Aug 2026 23:13:49 +0000",
+      "url": "https://sports.yahoo.com/articles/look-raiders-blunt-no-turds-231349160.html"
+    },
+    {
+      "kind": "other",
       "title": "Day 3 News and Notes from Broncos Camp",
-      "title_ja": "Broncos陣営：3日目のニュースと注目ポイント",
+      "title_ja": "Broncos キャンプ第 3 日目のニュースとノート",
       "excerpt": "News and notes from Day 3 of Broncos Camp",
-      "excerpt_ja": "Broncos陣営3日目のニュースと注目ポイント",
+      "excerpt_ja": "Broncos トレーニングキャンプ第 3 日目のニュースとノート",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +390,9 @@
     {
       "kind": "trade",
       "title": "Dexter Lawrence making instant impact at Bengals camp: &#39;Honestly, he&#39;s been terrorizing practice&#39;",
-      "title_ja": "Dexter LawrenceがBengals陣営で即座にインパクト：「正直なところ、彼はプラクティスで圧倒的だ」",
+      "title_ja": "Dexter Lawrence が Bengals キャンプで即座にインパクト：「正直なところ、彼は練習で凄い」",
       "excerpt": "A maligned Bengals defense loaded up on offseason upgrades, led by a trade for Dexter Lawrence. Offensive players say the group is more intense and competitive than Cincinnati&#39;s defense flashed last training camp.",
-      "excerpt_ja": "評判が低かったBengalsのディフェンスはオフシーズンに補強を加え、その中心がDexter Lawrenceのトレード獲得だ。オフェンスの選手たちは、このグループが昨年のトレーニング陣営のシンシナティのディフェンスよりもはるかに激しく競争的だと語っている。",
+      "excerpt_ja": "低評価だった Bengals のディフェンスは Dexter Lawrence のトレード獲得を筆頭にオフシーズンで補強し、オフェンス選手たちは前シーズンのキャンプ時より格段に激しく競争的になっていると評価",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -85,10 +405,26 @@
     },
     {
       "kind": "other",
+      "title": "Giants know they’re getting a John Harbaugh earful after penalty-filled practice: ‘Call everyone out’",
+      "title_ja": "Giants は John Harbaugh ヘッドコーチから ペナルティー漬けの練習で叱責を受ける覚悟：「全員に声をかける」",
+      "excerpt": "The patriotic row of flags lined up above the front entrance to The Greenbrier Resort was outnumbered by the penalty flags littering the nearby field.",
+      "excerpt_ja": "The Greenbrier Resort の入口上に並ぶ愛国的なフラッグラインは、近くのフィールドに散乱したペナルティーフラッグの数に圧倒された",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 03 Aug 2026 23:10:30 +0000",
+      "url": "https://sports.yahoo.com/articles/giants-know-getting-john-harbaugh-231030291.html"
+    },
+    {
+      "kind": "other",
       "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
-      "title_ja": "Patriots最新デプスチャート：現在のロスターは誰がいるのか",
+      "title_ja": "Patriots 最新デプスチャート：現在のロスターは",
       "excerpt": "An updated look at the Patriots’ roster in 2026.",
-      "excerpt_ja": "2026年のPatriotsロスターをアップデート。",
+      "excerpt_ja": "2026 年の Patriots ロスターの最新情報",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -100,11 +436,27 @@
       "url": "https://sports.yahoo.com/articles/patriots-date-depth-chart-roster-202222083.html"
     },
     {
+      "kind": "injury",
+      "title": "Steelers on Aaron Rodgers: \"Our players are entitled to their own personal views\"",
+      "title_ja": "Steelers、Aaron Rodgers について「選手たちは個人的な見解を持つ権利がある」",
+      "excerpt": "Monday's rollicking, grievance-airing appearance by Steelers quarterback Aaron Rodgers on The Pat McAfee Show prompted ESPN, one of the targets of Rodgers's ire, to say nothing.",
+      "excerpt_ja": "月曜日に Steelers QBの Aaron Rodgers が The Pat McAfee Show に出演し、批判を展開した。Rodgers の矛先の一つであった ESPN は何もコメントを出さなかった",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 03 Aug 2026 23:03:34 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-on-aaron-rodgers-there-are-a-variety-of-opinions-on-many-topics"
+    },
+    {
       "kind": "other",
       "title": "Jaguars Reacts Survey: How many takeaways will the defense have in 2026?",
-      "title_ja": "Jaguars Reacts調査：2026年のディフェンスはターンオーバーを何回奪うか",
+      "title_ja": "Jaguars リアクション調査：2026 年、ディフェンスは何個のターンオーバーを奪うか",
       "excerpt": "Does Jacksonville have the coaching and talent to overcome defensive turnover regression?",
-      "excerpt_ja": "Jacksonvilleはターンオーバーの低下に打ち勝つコーチング力とタレントを持っているか。",
+      "excerpt_ja": "Jacksonville のディフェンスはターンオーバー減少の傾向を乗り越えるコーチング力とタレントを持っているか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +470,9 @@
     {
       "kind": "other",
       "title": "Giants rookie Arvell Reese&#39;s &#39;special&#39; potential becoming impossible to ignore at training camp",
-      "title_ja": "Giants新人Arvell Reese の「特別な」ポテンシャルがトレーニング陣営で無視できなくなっている",
+      "title_ja": "Giants ルーキー Arvell Reese の「スペシャル」な才能がトレーニングキャンプで無視できないレベルに",
       "excerpt": "It is early in Giants training camp, but No. 5 overall pick Arvell Reese looks like a justified investment.",
-      "excerpt_ja": "Giants陣営はまだ初期段階だが、全体5番指名のArvell Reesesが正当な投資のように見える。",
+      "excerpt_ja": "Giants のトレーニングキャンプはまだ序盤だが、全体 5 番目指名の Arvell Reese は正当な投資に見える",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +486,9 @@
     {
       "kind": "other",
       "title": "Saints’ new guard explains why the run game is coming together early in camp",
-      "title_ja": "Saints新人ガードが陣営初期段階でランゲームが軌道に乗る理由を説明",
+      "title_ja": "Saints の新ガード、キャンプ序盤でランゲームが形になっている理由を説明",
       "excerpt": "David Edwards likes the progress New Orleans has made this offseason.",
-      "excerpt_ja": "David Edwardsはこのオフシーズンにニューオーリンズが遂行した進歩を評価している。",
+      "excerpt_ja": "David Edwards は New Orleans がオフシーズンで遂行した進捗を評価している",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -149,314 +501,122 @@
     },
     {
       "kind": "other",
-      "title": "Why is Dion Dawkins fake panicking on some reps at training camp?",
-      "title_ja": "Dion Dawkinsはなぜトレーニング陣営のいくつかのレップで演技的に動揺しているのか",
-      "excerpt": "Dion Dawkins with a smart trick up his sleeve",
-      "excerpt_ja": "Dion Dawkinsが袖に隠した賢い工夫",
+      "title": "Notre Dame-USC rivalry returns in 2030, for at least four years",
+      "title_ja": "Notre Dame-USC ライバルリーが 2030 年に復活、少なくとも 4 年間",
+      "excerpt": "One of the greatest rivalries in college football won't happen this year, exactly one century after USC and Notre Dame first played.",
+      "excerpt_ja": "大学フットボール史上最高のライバルリーの一つは今シーズン開催されず、USC と Notre Dame の初試合から正確に 1 世紀後",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 22:25:56 +0000",
-      "url": "https://sports.yahoo.com/articles/why-dion-dawkins-fake-panicking-222556833.html"
-    },
-    {
-      "kind": "other",
-      "title": "49ers fans believe we’ll see George Kittle playing before Mykel Williams",
-      "title_ja": "49ersファンはGeorge KittleがMykel Williamsよりも先にプレーすると考えている",
-      "excerpt": "Both players are PUP candidates",
-      "excerpt_ja": "両選手ともPUP候補だ。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 22:18:41 +0000",
-      "url": "https://sports.yahoo.com/articles/49ers-fans-believe-ll-see-221841702.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cowboys cornerbacks get off to a hot start at first padded practice",
-      "title_ja": "Cowboys コーナーバックがフルコンタクト初日で好調な滑り出し",
-      "excerpt": "Dallas’ cornerback group showed out on Monday afternoon.",
-      "excerpt_ja": "Dallasのコーナーバック陣は月曜午後に活躍した。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 22:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-cornerbacks-off-hot-start-220000317.html"
-    },
-    {
-      "kind": "other",
-      "title": "6 performances of note from the Patriots’ eighth training camp practice",
-      "title_ja": "Patriotsの8回目のトレーニング陣営プラクティスで注目に値した6つのパフォーマンス",
-      "excerpt": "Who caught our eye during the Patriots’ practice on Monday, for better or worse.",
-      "excerpt_ja": "月曜日のPatriotsプラクティスで、良くも悪くも目を引いた選手たちを紹介。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 21:49:51 +0000",
-      "url": "https://sports.yahoo.com/articles/6-performances-note-patriots-eighth-214951552.html"
-    },
-    {
-      "kind": "other",
-      "title": "Top 3 Position Groups The Colts Quietly Need to Produce This Year",
-      "title_ja": "Coltsが今シーズン静かに期待する上位3つのポジショングループ",
-      "excerpt": "The Colts are relying on a lot of young and unproven players to take a leap next year",
-      "excerpt_ja": "Coltsは多くの若く未知の選手が来シーズン飛躍することに頼っている。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 21:45:26 +0000",
-      "url": "https://sports.yahoo.com/articles/top-3-position-groups-colts-214526782.html"
-    },
-    {
-      "kind": "other",
-      "title": "The Year 2 bar for Raiders defensive tackle JJ Pegues",
-      "title_ja": "Raiders DT JJ Peguesの2年目への課題",
-      "excerpt": "Establishing himself as a nose tackle, consistently showcasing power and quickness key for 2025 late-round pick",
-      "excerpt_ja": "ノーズタックルとしての確立、パワーとクイックネスの継続的発揮が2025年ドラフト下位指名選手にとって2026年の鍵となる。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 21:45:00 +0000",
-      "url": "https://sports.yahoo.com/articles/2-bar-raiders-defensive-tackle-214500782.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Ravens to sign OL Kendall Lamm",
-      "title_ja": "Ravens、OL Kendall Lammを獲得",
-      "excerpt": "The Ravens lost an experienced backup offensive lineman when Hakeem Adeniji retired, but they&#39;ve found another one to take his spot on the roster.",
-      "excerpt_ja": "Hakeem Adenijiの引退によってベテランのバックアップオフェンスラインマンを失ったRavensだが、ロスターに代わりの選手を見つけた。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 21:43:24 +0000",
-      "url": "https://sports.yahoo.com/articles/ravens-sign-ol-kendall-lamm-214324415.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cardinals claim RB Evan Hull, DT Cam Horsley off waivers",
-      "title_ja": "Cardinals、RB Evan HullとDT Cam Horsleyをウェーバーで獲得",
-      "excerpt": "The Cardinals claimed two players off waivers on Monday, according to the NFL&#39;s personnel notice.",
-      "excerpt_ja": "NFLのパーソネルノーティスによると、Cardinalsは月曜日に2人の選手をウェーバーで獲得した。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 21:39:57 +0000",
-      "url": "https://sports.yahoo.com/articles/cardinals-claim-rb-evan-hull-213957037.html"
-    },
-    {
-      "kind": "other",
-      "title": "No. 5 pick Arvell Reese dominates Giants’ fifth training camp practice",
-      "title_ja": "全体5番指名のArvell Reese、Giantsの5回目のトレーニング陣営プラクティスで圧倒",
-      "excerpt": "A torrential downpour throughout the middle part of practice was also a big part of the story.",
-      "excerpt_ja": "プラクティス中盤を襲った豪雨もストーリーの大きな部分だった。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 21:33:51 +0000",
-      "url": "https://sports.yahoo.com/articles/no-5-pick-arvell-reese-213351466.html"
-    },
-    {
-      "kind": "other",
-      "title": "Bills Mafia share strong opinions about Buffalo’s current uniform options",
-      "title_ja": "Bills Mafiaがバッファローの現在のユニフォーム選択肢について強い意見を共有",
-      "excerpt": "Fans of the Buffalo Bills have plenty of opinions about the team’s best current uniforms.",
-      "excerpt_ja": "Buffalo Billsのファンはチームの現在のユニフォームについて多くの意見を持っている。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 21:29:05 +0000",
-      "url": "https://sports.yahoo.com/articles/bills-mafia-share-strong-opinions-212905222.html"
-    },
-    {
-      "kind": "other",
-      "title": "Colts teammates say Daniel Jones looks like he never got hurt",
-      "title_ja": "Colts チームメートがDaniel Jonesは怪我をしたことがないように見えると語る",
-      "excerpt": "Colts quarterback Daniel Jones is coming off a torn Achilles tendon, but you wouldn&#39;t know that from seeing him at training camp.",
-      "excerpt_ja": "アキレス腱断裂から復帰中のColts QB Daniel Jonesだが、トレーニング陣営での姿を見るとそんなことは感じさせない。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 21:24:39 +0000",
-      "url": "https://sports.yahoo.com/articles/colts-teammates-daniel-jones-looks-212439498.html"
+      "published_at": "Mon, 03 Aug 2026 22:17:43 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/notre-dame-usc-rivalry-returns-in-2030-for-at-least-four-years"
     },
     {
       "kind": "injury",
-      "title": "NFL Reacts: Balancing play time in the preseason",
-      "title_ja": "NFLリアクション：プレシーズンでのプレータイムのバランス",
-      "excerpt": "Injuries are inevitable, but how far would you go to keep players healthy in the preaseason?",
-      "excerpt_ja": "怪我は避けられないものだが、プレシーズンで選手を健康に保つためにどこまで踏み込むのか。",
+      "title": "NFL Catchup: Bears Down Key Defensive Player; A.J. Brown Shines Through Injury",
+      "title_ja": "NFL キャッチアップ：Bears 重要ディフェンス選手を欠場、A.J. Brown ケガを押して活躍",
+      "excerpt": "Stay updated on the latest NFL training camp news, including Coby Bryant’s injury timeline, A.J. Brown playing through a dislocated thumb, running back hold-ins, and more.",
+      "excerpt_ja": "Coby Bryant のケガ復帰予定から A.J. Brown の脱臼指でのプレー継行、RB のホールドインなど、最新 NFL トレーニングキャンプ情報をお届け",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 21:15:02 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-reacts-balancing-play-time-211502674.html"
+      "published_at": "Mon, 03 Aug 2026 22:02:30 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-bears-down-key-defensive-player-a-j-brown-shines-through-injury"
     },
     {
       "kind": "other",
-      "title": "Caleb Downs announced himself on Monday",
-      "title_ja": "Caleb Downsが月曜日に自らの存在をアピール",
-      "excerpt": "Caleb Downs announced himself during Monday’s padded practice",
-      "excerpt_ja": "Caleb Downsが月曜日のフルコンタクトプラクティスで自らの存在をアピールした。",
+      "title": "Nick Foles, Clay Matthews join Netflix studio show for the Week 1 game in Australia",
+      "title_ja": "Nick Foles と Clay Matthews がオーストラリアでの第 1 週試合の Netflix スタジオ番組に参加",
+      "excerpt": "The Netflix lineup for next month's 49ers-Rams game has been finalized.",
+      "excerpt_ja": "来月の 49ers-Rams 戦に向けた Netflix 出演陣が決定した",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 21:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/caleb-downs-announced-himself-monday-210000980.html"
-    },
-    {
-      "kind": "other",
-      "title": "Giants training camp, practice No. 5: Discussion, news, updates",
-      "title_ja": "Giants陣営5回目のプラクティス：ディスカッション、ニュース、アップデート",
-      "excerpt": "The Giants will be in full pads for the first time on Monday.",
-      "excerpt_ja": "Giantsは月曜日に初めてフルコンタクトで臨む。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 20:58:32 +0000",
-      "url": "https://sports.yahoo.com/articles/giants-training-camp-practice-no-130000704.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Report: Mike Evans quad injury &quot;could get resolved relatively quickly&quot;",
-      "title_ja": "リポート：Mike Evansの大腿四頭筋損傷は「比較的早く解決する可能性がある」",
-      "excerpt": "The 49ers receiving corps has been hit by several injuries early on in camp, but one veteran may be back on the field sooner rather than later.",
-      "excerpt_ja": "49ersのレシーバーコープは陣営序盤から複数の怪我に見舞われているが、ベテランの一人は思ったより早くフィールドに戻るかもしれない。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 20:50:01 +0000",
-      "url": "https://sports.yahoo.com/articles/report-mike-evans-quad-injury-205001677.html"
-    },
-    {
-      "kind": "other",
-      "title": "Davante Adams is grateful for Rams practices",
-      "title_ja": "Davante AdamsがRamsのプラクティスに感謝",
-      "excerpt": "Rams’ Coach McVay explains Myles Garrett’s being held out of practice",
-      "excerpt_ja": "Rams HC McVayがMyles Garrettがプラクティスをサットアウトしている理由を説明",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
+      "reliability": 0.54,
       "team_abbrev": "LAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 20:47:15 +0000",
-      "url": "https://sports.yahoo.com/articles/davante-adams-grateful-rams-practices-204715469.html"
+      "published_at": "Mon, 03 Aug 2026 21:44:29 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-foles-clay-matthews-join-netflix-studio-show-for-the-week-1-game-in-australia"
+    },
+    {
+      "kind": "signing",
+      "title": "'He Will Be A Better Coach': What Are Poch's Expectations For 2030 World Cup?",
+      "title_ja": "「彼はより良いコーチになる」：Pochettino の 2030 ワールドカップに対する期待は",
+      "excerpt": "Alexi Lalas reacts to Mauricio Pochettino’s contract extension with the U.S. men's national team and outlines expectations for the 2030 cycle.",
+      "excerpt_ja": "Alexi Lalas が U.S. メンズ・ナショナルチームの Mauricio Pochettino との契約延長に反応し、2030 サイクルの期待を述べる",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 03 Aug 2026 21:39:01 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/alexi-lalas-shares-expectations-mauricio-pochettino-after-contract-extension"
+    },
+    {
+      "kind": "rumor",
+      "title": "Greg Olsen could be the eventual successor to Tony Romo",
+      "title_ja": "Greg Olsen は Tony Romo の後継者になる可能性がある",
+      "excerpt": "Olsen can exit Fox contract for No. 1 spot elsewhere.",
+      "excerpt_ja": "Olsen は Fox 契約から出る可能性があり、他局でナンバーワン職を狙える",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 03 Aug 2026 21:31:34 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/greg-olsen-could-be-the-eventual-successor-to-tony-romo"
+    },
+    {
+      "kind": "injury",
+      "title": "Cowboys TE Princeton Fant carted off with knee injury",
+      "title_ja": "Cowboys TE Princeton Fant、膝ケガで搬出",
+      "excerpt": "Cowboys tight end Princeton Fant was carted off from Monday's practice after an apparent left knee injury.",
+      "excerpt_ja": "Cowboys のタイトエンド Princeton Fant が月曜日の練習で左膝ケガを負い、搬出された",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 03 Aug 2026 21:19:35 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-te-princeton-fant-carted-off-with-knee-injury"
     },
     {
       "kind": "other",
-      "title": "Sean Payton: No hurry with Taysom Hill, I&#39;ll see him in Canton this week",
-      "title_ja": "Sean Payton：Taysom Hillに急ぐことはない、今週Cantonで彼に会うだろう",
-      "excerpt": "Broncos head coach Sean Payton will be in Canton, Ohio this week to take part in Drew Brees&#39;s induction into the Pro Football Hall of Fame and he&#39;ll also do a little work on a possible addition to his roster.",
-      "excerpt_ja": "Broncos HC Sean Paytonは今週オハイオ州Cantonで Drew Breesのプロフットボール殿堂入り式典に参加し、その一方でロスター補強の可能性についても検討する予定だ。",
+      "title": "Leagues Cup Returns: What To Know, Predictions For MLS-Liga MX Tournament",
+      "title_ja": "Leagues Cup 復活：知っておくべきこと、MLS-Liga MX トーナメント予測",
+      "excerpt": "The summer of soccer continues. Here's what to know about the annual MLS vs. Liga MX competition.",
+      "excerpt_ja": "サッカーの夏が続く。毎年開催される MLS 対 Liga MX の競技について知っておくべきこと",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DEN",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 20:47:03 +0000",
-      "url": "https://sports.yahoo.com/articles/sean-payton-no-hurry-taysom-204703651.html"
-    },
-    {
-      "kind": "other",
-      "title": "Monday Musings: The most impressive player at Chiefs camp so far",
-      "title_ja": "月曜日の所感：Chiefs陣営でこれまでで最も印象的な選手は誰か",
-      "excerpt": "Who has stood out the most from coverage of Kansas City Chiefs training camp so far?",
-      "excerpt_ja": "Kansas City Chiefs陣営の報道の中でこれまで最も目立った選手は誰か。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 20:45:00 +0000",
-      "url": "https://sports.yahoo.com/articles/monday-musings-most-impressive-player-204500650.html"
-    },
-    {
-      "kind": "other",
-      "title": "Steelers QB Aaron Rodger rips Dianna Russini after Mike Vrabel scandal",
-      "title_ja": "Steelers QB Aaron Rodgers、Mike Vrabelスキャンダル後にDianna Russianiを叱責",
-      "excerpt": "Steelers QB Aaron Rodgers ripped into Dianna Russini on The Pat McAfee Show.",
-      "excerpt_ja": "Steelers QB Aaron RodgersはThe Pat McAfee Showでカメラマンのディアンナ・ルッシーニを激しく批判した。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PIT",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 20:44:30 +0000",
-      "url": "https://sports.yahoo.com/articles/steelers-qb-aaron-rodger-rips-204430068.html"
+      "published_at": "Mon, 03 Aug 2026 21:19:14 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/leagues-cup-mls-liga-mx-messi-2026"
     },
     {
       "kind": "other",
       "title": "2026 NFL Preseason Odds: Bettors Backing 'Dog Cardinals In HOF Game",
-      "title_ja": "2026年NFLプレシーズンオッズ：ベッターがHOFゲームで負け惜しみのCardinalを推す",
+      "title_ja": "2026 年 NFL プリシーズン オッズ：ベッターが Hall of Fame ゲームで下克上 Cardinals を支持",
       "excerpt": "NFL preseason kicks off this Thursday with the Hall of Fame Game, and bettors are backing the underdog to come out on top.",
-      "excerpt_ja": "木曜日に殿堂入り式典ゲームで開幕するNFLプレシーズンで、ベッターはアンダードッグのCardinalが勝ち上がると考えている。",
+      "excerpt_ja": "木曜日に Hall of Fame ゲームで開幕するプリシーズンで、ベッターは下馬評を覆す可能性に賭けている",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -470,9 +630,9 @@
     {
       "kind": "rumor",
       "title": "Jerry Jones would be \"open to\" selling a minority share of Cowboys to Mark Cuban",
-      "title_ja": "Jerry JonesがMark CubanとのCowboys少数株式売却に「前向き」である可能性",
+      "title_ja": "かつて「豚は太る、ブタは屠られる」と NFL に警告した人物が、その肉食にありつこうと考えているかもしれない",
       "excerpt": "The man who once warned the NFL that \"pigs get fat, hogs get slaughtered\" could be looking for a spot at the trough.",
-      "excerpt_ja": "かつてNFLに「豚は太り、ブタは殺される」と警告した男が、利益に与ることを探しているのかもしれない。",
+      "excerpt_ja": "Jerry Jones は Mark Cuban への Cowboys の少数株式売却に「前向き」",
       "sources": [
         "Pro Football Talk"
       ],
@@ -486,9 +646,9 @@
     {
       "kind": "rumor",
       "title": "Big Bets Report: Bettor Wagers $400k On Texas To Win Just $4k",
-      "title_ja": "ビッグベッツレポート：ベッターがTexasの優勝に40万ドルを賭けて4,000ドルしか獲得しない",
+      "title_ja": null,
       "excerpt": "Also, one bettor hit a six-figure jackpot after wagering 25 bucks on the Rocket Classic. Patrick Everson reports.",
-      "excerpt_ja": "また、あるベッターはRocket Classicに25ドル賭けて6図のジャックポットを引き当てた。Patrick Eversonが報告。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -502,9 +662,9 @@
     {
       "kind": "other",
       "title": "Los Angeles FC Co-Owner Larry Berg Appointed As Next MLS Commissioner",
-      "title_ja": "Los Angeles FC共同オーナーLarry Berg、次期MLSコミッショナーに就任",
+      "title_ja": null,
       "excerpt": "Los Angeles FC co-owner Larry Berg will be the next commissioner of the MLS, succeeding Don Garber.",
-      "excerpt_ja": "Los Angeles FC共同オーナーのLarry BergがDon Garberの後任としてMLSの次期コミッショナーに就任する。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -516,27 +676,11 @@
       "url": "https://www.foxsports.com/stories/soccer/soccer-los-angeles-fc-coowner-larry-berg-will-be-the-next-commissioner-of-the-mls-succeeding-don-garber"
     },
     {
-      "kind": "other",
-      "title": "Steelers training camp: Young cornerback shines, Drew Allar makes another big throw",
-      "title_ja": "Steelers陣営：若きコーナーバックが光る、Drew Allarが再び大きなスロー",
-      "excerpt": "Drew Allar makes another big-time throw, young cornerback shines at Steelers training camp",
-      "excerpt_ja": "Drew Allarが再び大きなスローを決める、若きコーナーバックがSteelers陣営で光った。",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PIT",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 20:30:14 +0000",
-      "url": "https://sports.yahoo.com/articles/steelers-training-camp-young-cornerback-203014328.html"
-    },
-    {
       "kind": "trade",
       "title": "MLB Trade Deadline Grades: Which Big-Time Deals Will Change The Playoff Picture?",
-      "title_ja": "MLBトレードデッドライン評価：どのビッグディールがプレーオフの構図を変えるか",
+      "title_ja": null,
       "excerpt": "It was a flurry of deals on MLB trade deadline day. Here's our grades for the biggest and best trades,",
-      "excerpt_ja": "MLBトレードデッドラインは大型トレードで賑わった。最大規模のトレードに対する評価を紹介する。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -550,9 +694,9 @@
     {
       "kind": "rumor",
       "title": "Todd Monken: Dillon Gabriel is earning more reps",
-      "title_ja": "Todd Monken：Dillon Gabrielはより多くのレップを獲得している",
+      "title_ja": null,
       "excerpt": "In the Cleveland quarterback competition between Shedeur Sanders and Deshaun Watson, there could be a third candidate creeping up on the outside.",
-      "excerpt_ja": "Shedeur SandersとDeshaun Watsonの間でのCleveland QBの競争に、外からじわじわと近づいている第3の候補がいるかもしれない。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -566,9 +710,9 @@
     {
       "kind": "other",
       "title": "Cardinals DT Walter Nolen is healthy and motivated",
-      "title_ja": "Cardinals DT Walter Nolenは健康で高いモチベーション",
+      "title_ja": null,
       "excerpt": "The Cardinals drafted defensive tackle Walter Nolen with the 16th overall pick in 2025.",
-      "excerpt_ja": "Cardinalsは2025年ドラフト全体16番指名でディフェンスタックル Walter Nolenを選んだ。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -582,9 +726,9 @@
     {
       "kind": "other",
       "title": "Jaylen Warren: First day of practice in pads was \"most tame, uneventful\" he's seen",
-      "title_ja": "Jaylen Warren：フルコンタクト初日は「最も穏やかで波風立たない」練習だと語る",
+      "title_ja": null,
       "excerpt": "Things are very different in Latrobe.",
-      "excerpt_ja": "Latrobeでの環境は大きく変わっている。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -598,9 +742,9 @@
     {
       "kind": "injury",
       "title": "Rams TE Davis Allen to miss \"some time\" with quad injury",
-      "title_ja": "Rams TE Davis Allen、大腿四頭筋損傷で「しばらく」出場停止",
+      "title_ja": null,
       "excerpt": "The Rams are going to be short a tight end for a little while.",
-      "excerpt_ja": "Ramsはしばらくの間、タイトエンドの戦力が欠ける。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -614,9 +758,9 @@
     {
       "kind": "other",
       "title": "ESPN has no comment on Aaron Rodgers's comments on ESPN, about ESPN",
-      "title_ja": "ESPNはAaron RodgersのESPNについてのESPN上でのコメントについてノーコメント",
+      "title_ja": null,
       "excerpt": "On Monday, Aaron Rodgers had some strong things to say about ESPN.",
-      "excerpt_ja": "月曜日、Aaron RodgersはESPNについて強い発言をした。",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -630,9 +774,9 @@
     {
       "kind": "trade",
       "title": "2026 World Series Odds: Dodgers Heavily Favored After MLB Trade Deadline",
-      "title_ja": "2026年ワールドシリーズオッズ：MLBトレードデッドライン後、Dodgersが大きく優勢",
+      "title_ja": null,
       "excerpt": "Check out the latest World Series odds after the conclusion of the MLB trade deadline.",
-      "excerpt_ja": "MLBトレードデッドラインの終了後の最新のワールドシリーズオッズを確認しよう。",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -700,7 +844,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "BAL",
       "player_name": null,
       "coach_name": null,
@@ -716,7 +860,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "ARI",
       "player_name": null,
       "coach_name": null,
@@ -732,7 +876,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "IND",
       "player_name": null,
       "coach_name": null,
@@ -1124,38 +1268,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-says-he-dislocated-his-thumb-in-practice-but-you-keep-going"
     },
     {
-      "kind": "trade",
-      "title": "Kalshi Promo Code FOXSPORTS: Get up to a $500 Bonus When Trading on the MLB Trade Deadline This Monday",
-      "title_ja": null,
-      "excerpt": "Kalshi Promo Code FOXSPORTS: Get up to a $500 Bonus When Trading on the MLB Trade Deadline This Monday.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 14:22:24 -0400",
-      "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code-foxsports-get-up-500-bonus-when-trading-mlb-trade-deadline-monday"
-    },
-    {
-      "kind": "other",
-      "title": "What To Make Of Padless Practices? 7 Takeaways From 1st Week Of Training Camp",
-      "title_ja": null,
-      "excerpt": "What has stood out in the first week of training camp? Here are seven things we've learned.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 14:17:32 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/what-make-padless-practices-7-takeaways-from-1st-week-training-camp"
-    },
-    {
       "kind": "signing",
       "title": "Players who practice during contract talks are taking a calculated risk",
       "title_ja": null,
@@ -1186,118 +1298,6 @@
       "coach_name": null,
       "published_at": "Mon, 03 Aug 2026 14:15:40 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-evp-brandt-tilis-bryce-youngs-ceiling-is-unknown-thats-exciting-for-us"
-    },
-    {
-      "kind": "trade",
-      "title": "Padres Reportedly Acquire Robbie Ray From Giants",
-      "title_ja": null,
-      "excerpt": "The San Francisco Giants have traded starting pitcher Robbie Ray.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 14:04:14 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/padres-robbie-ray-mlb-trade-deadline-giants"
-    },
-    {
-      "kind": "signing",
-      "title": "DT Moro Ojomo has had contract talks with Eagles",
-      "title_ja": null,
-      "excerpt": "The Eagles signed Jalen Carter to a contract extension last month and there have been talks with another member of the defensive line as well.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 14:01:15 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dt-moro-ojomo-has-had-contract-talks-with-eagles"
-    },
-    {
-      "kind": "signing",
-      "title": "Mike Evans out of 49ers practice with a quad strain",
-      "title_ja": null,
-      "excerpt": "Another 49ers wide receiver is dealing with an injury.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 13:48:52 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-evans-out-of-49ers-practice-with-a-quad-strain"
-    },
-    {
-      "kind": "injury",
-      "title": "Notre Dame and USC Resume Football Rivalry With 4-Game Series Starting 2030",
-      "title_ja": null,
-      "excerpt": "Notre Dame and USC have announced that their college football rivalry will resume in 2030.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 13:43:21 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/notre-dame-and-usc-agree-to-resume-football-rivalry-with-a-4game-series-starting-in-2030"
-    },
-    {
-      "kind": "signing",
-      "title": "Klint Kubiak: \"We don't have any turds\"",
-      "title_ja": null,
-      "excerpt": "The Raiders have cycled through several head coaches in recent years, with Josh McDaniels, Antonio Pierce, and Pete Carroll all having the full-time role since Jon Gruden resigned midway through the 2021 season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 13:13:58 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-we-dont-have-any-turds"
-    },
-    {
-      "kind": "other",
-      "title": "Kenny Pickett to start Hall of Fame Game for Panthers",
-      "title_ja": null,
-      "excerpt": "There will be football played on Thursday night, but don’t expect to see most of Carolina’s key players.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 12:38:59 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenny-pickett-to-start-hall-of-fame-game-for-panthers"
-    },
-    {
-      "kind": "other",
-      "title": "Broncos have \"frustration\" with slow process of getting new stadium built",
-      "title_ja": null,
-      "excerpt": "Several teams are building and/or trying to build new stadiums.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 03 Aug 2026 12:33:10 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-have-frustration-with-slow-process-of-getting-new-stadium-built"
     },
     {
       "kind": "injury",

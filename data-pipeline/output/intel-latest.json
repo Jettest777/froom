@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-08-07T01:28:27.778175+00:00",
+  "generated_at": "2026-08-07T03:30:30.105087+00:00",
   "count": 109,
   "items": [
     {
       "kind": "rumor",
       "title": "Sean McVay on Aaron Donald's tryout: I think he could make the team",
-      "title_ja": null,
+      "title_ja": "Sean McVay、Aaron Donaldのトライアウトについて語る：「彼はこのチームにいられると思う」",
       "excerpt": "Aaron Donald did not intend to create more comeback speculation, but the defensive tackle did just that.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Aaron Donaldが現役復帰の憶測をあえて生み出すつもりはなかったが、このDTはまさにそれを実現させてしまった。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -22,9 +22,9 @@
     {
       "kind": "other",
       "title": "Cardinals vs. Panthers: 2026 Hall of Fame Game discussion",
-      "title_ja": null,
+      "title_ja": "Cardinals vs. Panthers：2026 Hall of Fame Gameについて",
       "excerpt": "Talk about the Cardinals vs. Panthers with your friends at Revenge of the Birds.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Revenge of the Birdsで友人たちとCardinals vs. Pantherについて語り合おう。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +38,9 @@
     {
       "kind": "other",
       "title": "Cornerback Dru Phillips has ‘mild’ knee sprain",
-      "title_ja": null,
+      "title_ja": "コーナーバック Dru Phillipsが「軽度」の膝捻挫",
       "excerpt": "Cornerback Dru Phillips has “mild” knee sprain.",
-      "excerpt_ja": null,
+      "excerpt_ja": "コーナーバック Dru Phillipsが「軽度」の膝捻挫を負った。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +54,9 @@
     {
       "kind": "other",
       "title": "Cobie Durant has made an outstanding first impression in Dallas",
-      "title_ja": null,
+      "title_ja": "Cobie DurantはDallasで素晴らしいスタートを切った",
       "excerpt": "Cobie Durant has had an amazing start to his Cowboys career.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Cobie DurantはCowboysでの素晴らしいキャリアのスタートを築いている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +70,9 @@
     {
       "kind": "injury",
       "title": "Cowboys rookie LB Jaishawn Barham has a groin injury",
-      "title_ja": null,
+      "title_ja": "Cowboys新人LB Jaishawn Barhamが股関節損傷",
       "excerpt": "Cowboys rookie linebacker Jaishawn Barham left Thursday&#39;s practice early.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Cowboys新人ラインバッカー Jaishawn Barhamは木曜日の練習を途中で切り上げた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -85,10 +85,58 @@
     },
     {
       "kind": "other",
-      "title": "2026 NFL Hall of Fame Game: Who&#39;s playing, live updates, more as Panthers and Cardinals face off in preseason opener",
-      "title_ja": null,
-      "excerpt": "The Panthers and Cardinals will open up the preseason in the 2026 Hall of Fame Game.",
-      "excerpt_ja": null,
+      "title": "Haynes King leads Panthers to 33-30 win on final play of Hall of Fame Game",
+      "title_ja": "Haynes King、Hall of Fame Game最終プレーでPanthersを33-30で勝利に導く",
+      "excerpt": "Haynes King wasn't drafted despite being the ACC Player of the Year last season.",
+      "excerpt_ja": "Haynes Kingは昨シーズンのACC Player of the Yearだったにもかかわらずドラフト指名されなかった。",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 06 Aug 2026 23:14:59 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/haynes-king-leads-panthers-to-33-30-win-on-final-play-of-hall-of-fame-game"
+    },
+    {
+      "kind": "signing",
+      "title": "NFL Catchup: Hall Of Fame Game Brings The Juice; More Record RB Extensions",
+      "title_ja": "NFLキャッチアップ：Hall of Fame Gameが熱い試合を見せる；さらにRB契約拡張が新記録更新",
+      "excerpt": "We got a real taste of football on Thursday.",
+      "excerpt_ja": "木曜日は本物のフットボールが見られた。",
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 06 Aug 2026 23:10:33 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-hall-fame-game-brings-juice-more-record-rb-extensions"
+    },
+    {
+      "kind": "signing",
+      "title": "Jahmyr Gibbs signs $67.5 million Lions extension to become highest-paid running back in NFL history",
+      "title_ja": "Jahmyr Gibbs、Lions契約拡張で675万ドルに合意、NFLの最高年俸RBとなる",
+      "excerpt": "Jahmyr Gibbs agreed to a three-year, $67.5 million contract extension with the Lions, making him the highest-paid running back in NFL history.",
+      "excerpt_ja": "Jahmyr Gibbsは3年総675万ドルの契約拡張をLionsと合意し、NFL史上最高年俸のランニングバックとなった。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 06 Aug 2026 23:06:12 +0000",
+      "url": "https://sports.yahoo.com/articles/jahmyr-gibbs-signs-67-5-230612604.html"
+    },
+    {
+      "kind": "other",
+      "title": "2026 NFL Hall of Fame Game: Haynes King steals rookie spotlight from Carson Beck, leading Panthers to 33-30 win over Cardinals",
+      "title_ja": "2026 NFL Hall of Fame Game：Haynes KingがCarson Beckから新人の脚光を奪い、Panthers が Cardinals を33-30で撃破",
+      "excerpt": "Rookie quarterbacks Carson Beck and Haynes King shined in the 2026 NFL preseason opener, with King getting the chance for the last-second heroics.",
+      "excerpt_ja": "新人QBのCarson BeckとHaynes Kingは2026年NFLプリシーズンオープナーで活躍し、Kingが最終プレーの劇的な逆転のチャンスを手にした。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -97,14 +145,14 @@
       "player_name": null,
       "coach_name": null,
       "published_at": "Thu, 06 Aug 2026 23:00:00 +0000",
-      "url": "https://sports.yahoo.com/nfl/live/2026-nfl-hall-of-fame-game-whos-playing-live-updates-more-as-panthers-and-cardinals-face-off-in-preseason-opener-230000800.html"
+      "url": "https://sports.yahoo.com/nfl/live/2026-nfl-hall-of-fame-game-haynes-king-steals-rookie-spotlight-from-carson-beck-leading-panthers-to-33-30-win-over-cardinals-230000800.html"
     },
     {
       "kind": "other",
       "title": "Cleveland Browns defender lands at No. 35 on NFL’s Top 100 list",
-      "title_ja": null,
+      "title_ja": "Cleveland BrownsのディフェンダーがNFL Top 100で35位にランク",
       "excerpt": "Jared Verse may not be Myles Garrett, but he may still be good enough judging from how his peers see him.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Jared VersはMyles Garrettではないかもしれないが、同僚たちの見方を見ると十分な実力がありそうだ。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +166,9 @@
     {
       "kind": "other",
       "title": "Falcons Secondary Loaded with Talent, According to Top 99 Defensive Player Rankings",
-      "title_ja": null,
+      "title_ja": "Top 99 Defensive Player ランキングによると、Falconsのセカンダリーはタレント豊富",
       "excerpt": "Atlanta’s secondary is getting recognition ahead of a pivotal season.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Atlantaのセカンダリーは重要なシーズンを控えて注目を集めている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +182,9 @@
     {
       "kind": "signing",
       "title": "Jaguars sign LB Jahlani Tavai",
-      "title_ja": null,
+      "title_ja": "JaguarsがLB Jahlani Tavaiと契約",
       "excerpt": "The Jaguars signed linebacker Jahlani Tavai, the team announced Thursday.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Jaguarsはラインバッカー Jahlani Tavaiとの契約を木曜日に発表した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +198,9 @@
     {
       "kind": "other",
       "title": "Cowboys claim TE Zack Kuntz off waivers",
-      "title_ja": null,
+      "title_ja": "CowboysがTE Zack Kuntzをウェーバーで獲得",
       "excerpt": "The Cowboys have a new tight end.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Cowboysが新しいタイトエンドを獲得した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +214,9 @@
     {
       "kind": "other",
       "title": "5 performances of note from the Patriots’ 11th training camp practice",
-      "title_ja": null,
+      "title_ja": "Patriotsの11日目の練習から注目の5つのプレー",
       "excerpt": "Who caught our eye during the Patriots’ practice on Thursday, for better or worse.",
-      "excerpt_ja": null,
+      "excerpt_ja": "木曜日のPatriots練習で目立った選手たちを振り返る。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -181,10 +229,42 @@
     },
     {
       "kind": "other",
+      "title": "How Cardinals&#39; Carson Beck fared vs. Panthers in Hall of Fame game",
+      "title_ja": "Cardinals のCarson BeckがPanthersとのHall of Fame Gameで見せたプレー",
+      "excerpt": "Arizona Cardinals rookie Carson Beck started vs. the Carolina Panthers Thursday in the 2026 NFL Hall of Fame Game. Here&#39;s how he fared.",
+      "excerpt_ja": "Arizona Cardinalsの新人QB Carson Beckは木曜日の2026 NFL Hall of Fame Gameでなarolina Pantherと対戦した。その成績を見てみよう。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 06 Aug 2026 22:52:13 +0000",
+      "url": "https://sports.yahoo.com/articles/cardinals-carson-beck-fared-vs-225213100.html"
+    },
+    {
+      "kind": "other",
+      "title": "How Cardinals&#39; Carson Beck fared vs. Panthers in Hall of Fame game",
+      "title_ja": "Cardinals のCarson BeckがPanthersとのHall of Fame Gameで見せたプレー",
+      "excerpt": "Arizona Cardinals rookie Carson Beck started vs. the Carolina Panthers Thursday in the 2026 NFL Hall of Fame Game. Here&#39;s how he fared.",
+      "excerpt_ja": "Arizona Cardinalsの新人QB Carson Beckは木曜日の2026 NFL Hall of Fame GameでCarolina Pantherと対戦した。その成績を見てみよう。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 06 Aug 2026 22:52:13 +0000",
+      "url": "https://sports.yahoo.com/articles/cardinals-carson-beck-fared-vs-225213085.html"
+    },
+    {
+      "kind": "other",
       "title": "Day 6 News and Notes from Broncos Camp",
-      "title_ja": null,
+      "title_ja": "Broncos キャンプ6日目のニュースと注目",
       "excerpt": "Day 6 of Denver Broncos training camp is in the books, and it was a less physical practice than the ones they have had in previous days. That was mostly due to them being out of pads, after three straight padded practices, and in shells. The pads go back on likely Saturday when they have […]",
-      "excerpt_ja": null,
+      "excerpt_ja": "Denver Broncos トレーニングキャンプの6日目が終了した。この日は前日までの連続パッド練習とは異なり、比較的コンタクトが少ない内容となった。シェル着用での練習だったためで、パッドは土曜日に戻る予定だ。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -197,106 +277,10 @@
     },
     {
       "kind": "other",
-      "title": "Seahawks rookie vocal about disliking the Rams",
-      "title_ja": null,
-      "excerpt": "Seattle safety Bud Clark is still deciding if he hates Rams more than 49ers",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:31:31 +0000",
-      "url": "https://sports.yahoo.com/articles/seahawks-rookie-vocal-disliking-rams-223131045.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Steelers stock report after Day Seven of training camp",
-      "title_ja": null,
-      "excerpt": "Steelers stock report after Day Seven of training camp practice.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PIT",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/steelers-stock-report-day-seven-223000636.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Bad Bunny continues NFL run on Madden 27 Soundtrack with Ozzy, Good Charlotte",
-      "title_ja": null,
-      "excerpt": "Bad Bunny continues his NFL run on the Madden NFL 27 Soundtrack. The 80-song tracklist also includes Good Charlotte making their Madden return.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:19:21 +0000",
-      "url": "https://sports.yahoo.com/articles/bad-bunny-continues-nfl-run-221921277.html"
-    },
-    {
-      "kind": "injury",
-      "title": "NFL Hall Of Fame Game Lineup Updates: Who’s In, Who’s Out For Panthers vs Cardinals",
-      "title_ja": null,
-      "excerpt": "We&#39;re looking at Panthers vs. Cardinals lineup news, starting QB updates, active players, and roster depth ahead of tonight&#39;s NFL Hall of Fame Game.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:18:00 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-hall-fame-game-lineup-154700127.html"
-    },
-    {
-      "kind": "other",
-      "title": "Want to Wager on Hall of Fame Game Player Props Tonight? Kalshi is Your Best Option!",
-      "title_ja": null,
-      "excerpt": "Want to target NFL player props for tonight&#39;s Hall of Fame Game between the Panthers vs. Cardinals? Kalshi is the only place to get them!",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:16:00 +0000",
-      "url": "https://sports.yahoo.com/articles/hall-fame-game-player-props-181300463.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Bijan Robinson, Jonathan Taylor, Jahmyr Gibbs deals continue to show that elite RBs are good values",
-      "title_ja": null,
-      "excerpt": "A trio of star backs signed market-setting deals this week.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:15:45 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/bijan-robinson-jonathan-taylor-jahmyr-gibbs-deals-continue-to-show-that-elite-rbs-are-good-values-221545390.html"
-    },
-    {
-      "kind": "injury",
-      "title": "49ers rookie back at practice after setback, while LG battle continues",
-      "title_ja": null,
-      "excerpt": "The Niners got some positive news on the injury front after a brutal week.",
-      "excerpt_ja": null,
+      "title": "Christian McCaffrey’s model wife Olivia shows off baby bump during 49ers training camp",
+      "title_ja": "Christian McCaffreyの妻Oliviaが49ersトレーニングキャンプ中に妊娠中の身体を披露",
+      "excerpt": "San Francisco 49ers star running back Christian McCaffrey&#39;s wife, Olivia Culpo, provided a pregnancy update on social media.",
+      "excerpt_ja": "San Francisco 49ersのスター RB Christian McCaffreyの妻Olivia Culpoが、SNSで妊娠の近況報告をした。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -304,95 +288,47 @@
       "team_abbrev": "SF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:15:00 +0000",
-      "url": "https://sports.yahoo.com/articles/49ers-rookie-back-practice-setback-221500940.html"
+      "published_at": "Thu, 06 Aug 2026 22:42:23 +0000",
+      "url": "https://www.yahoo.com/entertainment/celebrity/articles/christian-mccaffrey-model-wife-olivia-224223139.html"
     },
     {
       "kind": "other",
-      "title": "NFL suspends Saints WR Brock Rechsteiner for the first six games",
-      "title_ja": null,
-      "excerpt": "The NFL has suspended Saints wide receiver Brock Rechsteiner for the first six games of the 2026 season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:11:55 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-suspends-saints-wr-brock-221155913.html"
-    },
-    {
-      "kind": "other",
-      "title": "Anytime Touchdown Scorer Panthers vs Cardinals Predictions: TD Picks for the Hall of Fame Game",
-      "title_ja": null,
-      "excerpt": "My anytime touchdown scorer picks and Panthers vs. Cardinals predictions feature Haynes King and Bam Knight.",
-      "excerpt_ja": null,
+      "title": "Anthony Richardson having a ‘roller coaster’ training camp — with incredible highs and ‘bobbled’ snap lows",
+      "title_ja": "Anthony Richardsonがトレーニングキャンプで「ジェットコースター」状態――素晴らしいプレーと失敗が交互に",
+      "excerpt": "Anthony Richardson is doing much of the same in training camp.",
+      "excerpt_ja": "Anthony Richardsonはトレーニングキャンプでも同じようなパターンを繰り返している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "ARI",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:11:00 +0000",
-      "url": "https://sports.yahoo.com/articles/anytime-touchdown-scorer-panthers-vs-195400702.html"
+      "published_at": "Thu, 06 Aug 2026 22:36:59 +0000",
+      "url": "https://sports.yahoo.com/articles/anthony-richardson-having-roller-coaster-223659707.html"
     },
     {
       "kind": "other",
-      "title": "Hall of Fame Game Player Prop Picks for Panthers vs Cardinals Tonight",
-      "title_ja": null,
-      "excerpt": "Hall of Fame Game player prop picks for tonight&#39;s Panthers vs. Cardinals game in Canton, Ohio, including Kenny Pickett and Bam Knight for Thursday&#39;s matchup on Aug. 6.",
-      "excerpt_ja": null,
+      "title": "Carson Beck throws for 188 yards, TD in impressive preseason debut",
+      "title_ja": "Carson Beckがプリシーズンデビューで188ヤードと1TD、素晴らしいパフォーマンス",
+      "excerpt": "Carson Beck has played in much bigger games than the Hall of Fame Game, so it probably should come as no surprise that the lights weren't too bright or the stage too big.",
+      "excerpt_ja": "Carson BeckはこれまでHall of Fame Gameより大きな試合に出場しているので、舞台に圧倒されることはなさそうだ。",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "ARI",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:08:00 +0000",
-      "url": "https://sports.yahoo.com/articles/panthers-vs-cardinals-prop-picks-141500157.html"
-    },
-    {
-      "kind": "other",
-      "title": "Ravens ramp up physicality at hot, chippy day of training camp",
-      "title_ja": null,
-      "excerpt": "Hot weather and hot tempers flared at the Ravens’ eight practice of training camp.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:07:03 +0000",
-      "url": "https://sports.yahoo.com/articles/ravens-ramp-physicality-hot-chippy-220703544.html"
-    },
-    {
-      "kind": "other",
-      "title": "Todd Monken reveals the Browns legend he tried to add to his coaching staff",
-      "title_ja": null,
-      "excerpt": "Todd Monken revealed that he tried to bring a Cleveland Browns franchise legend onto his coaching staff for the 2026 NFL season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 22:04:54 +0000",
-      "url": "https://sports.yahoo.com/articles/todd-monken-reveals-browns-legend-220454118.html"
+      "published_at": "Thu, 06 Aug 2026 22:15:28 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-beck-throws-for-188-yards-td-in-impressive-preseason-debut"
     },
     {
       "kind": "other",
       "title": "Midseason NASCAR Prospect Rankings: Top 20 Drivers With Best Shot At Cup Ride",
-      "title_ja": null,
+      "title_ja": "シーズン中盤NASCAR有望ドライバー ランキング：カップシリーズ参戦のチャンスが最も高いトップ20ドライバー",
       "excerpt": "From Rajah Caruth to Jesse Love, Keelan Harvick to Brent Crews, here's the latest on which drivers have the best chance to move up to Cup.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Rajah CaruthからJesse Love、Keelan Harvickからtabrent Crewsまで、カップシリーズへの昇格の可能性が最も高いドライバーを紹介。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -406,9 +342,9 @@
     {
       "kind": "injury",
       "title": "Lions held firm at a bump above Bijan Robinson for Jahmyr Gibbs",
-      "title_ja": null,
+      "title_ja": "Lionsは Jahmyr Gibbsのための契約でBijan Robinsonより上回る条件を提示",
       "excerpt": "It's clear that both Falcons running back Bijan Robinson and Lions running back Jahmyr Gibbs wanted to get to $25 million in new-money APY on their new contracts.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Falconsの RB Bijan RobinsonとLionsの RB Jahmyr Gibbsの両者が、新契約で新規年間平均額2500万ドルを目指していることが明らかになった。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -422,9 +358,9 @@
     {
       "kind": "rumor",
       "title": "Aaron Donald decision could be made in the coming days",
-      "title_ja": null,
+      "title_ja": "Aaron Donaldの決定は数日中に下される可能性がある",
       "excerpt": "Donald could be on the field for 30-40 snaps in Week 1 vs. 49ers.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Donaldは1週目のvs. 49ers戦で30～40スナップ出場する可能性がある。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -438,9 +374,9 @@
     {
       "kind": "other",
       "title": "Deion Sanders Takes Colorado On The Road To Build Team Chemistry In Colorado Springs",
-      "title_ja": null,
+      "title_ja": "Deion SandersがColorado Springsでチームケミストリー構築のためColoradoをロードに連れ出す",
       "excerpt": "Deion “Coach Prime\" Sanders loves taking his Colorado Buffaloes to Fountain Fort Carson High School for workouts and bonding.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Deion \"Coach Prime\" SandersはColorado Buffaloes をFountain Fort Carson High Schoolでのワークアウトとチームビルディングに連れていくのを好んでいる。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -454,9 +390,9 @@
     {
       "kind": "injury",
       "title": "Cowboys rookie LB Jaishawn Barham has a groin injury",
-      "title_ja": null,
+      "title_ja": "Cowboys新人LB Jaishawn Barhamが股関節損傷",
       "excerpt": "Cowboys rookie linebacker Jaishawn Barham left Thursday's practice early.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Cowboys新人ラインバッカー Jaishawn Barhamは木曜日の練習を途中で切り上げた。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -470,9 +406,9 @@
     {
       "kind": "signing",
       "title": "Jaguars sign LB Jahlani Tavai",
-      "title_ja": null,
+      "title_ja": "JaguarsがLB Jahlani Tavaiと契約",
       "excerpt": "The Jaguars signed linebacker Jahlani Tavai, the team announced Thursday.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Jaguarsはラインバッカー Jahlani Tavaiとの契約を木曜日に発表した。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -486,9 +422,9 @@
     {
       "kind": "other",
       "title": "Kalshi Promo Code FOXSPORTS Unlocks up to $500 in Bonuses for the NFL Hall of Fame Game",
-      "title_ja": null,
+      "title_ja": "Kalshi プロモコード FOXSPORTS で NFL Hall of Fame Game に最大500ドルのボーナスを獲得",
       "excerpt": "Kalshi Promo Code FOXSPORTS Unlocks up to $500 in Bonuses for the NFL Hall of Fame Game.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Kalshi プロモコード FOXSPORTS で NFL Hall of Fame Game に最大500ドルのボーナスを獲得できる。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -502,9 +438,9 @@
     {
       "kind": "other",
       "title": "Polymarket Promo Code FOX: Get a $20 Bonus When Trading on the Cardinals vs. Panthers NFL Hall of Fame Game",
-      "title_ja": null,
+      "title_ja": "Polymarket プロモコード FOX：Cardinals vs. Panthers NFL Hall of Fame Game でのトレーディングで20ドルボーナスを獲得",
       "excerpt": "Polymarket Promo Code FOX: Get a $20 Bonus When Trading on the Cardinals vs. Panthers NFL Hall of Fame Game.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Polymarket プロモコード FOX：Cardinals vs. Panthers NFL Hall of Fame Game でのトレーディングで20ドルボーナスを獲得できる。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -518,9 +454,9 @@
     {
       "kind": "signing",
       "title": "Mateo Kovačić Supports England's Elliot Anderson Joining Manchester City",
-      "title_ja": null,
+      "title_ja": "Mateo Kovačić がEnglandの Elliot Anderson のManchester City 加入を支持",
       "excerpt": "Mateo Kovacic praises Manchester City’s record summer signing Elliot Anderson after high-profile move to Etihad Stadium.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Mateo Kovacicは Manchester City の記録的な今夏の補強 Elliot Anderson の Etihad Stadium への高プロファイル移籍を高く評価している。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -534,13 +470,13 @@
     {
       "kind": "other",
       "title": "NFL suspends Saints WR Brock Rechsteiner for the first six games",
-      "title_ja": null,
+      "title_ja": "NFLが Saints WR Brock Rechsteinerを最初の6試合出場停止に処する",
       "excerpt": "The NFL has suspended Saints wide receiver Brock Rechsteiner for the first six games of the 2026 season.",
-      "excerpt_ja": null,
+      "excerpt_ja": "NFLはSaints ワイドレシーバー Brock Rechsteinerを2026シーズンの最初の6試合の出場停止処分にした。",
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "NO",
       "player_name": null,
       "coach_name": null,
@@ -550,9 +486,9 @@
     {
       "kind": "injury",
       "title": "Why Rebuilding Cardinals Expect To Contend In Ultra-Competitive NFC West",
-      "title_ja": null,
+      "title_ja": "再建中のCardinalsがNFC Westの激戦の中で優勝を見込む理由",
       "excerpt": "The Cardinals face the longest Super Bowl odds, but many key members of their organization expressed confidence to us that they will make the playoffs.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Cardinalsはスーパーボウルの最も低いオッズに直面しているが、組織の主要メンバーの多くは、プレーオフ進出が可能だと確信を示している。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -566,9 +502,9 @@
     {
       "kind": "other",
       "title": "Falcons put Jalon Walker on IR, claim DB Keidron Smith off of waivers",
-      "title_ja": null,
+      "title_ja": "FalconsがJalon WalkerをIR登録、DB Keidron SmithをウェーバーでClaimする",
       "excerpt": "The Falcons officially brought linebacker Jalon Walker's season to an end on Thursday.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Falconsは木曜日、ラインバッカー Jalon Walker のシーズン終了を正式に発表した。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -582,9 +518,9 @@
     {
       "kind": "other",
       "title": "When Does the 2026 NFL Season Start? Complete Week 1 Schedule",
-      "title_ja": null,
+      "title_ja": "2026 NFLシーズンはいつ始まる？完全なWeek 1スケジュール",
       "excerpt": "Everything you need to know about the 2026 NFL schedule, including the season opener, Week 1 matchups and how to watch on FOX.",
-      "excerpt_ja": null,
+      "excerpt_ja": "シーズンオープナー、Week 1の対戦カード、FOXでの放映予定など、2026 NFLスケジュールのすべてをお届け。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -598,9 +534,9 @@
     {
       "kind": "other",
       "title": "Cowboys claim TE Zack Kuntz off waivers",
-      "title_ja": null,
+      "title_ja": "CowboysがTE Zack Kuntzをウェーバーで獲得",
       "excerpt": "The Cowboys lost Princeton Fant for the season to a torn ACL and they replaced him on the roster with another tight end on Thursday.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Cowboysは Princeton Fant をACL断裂でシーズン終了させたため、木曜日に別のタイトエンドでロスターを補充した。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -614,9 +550,9 @@
     {
       "kind": "signing",
       "title": "Jahmyr Gibbs agrees to three-year deal worth $22.5 million annually",
-      "title_ja": null,
+      "title_ja": "Jahmyr Gibbs が年間2250万ドルの3年契約で合意",
       "excerpt": "The Lions' fourth-year running back will receive $51.5 million in guarantees.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Lionsの4年目の RB は保証金5150万ドルを受け取る。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -630,9 +566,9 @@
     {
       "kind": "signing",
       "title": "Another New Highest-Paid RB: Lions Agree To Record Extension With Jahmyr Gibbs",
-      "title_ja": null,
+      "title_ja": "新たな最高年俸RB：Lionsが Jahmyr Gibbs との契約拡張を記録更新で合意",
       "excerpt": "The Detroit Lions have reportedly signed star running back Jahmyr Gibbs to an extension",
-      "excerpt_ja": null,
+      "excerpt_ja": "Detroit Lionsはスター RB Jahmyr Gibbs との契約拡張に署名したと報じられている。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -646,9 +582,9 @@
     {
       "kind": "other",
       "title": "NASCAR Implementing New Stage-Break Procedure Ahead Of Iowa Speedway Races",
-      "title_ja": null,
+      "title_ja": "NASCARがIowa Speedway レース前に新しいステージブレーク手続きを実施",
       "excerpt": "NASCAR plans to implement a new stage-break procedure for its Cup Series races starting this weekend at Iowa Speedway.",
-      "excerpt_ja": null,
+      "excerpt_ja": "NASCARは今週末のIowa Speedwayからカップシリーズレースに新しいステージブレーク手続きを導入する予定。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -662,9 +598,9 @@
     {
       "kind": "signing",
       "title": "Colts sign free agent TE Pharaoh Brown",
-      "title_ja": null,
+      "title_ja": "ColtsがフリーエージェントTE Pharaoh Brownと契約",
       "excerpt": "The Colts signed free agent tight end Pharaoh Brown on Thursday, the team announced.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Coltsはフリーエージェントのタイトエンド Pharaoh Brownと木曜日に契約したことを発表した。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -678,9 +614,9 @@
     {
       "kind": "other",
       "title": "FanDuel Promo Code: Get a $1000 in Bonuses When Betting on the Arizona Cardinals vs. Carolina Panthers",
-      "title_ja": null,
+      "title_ja": "FanDuel プロモコード：Arizona Cardinals vs. Carolina Panthers でのベッティングで1000ドルのボーナスを獲得",
       "excerpt": "FanDuel Promo Code: Get a $1000 in Bonuses When Betting on the Arizona Cardinals vs. Carolina Panthers.",
-      "excerpt_ja": null,
+      "excerpt_ja": "FanDuel プロモコード：Arizona Cardinals vs. Carolina Panthers でのベッティングで1000ドルのボーナスを獲得できる。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -694,9 +630,9 @@
     {
       "kind": "other",
       "title": "Christian Gonzalez: A.J. Brown and I are battling, getting each other better",
-      "title_ja": null,
+      "title_ja": "Christian Gonzalez：A.J. Brownとはバトルしてお互いを成長させている",
       "excerpt": "Thursday's practice at Patriots camp featured some fireworks between wide receiver A.J.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Patriotsキャンプの木曜日の練習では、ワイドレシーバー A.J. Brownをめぐってスパーク散った。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -933,22 +869,6 @@
     },
     {
       "kind": "other",
-      "title": "Where Are Prediction Markets Legal? State-by-State Availability in 2026",
-      "title_ja": null,
-      "excerpt": "Where are prediction markets legal? A state-by-state guide to Kalshi, Polymarket, and OG availability in 2026, including which states restrict or contest sports event contracts.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 16:11:40 -0400",
-      "url": "https://www.foxsports.com/stories/betting/prediction-markets-legal-states"
-    },
-    {
-      "kind": "other",
       "title": "C.J. Gardner-Johnson \"just can't wait\" to face Texans in Week 1",
       "title_ja": null,
       "excerpt": "Safety C.J.",
@@ -1124,38 +1044,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-ot-kion-smith"
     },
     {
-      "kind": "other",
-      "title": "With a new contract due, Puka Nacua makes agent change",
-      "title_ja": null,
-      "excerpt": "On the surface, Rams receiver Puka Nacua isn't clamoring aggressively for a new contract.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 12:44:56 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-a-new-contract-due-puka-nacua-makes-agent-change"
-    },
-    {
-      "kind": "injury",
-      "title": "Josh Jacobs out of practice with groin injury, not expected to be long-term",
-      "title_ja": null,
-      "excerpt": "One of Green Bay’s top offensive players is not practicing on Thursday, but he should be back on the field soon.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 12:30:10 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobs-out-of-practice-with-groin-injury-not-expected-to-be-long-term"
-    },
-    {
       "kind": "signing",
       "title": "NFL news, live updates: Jahmyr Gibbs, Lions agree to 3-year, $67.5 million contract extension; Jonathan Taylor signs extension with Colts as RBs get paid",
       "title_ja": null,
@@ -1172,24 +1060,136 @@
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-live-updates-franchise-tag-an-option-for-baker-mayfield-in-2027-jonathan-taylor-signs-extension-with-colts-120227168.html"
     },
     {
-      "kind": "injury",
-      "title": "Ranking every position group on the Ravens’ 2026 roster",
+      "kind": "other",
+      "title": "Hall of Fame game winners and losers: Carson Beck overtaking Jacoby Brissett already?",
       "title_ja": null,
-      "excerpt": "The Baltimore Ravens filled out their roster this offseason with a number of notable additions in the draft and free agency. Now, with the 2026 season fast approaching next month, position groups will be finalized across training camp and preseason action over the next few weeks. Which of the team’s",
+      "excerpt": "The Pro Football Hall of Fame game may quickly fade into appropriate irrelevance, but will still learned some things from the preseason kickoff.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "BAL",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 07 Aug 2026 00:37:11 +0000",
-      "url": "https://sports.yahoo.com/articles/ranking-every-position-group-ravens-003711884.html"
+      "published_at": "Fri, 07 Aug 2026 03:20:23 +0000",
+      "url": "https://sports.yahoo.com/articles/hall-fame-game-winners-losers-032023006.html"
     },
     {
       "kind": "other",
-      "title": "Mike Tomlin weighs in on Mike McCarthy, Steelers during his NBC debut",
+      "title": "Recap and Reaction: Haynes King leads Panthers to last second win",
+      "title_ja": null,
+      "excerpt": "The Carolina Panthers played the Arizona Cardinals in an all time preseason game, and Haynes King came away the hero with a rushing touchdown on the game’s final play.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 07 Aug 2026 03:19:00 +0000",
+      "url": "https://sports.yahoo.com/articles/recap-reaction-haynes-king-leads-031900486.html"
+    },
+    {
+      "kind": "other",
+      "title": "Haynes King leads Panthers to 33-30 win on final play of Hall of Fame Game",
+      "title_ja": null,
+      "excerpt": "Haynes King wasn&#39;t drafted despite being the ACC Player of the Year last season.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 07 Aug 2026 03:14:59 +0000",
+      "url": "https://sports.yahoo.com/articles/haynes-king-leads-panthers-33-031459892.html"
+    },
+    {
+      "kind": "other",
+      "title": "How did Carson Beck play? Stats, performance, grade for Cardinals QB&#39;s debut",
+      "title_ja": null,
+      "excerpt": "Carson Beck made his NFL preseason debut against the Panthers in the Hall of Fame game. USA TODAY Sports graded the Cardinals rookie&#39;s performance.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 07 Aug 2026 02:19:01 +0000",
+      "url": "https://sports.yahoo.com/articles/did-carson-beck-play-stats-021901077.html"
+    },
+    {
+      "kind": "other",
+      "title": "Bengals will play starters in preseason opener vs. Detroit Lions",
+      "title_ja": null,
+      "excerpt": "This is a good decision by Zac Taylor.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 07 Aug 2026 02:17:24 +0000",
+      "url": "https://sports.yahoo.com/articles/bengals-play-starters-preseason-opener-021724351.html"
+    },
+    {
+      "kind": "other",
+      "title": "Pressure on, Ty Simpson?",
+      "title_ja": null,
+      "excerpt": "Carson Beck makes stellar debut in NFL Hall of Fame Game. Can Ty Simpson also shine?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 07 Aug 2026 02:11:03 +0000",
+      "url": "https://sports.yahoo.com/articles/pressure-ty-simpson-021103413.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cardinals rookie QB Carson Beck impresses as he gets first NFL snaps in Hall of Fame Game",
+      "title_ja": null,
+      "excerpt": "The NFL got the preseason going on Thursday night with the Hall of Fame Game.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 07 Aug 2026 01:31:39 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/cardinals-rookie-qb-carson-beck-impresses-as-he-gets-first-nfl-snaps-in-hall-of-fame-game-013139982.html"
+    },
+    {
+      "kind": "other",
+      "title": "Larry Fitzgerald gets emotional speaking about father ahead of Hall of Fame induction",
+      "title_ja": null,
+      "excerpt": "Larry Fitzgerald reflected on what his late father, Larry Fitzgerald Sr., meant to him ahead of his Pro Football Hall of fame induction.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 07 Aug 2026 01:26:40 +0000",
+      "url": "https://sports.yahoo.com/articles/larry-fitzgerald-gets-emotional-speaking-012640315.html"
+    },
+    {
+      "kind": "other",
+      "title": "Mike Tomlin calls Mike McCarthy &#39;perfect&#39; for Steelers during NBC debut",
       "title_ja": null,
       "excerpt": "Former Steelers coach Mike Tomlin made his TV debut on NBC ahead of the Hall of Fame Game. He weighed in on Mike McCarthy taking over in Pittsburgh.",
       "excerpt_ja": null,
@@ -1492,22 +1492,6 @@
       "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/"
     },
     {
-      "kind": "rumor",
-      "title": "Browns owner reveals the one bet he would make on his team this year and it's one that could surprisingly hit",
-      "title_ja": null,
-      "excerpt": "Cleveland owner Jimmy Haslam is confident his team will surpass Vegas expectations, and the easiest schedule in the NFL suggests he might be right",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Tue, 04 Aug 2026 18:57:14 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/browns-owner-reveals-the-one-bet-he-would-make-on-his-team/"
-    },
-    {
       "kind": "other",
       "title": "2026 Hall of Fame Game Panthers vs. Cardinals NFL odds, trends: Carolina terrible preseason bet past 3 years",
       "title_ja": null,
@@ -1714,6 +1698,22 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 06 Aug 2026 00:26:53 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/andy-reid-travis-kelce-dad-bod-chiefs/"
+    },
+    {
+      "kind": "other",
+      "title": "Carson Beck passed every test in NFL debut, here's why history says it doesn't matter",
+      "title_ja": null,
+      "excerpt": "Beck checked every box in his first professional game, but recent rookie quarterbacks prove that preseason performances can be wildly misleading",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 07 Aug 2026 02:56:15 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/carson-beck-passed-every-test-heres-why-history-says-it-doesnt-matter/"
     },
     {
       "kind": "signing",

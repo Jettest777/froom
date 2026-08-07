@@ -1,46 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-08-07T22:28:25.290381+00:00",
+  "generated_at": "2026-08-07T23:07:32.804705+00:00",
   "count": 111,
   "items": [
     {
-      "kind": "rumor",
-      "title": "Why Colin Cowherd Argues Jaxson Dart's 'Wow' Moments Can Boost Giants",
-      "title_ja": null,
-      "excerpt": "Under new head coach John Harbaugh, quarterback Jaxson Dart and his 'wow' moments could be the answer to the New York Giants success this season.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 23:58:56 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/why-colin-cowherd-argues-jaxson-darts-wow-moments-can-boost-giants"
-    },
-    {
-      "kind": "signing",
-      "title": "NFL Highest-Paid Running Backs: Jahmyr Gibbs Earns Top Spot After Big Extension",
-      "title_ja": null,
-      "excerpt": "For years, the NFL backfield felt like a high-risk, low-reward market. Here are the highest annual salaries among NFL running backs.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 06 Aug 2026 23:35:49 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-highest-paid-running-backs"
-    },
-    {
       "kind": "injury",
       "title": "NFL Training Camp Injury Report: Tracking the latest news, updates for 2026 fantasy football",
-      "title_ja": null,
+      "title_ja": "NFLトレーニングキャンプ負傷者レポート：2026ファンタジーフットボール向け最新情報",
       "excerpt": "We&#39;re keeping tabs on all the latest injury news for fantasy football coming out of NFL training camps.",
-      "excerpt_ja": null,
+      "excerpt_ja": "NFL各地のトレーニングキャンプから発表される負傷情報を、ファンタジーフットボールプレイヤー向けに随時追跡しています。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +22,9 @@
     {
       "kind": "signing",
       "title": "NFL news, live updates: Titans make Peter Skoronski NFL&#39;s highest-paid guard; Jahmyr Gibbs, Lions agree to 3-year, $67.5 million contract extension",
-      "title_ja": null,
+      "title_ja": "NFL最新ニュース、ライブ速報：TitansがPeter SkoronskiをNFL最高額ガードに認定、Jahmyr GibbsとLionsが3年6,750万ドルの契約延長に合意",
       "excerpt": "Follow along with the latest NFL news and updates from training camps around the league.",
-      "excerpt_ja": null,
+      "excerpt_ja": "リーグ各地のトレーニングキャンプから発表される最新NFL情報をリアルタイムで追跡。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -68,11 +36,75 @@
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-live-updates-franchise-tag-an-option-for-baker-mayfield-in-2027-jonathan-taylor-signs-extension-with-colts-120227168.html"
     },
     {
+      "kind": "other",
+      "title": "Training camp scrimmage notes: UDFA shines among strong LB performance",
+      "title_ja": "トレーニングキャンプスクリメージ注目ポイント：UDFAが出色の活躍を見せる中、LBの総合的なパフォーマンスが光る",
+      "excerpt": "Breaking down all 12 drives from the Detroit Lions’ training camp scrimmage on Friday.",
+      "excerpt_ja": "金曜日に行われたDetroit Lionsトレーニングキャンプスクリメージのすべての12ドライブを詳細分析。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 07 Aug 2026 22:45:00 +0000",
+      "url": "https://sports.yahoo.com/articles/training-camp-scrimmage-notes-udfa-224500519.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Maxx Crosby and Kirk Cousins reportedly need to be separated in Raiders training camp scuffle",
+      "title_ja": "Raiders練習中の騒動：Maxx CrosbyとKirk Cousinsの関係が悪化、分離が必要な状況に",
+      "excerpt": "Cousins reportedly confronted Crosby over hitting his arm in practice.",
+      "excerpt_ja": "Cousinsが練習中にCrosbyにアームを叩かれたことに不満を表明、Crosbyに詰め寄る場面があった。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 07 Aug 2026 22:42:29 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/maxx-crosby-and-kirk-cousins-reportedly-need-to-be-separated-in-raiders-training-camp-scuffle-224229292.html"
+    },
+    {
+      "kind": "injury",
+      "title": "BJ Green, Zach Durfee Headline Jaguars’ Mock Scrimmage",
+      "title_ja": "BJ GreenとZach DurfeeがJaguarsのモックスクリメージで活躍",
+      "excerpt": "The Jacksonville Jaguars held their annual mock scrimmage on Day 8 of training camp, with B.J. Green II producing the most dominant individual defensive performance of the offseason. Here&#39;s everything you need to know from the 2026 Teal and White scrimmage.",
+      "excerpt_ja": "Jacksonville Jaguarsはトレーニングキャンプ8日目にモックスクリメージを開催。B.J. Green IIはオフシーズンを通じて最も支配的な個人DFパフォーマンスを披露。2026テール・アンド・ホワイト・スクリメージのすべてをお伝えします。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "JAX",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 07 Aug 2026 22:41:12 +0000",
+      "url": "https://sports.yahoo.com/articles/bj-green-zach-durfee-headline-224112788.html"
+    },
+    {
+      "kind": "other",
+      "title": "Colts Training Camp ‘Day 7’: Quick Hits",
+      "title_ja": "Colts トレーニングキャンプ「Day 7」：注目ポイント",
+      "excerpt": "Here last night’s recap from ‘Gone Camping’ at Grand Park.",
+      "excerpt_ja": "Grand ParkでのGone Campingから昨夜のまとめをお届けします。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 07 Aug 2026 22:33:46 +0000",
+      "url": "https://sports.yahoo.com/articles/colts-training-camp-day-7-223346488.html"
+    },
+    {
       "kind": "injury",
       "title": "49ers hold tryouts for 3 centers as their depth continues to be tested",
-      "title_ja": null,
+      "title_ja": "49ersが3名のセンターでトライアウト実施、深さの課題が浮き彫りに",
       "excerpt": "The 49ers were once again without Carver Willis, Brett Toth, and Nick Zakelj.",
-      "excerpt_ja": null,
+      "excerpt_ja": "49ersはCarver Willis、Brett Toth、Nick Zakeljを欠いての練習継続。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +118,9 @@
     {
       "kind": "other",
       "title": "John Harbaugh on Cam Skattebo leaving practice: Just working through the football shape part of it",
-      "title_ja": null,
+      "title_ja": "John HarbaughがCam Skatteボの途中退出について言及：フットボール体力の調整プロセスの一環",
       "excerpt": "Running back Cam Skattebo made an early exit from Friday&#39;s practice, but Giants head coach John Harbaugh didn&#39;t show much concern about his condition after the workout.",
-      "excerpt_ja": null,
+      "excerpt_ja": "ランニングバックCam Skatteボは金曜日の練習を途中で切り上げたが、Giants HCのJohn Harbaughは練習後、その状態については大きな懸念を示さなかった。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +134,9 @@
     {
       "kind": "rumor",
       "title": "Colts CB Cam Taylor-Britt to serve one-game suspension",
-      "title_ja": null,
+      "title_ja": "Colts CBのCam Taylor-Brittが1試合の出場停止処分を受ける",
       "excerpt": "While the suspension certainly hurts, it was expected for the new Colts cornerback pickup early on.",
-      "excerpt_ja": null,
+      "excerpt_ja": "この出場停止はColtsの新加入CBにとって痛手だが、当初から予想されていた処置だった。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +150,9 @@
     {
       "kind": "injury",
       "title": "Giants injuries: Malik Nabers progressing; Brian Burns limited; JMS leaves practice",
-      "title_ja": null,
+      "title_ja": "Giants の負傷情報：Malik Nabersが進展、Brian Burnsは制限付き、JMSが練習を途中で退出",
       "excerpt": "Nabers could soon ramp up in practice.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Nabersはまもなく練習でロードマップを加速できる見込み。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +166,9 @@
     {
       "kind": "other",
       "title": "Why Seahawks rookie Jadarian Price missed Friday’s training camp practice",
-      "title_ja": null,
+      "title_ja": "Seahawks ルーキーJadarian Priceが金曜日のトレーニングキャンプ練習を欠場した理由",
       "excerpt": "The rookie running back has been a star in training camp early on.",
-      "excerpt_ja": null,
+      "excerpt_ja": "ルーキーランニングバックはトレーニングキャンプの早い段階から注目を集めている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +182,9 @@
     {
       "kind": "signing",
       "title": "Giants signing C Brenden Jaimes: report",
-      "title_ja": null,
+      "title_ja": "Giantsが C Brenden Jaimesと契約、との報道",
       "excerpt": "With John Michael Schmitz likely headed to the concussion protocol after getting banged up at Friday&#39;s practice and backup center Lucas Patrick dealing with a lingering knee injury, the Giants are reportedly signing free agent center Brenden Jaimes.",
-      "excerpt_ja": null,
+      "excerpt_ja": "John Michael Schmitzが金曜日の練習で脳震盪プロトコルに入る可能性が高く、バックアップセンターのLucas Patrickが慢性的な膝の怪我に対応している中、Giantsはフリーエージェントセンター Brenden Jaimesと契約を結ぶ見通し。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +198,9 @@
     {
       "kind": "signing",
       "title": "What signing Eric Butler, waiving David Blay Jr. means for the Patriots",
-      "title_ja": null,
+      "title_ja": "Eric Butlerの獲得とDavid Blay Jr.の放出がPatriotsに意味するもの",
       "excerpt": "The Patriots made a pair of roster moves on Friday.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Patriotsは金曜日にロスター編成を2つ実行。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +214,9 @@
     {
       "kind": "presser",
       "title": "Giants&#39; Cam Skattebo exits practice early: &#39;It won&#39;t be serious&#39;",
-      "title_ja": null,
+      "title_ja": "GiantsのCam Skatteボが練習を途中退出：「大事には至らない」",
       "excerpt": "Cam Skattebo left Giants practice early and did not return, but John Harbaugh said his departure was &quot;nothing serious.&quot;",
-      "excerpt_ja": null,
+      "excerpt_ja": "Cam Skatteボ がGiants練習を途中で切り上げ、戻ることはなかったが、John Harbaughは彼の途中退出は「何ら深刻なことではない」とコメント。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +230,9 @@
     {
       "kind": "other",
       "title": "Cleveland Browns Training Camp Recap: Day 9 – No closer to a QB decision",
-      "title_ja": null,
+      "title_ja": "Cleveland Browns トレーニングキャンプ リキャップ：Day 9 – QB問題への決着なし",
       "excerpt": "What happened on Day 9 of Cleveland Browns training camp?",
-      "excerpt_ja": null,
+      "excerpt_ja": "Cleveland BrownsトレーニングキャンプのDay 9では何が起こったのか？",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +246,9 @@
     {
       "kind": "signing",
       "title": "Raiders training camp showing encouraging signs of a player-led defense",
-      "title_ja": null,
+      "title_ja": "Raiders トレーニングキャンプ：選手主導型のディフェンスが好ましい兆候を見せる",
       "excerpt": "Defensive coordinator Rob Leonard wants his Las Vegas defenders to take ownership and make decisions on the fly",
-      "excerpt_ja": null,
+      "excerpt_ja": "DFコーディネーターのRob Leonardは、Las Vegasのディフェンダーに自分たちのプレーの所有権を持たせ、その場での判断で動くことを望んでいる。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +262,9 @@
     {
       "kind": "signing",
       "title": "Washington Commanders Free Agency: Veteran offensive lineman reportedly signed",
-      "title_ja": null,
+      "title_ja": "Washington Commanders フリーエージェント：ベテランオフェンスラインマンの契約報道",
       "excerpt": "The Washington Commanders have signed more OL depth",
-      "excerpt_ja": null,
+      "excerpt_ja": "Washington Commandersはオフェンスラインの層を厚くする契約を結んだ。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +278,9 @@
     {
       "kind": "injury",
       "title": "Be prepared for the preseason with our Houston Texans roster",
-      "title_ja": null,
+      "title_ja": "プリシーズンに向けてHouston Texansのロスターを確認しておこう",
       "excerpt": "All of the players on the team are sorted by their jersey numbers and by their last names to help you find your favorites during the preseason.",
-      "excerpt_ja": null,
+      "excerpt_ja": "チーム全選手をジャージ番号と姓でソート。プリシーズン中にお気に入り選手を素早く見つけるのに役立つリスト。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +294,9 @@
     {
       "kind": "signing",
       "title": "Report: Giants agree to terms with C Brenden Jaimes",
-      "title_ja": null,
+      "title_ja": "Giantsが C Brenden Jaimesと契約合意との報道",
       "excerpt": "The Giants are signing free agent center Brenden Jaimes, Dan Duggan of TheAthletic.com reports.",
-      "excerpt_ja": null,
+      "excerpt_ja": "GiantsはフリーエージェントセンターBrenden Jaimesと契約を結ぶ、とTheAthletic.comのDan Dugganが報じた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -278,9 +310,9 @@
     {
       "kind": "other",
       "title": "DeMarcus Lawrence returns for 13th season after considering retirement",
-      "title_ja": null,
+      "title_ja": "DeMarcus Lawrenceが13シーズン目での復帰を表明、引退を検討していた",
       "excerpt": "Seahawks defensive end DeMarcus Lawrence capped his 12th NFL season with his first Super Bowl ring.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Seahawks のDEであるDeMarcus Lawrenceは12シーズン目をSuper Bowl優勝で締めくくった。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +326,9 @@
     {
       "kind": "signing",
       "title": "Browns roster: Team adds another free agent DT following Friday practice",
-      "title_ja": null,
+      "title_ja": "Browns ロスター編成：金曜日練習後にフリーエージェントDTをさらに追加",
       "excerpt": "The Cleveland Browns continue to shuffle their roster, signing free agent DT Patrick Jenkins on Friday",
-      "excerpt_ja": null,
+      "excerpt_ja": "Cleveland Brownsは金曜日、フリーエージェントDTのPatrick Jenkinsと契約。ロスター調整を継続している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -310,9 +342,9 @@
     {
       "kind": "other",
       "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
-      "title_ja": null,
+      "title_ja": "Patriots最新デプスチャート：現在のロスター構成は？",
       "excerpt": "An updated look at the Patriots’ roster in 2026.",
-      "excerpt_ja": null,
+      "excerpt_ja": "2026シーズンにおけるPatriotsロスターの最新情報。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -326,9 +358,9 @@
     {
       "kind": "other",
       "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 37",
-      "title_ja": null,
+      "title_ja": "Cowboys キックオフまでのカウントダウン：歴史的名試合ベスト100 – Day 37",
       "excerpt": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 37",
-      "excerpt_ja": null,
+      "excerpt_ja": "キックオフまで100日間をカウントダウン。Cowboys歴史上最も象徴的な試合シリーズをお届けします。本日はDay 37。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -342,9 +374,9 @@
     {
       "kind": "signing",
       "title": "Dolphins sign S Tanner Wall, claim CB Ahmari Harvey off waivers",
-      "title_ja": null,
+      "title_ja": "Dolphins がSのTanner Wallと契約、CBのAhmari Harveyをウェーバーで獲得",
       "excerpt": "The Dolphins doubled down on defensive back moves on Friday.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Dolphinsは金曜日、ディフェンシブバック関連の動きを2つ実行。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -358,9 +390,9 @@
     {
       "kind": "signing",
       "title": "Patriots sign safety Eric Butler following workout, waive defensive tackle",
-      "title_ja": null,
+      "title_ja": "Patriotsがセーフティ Eric Butlerと契約、ディフェンシブタックルを放出",
       "excerpt": "Eric Butler went undrafted out of San Diego State.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Eric ButlerはSan Diego Stateからアンドラフテッド。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -374,9 +406,9 @@
     {
       "kind": "other",
       "title": "Kirk Cousins gets into Maxx Crosby&#39;s face after hits at Raiders training camp",
-      "title_ja": null,
+      "title_ja": "Kirk Cousinsが Raiders練習中、Maxx Crosbyに詰め寄る",
       "excerpt": "Training camp scuffles are relatively commonplace in the NFL, even among stars. What we know about Kirk Cousins and Maxx Crosby&#39;s tiff at Raiders camp.",
-      "excerpt_ja": null,
+      "excerpt_ja": "トレーニングキャンプでの小競り合いはNFLではよくあること。スター選手の間でも起こる。Kirk CousinsとMaxx Crosbyの Raiders キャンプでのもめごとについて、わかったことをまとめた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -390,9 +422,9 @@
     {
       "kind": "signing",
       "title": "Bears sign veteran SAF Xavier Woods",
-      "title_ja": null,
+      "title_ja": "Bearsがベテランセーフティ Xavier Woodsと契約",
       "excerpt": "The Bears have added some safety depth in the form of veteran Xavier Woods.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Bearsはベテランセーフティ Xavier Woodsの加入で安全性の層を厚くした。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -406,9 +438,9 @@
     {
       "kind": "signing",
       "title": "Bears sign DB Xavier Woods, place DB Dallis Flowers on IR",
-      "title_ja": null,
+      "title_ja": "Bears がDB Xavier Woodsと契約、DB Dallis Flowersをケガ人リストに登録",
       "excerpt": "The Bears signed defensive back Xavier Woods, the team announced Friday.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Bearsはディフェンシブバック Xavier Woodsと契約したことを発表した（金曜日）。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -422,9 +454,9 @@
     {
       "kind": "other",
       "title": "2026 Hall of Fame: Canton calls for Drew Brees, Larry Fitzgerald, Roger Craig, Adam Vinatieri and Luke Kuechly",
-      "title_ja": null,
+      "title_ja": "2026 Pro Football Hall of Fame：Cantonがdrew Brees、Larry Fitzgerald、Roger Craig、Adam Vinatieri、Luke Kuechlyの招集を呼びかけ",
       "excerpt": "A look at how each legend gained football immortality, ranging from a ballboy&#39;s beginnings to nailing a kick in a blizzard.",
-      "excerpt_ja": null,
+      "excerpt_ja": "ボールボーイからスタートした人生から吹雪の中でのキック成功まで。各レジェンドがいかにして不朽の栄光を獲得したかを追跡。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -438,9 +470,9 @@
     {
       "kind": "other",
       "title": "Browns claim DT Patrick Jenkins off of waivers",
-      "title_ja": null,
+      "title_ja": "Browns がウェーバーから DT Patrick Jenkinsを獲得",
       "excerpt": "The Browns plucked a defensive lineman off of the waiver wire on Friday.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Brownsは金曜日、ウェーバーワイヤーからディフェンシブラインマンを獲得。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -453,74 +485,42 @@
     },
     {
       "kind": "other",
-      "title": "6 performances of note from the Patriots’ 12th training camp practice",
-      "title_ja": null,
-      "excerpt": "Who caught our eye during the Patriots’ practice on Friday, for better or worse.",
-      "excerpt_ja": null,
+      "title": "Kirk Cousins, Maxx Crosby Get Into Scuffle At Raiders Practice",
+      "title_ja": "Kirk CousinsとMaxx Crosby が Raiders 練習で小競り合い",
+      "excerpt": "Raiders quarterback Kirk Cousins and edge rusher Maxx Crosby got into a scuffle at Friday's practice.",
+      "excerpt_ja": "Raiders のQBであるKirk CousinsとエッジラッシャーのMaxx Crosbyが金曜日の練習で小競り合いを起こした。",
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NE",
+      "team_abbrev": "LV",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 07 Aug 2026 20:44:02 +0000",
-      "url": "https://sports.yahoo.com/articles/6-performances-note-patriots-12th-204402189.html"
+      "published_at": "Fri, 07 Aug 2026 18:46:44 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/kirk-cousins-maxx-crosby-get-scuffle-raiders-practice"
     },
     {
       "kind": "signing",
-      "title": "Patriots sign S Eric Butler",
-      "title_ja": null,
-      "excerpt": "The Patriots have made a pair of roster moves on Friday.",
-      "excerpt_ja": null,
+      "title": "Athletics, GM David Forst 'Mutually Agree To Part Ways'",
+      "title_ja": "Athletics とGMのDavid Forst が「相互の合意で契約解除」",
+      "excerpt": "The Athletics and general manager David Forst 'mutually agreed to part ways' during his 12th season in that position.",
+      "excerpt_ja": "AthleticsとGeneral Manager David Forstは彼の12シーズン目の途中で「相互の合意で契約を解除」。",
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 07 Aug 2026 20:42:09 +0000",
-      "url": "https://sports.yahoo.com/articles/patriots-sign-eric-butler-204209502.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Saints sign former Falcons linebacker Deion Jones",
-      "title_ja": null,
-      "excerpt": "Saints add veteran presence to younger linebacker room",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "ATL",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 07 Aug 2026 20:41:33 +0000",
-      "url": "https://sports.yahoo.com/articles/saints-sign-former-falcons-linebacker-204133397.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Cowboys sign RB Jashaun Corbin",
-      "title_ja": null,
-      "excerpt": "The Cowboys made a change in their running back room on Friday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 07 Aug 2026 20:37:59 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-sign-rb-jashaun-corbin-203759318.html"
+      "published_at": "Fri, 07 Aug 2026 18:44:04 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/athletics-announce-forst-wont-return-as-gm-feinstein-to-work-as-interim-gm-for-rest-of-2026-season"
     },
     {
       "kind": "other",
       "title": "Everything To Know About INDYCAR At Portland, Including Alex Palou's Title Quest",
-      "title_ja": null,
+      "title_ja": "Portlandでの INDYCAR についての全情報：Alex Palouのタイトル奪取を含む",
       "excerpt": "Here's everything you need to know as INDYCAR heads to Portland — including how the field is chasing Alex Palou in his quest to clinch the title.",
-      "excerpt_ja": null,
+      "excerpt_ja": "INDYCARがPortlandに向かう際の全必要情報。Alex Palouがタイトル決定を目指す中でのフィールド戦略を含む。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -534,9 +534,9 @@
     {
       "kind": "other",
       "title": "John Harbaugh on Cam Skattebo leaving practice: Just working through the football shape part of it",
-      "title_ja": null,
+      "title_ja": "John HarbaughがCam Skatteボの途中退出について言及：フットボール体力の調整プロセスの一環",
       "excerpt": "Running back Cam Skattebo made an early exit from Friday's practice, but Giants head coach John Harbaugh didn't show much concern about his condition after the workout.",
-      "excerpt_ja": null,
+      "excerpt_ja": "ランニングバックCam Skatteボは金曜日の練習を途中で切り上げたが、Giants HCのJohn Harbaughは練習後、その状態については大きな懸念を示さなかった。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -550,9 +550,9 @@
     {
       "kind": "signing",
       "title": "Jahmyr Gibbs: The contract process was extremely stressful",
-      "title_ja": null,
+      "title_ja": "Jahmyr Gibbs：契約交渉プロセスは極めてストレスフル",
       "excerpt": "There was reason to believe that Lions running back Jahmyr Gibbs was close to signing a contract extension on Thursday morning when he suited up for practice for the first time at training camp and those thoughts became a reality when news of an agreement broke later in the day.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Lions のランニングバックJahmyr Gibbsは木曜朝の練習で初めてスーツアップして契約延長が近いと思われていたが、その後の日中に合意のニュースが流れ、その考えが現実に。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -566,9 +566,9 @@
     {
       "kind": "signing",
       "title": "Report: Giants agree to terms with C Brenden Jaimes",
-      "title_ja": null,
+      "title_ja": "Giantsが C Brenden Jaimesと契約合意との報道",
       "excerpt": "The Giants are signing free agent center Brenden Jaimes, Dan Duggan of TheAthletic.com reports.",
-      "excerpt_ja": null,
+      "excerpt_ja": "GiantsはフリーエージェントセンターBrenden Jaimesと契約を結ぶ、とTheAthletic.comのDan Dugganが報じた。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -582,9 +582,9 @@
     {
       "kind": "other",
       "title": "DeMarcus Lawrence returns for 13th season after considering retirement",
-      "title_ja": null,
+      "title_ja": "DeMarcus Lawrenceが13シーズン目での復帰を表明、引退を検討していた",
       "excerpt": "Seahawks defensive end DeMarcus Lawrence capped his 12th NFL season with his first Super Bowl ring.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Seahawks のDEであるDeMarcus Lawrenceは12シーズン目をSuper Bowl優勝で締めくくった。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -598,9 +598,9 @@
     {
       "kind": "signing",
       "title": "Iowa State's Jimmy Rogers Eyes Success Early: 'Not Signing Up For 2nd Place'",
-      "title_ja": null,
+      "title_ja": "Iowa State のJimmy Rogers が早期の成功を狙う：「2位で妥協するつもりはない」",
       "excerpt": "New Iowa State coach Jimmy Rogers is nothing if not confident",
-      "excerpt_ja": null,
+      "excerpt_ja": "Iowa Stateの新HCであるJimmy Rogersはその自信にあふれている。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -614,9 +614,9 @@
     {
       "kind": "injury",
       "title": "Who Are The NFL's Highest-Paid Players at Each Position?",
-      "title_ja": null,
+      "title_ja": "NFLの各ポジション最高年俸プレイヤーは誰か？",
       "excerpt": "Jalen Carter and Denzel Ward were the latest players to become the highest-paid stars at their respective position.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Jalen CarterとDenzel Wardが最新の各ポジション最高年俸プレイヤーとなった。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -630,9 +630,9 @@
     {
       "kind": "signing",
       "title": "Dolphins sign S Tanner Wall, claim CB Ahmari Harvey off waivers",
-      "title_ja": null,
+      "title_ja": "Dolphins がSのTanner Wallと契約、CBのAhmari Harveyをウェーバーで獲得",
       "excerpt": "The Dolphins doubled down on defensive back moves on Friday.",
-      "excerpt_ja": null,
+      "excerpt_ja": "Dolphinsは金曜日、ディフェンシブバック関連の動きを2つ実行。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -700,7 +700,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "NE",
       "player_name": null,
       "coach_name": null,
@@ -732,7 +732,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
@@ -1413,22 +1413,6 @@
     },
     {
       "kind": "other",
-      "title": "Bounce-back year or end of an era? Where Chiefs' dynasty stands entering 2026 NFL season",
-      "title_ja": null,
-      "excerpt": "Coming off a six-win season, Kansas City has more to prove now than ever before in the Patrick Mahomes era",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Wed, 05 Aug 2026 14:15:33 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-dynasty-stands-entering-2026-nfl-season/"
-    },
-    {
-      "kind": "other",
       "title": "2026 Hall of Fame Game Panthers vs. Cardinals NFL odds, trends: Carolina terrible preseason bet past 3 years",
       "title_ja": null,
       "excerpt": "Carolina faces Arizona in the Hall of Fame Game to kick off the NFL preseason",
@@ -1602,6 +1586,22 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 06 Aug 2026 00:26:53 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/andy-reid-travis-kelce-dad-bod-chiefs/"
+    },
+    {
+      "kind": "other",
+      "title": "2026 Pro Football Hall of Fame ceremony: Where to watch, TV, live stream",
+      "title_ja": null,
+      "excerpt": "Five players are set to join pro football's most exclusive fraternity",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 07 Aug 2026 21:53:27 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/2026-pro-football-hall-of-fame-ceremony-where-to-watch-tv-live-stream/"
     },
     {
       "kind": "other",

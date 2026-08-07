@@ -1,21 +1,62 @@
 {
   "version": 2,
-  "generated_at": "2026-08-06T12:53:53.415832+00:00",
+  "generated_at": "2026-08-07T01:29:02.047438+00:00",
   "time_of_day": "evening",
   "model": "claude-haiku-4-5-20251001",
   "skipped": false,
-  "source_item_count": 112,
+  "source_item_count": 109,
   "ranked_item_count": 25,
-  "source_fingerprint": "45b1871879ddbd89d25a1d71b6af26e40f6d5577",
+  "source_fingerprint": "2074424c97e33ba61cadb8927c51a47176abc397",
   "digest": {
-    "headline_en": "Digest generation failed",
-    "headline_ja": "ダイジェスト生成に失敗しました",
-    "lead_en": "Claude API call failed: Could not parse Claude JSON (Expecting value: line 45 column 22 (char 7023)); stop_reason=end_turn.",
-    "lead_ja": "Claude API 呼び出しに失敗しました: Could not parse Claude JSON (Expecting value: line 45 column 22 (char 7023)); stop_reason=end_turn.",
-    "body_en": "",
-    "body_ja": "",
-    "topics": [],
-    "watch_tomorrow_en": "",
-    "watch_tomorrow_ja": ""
+    "headline_en": "Running Back Market Explodes: Taylor, Gibbs Lock in Record Deals",
+    "headline_ja": "RB市場が沸騰：Taylor、Gibbsが過去最高額契約を締結",
+    "lead_en": "The NFL's elite running backs are cashing in. Jonathan Taylor (IND) and Jahmyr Gibbs (DET) both agreed to massive extensions Thursday, signaling that front offices finally recognize premium backs as long-term assets—and are willing to pay accordingly.",
+    "lead_ja": "NFLのエリートRBが大きく報酬を獲得している。Jonathan TaylorはColtsと、Jahmyr GibbsはLionsとそれぞれ大型契約延長に合意。この動きはGMたちが一流RBを長期資産として認識し、適正な報酬を与える姿勢を示しており、市場全体に大きな影響を与えている。",
+    "body_en": "The Jonathan Taylor deal with Indianapolis sets a new watermark: $44M through the Colts' commitment signals faith in continuity at the position despite the league's recent shift toward devaluing the backfield. Taylor, entering his fourth year, has been durable and productive enough to warrant this kind of security. Bijan Robinson and Jahmyr Gibbs have followed suit, with Gibbs inking a three-year extension worth $22.5M annually and $51.5M guaranteed—making him one of the highest-paid backs per year. The market correction matters because it suggests teams are reconsidering the \"don't pay RBs\" orthodoxy that dominated the mid-2010s.\n\nWhat's instructive here is the timing. All three deals came within days of each other, which rarely happens by accident. Agents clearly coordinated to create momentum and demonstrate that elite production at RB—especially when paired with volume and consistency—commands respect at the negotiating table. This directly counters the narrative that has defined the position since Le'Veon Bell's holdout and subsequent decline. Teams that drafted or acquired these backs early made bets on talent, and those bets are now paying off on the balance sheet.\n\nThe Colts' aggressive posture with Taylor also deserves scrutiny given their quarterback situation. With Anthony Richardson still unproven, leaning on a dominant ground game and play-action game feels like a calculated hedge. Indianapolis is betting Taylor's durability and vision out of the backfield can stabilize an offense that needs consistency. The timing of the Pharaoh Brown signing suggests the Colts are also shoring up depth and versatility in the pass game—a smart complementary move.\n\nDetroit's commitment to Gibbs mirrors their offensive philosophy under Ben Johnson's play-calling: use your best weapons relentlessly and trust them in space. Gibbs' receiving ability (he's a legitimate pass-catcher) makes him a different animal than a downhill thumper, which justifies the investment. The Lions clearly believe the modern game rewards backs who can line up flexibly and win on route trees—and they're putting money where that philosophy is.",
+    "body_ja": "Jonathan TaylorがColtsと結んだ契約は新しいベンチマークを設定した。$44Mの報酬は、RB市場が過去数年間軽視されてきた中でも、継続性への信頼を示している。Bijan RobinsonとJahmyr Gibbsも追随し、Gibbsは年平均$22.5M（保証金$51.5M）の3年間の延長契約を締結した。これは数年前の「RBに金を使うな」という教義に真っ向から対抗する動きであり、市場の重要な修正を示唆している。\n\nこうした契約が数日間に集中した背景には戦略がある。エージェント側が明らかに協調して、エリートレベルのRB生産性が交渉テーブルで尊重されることを証明しようとした。このシナリオはLe'Veon Bellのホールドアウト以降、RB評価が低迷してきた時代に対する直接的な対抗である。早期にこれらの選手をドラフトまたは獲得したチームは才能に賭けており、その賭けが給与表上で実を結んでいるのだ。\n\nColtsのTaylorへの積極的な姿勢は、彼らのQB状況を考えると特に興味深い。Anthony Richardsonの成熟度がまだ不確実な中、堅牢なランゲームとプレイアクションへの依存は計算された防御線に見える。Pharaoh Brownの獲得はパスゲームの奥行きと多様性を強化する賢い補完的な動きだ。\n\nDetroitのGibbsへのコミットメントはBen Johnsonの攻撃哲学を反映している：最高の武器を容赦なく活用し、スペースで信頼する。Gibbsのレシーバー能力（彼は本物のパスキャッチャー）はダウンヒル専門の選手とは異なるタイプであり、この投資を正当化する。Lionsは現代のゲームがフレキシブルにラインアップでき、ルートツリーで勝つRBに報酬を与えることを明確に信じており、その哲学に資金を投じている。",
+    "topics": [
+      {
+        "title_en": "The RB Contract Surge: Market Correction or Overreach?",
+        "title_ja": "RB契約ラッシュ：市場修正か過度な投資か？",
+        "body_en": "Three premium backs locked in mega-deals within 72 hours, signaling that the league's decade-long RB devaluation may be ending. However, teams must balance nostalgia for workhorse backs with the reality that even elite runners average only 3–4 years of peak productivity. The key difference: Taylor, Gibbs, and Robinson all offer receiving versatility, suggesting the market is really paying for multi-positional impact rather than pure ground gain.",
+        "body_ja": "わずか72時間で3人のプレミアム RBが大型契約を締結し、NFLが過去10年間続けたRB軽視が終わりに向かっている可能性を示唆している。ただし、チームは従来のワークホース RB への郷愁と、一流RBでさえ最盛期が3～4年しか続かない現実のバランスを取る必要がある。重要な点は、Taylor、Gibbs、Robinsonすべてがレシーバー適性を持っており、市場が純粋なランゲイン以上に多面的なインパクトに対価を支払っていることだ。",
+        "team_abbrev": "IND,DET",
+        "importance": "high"
+      },
+      {
+        "title_en": "Dallas Linebacker Injury Clouds Training Camp Depth",
+        "title_ja": "Dallas LB負傷はTraining Camp の深さに暗雲",
+        "body_en": "Cowboys rookie Jaishawn Barham left Thursday's practice with a groin injury—a common preseason concern, but one that tests Dallas's secondary depth during camp. If Barham misses significant time, opportunities open for backup linebackers to prove themselves before the regular season begins, a critical window for establishing roles.",
+        "body_ja": "Cowboys のルーキー Jaishawn Barham がグラインン負傷でThursday の練習を途中離脱。オフシーズンの一般的な懸念だが、Dallasのディフェンス深度に試練をもたらす。Barhamが長期間欠場すれば、バックアップ LB たちが本シーズン前に役割を証明する重要な機会が生まれる。",
+        "team_abbrev": "DAL",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Jacksonville's Linebacker Addition: Tavai Shores Up Middle",
+        "title_ja": "Jacksonville の LB 補強：Tavai がミドルを強化",
+        "body_en": "The Jaguars signed linebacker Jahlani Tavai, adding depth and experience to a defense that needs stability in the middle. Tavai brings familiarity with Doug Pederson's scheme from his time in Philadelphia and Detroit, providing a reliable veteran option as Jacksonville fine-tunes its defensive core ahead of a pivotal season.",
+        "body_ja": "Jaguars が LB Jahlani Tavai と契約。ディフェンスのミドルに安定性を必要とするチームに経験と深さを加える。Tavai はPhiladelphia や Detroit での経験から Doug Pederson のシステムに精通しており、Jacksonville が重要なシーズンに向けてディフェンスの中核を調整する際の信頼できるベテランオプションとなる。",
+        "team_abbrev": "JAX",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Indianapolis Doubles Down on Offensive Continuity",
+        "title_ja": "Indianapolis の攻撃陣の継続性への二重投資",
+        "body_en": "Beyond Taylor's extension, the Colts signed tight end Pharaoh Brown and committed to a ground-game-first approach. This strategy hedges against uncertainty at QB (Anthony Richardson) while building redundancy in the pass game. Indianapolis appears to be constructing an offense designed to win without relying on a franchise quarterback performing at an elite level.",
+        "body_ja": "Taylor の延長契約に加えて、Colts は TE Pharaoh Brown と契約し、ランゲーム優先戦略にコミットした。QB（Anthony Richardson）の不確実性に対する防御线となりながら、パスゲームに冗長性を構築する。Indianapolis は、フランチャイズ QB がエリートレベルで機能することに依存せずに勝利するように設計された攻撃陣を構築しているように見える。",
+        "team_abbrev": "IND",
+        "importance": "medium"
+      },
+      {
+        "title_en": "The Stefon Diggs-Commanders Story: Context and Fit Questions",
+        "title_ja": "Stefon Diggs–Commanders：文脈と適合性への疑問",
+        "body_en": "Stefon Diggs joining Washington pairs a four-time Pro Bowl receiver with Jayden Daniels in the DMV—a homecoming move that adds star power to a young offense. However, Diggs' injury history (ACL, hamstring) and declining snap counts in his final year with Buffalo warrant caution about sustainability. The fit is intriguing but not guaranteed to solve Washington's depth-chart woes at receiver.",
+        "body_ja": "Stefon Diggs がWashington と契約し、4度のプロボウル選出者を若き QB Jayden Daniels と組ませる。DMVへの帰郷は若い攻撃陣にスター性を加える。ただし、Diggs の負傷歴（ACL、ハムストリング）と Buffalo での最終年のスナップ数の減少は、持続可能性への警告を促す。適合は興味深いが、Washington のレシーバー陣のすべての問題を解決することは保証されていない。",
+        "team_abbrev": "WAS",
+        "importance": "low"
+      }
+    ],
+    "watch_tomorrow_en": "Monitor whether Barham's injury sidelines him beyond Thursday and how Dallas shuffles linebacker depth—and keep eyes on the Hall of Fame Game for early glimpses of young talent under real contact.",
+    "watch_tomorrow_ja": "Barham の負傷が Thursday 以降どの程度彼をサイドラインに置くのか、Dallas がLB陣をどう再編成するのか注視し、Hall of Fame Game で若い才能の実際のコンタクト下での動きに注目する。"
   }
 }

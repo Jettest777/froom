@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-08T04:59:46.743819+00:00",
+  "generated_at": "2026-08-08T05:50:48.549894+00:00",
   "count": 111,
   "items": [
     {
@@ -114,6 +114,22 @@
       "coach_name": null,
       "published_at": "Sat, 08 Aug 2026 01:47:09 +0000",
       "url": "https://sports.yahoo.com/articles/report-chicago-bears-another-roster-014709132.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Broncos lineman Matt Henningsen reportedly suffers season-ending Achilles tear",
+      "title_ja": null,
+      "excerpt": "Broncos defensive lineman Matt Henningsen has ran into some more bad luck.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 01:09:21 +0000",
+      "url": "https://sports.yahoo.com/articles/broncos-lineman-matt-henningsen-reportedly-010921996.html"
     },
     {
       "kind": "other",
@@ -516,22 +532,6 @@
       "url": "https://sports.yahoo.com/articles/49ers-hold-tryouts-3-centers-221632976.html"
     },
     {
-      "kind": "other",
-      "title": "John Harbaugh on Cam Skattebo leaving practice: Just working through the football shape part of it",
-      "title_ja": null,
-      "excerpt": "Running back Cam Skattebo made an early exit from Friday&#39;s practice, but Giants head coach John Harbaugh didn&#39;t show much concern about his condition after the workout.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 07 Aug 2026 22:13:50 +0000",
-      "url": "https://sports.yahoo.com/articles/john-harbaugh-cam-skattebo-leaving-221350794.html"
-    },
-    {
       "kind": "signing",
       "title": "Packers HC Matt LaFleur On Hot Seat Despite Extension? Colin Cowherd Explains",
       "title_ja": null,
@@ -620,7 +620,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "NYG",
       "player_name": null,
       "coach_name": null,

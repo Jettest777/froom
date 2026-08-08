@@ -1,14 +1,126 @@
 {
   "version": 1,
-  "generated_at": "2026-08-08T20:33:15.712767+00:00",
+  "generated_at": "2026-08-08T21:34:06.681444+00:00",
   "count": 103,
   "items": [
     {
+      "kind": "injury",
+      "title": "Panthers QB Haynes King week-to-week with hamstring injury after game-winning TD vs. Cardinals",
+      "title_ja": "Panthers のQB Haynes King が Cardinals 戦でゲームウイニングTDを決めた後、ハムストリングスの故障で週単位での離脱となった",
+      "excerpt": "The Panthers are expected to bring in another quarterback while King recovers.",
+      "excerpt_ja": "Panthers は King の回復期間中、別のQBを招聘する見通しだ",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 21:17:10 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/panthers-qb-haynes-king-week-to-week-with-hamstring-injury-after-game-winning-td-vs-cardinals-211710870.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Texans sign RB Owen Wright",
+      "title_ja": "Texans がRB Owen Wright と契約",
+      "excerpt": "The Texans brought a new player into their backfield mix on Saturday.",
+      "excerpt_ja": "Texans は土曜日、バックフィールドに新たな選手を加えた",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "HOU",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 21:08:36 +0000",
+      "url": "https://sports.yahoo.com/articles/texans-sign-rb-owen-wright-210836611.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Seahawks sign RB Justin Jones",
+      "title_ja": "Seahawks がRB Justin Jones と契約",
+      "excerpt": "The Seahawks announced a pair of roster moves on Saturday.",
+      "excerpt_ja": "Seahawks は土曜日、複数のロスターの変更を発表した",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 20:59:50 +0000",
+      "url": "https://sports.yahoo.com/articles/seahawks-sign-rb-justin-jones-205950124.html"
+    },
+    {
+      "kind": "other",
+      "title": "Adam Vinatieri jokes that Bill Belichick is at Jordon Hudson&#39;s cheerleading competition during Hall of Fame speech",
+      "title_ja": "Adam Vinatieri が殿堂入り演説で Bill Belichick が Jordon Hudson のチアリーディング大会に出場していることをジョークに",
+      "excerpt": "Vinatieri played six seasons for Belichick before he joined the Indianapolis Colts.",
+      "excerpt_ja": "Vinatieri は Belichick の下で6シーズンプレーした後、Indianapolis Colts に加入した",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 20:55:59 +0000",
+      "url": "https://sports.yahoo.com/college-football/article/adam-vinatieri-jokes-that-bill-belichick-is-at-jordon-hudsons-cheerleading-competition-during-hall-of-fame-speech-205559672.html"
+    },
+    {
+      "kind": "other",
+      "title": "Kyle Shanahan to coach 49ers-Titans preseason game",
+      "title_ja": "Kyle Shanahan が49ers-Titans プレシーズンゲームのコーチを務める",
+      "excerpt": "The 49ers head coach took the podium for the first time during training camp and confirmed he’s coaching this week",
+      "excerpt_ja": "49ers ヘッドコーチが訓練キャンプで初めてポディウムに立ち、今週のコーチングを確認した",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 20:41:30 +0000",
+      "url": "https://sports.yahoo.com/articles/kyle-shanahan-coach-49ers-titans-204130660.html"
+    },
+    {
+      "kind": "other",
+      "title": "Luther Burden limped to locker room during Bears practice",
+      "title_ja": "Luther Burden が Bears の練習中にロッカールームに足を引きずってリーグ",
+      "excerpt": "Bears wide receiver Luther Burden had to make an early exit from Saturday&#39;s practice at training camp.",
+      "excerpt_ja": "Bears のWR Luther Burden は訓練キャンプの土曜日の練習を途中で切り上げることになった",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 20:31:05 +0000",
+      "url": "https://sports.yahoo.com/articles/luther-burden-limped-locker-room-203105890.html"
+    },
+    {
+      "kind": "other",
+      "title": "Poll: NFL Ducks QB Predictions",
+      "title_ja": "投票：NFL Ducks QBの予想",
+      "excerpt": "What’s going on, y’all? With the NFL season rapidly approaching, I thought I’d ask y’all which #ProDuck quarterback will have the best season this year. Let us know! (Yes, I know Shough transferred, but I still claim him and root for him, so he’s on my list). As always, ‘Sco Ducks!",
+      "excerpt_ja": "皆さん、お疲れ。NFL シーズンが迫る中、今年最高のシーズンを過ごすと思う #ProDuck QBは誰か、皆さんの意見をお聞かせください。Shough がトランスファーしたことは承知していますが、今でも彼を応援しているので投票対象に入れています。いつもながら 'Sco Ducks!",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 20:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/poll-nfl-ducks-qb-predictions-203000284.html"
+    },
+    {
       "kind": "other",
       "title": "Sean McVay confirms Ty Simpson’s preseason plan",
-      "title_ja": "Sean McVay、Ty Simpsonのプリシーズン出場予定を確認",
+      "title_ja": "Sean McVay が Ty Simpson のプレシーズン出場計画を確認",
       "excerpt": "Ty Simpson will play, but Stetson Bennett may sit",
-      "excerpt_ja": "Ty Simpsonは出場する見通し、一方Stetson Bennettは出場しない可能性",
+      "excerpt_ja": "Ty Simpson はプレーするが、Stetson Bennett は出場しない可能性がある",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -22,9 +134,9 @@
     {
       "kind": "rumor",
       "title": "Stephen Jones offers glimpse where Cowboys could add to roster",
-      "title_ja": "Stephen Jones、Cowboysのロースター補強の可能性について言及",
+      "title_ja": "Stephen Jones がCowboys のロスター補強の可能性を示唆",
       "excerpt": "Stephen Jones offered a clue as to where the Cowboys could add to the roster",
-      "excerpt_ja": "Stephen Jones、Cowboysがどこでロースター補強できるかのヒントを提示",
+      "excerpt_ja": "Stephen Jones は Cowboys がロスター補強できるポジションについてのヒントを示した",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +150,9 @@
     {
       "kind": "injury",
       "title": "Sean McVay praises defense for suffocating offense in practice",
-      "title_ja": "Sean McVay、練習でディフェンスがオフェンスを完全に抑え込んだことを称賛",
+      "title_ja": "Sean McVay がディフェンスのオフェンス封じ込めを称賛",
       "excerpt": "Has the Rams defense surpassed their offense in talent?",
-      "excerpt_ja": "Ramsのディフェンスはオフェンスをタレント面で上回ったのか",
+      "excerpt_ja": "Rams のディフェンスはオフェンスのタレント面で勝っているのか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +166,9 @@
     {
       "kind": "other",
       "title": "The differences between Raiders kickers Matt Gay and Kansei Matsuzawa",
-      "title_ja": "Raidersのキッカー、Matt GayとKansei Matsuzawaの違い",
+      "title_ja": "Raiders のキッカー Matt Gay と Kansei Matsuzawa の違い",
       "excerpt": "Training camp battle features proven veteran savvy vs. youth, accuracy with “Tokyo Toe” having a shot at at winning job",
-      "excerpt_ja": "トレーニングキャンプの争いは経験豊富なベテランの技術と若手の台頭が対立。\"Tokyo Toe\"の異名を持つ選手がジョブ獲得を狙う",
+      "excerpt_ja": "訓練キャンプでベテランの経験vs.若さ、『Tokyo Toe』の精度がジョブ獲得のチャンスを秘めている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +182,9 @@
     {
       "kind": "other",
       "title": "Sauce Gardner exhibits ‘no excuses’ mentality as Colts defense denies offense inside red zone",
-      "title_ja": "Sauce Gardner、\"言い訳なし\"のメンタリティを発揮、Coltsディフェンスはレッドゾーン内でオフェンスを封じ込める",
+      "title_ja": "Sauce Gardner が『言い訳なし』のメンタリティを見せる中、Colts ディフェンスがレッドゾーン内でオフェンスを阻止",
       "excerpt": "Last season, Gardner allowed just 22 completions on 45 targets (49%), which was the tenth-lowest completion rate among qualified cornerbacks.",
-      "excerpt_ja": "昨シーズン、Gardnerは45本のターゲットに対して22本の完成を許し、完成率は49%。これは適格コーナーバックの中で10番目に低い成績だった",
+      "excerpt_ja": "昨シーズン Gardner は45パスの内わずか22コンプリーションを許し、コンプリーション率49%は適格なコーナーバックの中で10番目に低い数字だった",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +198,9 @@
     {
       "kind": "other",
       "title": "Is Lane Johnson retiring? Eagles OT says 2026 is &#39;probably my last year&#39;",
-      "title_ja": "Lane Johnsonは引退するのか？Eagles OTは2026年が「おそらく最後の年になるだろう」と発言",
+      "title_ja": "Lane Johnson は引退するのか。Eagles のOTが2026年は『おそらく最後の年』だと明言",
       "excerpt": "Lane Johnson is preparing for his 14th season with the Philadelphia Eagles to be his last.",
-      "excerpt_ja": "Lane Johnsonは2026年シーズン、Philadelphia Eaglesでの14シーズン目が最後になる可能性に向けて準備を進めている",
+      "excerpt_ja": "Lane Johnson は Philadelphia Eagles での14シーズン目が最後になると見込んでいる",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +214,9 @@
     {
       "kind": "injury",
       "title": "49ers coach Kyle Shanahan says he plans to lead team in first preseason game vs. Titans",
-      "title_ja": "49ersのKyle Shanahan、Titansとの第1プリシーズンゲームで指揮を執る予定と明言",
+      "title_ja": "49ers のコーチ Kyle Shanahan は Titans との初プレシーズンゲームでチームを率いる計画だと述べた",
       "excerpt": "Shanahan has been sidelined due to injuries sustained in a July 14 car accident.",
-      "excerpt_ja": "Shanahанは7月14日の交通事故で負った怪我により、ここまで出場を見合わせていた",
+      "excerpt_ja": "Shanahan は7月14日の自動車事故による怪我で離脱していた",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +230,9 @@
     {
       "kind": "injury",
       "title": "Ravens WR Zay Flowers ‘day-to-day’ with quad injury",
-      "title_ja": "Ravens WR Zay Flowers、大腿四頭筋損傷で\"day-to-day\"扱い",
+      "title_ja": "Ravens のWR Zay Flowers が大腿部の故障で『day-to-day』",
       "excerpt": "The Ravens had a minor scare when Zay Flowers went down on Saturday, but the Pro Bowl wideout avoided a major injury.",
-      "excerpt_ja": "土曜日にZay Flowersが倒れた際、Ravensは一瞬ヒヤリとしたが、Pro Bowlワイドレシーバーは重傷を避けた",
+      "excerpt_ja": "Ravens は土曜日に Zay Flowers が倒れた時に一瞬ヒヤッとしたが、Pro Bowl レベルのワイドレシーバーは大きな怪我を避けられた",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +246,9 @@
     {
       "kind": "other",
       "title": "Eagles &#39;going to lean into&#39; Tush Push in 2026, Sean Mannion says",
-      "title_ja": "Eagles、2026年は\"Tush Push\"を活用する構え、Sean Mannionが言及",
+      "title_ja": "Eagles が2026年に『Tush Push を活用する』と Sean Mannion が語る",
       "excerpt": "The &#39;Tush Push&#39; has been one of the Eagles&#39; best plays over the last five years. Sean Mannion plans to lean on it in his first season as Philly&#39;s OC.",
-      "excerpt_ja": "\"Tush Push\"はEaglesがここ5年で最も頼りにしてきたプレーの一つ。新しいOC Sean Mannionは初年度でこれに頼る計画だ",
+      "excerpt_ja": "'Tush Push' はここ5年間で Eagles の最高のプレーの1つだ。Sean Mannion はフィラデルフィアのオフェンシブコーディネーター初年度でこれに頼るつもりだ",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +262,9 @@
     {
       "kind": "other",
       "title": "Patrick Mahomes says his left knee &quot;feels great&quot;",
-      "title_ja": "Patrick Mahomes、左膝は\"完璧な状態\"と語る",
+      "title_ja": "Patrick Mahomes が左膝について『良好だ』とコメント",
       "excerpt": "Two weeks into 2026 training camp, Chiefs quarterback Patrick Mahomes is moving closer to being ready to go five weeks from Monday night.",
-      "excerpt_ja": "2026年トレーニングキャンプ2週間目、Chiefs QB Patrick Mahomesはマンデーナイトから5週間後に向けて準備が整いつつある",
+      "excerpt_ja": "訓練キャンプ開始から2週間が経ち、Chiefs のQB Patrick Mahomes は月曜夜から5週間後のゲーム出場に向けて準備を進めている",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +278,9 @@
     {
       "kind": "injury",
       "title": "2026 Pro Football Hall of Fame induction: Drew Brees, Larry Fitzgerald, new inductees share emotional, inspirational words",
-      "title_ja": "2026年Pro Football Hall of Fame表彰式：Drew Brees、Larry Fitzgerald、新しい殿堂入りメンバーが感動的で鼓舞される言葉を述べ合う",
+      "title_ja": "2026年プロフットボール殿堂入り式：Drew Brees、Larry Fitzgerald、新しい殿堂入り者たちが感動的で鼓舞的なスピーチを披露",
       "excerpt": "Class of 2026 Hall of Fame enshrinees Drew Brees, Larry Fitzgerald, Luke Kuechly, Roger Craig and Adam Vinatieri shared their stories and thanks in emotional induction speeches.",
-      "excerpt_ja": "2026年クラスの殿堂入りメンバーであるDrew Brees、Larry Fitzgerald、Luke Kuechly、Roger Craig、Adam Vinatieri は表彰式で各自の物語と感謝を感動的なスピーチで語った",
+      "excerpt_ja": "2026年度殿堂入り者の Drew Brees、Larry Fitzgerald、Luke Kuechly、Roger Craig、Adam Vinatieri が感動的な入式演説で自らの物語と感謝の言葉を述べた",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +294,9 @@
     {
       "kind": "other",
       "title": "What we’ll be watching at Seahawks Football Fest 2026",
-      "title_ja": "Seahawks Football Fest 2026で注目すべきポイント",
+      "title_ja": "Seahawks Football Fest 2026 で注目すべき点",
       "excerpt": "Previewing Saturday night’s annual Seahawks Football Fest at Lumen Field, and what to watch for.",
-      "excerpt_ja": "土曜夜のLumen Fieldでの恒例Seahawks Football Festをプレビュー、注目すべき点を紹介",
+      "excerpt_ja": "Lumen Field での土曜夜の恒例 Seahawks Football Fest のプレビューとその注目ポイント",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +310,9 @@
     {
       "kind": "injury",
       "title": "Iconic 49ers RB Roger Craig announces he has vascular dementia during Hall of Fame speech: &#39;This diagnosis doesn&#39;t define me&#39;",
-      "title_ja": "49ersの象徴的RB Roger Craig、Hall of Fame表彰式で脳血管性認知症の診断を発表：\"この診断が俺の全てを決めるわけではない\"",
+      "title_ja": "象徴的な49ers のRB Roger Craig が殿堂入り演説で脳血管認知症の診断を発表：『この診断は私を定義しない』",
       "excerpt": "Craig said his doctors believe the dementia may be related, at least in part, to the concussions he suffered during his 11-season NFL career.",
-      "excerpt_ja": "Craigは医師から、認知症がNFLキャリア11シーズン中に負った脳震盪に関連している可能性があると告げられたという",
+      "excerpt_ja": "Craig の医師たちは、11シーズンの NFL キャリア中に彼が被った脳震盪が少なくとも一部これに関連していると考えているという",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +326,9 @@
     {
       "kind": "other",
       "title": "New left tackle, nickel, d-line rotation, and more Bears practice notes",
-      "title_ja": "新しいLT、ニッケルパッケージ、Dラインのローテーション、その他Bears練習ノート",
+      "title_ja": "新しいLT、ニッケルパッケージ、ディフェンスラインローテーション、ほかにも Bears の練習ノート",
       "excerpt": "WCG had a presence at practice today, as Lester Wiltfong, Bryan Orenchuk, and myself were all there. The following observations are somewhat combined from all of us, since we sat together and kept up a running commentary most of the time. Offense Defense Special Teams The Bears didn’t do a ton of sp",
-      "excerpt_ja": "WCGは本日の練習に出席し、Lester Wiltfong、Bryan Orenchuk、および筆者全員が現地にいた。以下の観察は、一緒に座りながらコメントを重ねた複数人の意見を一部統合したものである。オフェンス ディフェンス スペシャルチーム Bearsは特別な……",
+      "excerpt_ja": "WCG は本日の練習に参加しており、Lester Wiltfong、Bryan Orenchuk、そして私が全員出席していた。以下の観察は私たちが一緒に座ってほぼずっと走り書きコメントを続けていたため、ある程度統合されたものだ。オフェンス ディフェンス スペシャルチーム Bears は多くのsp",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +342,9 @@
     {
       "kind": "rumor",
       "title": "Cleveland Browns closing in on QB decision for preseason opener",
-      "title_ja": "Cleveland Browns、プリシーズン開幕戦のQB選別で大詰めに",
+      "title_ja": "Cleveland Browns がプレシーズンオープナーのQB決定に近づいている",
       "excerpt": "Will it be Deshaun Watson or Shedeur Sanders against the Bears? Decision could come on Monday.",
-      "excerpt_ja": "Deshaun WatsonかShedeur Sandersか、Bears戦に誰を起用するか。決定は月曜日にも下る可能性",
+      "excerpt_ja": "Deshaun Watson か Shedeur Sanders か、Bears 戦でどちらが先発するか。決定は月曜日にも下る可能性がある",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +358,9 @@
     {
       "kind": "other",
       "title": "Cowboys 2026 training camp practice #7 live thread: Updates and open discussion",
-      "title_ja": "Cowboys 2026トレーニングキャンプ練習第7日：更新とオープンディスカッション",
+      "title_ja": "Cowboys 2026訓練キャンプ第7日目ライブスレッド：アップデートとオープン討論",
       "excerpt": "Our Dallas Cowboys training camp seventh open thread of the season.",
-      "excerpt_ja": "Dallas Cowboysトレーニングキャンプ、シーズン第7日のオープンスレッド",
+      "excerpt_ja": "Dallas Cowboys の訓練キャンプ今シーズン第7回のオープンスレッド",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +374,9 @@
     {
       "kind": "other",
       "title": "Roger Craig reveals vascular dementia diagnosis during Hall of Fame speech",
-      "title_ja": "Roger Craig、Hall of Fame表彰式で脳血管性認知症の診断を明かす",
+      "title_ja": "Roger Craig が殿堂入り演説で脳血管認知症の診断を明かす",
       "excerpt": "San Francisco 49ers great and 2026 Hall of Fame inductee Roger Craig revealed that he has been diagnosed with early stage vascular dementia.",
-      "excerpt_ja": "San Francisco 49ersの伝説的プレーヤーで2026 Hall of Fameニューカマーの Roger Craigは、早期脳血管性認知症と診断されたことを明らかにした",
+      "excerpt_ja": "San Francisco 49ers の名物選手で2026年殿堂入り者の Roger Craig は初期段階の脳血管認知症と診断されたことを明かした",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -278,9 +390,9 @@
     {
       "kind": "other",
       "title": "Adam Vinatieri pokes fun at Bill Belichick in Hall of Fame speech",
-      "title_ja": "Adam Vinatieri、Hall of Fame表彰式でBill Belichickを冗談の的に",
+      "title_ja": "Adam Vinatieri が殿堂入り演説で Bill Belichick をかでねかす",
       "excerpt": "Former Patriots and Colts kicker Adam Vinatieri entered the Hall of Fame on the same day that former Patriots and Browns coach Bill Belichick should have been getting his own bronze bust.",
-      "excerpt_ja": "元Patriots・Coltsのキッカー Adam Vinatieri が殿堂入りした同じ日に、元Patriots・Browns HCの Bill Belichick が自分のブロンズバストを除幕されるべきだったはずだ",
+      "excerpt_ja": "元 Patriots と Colts のキッカー Adam Vinatieri が殿堂入りした同じ日に、元 Patriots と Browns のコーチ Bill Belichick が自らのブロンズ胸像を受け取っていてしかるべき日だったはずだ",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +406,9 @@
     {
       "kind": "other",
       "title": "Tom Brady, Peyton Manning, Pat McAfee roasted during Pro Football Hall of Fame speech",
-      "title_ja": "Tom Brady、Peyton Manning、Pat McAfeeが Pro Football Hall of Fame表彰式で酷評された",
+      "title_ja": "Tom Brady、Peyton Manning、Pat McAfee がプロフットボール殿堂入り演説で槍玉に上げられる",
       "excerpt": "From Bill Belichick to Tom Brady, nobody was safe during Adam Vinatieri&#39;s Hall of Fame speech. Pat McAfee was the butt of the raunchiest joke.",
-      "excerpt_ja": "Bill Belichickからtom Bradyまで、Adam Vinatierのがまで全員が矢面に立たされた。Pat McAfeeが最も露骨な冗談の標的だった",
+      "excerpt_ja": "Bill Belichick から Tom Brady まで、Adam Vinatieri の殿堂入り演説では誰もが安全ではなかった。Pat McAfee は最も下品なジョークの的となった",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -310,9 +422,9 @@
     {
       "kind": "other",
       "title": "Kirk Cousins, Maxx Crosby held out of Raiders practice after fight. What to know",
-      "title_ja": "Kirk CousinsとMaxx Crosby、乱闘後のRaidersプラクティスから外される。詳細は以下の通り",
+      "title_ja": "Kirk Cousins と Maxx Crosby が喧嘩後に Raiders 練習から除外。知るべきポイント",
       "excerpt": "Kirk Cousins and Maxx Crosby were held out of Raiders practice a day after fighting during on-field drills. Klint Kubiak explained his decision.",
-      "excerpt_ja": "Kirk CousinsとMaxx Crosbyは、オンフィールドドリル中の乱闘の翌日、Raidersプラクティスから除外された。Klint Kubiakが判断を説明した",
+      "excerpt_ja": "Kirk Cousins と Maxx Crosby はオンフィールドドリル中の喧嘩の翌日、Raiders 練習から除外された。Klint Kubiak がこの決定について説明した",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -326,9 +438,9 @@
     {
       "kind": "injury",
       "title": "Survey results: Giants fans are feeling the optimism",
-      "title_ja": "アンケート結果：Giants ファンは楽観的気分",
+      "title_ja": "調査結果：Giants ファンが楽観的な気分",
       "excerpt": "Are NY Giants fans right to be optimistic about their team?",
-      "excerpt_ja": "NY Giantsファンは自分たちのチームについて楽観視するべきなのか",
+      "excerpt_ja": "NY Giants のファンたちは自チームについて楽観的になるべきなのか",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -341,90 +453,10 @@
     },
     {
       "kind": "other",
-      "title": "Chiefs training camp notebook Day 10: Tempers flare after long week",
-      "title_ja": "Chiefs トレーニングキャンプノート Day 10：長い1週間の後、感情が高ぶる",
-      "excerpt": "The chippiest practice of Kansas City’s camp so far came on the final of six-straight practice days.",
-      "excerpt_ja": "Kansas Cityのキャンプで最も雰囲気の悪い練習が、6日連続練習の最終日にやってきた",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 18:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/chiefs-training-camp-notebook-day-180000526.html"
-    },
-    {
-      "kind": "other",
-      "title": "2026 Broncos training camp: Day 8 live updates",
-      "title_ja": "2026 Broncosトレーニングキャンプ：Day 8 ライブアップデート",
-      "excerpt": "The Denver Broncos have taken the field for Day 8 of publicly open training camp. Join the discussion on today’s happenings here in the comments section.",
-      "excerpt_ja": "Denver Broncosが公開トレーニングキャンプの8日目のフィールドに登場。コメント欄でディスカッションに参加してください",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 17:57:11 +0000",
-      "url": "https://sports.yahoo.com/articles/2026-broncos-training-camp-day-160000977.html"
-    },
-    {
-      "kind": "other",
-      "title": "Adam Vinatieri roasts Bill Belichick, cheerleader girlfriend in Hall of Fame speech",
-      "title_ja": "Adam Vinatieri、Hall of Fame表彰式でBill Belichickとチアリーダーのガールフレンドを酷評",
-      "excerpt": "Adam Vinatieri took a pointed shot at Bill Belichick and his girlfriend during his Hall of Fame induction speech before complimenting his former coach.",
-      "excerpt_ja": "Adam Vinatieri は Hall of Fame表彰式で Bill Belichick と彼のガールフレンドへの辛辣な発言をした後、元HCを褒め称えた",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 17:31:08 +0000",
-      "url": "https://sports.yahoo.com/articles/adam-vinatieri-roasts-bill-belichick-173108126.html"
-    },
-    {
-      "kind": "other",
-      "title": "Dak Prescott has been the offensive star early in training camp",
-      "title_ja": "Dak Prescott、トレーニングキャンプでオフェンスのスターぶりを発揮",
-      "excerpt": "Dak Prescott is looking sharp in training camp.",
-      "excerpt_ja": "Dak Prescottはトレーニングキャンプで好調なプレーを見せている",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 17:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/dak-prescott-offensive-star-early-173000010.html"
-    },
-    {
-      "kind": "injury",
-      "title": "NY Giants training camp, practice No. 10: Practice reports, news, updates",
-      "title_ja": "NY Giantsトレーニングキャンプ、練習第10日：プラクティスレポート、ニュース、アップデート",
-      "excerpt": "The Giants are in pads for their final practice in West Virginia",
-      "excerpt_ja": "Giantsはウェストバージニア州での最後の練習でパッドを着用している",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 17:21:28 +0000",
-      "url": "https://sports.yahoo.com/articles/ny-giants-training-camp-practice-140000407.html"
-    },
-    {
-      "kind": "other",
       "title": "Raiders&#39; Kirk Cousins, Maxx Crosby held out of practice after violating team rules for fighting, Klint Kubiak says",
-      "title_ja": "Raiders の Kirk Cousins、Maxx Crosby は乱闘によるチームルール違反でプラクティスから除外、Klint Kubiakが明言",
+      "title_ja": "Raiders の Kirk Cousins、Maxx Crosby が喧嘩でチームルール違反により練習から除外、Klint Kubiak が明かす",
       "excerpt": "Kubiak isn&#39;t cutting his top players any slack.",
-      "excerpt_ja": "Kubiakはトップ選手にも特別扱いしていない",
+      "excerpt_ja": "Kubiak はトップクラスの選手にもスラックを切らない",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -436,43 +468,107 @@
       "url": "https://sports.yahoo.com/nfl/article/raiders-kirk-cousins-maxx-crosby-held-out-of-practice-after-violating-team-rules-for-fighting-klint-kubiak-says-171652193.html"
     },
     {
-      "kind": "injury",
-      "title": "Laremy Tunsil to be evaluated after leaving Saturday&#39;s practice",
-      "title_ja": "Laremy Tunsil、土曜日の練習後の怪我で評価を受ける予定",
-      "excerpt": "The Commanders are waiting for word on left tackle Laremy Tunsil&#39;s condition after he picked up an injury on Saturday.",
-      "excerpt_ja": "Commandersは土曜日に怪我を負ったLT Laremy Tunsil の状態について情報を待っている",
+      "kind": "signing",
+      "title": "Texans sign RB Owen Wright",
+      "title_ja": "Texans がRB Owen Wright と契約",
+      "excerpt": "The Texans brought a new player into their backfield mix on Saturday.",
+      "excerpt_ja": "Texans は土曜日、バックフィールドに新たな選手を加えた",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "WAS",
+      "reliability": 0.54,
+      "team_abbrev": "HOU",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 17:12:50 +0000",
-      "url": "https://sports.yahoo.com/articles/laremy-tunsil-evaluated-leaving-saturdays-171250439.html"
+      "published_at": "Sat, 08 Aug 2026 17:08:36 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-rb-owen-wright"
+    },
+    {
+      "kind": "signing",
+      "title": "Seahawks sign RB Justin Jones",
+      "title_ja": "Seahawks がRB Justin Jones と契約",
+      "excerpt": "The Seahawks announced a pair of roster moves on Saturday.",
+      "excerpt_ja": "Seahawks は土曜日、複数のロスターの変更を発表した",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 16:59:50 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-rb-justin-jones"
+    },
+    {
+      "kind": "presser",
+      "title": "Kyle Shanahan says his Tesla was on autopilot before accident",
+      "title_ja": "Kyle Shanahan が事故前に Tesla のオートパイロットが作動していたと述べる",
+      "excerpt": "Shanahan said he doesn't know whether it malfunctioned or he accidentally turned it off.",
+      "excerpt_ja": "Shanahan はそれがマルファンクションしたのか、自分が誤ってオフにしたのかは不明だと述べた",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 16:59:03 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-says-his-tesla-was-on-autopilot-before-accident"
+    },
+    {
+      "kind": "injury",
+      "title": "Cardinals put S Joey Blount, TE Kenny Yeboah on injured reserve",
+      "title_ja": "Cardinals がS Joey Blount とTE Kenny Yeboah をIR に配置",
+      "excerpt": "The Cardinals placed a couple of players on injured reserve on Saturday.",
+      "excerpt_ja": "Cardinals は土曜日に複数の選手をIRに配置した",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 16:52:20 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-put-s-joey-blount-te-kenny-yeboah-on-injured-reserve"
+    },
+    {
+      "kind": "rumor",
+      "title": "Browns change plans Saturday, give Deshaun Watson unexpected first-team reps",
+      "title_ja": "Browns が土曜日に計画を変更、Deshaun Watson に予期しない1番手チームの出場時間を供与",
+      "excerpt": "The Browns have been rotating quarterbacks Deshaun Watson and Shedeur Sanders with the first team from day to day at training camp, so any deviation from that schedule is sure to grab attention.",
+      "excerpt_ja": "Browns は訓練キャンプで日替わりで Deshaun Watson と Shedeur Sanders をファーストチームでローテーションしてきたため、そのスケジュールからの逸脱は注目を集めるに値する",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 08 Aug 2026 16:42:27 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-change-plans-saturday-give-deshaun-watson-unexpected-first-team-reps"
     },
     {
       "kind": "other",
-      "title": "Raiders hold Kirk Cousins, Maxx Crosby out of Saturday&#39;s practice due to Friday&#39;s fight",
-      "title_ja": "Raiders、金曜日の乱闘を受けて土曜日のプラクティスから Kirk Cousins、Maxx Crosby を除外",
-      "excerpt": "Raiders quarterback Kirk Cousins and defensive end Maxx Crosby got into a scuffle during practice on Friday and they received some extra time to cool off on Saturday.",
-      "excerpt_ja": "Raiders QB Kirk CousinsとDE Maxx Crosbyは金曜日の練習中に口論になり、土曜日はクールダウンの時間をもらった",
+      "title": "Luther Burden limped to locker room during Bears practice",
+      "title_ja": "Luther Burden が Bears の練習中にロッカールームに足を引きずってリーグ",
+      "excerpt": "Bears wide receiver Luther Burden had to make an early exit from Saturday's practice at training camp.",
+      "excerpt_ja": "Bears のWR Luther Burden は訓練キャンプの土曜日の練習を途中で切り上げることになった",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
+      "reliability": 0.54,
+      "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 17:05:29 +0000",
-      "url": "https://sports.yahoo.com/articles/raiders-hold-kirk-cousins-maxx-170529029.html"
+      "published_at": "Sat, 08 Aug 2026 16:31:05 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/luther-burden-limped-to-locker-room-during-bears-practice"
     },
     {
       "kind": "other",
       "title": "Aaron Glenn: David Bailey \"fine\" after hurting ankle Saturday",
-      "title_ja": "Aaron Glenn：David Bailey は土曜日の足首損傷後も\"問題ない\"",
+      "title_ja": "Aaron Glenn：David Bailey は土曜日に足首を痛めた後も『問題ない』",
       "excerpt": "Linebacker David Bailey gave the Jets a scare at Sautrday's practice, but it was only a momentary one.",
-      "excerpt_ja": "LB David Baileyは土曜日のプラクティスでJetsを一瞬ヒヤリとさせたが、それは一時的なものだった",
+      "excerpt_ja": "LB David Bailey は土曜日の練習で Jets にヒヤッとさせたが、ほんの一瞬の出来事だった",
       "sources": [
         "Pro Football Talk"
       ],
@@ -486,9 +582,9 @@
     {
       "kind": "other",
       "title": "Patrick Mahomes says his left knee \"feels great\"",
-      "title_ja": "Patrick Mahomes、左膝は\"完璧な状態\"と語る",
+      "title_ja": "Patrick Mahomes が左膝について『良好だ』とコメント",
       "excerpt": "Two weeks into 2026 training camp, Chiefs quarterback Patrick Mahomes is moving closer to being ready to go five weeks from Monday night.",
-      "excerpt_ja": "2026年トレーニングキャンプ2週間目、Chiefs QB Patrick Mahomesはマンデーナイトから5週間後に向けて準備が整いつつある",
+      "excerpt_ja": "訓練キャンプ開始から2週間が経ち、Chiefs のQB Patrick Mahomes は月曜夜から5週間後のゲーム出場に向けて準備を進めている",
       "sources": [
         "Pro Football Talk"
       ],
@@ -502,9 +598,9 @@
     {
       "kind": "signing",
       "title": "Drew Brees' Hall of Fame speech focused on Sean Payton, city of New Orleans",
-      "title_ja": "Drew Brees の Hall of Fame表彰式スピーチは Sean Payton とニューオーリンズの街に焦点",
+      "title_ja": "Drew Brees の殿堂入り演説は Sean Payton とNew Orleans の街にフォーカス",
       "excerpt": "Brees signed with the Saints in 2006 as New Orleans was healing from Hurricane Katrina.",
-      "excerpt_ja": "Breesは2006年、ハリケーン・カトリーナからの復興途上にあるニューオーリンズのSaintsに加入した",
+      "excerpt_ja": "Brees は New Orleans がハリケーン・カトリーナから回復していた2006年に Saints と契約した",
       "sources": [
         "Pro Football Talk"
       ],
@@ -518,9 +614,9 @@
     {
       "kind": "other",
       "title": "Adam Vinatieri pokes fun at Bill Belichick in Hall of Fame speech",
-      "title_ja": "Adam Vinatieri、Hall of Fame表彰式でBill Belichickを冗談の的に",
+      "title_ja": "Adam Vinatieri が殿堂入り演説で Bill Belichick をかでねかす",
       "excerpt": "Former Patriots and Colts kicker Adam Vinatieri entered the Hall of Fame on the same day that former Patriots and Browns coach Bill Belichick should have been getting his own bronze bust.",
-      "excerpt_ja": "元Patriots・Coltsのキッカー Adam Vinatieri が殿堂入りした同じ日に、元Patriots・Browns HCの Bill Belichick が自分のブロンズバストを除幕されるべきだったはずだ",
+      "excerpt_ja": "元 Patriots と Colts のキッカー Adam Vinatieri が殿堂入りした同じ日に、元 Patriots と Browns のコーチ Bill Belichick が自らのブロンズ胸像を受け取っていてしかるべき日だったはずだ",
       "sources": [
         "Pro Football Talk"
       ],
@@ -534,9 +630,9 @@
     {
       "kind": "other",
       "title": "Jorge Messi, Lionel Messi's Father And Longtime Agent, Dies At 68",
-      "title_ja": "Jorge Messi、Lionel Messiの父で長年のエージェント、68歳で逝去",
+      "title_ja": "Jorge Messi、Lionel Messi の父親で長年のエージェント、68歳で死去",
       "excerpt": "Jorge Messi, the father of soccer superstar and Argentina captain Lionel Messi, has died.",
-      "excerpt_ja": "サッカースーパースター兼アルゼンチン代表キャプテンのLionel Messiの父Jorge Messiが亡くなった",
+      "excerpt_ja": "サッカーの大スター、アルゼンチン代表キャプテンの Lionel Messi の父親 Jorge Messi が亡くなった",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -550,9 +646,9 @@
     {
       "kind": "presser",
       "title": "Roger Craig reveals dementia diagnosis in his Hall of Fame speech: This diagnosis doesn't define me",
-      "title_ja": "Roger Craig、Hall of Fame表彰式で認知症診断を明かす：\"この診断が俺を定義するわけではない\"",
+      "title_ja": null,
       "excerpt": "The 66-year-old former 49ers running back said in his 10-minute speech he hopes telling his story can help someone else.",
-      "excerpt_ja": "66歳の元49ers RBは10分間のスピーチで、自分の経験を話すことで誰かの助けになれば良いと述べた",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -566,9 +662,9 @@
     {
       "kind": "other",
       "title": "Protect College Sports Act fails to pass Senate before recess",
-      "title_ja": "Protect College Sports Act、休会前の上院投票を通過できず",
+      "title_ja": null,
       "excerpt": "The Protect College Sports Act has lost the latest game of beat the clock.",
-      "excerpt_ja": "Protect College Sports Actは最新のタイムレース ゲームに敗れた",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -582,9 +678,9 @@
     {
       "kind": "other",
       "title": "2026 MLB Division Winner Odds: Astros, Red Sox, White Sox Thriving",
-      "title_ja": "2026年 MLB地区優勝オッズ：Astros、Red Sox、White Sox が好調",
+      "title_ja": null,
       "excerpt": "See the latest division winner odds, with a few teams performing well above expectations.",
-      "excerpt_ja": "最新の地区優勝オッズを確認、予想以上に好調なチームが複数ある",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -598,9 +694,9 @@
     {
       "kind": "injury",
       "title": "Raiders Suspend Kirk Cousins, Maxx Crosby From Team Drills After Practice Fight",
-      "title_ja": "Raiders、Kirk Cousins と Maxx Crosby をプラクティスファイト後チームドリルから休止処分",
+      "title_ja": null,
       "excerpt": "Raiders QB Kirk Cousins and star DE Maxx Crosby were suspended from team drills at practice Saturday following their fight the day before.",
-      "excerpt_ja": "Raiders QB Kirk CousinsとスターDE Maxx Crosbyは、前日の乱闘を受けて土曜日のプラクティスのチームドリルから休止処分となった",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -614,9 +710,9 @@
     {
       "kind": "other",
       "title": "Luke Kuechly: There's no way to measure what the game of football has given me",
-      "title_ja": "Luke Kuechly：フットボールが俺に与えてくれたものを測ることはできない",
+      "title_ja": null,
       "excerpt": "Luke Kuechly, at 35, became the second-youngest Pro Football Hall of Fame inductee ever on Saturday.",
-      "excerpt_ja": "35歳のLuke Kuechlyは土曜日、Pro Football Hall of Fameの歴史上2番目に若い殿堂入りメンバーとなった",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -630,9 +726,9 @@
     {
       "kind": "other",
       "title": "Zay Flowers day-to-day with a quad contusion",
-      "title_ja": "Zay Flowers、大腿四頭筋挫傷で\"day-to-day\"扱い",
+      "title_ja": null,
       "excerpt": "Ravens head coach Jesse Minter gave an update on wide receiver Zay Flowers after Flowers left Saturday's practice early.",
-      "excerpt_ja": "Ravens HC Jesse Minterは土曜日の練習を早退したWR Zay Flowersについて更新情報を提供した",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -964,22 +1060,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/larry-fitzgerald-refuses-to-call-himself-retired"
     },
     {
-      "kind": "injury",
-      "title": "Matt LaFleur bans backflips after Christian Watson and MarShawn Lloyd celebrations",
-      "title_ja": null,
-      "excerpt": "The Packers' head coach said he doesn't want to see any more backflips after two oft-injured players did them.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 03:40:32 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-bans-backflips-after-christian-watson-and-marshawn-lloyd-celebrations"
-    },
-    {
       "kind": "other",
       "title": "LIV Golf New York Round 2 Recap: Joaquin Niemann And Torque In Cruise Control",
       "title_ja": null,
@@ -1012,22 +1092,6 @@
       "url": "https://www.foxsports.com/stories/college-football/ohio-states-ryan-day-reveals-areas-concern-after-first-practice-big-ten"
     },
     {
-      "kind": "other",
-      "title": "Josh Allen still feels guilty about Sean McDermott's firing",
-      "title_ja": null,
-      "excerpt": "The last of 10 head-coaching vacancies in the 2026 cycle arose when the Bills surprisingly fired Sean McDermott after a divisional-round overtime loss to the Broncos.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 00:04:01 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-still-feels-guilty-about-sean-mcdermotts-firing"
-    },
-    {
       "kind": "signing",
       "title": "NFL news, live updates: Titans make Peter Skoronski NFL&#39;s highest-paid guard; Jahmyr Gibbs, Lions agree to 3-year, $67.5 million contract extension",
       "title_ja": null,
@@ -1042,22 +1106,6 @@
       "coach_name": null,
       "published_at": "Fri, 31 Jul 2026 12:02:27 +0000",
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-live-updates-franchise-tag-an-option-for-baker-mayfield-in-2027-jonathan-taylor-signs-extension-with-colts-120227168.html"
-    },
-    {
-      "kind": "other",
-      "title": "Mark Wilf: Our family intends to be part of the Vikings for a \"very, very long time\"",
-      "title_ja": null,
-      "excerpt": "The Wilfs have owned the Vikings for 21 years.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 07 Aug 2026 23:33:27 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-wilf-our-family-intends-to-be-part-of-the-vikings-for-a-very-very-long-time"
     },
     {
       "kind": "signing",
@@ -1092,22 +1140,6 @@
       "url": "https://www.foxsports.com/stories/nfl/top-10-career-highlights-hall-famer-drew-brees"
     },
     {
-      "kind": "rumor",
-      "title": "Broncos DL Matt Henningsen tears Achilles",
-      "title_ja": null,
-      "excerpt": "Broncos defensive lineman Matt Henningsen, who was carted off at Friday's practice, was diagnosed with a torn Achilles, Mike Klis of 9News reports.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 07 Aug 2026 20:02:34 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-dl-matt-henningsen-tears-achilles"
-    },
-    {
       "kind": "signing",
       "title": "Athletics, GM David Forst 'Mutually Agree To Part Ways'",
       "title_ja": null,
@@ -1138,38 +1170,6 @@
       "coach_name": null,
       "published_at": "Fri, 07 Aug 2026 18:14:32 -0400",
       "url": "https://www.foxsports.com/stories/motor/everything-know-indycar-portland-alex-palous-championship-quest"
-    },
-    {
-      "kind": "other",
-      "title": "John Harbaugh on Cam Skattebo leaving practice: Just working through the football shape part of it",
-      "title_ja": null,
-      "excerpt": "Running back Cam Skattebo made an early exit from Friday's practice, but Giants head coach John Harbaugh didn't show much concern about his condition after the workout.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 07 Aug 2026 18:13:50 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-on-cam-skattebo-leaving-practice-just-working-through-the-football-shape-part-of-it"
-    },
-    {
-      "kind": "signing",
-      "title": "Jahmyr Gibbs: The contract process was extremely stressful",
-      "title_ja": null,
-      "excerpt": "There was reason to believe that Lions running back Jahmyr Gibbs was close to signing a contract extension on Thursday morning when he suited up for practice for the first time at training camp and those thoughts became a reality when news of an agreement broke later in the day.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 07 Aug 2026 18:01:21 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-the-contract-process-was-extremely-stressful"
     },
     {
       "kind": "signing",

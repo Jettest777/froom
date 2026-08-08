@@ -1,21 +1,62 @@
 {
   "version": 2,
-  "generated_at": "2026-08-07T22:28:59.368343+00:00",
-  "time_of_day": "morning",
+  "generated_at": "2026-08-08T11:23:31.800512+00:00",
+  "time_of_day": "evening",
   "model": "claude-haiku-4-5-20251001",
   "skipped": false,
   "source_item_count": 111,
   "ranked_item_count": 25,
-  "source_fingerprint": "27ff56ab8748a97e36a67936663f62e194d43241",
+  "source_fingerprint": "98a87173658d3c7ab1db2db5fc691bf3321ae395",
   "digest": {
-    "headline_en": "Digest generation failed",
-    "headline_ja": "ダイジェスト生成に失敗しました",
-    "lead_en": "Claude API call failed: Could not parse Claude JSON (Expecting value: line 37 column 22 (char 6723)); stop_reason=end_turn.",
-    "lead_ja": "Claude API 呼び出しに失敗しました: Could not parse Claude JSON (Expecting value: line 37 column 22 (char 6723)); stop_reason=end_turn.",
-    "body_en": "",
-    "body_ja": "",
-    "topics": [],
-    "watch_tomorrow_en": "",
-    "watch_tomorrow_ja": ""
+    "headline_en": "Contract Season Heats Up: Stars Lock In, Packers Tighten the Reins",
+    "headline_ja": "契約ラッシュが加速：スター選手の大型契約とパッカーズの厳格化",
+    "lead_en": "Training camps are producing winners and cautionary tales. Major extensions for Jonathan Taylor, Jahmyr Gibbs, and Zay Flowers signal a new tier of running back and receiver compensation—while Matt LaFleur's backflip ban reveals how precarious roster management has become in a win-now NFL.",
+    "lead_ja": "トレーニングキャンプでは大型契約と選手管理の課題が同時に浮上している。Jonathan Taylor、Jahmyr Gibbs、Zay Flowersの大型契約延長は、RB・WRの市場価値が急上昇していることを示す一方、パッカーズのMatt LaFleurによるバックフリップ禁止令は、インジュリー回避の極限の工夫を浮き彫りにしている。",
+    "body_en": "The NFL's contract market is crystallizing into a new reality: elite running backs and receivers now command salary tiers previously reserved for quarterbacks. Jonathan Taylor's $44M extension with IND puts him in exclusive company, while Jahmyr Gibbs (DET) and Zay Flowers (BAL) both secured deals structured identically to recent star contracts—Flowers specifically landing $35M annually in new money, placing him in the Justin Jefferson conversation. These aren't outliers; they're trend-setters. The market is recalibrating upward for skill-position players, and teams willing to invest early are betting on sustained production windows.\n\nParallel to the spending spree, we're witnessing an undercurrent of injury anxiety that defines contemporary NFL coaching. Matt LaFleur's ban on celebratory backflips by Christian Watson and MarShawn Lloyd (GB) isn't whimsical—it's diagnostic. Both players carry extensive injury histories, and the head coach has calculated that the microscopic risk of a non-contact injury during a highlight celebration outweighs the morale boost. This reflects a deeper tension: modern NFL rosters are increasingly brittle, forcing coaches to police their own players' behavior. LaFleur's extension notwithstanding, his team is walking a tightrope between championship ambition and the medical realities of aging receivers and banged-up backs.\n\nThe Washington Commanders' free-agent aggression—adding Stefon Diggs on a narrative-rewriting deal alongside Rasul Douglas—suggests a front office willing to bet its entire 2026 season on star power consolidation. Diggs' own quote—\"I can't write a better story\"—reveals the emotional contract within these signings. This isn't just about salary cap flexibility or depth; it's about creating a cultural reset. Whether the Commanders have the quarterback talent to justify this spending remains the open question.\n\nMinor-league reshuffling continued throughout the day: BAL added linebacker Jamon Johnson mid-camp, MIA doubled down on cornerback depth, NYG addressed offensive line need with center Brenden Jaimes, and DAL swapped running back options. These moves are the unsexy work of roster construction—filling gaps that emerge when injuries hit or depth charts reveal weaknesses. They don't move the needle on national coverage, but they often determine playoff seeding by December.",
+    "body_ja": "NFLの契約市場は新しい段階に突入した。エリートRB・WRがかつてはQB専用だった給与水準を獲得し始めているのだ。Jonathan Taylorの44M契約延長（IND）、Jahmyr Gibbsの延長（DET）、Zay Flowersの年35M新規マネー契約（BAL）は、すべてBijan Robinson型の構造を踏襲している。これらは例外ではなく、市場の新しい相場を示す指標である。スキル・ポジション選手への投資を早期から決断したチームは、長期的な生産性に賭けているのだ。\n\n一方で、インジュリー不安が現代NFLのコーチング哲学を蝕んでいる。Matt LaFleurがChristian WatsonとMarShawn Lloydのバックフリップを禁止した（GB）のは、気まぐれではなく診断的判断だ。両選手はインジュリー歴が長く、ヘッドコーチはセレブレーション中の非接触型負傷リスクが、チームの士気向上よりも重い計算を行った。これは根深い問題を映し出している。現代のNFLロースターは脆弱化しており、コーチは自分たちの選手の行動さえも統制せざるを得ないのだ。LaFleurの契約延長にもかかわらず、彼のチームはチャンピオンシップ野心と医学的現実の綱渡りを続けている。\n\nWashington Commandersのフリーエージェント積極戦略——Stefon Diggs、Rasul Douglasの補強——はスター選手の集約にすべてを賭けた経営陣の意思を示している。Diggsの「これ以上ない物語が書ける」というコメントは、こうした契約の感情的側面を露呈させている。これは単なるサラリーキャップ戦略ではなく、文化的リセットの投資である。ただし、Commandersがこの支出を正当化するだけのQB才能を持つかは、依然として不確定要素だ。\n\nマイナーな補強が一日を通じて続いた。BALはLB Jamon Johnsonをミッド・キャンプで追加、MIAはCB層を強化、NYGはC Brenden Jamesで攻撃ラインを補完、DALはRB枠を刷新した。これらは地味だが、12月のプレイオフシーディングを左右する重要な仕事である。",
+    "topics": [
+      {
+        "title_en": "The RB/WR Salary Explosion",
+        "title_ja": "RB・WRの給与バブル",
+        "body_en": "Taylor, Gibbs, and Flowers now occupy a rarified compensation tier that blurs the line between skill-position and QB earnings. Flowers' $35M APY places him alongside Jefferson, a bold market correction that reflects how heavily modern offenses depend on elite pass-catchers. Teams moving early risk overpayment; teams moving late risk losing their stars.",
+        "body_ja": "TaylorとGibbs、そしてFlowersは、スキル・ポジションとQBの給与の境界線を曖昧にする希少な報酬階層を占めるようになった。Flowersの年35Mはご同様にJeffersonと肩を並べる。現代のオフェンスがいかにエリート・パスキャッチャーに依存しているかを反映した市場の大胆な再評価だ。",
+        "team_abbrev": "IND",
+        "importance": "high"
+      },
+      {
+        "title_en": "Packers' Injury Culture & the Backflip Ban",
+        "title_ja": "パッカーズのインジュリー対策とバックフリップ禁止令",
+        "body_en": "LaFleur's move signals deep roster fragility: Watson and Lloyd are both chronic injury risks. Banning celebrations isn't culture-building—it's risk management. This tactic will spread across the league if injury rates remain elevated. The Packers are essentially admitting they cannot afford to lose either player to a freak celebration accident.",
+        "body_ja": "LaFleurの決断はロースター脆弱性の深刻さを示唆している。WatsonとLloydはともにインジュリーの常態化を抱える。セレブレーション禁止はカルチャー構築ではなく、リスク管理だ。インジュリー率が高止まりすれば、この戦術はリーグ全体に波及する可能性がある。パッカーズは実質、セレブレーション中の偶発的負傷を許容できないと認めているのだ。",
+        "team_abbrev": "GB",
+        "importance": "high"
+      },
+      {
+        "title_en": "Commanders' All-In Offseason Bet",
+        "title_ja": "Commandersの豪華補強と課題",
+        "body_en": "WAS has consolidated star talent (Diggs, Douglas) at an accelerated pace, betting on immediate championship contention. But without a proven QB to orchestrate this talent, the roster composition risks becoming an expensive all-star game rather than a functioning offense. Diggs' enthusiasm masks a structural fragility.",
+        "body_ja": "WASはスター選手の統合（Diggs、Douglas）を加速度的に進め、即座のチャンピオンシップを目指している。しかし、このタレントを指揮できる証明済みのQBがなければ、ロースター構成は機能するオフェンスではなく、高額なオールスターゲームとなりかねない。",
+        "team_abbrev": "WAS",
+        "importance": "high"
+      },
+      {
+        "title_en": "Mid-Camp Depth Additions Across the League",
+        "title_ja": "リーグ全体のデプス補強",
+        "body_en": "BAL (Jamon Johnson), MIA (Tanner Wall, Ahmari Harvey), NYG (Brenden Jaimes), DET (Gibbs extension), and DAL (Jashaun Corbin) all addressed depth gaps. These moves rarely headline, but they build championship rosters. Each signals a coach identifying weakness mid-camp and moving decisively.",
+        "body_ja": "BAL、MIA、NYG、DET、DALはすべてデプス層のギャップを埋めた。これらの補強は大きく報道されないが、チャンピオン・ロースターを構築する。各チームのコーチが訓練キャンプ中盤に弱点を特定し、素早く行動したことを示している。",
+        "team_abbrev": "nil",
+        "importance": "medium"
+      },
+      {
+        "title_en": "Elijah Moore's Philadelphia Reset",
+        "title_ja": "Elijah MooreのPHIでの再出発",
+        "body_en": "After a challenging journey across the NFL, Moore has landed in PHI and is embracing the opportunity without reservation. His narrative—resilience after adversity—is emblematic of training-camp redemption arcs. Whether he becomes reliable depth or a roster footnote will emerge over the next three weeks.",
+        "body_ja": "NFLでの困難な道のりを経て、MooreはPHIに落ち着き、チャンスを全力で受け入れている。逆境からの回復という物語は、トレーニングキャンプでの再生の象徴だ。彼が信頼できるデプス層になるか、ロースター脚注になるかは、今後3週間で明らかになるだろう。",
+        "team_abbrev": "PHI",
+        "importance": "low"
+      }
+    ],
+    "watch_tomorrow_en": "Monitor whether LaFleur's injury-aversion tactics spread to other high-stakes rosters or whether Hall of Fame Game performances drive late-August momentum shifts.",
+    "watch_tomorrow_ja": "LaFleurのインジュリー回避戦術が他のハイステイクス・チームに波及するか、あるいはHall of Fame Gameのパフォーマンスが8月末の勢いの変化をもたらすかを注視しよう。"
   }
 }

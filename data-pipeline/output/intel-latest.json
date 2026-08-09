@@ -1,14 +1,126 @@
 {
   "version": 1,
-  "generated_at": "2026-08-09T18:45:00.204136+00:00",
+  "generated_at": "2026-08-09T19:35:59.336571+00:00",
   "count": 99,
   "items": [
     {
+      "kind": "injury",
+      "title": "Positive injury updates on B.J. Hill and Shemar Stewart",
+      "title_ja": "B.J. HillとShemar Stewartの怪我情報が好転",
+      "excerpt": "The Cincinnati Bengals have been without two of their top defensive lineman for the majority of camp. Starting defensive tackle B.J. Hill has been on the Physically Unable to Perform list since before training camp as he works through an ankle injury, and second-year pass rusher Shemar Stewart suffe",
+      "excerpt_ja": "Cincinnati Bengalsはキャンプのほぼ全期間、ディフェンシブラインの主力2人を欠いていた。先発ディフェンシブタックルのB.J. Hillはキャンプ開始前からPUP（Physically Unable to Perform）リストに入り、足首の怪我から回復中。2年目のパスラッシャーShemar Stewartも離脱している。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 09 Aug 2026 19:05:27 +0000",
+      "url": "https://sports.yahoo.com/articles/positive-injury-updates-b-j-190527731.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Panthers starters will play Saturday night against the Bills",
+      "title_ja": "Panthersのスターターは土曜夜のBillsとの試合に出場予定",
+      "excerpt": "The Panthers opened their preseason slate in the Pro Football Hall of Fame.",
+      "excerpt_ja": "Panthersはプロフットボール殿堂でプリシーズンを開幕させた",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 09 Aug 2026 18:55:10 +0000",
+      "url": "https://sports.yahoo.com/articles/panthers-starters-play-saturday-night-185510964.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Anthony Richardson&#39;s future could be impacted by vision concerns: Report",
+      "title_ja": "Anthony Richardsonの将来は視力の懸念で影響を受ける可能性がある：報道",
+      "excerpt": "Indianapolis Colts quarterback Anthony Richardson&#39;s future depends heavily on how well he can see, according to a report.",
+      "excerpt_ja": "Indianapolis ColtsのQB Anthony Richardsonの将来は、どの程度視力が機能しているかに大きく左右される可能性があるとの報道。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 09 Aug 2026 18:48:41 +0000",
+      "url": "https://sports.yahoo.com/articles/anthony-richardsons-future-could-impacted-184841806.html"
+    },
+    {
+      "kind": "other",
+      "title": "Eagles 53-man roster prediction: Training camp updates",
+      "title_ja": "Eagles 53人ロスター予想：キャンプアップデート",
+      "excerpt": "Who’s going to make the final cut?",
+      "excerpt_ja": "最終カットを勝ち抜くのは誰か？",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 09 Aug 2026 18:47:20 +0000",
+      "url": "https://sports.yahoo.com/articles/eagles-53-man-roster-prediction-184720234.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Colts bring back WR D.J. Montgomery",
+      "title_ja": "ColtsがWR D.J. Montgomeryを再契約",
+      "excerpt": "The Colts signed free agent wide receiver D.J.",
+      "excerpt_ja": "ColtsはフリーエージェントのWR D.J. Montgomeryと契約した。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 09 Aug 2026 18:46:27 +0000",
+      "url": "https://sports.yahoo.com/articles/colts-bring-back-wr-d-184627129.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Saints guard Dillon Radunz is out for the year with torn ACL",
+      "title_ja": "Saints ガード Dillon Radunzがアキレス腱断裂で今季離脱",
+      "excerpt": "The Saints have lost another player to a torn ACL.",
+      "excerpt_ja": "Saintsはまた1人、アキレス腱断裂で選手を失った。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NO",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 09 Aug 2026 18:43:10 +0000",
+      "url": "https://sports.yahoo.com/articles/saints-guard-dillon-radunz-torn-184310528.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Bucs sign S Xavier Williams",
+      "title_ja": "BucsがセーフティXavier Williamsと契約",
+      "excerpt": "The Buccaneers signed safety Xavier Williams on Sunday, the team announced.",
+      "excerpt_ja": "Buccaneersは日曜日、セーフティXavier Williamsと契約したことを発表した。",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "TB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 09 Aug 2026 18:37:56 +0000",
+      "url": "https://sports.yahoo.com/articles/bucs-sign-xavier-williams-183756979.html"
+    },
+    {
       "kind": "signing",
       "title": "Bears sign their 4th DB in 3 days, and a Luther Burden update",
-      "title_ja": "Bears、3日間で4人目のDBを獲得、Luther Burdenの最新情報",
+      "title_ja": "Bears 3日間で4人目のDBを獲得、Luther Burdenのアップデートも",
       "excerpt": "The latest on the Bears&#39; defensive backs, plus an injury update about Luther Burden from @wiltfongjr.",
-      "excerpt_ja": "Bears のディフェンシブバック陣の最新情報と、@wiltfongjr による Luther Burden のケガについての更新",
+      "excerpt_ja": "@wiltfongjrからのBears ディフェンシブバック関連の最新情報、およびLuther Burdenの怪我アップデート。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -22,9 +134,9 @@
     {
       "kind": "other",
       "title": "Cleveland Browns: D-line looking to be ‘sudden, violent and fast’",
-      "title_ja": "Cleveland Browns: D-ライン、「素早く、激しく、迅速に」を目指す",
+      "title_ja": "Cleveland Browns：D-lineは「急速で、激しく、素早く」あるべき",
       "excerpt": "Myles Garret and Jim Schwartz are out. Jared Verse and Mike Rutenberg are in. But the goal remains the same up front.",
-      "excerpt_ja": "Myles Garrett と Jim Schwartz は退任。Jared Verse と Mike Rutenberg が加わる。だがラインの目標は変わらない",
+      "excerpt_ja": "Myles GarrettとJim Schwartzは去り、Jared VerseとMike Rutenbergが加わった。しかしフロントラインの目標は変わらない。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -38,9 +150,9 @@
     {
       "kind": "other",
       "title": "Cowboys 2026 training camp practice #8 live thread: Updates and open discussion",
-      "title_ja": "Cowboys 2026 Training Camp Practice #8 ライブスレッド：更新と自由討論",
+      "title_ja": "Cowboys 2026 キャンプ練習8日目スレッド：アップデートと自由討論",
       "excerpt": "Our Dallas Cowboys training camp eighth open thread of the season.",
-      "excerpt_ja": "Dallas Cowboys のトレーニングキャンプ第8回オープンスレッド",
+      "excerpt_ja": "Dallas Cowboysのキャンプシーズン、8番目の自由討論スレッド。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -54,9 +166,9 @@
     {
       "kind": "signing",
       "title": "Cardinals sign former UFL players Shawn Bowman, Eugene Asante",
-      "title_ja": "Cardinals、元 UFL 選手の Shawn Bowman、Eugene Asante を獲得",
+      "title_ja": "Cardinalsが元UFL選手Shawn BowmanとEugene Asanteと契約",
       "excerpt": "The Cardinals signed tight end Shawn Bowman and linebacker Eugene Asante on Sunday, the team announced.",
-      "excerpt_ja": "Cardinals は日曜日、TE Shawn Bowman と LB Eugene Asante の獲得を発表した",
+      "excerpt_ja": "Cardinalsは日曜日、タイトエンドShawn BowmanとラインバッカーEugene Asanteと契約したことを発表した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -70,9 +182,9 @@
     {
       "kind": "other",
       "title": "Packers Training Camp Recap: Javon Hargrave, Chris Brooks return to practice",
-      "title_ja": "Packers Training Camp レポート：Javon Hargrave、Chris Brooks の練習復帰",
+      "title_ja": "Packers キャンプレビュー：Javon HargraveとChris Brooksが練習に復帰",
       "excerpt": "Only four players remain on the Green Bay Packers’ PUP list after Chris Brooks and Javon Hargrave were activated",
-      "excerpt_ja": "Chris Brooks と Javon Hargrave が復帰したことで、Green Bay Packers の PUP リストに残る選手は4人のみ",
+      "excerpt_ja": "Chris BrooksとJavon Hargraveが復帰したことで、Green Bay PackersのPUPリストには4人のみが残された。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -86,9 +198,9 @@
     {
       "kind": "injury",
       "title": "Luther Burden III set to miss time with groin injury, depleting Bears&#39; already-thin WR depth",
-      "title_ja": "Luther Burden III、鼠径部損傷で出場予定時間に影響、Bears の既に薄い WR 層がさらに枯渇",
+      "title_ja": "Luther Burden IIIが鼠蹊部の怪我で時間を要する見通し、Bearsの既に薄いWRの層をさらに削ぐ",
       "excerpt": "Between trading away DJ Moore this offseason and the Burden III injury, Chicago&#39;s WR depth is looking very thin early.",
-      "excerpt_ja": "オフシーズンに DJ Moore をトレードして以来、Luther Burden III の負傷も重なり、Chicago の WR 層の厚さが懸念される",
+      "excerpt_ja": "今オフシーズンのDJ Moore放出に加えて、Burden IIIの怪我でChicagoのWRの層は序盤から極めて薄くなっている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -102,9 +214,9 @@
     {
       "kind": "injury",
       "title": "Report: Luther Burden to miss time with groin injury",
-      "title_ja": "レポート：Luther Burden、鼠径部損傷で出場予定時間に影響",
+      "title_ja": "報道：Luther Burdenが鼠蹊部の怪我で時間を要する",
       "excerpt": "Bears receiver Luther Burden exited practice early on Saturday, and now there is more information about his status.",
-      "excerpt_ja": "Bears WR Luther Burden は土曜日の練習を早退した。彼の状態についてさらに情報が判明した",
+      "excerpt_ja": "Bears WR Luther Burdenが土曜日の練習を途中で退出し、その状態についてさらに詳しい情報が明かされた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -118,9 +230,9 @@
     {
       "kind": "other",
       "title": "Mike Tomlin: Mike Vrabel-Dianna Russini scandal will get quiet if Patriots win games, loud if they lose",
-      "title_ja": "Mike Tomlin：Mike Vrabel・Dianna Russini 騒動は Patriots が勝つと静かになり、負けると大きくなる",
+      "title_ja": "Mike Tomlin：Mike Vrabel-Dianna RussiniのスキャンダルはPatriotsが試合に勝てば静まり、負ければ大きくなる",
       "excerpt": "In the same week that Steelers quarterback Aaron Rodgers literally crapped on ESPN, while appearing on ESPN, for not sufficiently covering the Mike Vrabel-Dianna Russini situation, former Steelers coach Mike Tomlin addressed the issue during his debut on NBC.",
-      "excerpt_ja": "Steelers QB Aaron Rodgers が ESPN 出演中に ESPN を酷評し Mike Vrabel・Dianna Russini 問題の報道が不十分だと指摘した同じ週に、元 Steelers HC Mike Tomlin が NBC デビューで同問題に言及した",
+      "excerpt_ja": "Steelers QBのAaron RodgersがESPn出演中に、Mike Vrabel-Dianna Russini問題の報道が不十分だとしてESPnを強く批判した同じ週に、元Steelers HC Mike Tomlinがテレビ放送での初出演となるNBC番組でこの問題に言及した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -134,9 +246,9 @@
     {
       "kind": "injury",
       "title": "Josh Downs&#39; groin injury is not considered serious",
-      "title_ja": "Josh Downs の鼠径部損傷は重大ではないと判断されている",
+      "title_ja": "Josh Downsの鼠蹊部の怪我は深刻ではないと考えられている",
       "excerpt": "There is some positive news on the injury front for the Colts.",
-      "excerpt_ja": "Colts にはケガの面で朗報がある",
+      "excerpt_ja": "Coltsの怪我情報に朗報がある。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -150,9 +262,9 @@
     {
       "kind": "signing",
       "title": "Detroit Lions sign 2 new defenders, place Bridgewater on retired list",
-      "title_ja": "Detroit Lions、新たにディフェンダー2名を獲得、Teddy Bridgewater を引退選手リストに登録",
+      "title_ja": "Detroit Lionsが新しいディフェンダー2人と契約、Teddy Bridgewaterをリタイア登録に移行",
       "excerpt": "The Detroit Lions have signed two new defenders, and officially placed Teddy Bridgewater on the retired list.",
-      "excerpt_ja": "Detroit Lions はディフェンダー2名を新たに獲得し、Teddy Bridgewater を正式に引退選手リストに登録した",
+      "excerpt_ja": "Detroit Lionsはディフェンダー2人と契約し、公式にTeddy Bridgewaterをリタイア登録に移行させた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -166,9 +278,9 @@
     {
       "kind": "signing",
       "title": "Green Bay Packers re-sign WR Kisean Johnson",
-      "title_ja": "Green Bay Packers、WR Kisean Johnson と再契約",
+      "title_ja": "Green Bay Packers が WR Kisean Johnsonと再契約",
       "excerpt": "Kisean Johnson spent time with the Packers’ practice squad late in the 2025 season",
-      "excerpt_ja": "Kisean Johnson は 2025 シーズン後半に Packers のプラクティススクワッドでプレーした",
+      "excerpt_ja": "Kisean Johnsonは2025シーズン終盤、Packers プラクティス・スクワッドで活動していた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -182,9 +294,9 @@
     {
       "kind": "injury",
       "title": "Arizona Cardinals add tight end, linebacker to roster",
-      "title_ja": "Arizona Cardinals、TE と LB を獲得",
+      "title_ja": "Arizona Cardinals がタイトエンド、ラインバッカーを加える",
       "excerpt": "Arizona Cardinals add a pair of players to their roster.",
-      "excerpt_ja": "Arizona Cardinals がロスターに2名を追加した",
+      "excerpt_ja": "Arizona Cardinalsがロスターに2人を追加した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -198,9 +310,9 @@
     {
       "kind": "other",
       "title": "Teddy Bridgewater steps away from Lions, retirement likely",
-      "title_ja": "Teddy Bridgewater、Lions から退団、引退の見通し",
+      "title_ja": "Teddy Bridgewaterが Lionsから離脱、引退が濃厚",
       "excerpt": "Detroit needs a new backup QB, with HC Dan Campbell saying the team may bring someone in as soon as Monday.",
-      "excerpt_ja": "Detroit はバックアップ QB を必要としており、HC Dan Campbell は月曜日にも誰かを招く可能性があると述べた",
+      "excerpt_ja": "Detroit Lionsは新しいバックアップQBを探しており、HC Dan Campbellは早ければ月曜日にも誰かを加える可能性があると述べている。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -214,9 +326,9 @@
     {
       "kind": "other",
       "title": "Veteran QB Teddy Bridgewater stepping away from Lions, NFL",
-      "title_ja": "ベテラン QB Teddy Bridgewater、Lions から、そして NFL から退く",
+      "title_ja": "ベテランQB Teddy Bridgewaterが Lions、NFLから身を引く",
       "excerpt": "Bridgewater has been in the NFL since 2014.",
-      "excerpt_ja": "Bridgewater は 2014 年から NFL でプレーしている",
+      "excerpt_ja": "Bridgewaterは2014年からNFLに在籍している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -230,9 +342,9 @@
     {
       "kind": "injury",
       "title": "Saints OL Dillon Radunz suffers torn ACL, will miss 2026 season",
-      "title_ja": "Saints OL Dillon Radunz、ACL 損傷で 2026 シーズン全休",
+      "title_ja": "Saints OL Dillon Radunzがアキレス腱断裂、2026シーズン全休",
       "excerpt": "Offensive line takes a hit as injury bug bites",
-      "excerpt_ja": "オフェンシブラインが損傷の波に見舞われる",
+      "excerpt_ja": "オフェンシブラインが怪我の波に見舞われた。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -246,9 +358,9 @@
     {
       "kind": "other",
       "title": "49ers coach Kyle Shanahan says he was using car&#39;s autopilot before crash",
-      "title_ja": "49ers HC Kyle Shanahan、衝突前に車のオートパイロットを使用していたと説明",
+      "title_ja": "49ers HC Kyle Shanahan、車の自動運転機能を使用していたと事故について説明",
       "excerpt": "San Francisco 49ers head coach Kyle Shanahan on Saturday provided additional details about his July car crash.",
-      "excerpt_ja": "San Francisco 49ers HC Kyle Shanahan が土曜日、7月の自動車衝突についての詳細を明かした",
+      "excerpt_ja": "San Francisco 49ers HC Kyle Shanahan は土曜日、7月の自動車事故についてさらに詳しく説明した。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -262,9 +374,9 @@
     {
       "kind": "other",
       "title": "Twitter recap: Hall of Fame presence at Sunday’s Bengals training camp practice",
-      "title_ja": "ツイッター振り返り：日曜日の Bengals トレーニングキャンプに殿堂入り選手が参加",
+      "title_ja": "ツイッター振り返り：日曜日のBengalsキャンプ練習に出席していたHoF選手たち",
       "excerpt": "It is game week!",
-      "excerpt_ja": "ゲームウィークが始まった！",
+      "excerpt_ja": "ゲームウィークだ！",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -278,9 +390,9 @@
     {
       "kind": "injury",
       "title": "QB Teddy Bridgewater is leaving the Detroit Lions, team seeking vet backup",
-      "title_ja": "QB Teddy Bridgewater、Detroit Lions から退団、ベテランバックアップを探索",
+      "title_ja": "QB Teddy Bridgewaterが Detroit Lionsを離脱、チームはベテランバックアップを模索中",
       "excerpt": "Detroit Lions QB Teddy Bridgewater is stepping down, and the team is on the lookout for a veteran QB.",
-      "excerpt_ja": "Detroit Lions QB Teddy Bridgewater が退団し、チームはベテラン QB を探している",
+      "excerpt_ja": "Detroit Lions QB Teddy Bridgewaterが退く予定で、チームはベテランQBを探している。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -294,9 +406,9 @@
     {
       "kind": "other",
       "title": "Teddy Bridgewater steps away from Lions, set to retire. What to know",
-      "title_ja": "Teddy Bridgewater、Lions から退団し引退へ。知っておくべきこと",
+      "title_ja": "Teddy Bridgewaterが Lionsから離脱、引退予定。知っておくべきこと",
       "excerpt": "The veteran backup quarterback is stepping away from the Lions, head coach Dan Campbell announced. Here&#39;s why he&#39;s doing it.",
-      "excerpt_ja": "ベテランバックアップ QB が Lions から退団する、と HC Dan Campbell が発表。その理由はこちら",
+      "excerpt_ja": "ベテランバックアップQB Teddy BridgewaterがLionsを離脱することをHC Dan Campbellが発表した。その理由を説明する。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -310,9 +422,9 @@
     {
       "kind": "other",
       "title": "The Year 2 bar for Raiders cornerback Darien Porter",
-      "title_ja": "Raiders CB Darien Porter の2年目の課題",
+      "title_ja": "Raiders CBダリエン・ポーター2年目の課題",
       "excerpt": "Locking down a starting outside spot, improving tackling consistency key for 2025 3rd round pick as competition is steep",
-      "excerpt_ja": "2025年第3巡目指名ピックは、スターティングアウトサイドの確保とタックル精度の向上が鍵、競争は激しい",
+      "excerpt_ja": "先発アウトサイドCBのポジションを確保し、タックルの一貫性向上が2025年3巡目指名のポーターにとってカギ。競争は激しい。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -326,9 +438,9 @@
     {
       "kind": "other",
       "title": "Chiefs training camp: Roster superlatives before preseason Week 1",
-      "title_ja": "Chiefs training camp：プレシーズン開幕前のロスターの逸品たち",
+      "title_ja": "Chiefs キャンプ：プリシーズン1週目前のロスター最優秀賞",
       "excerpt": "Get to know more about Kansas City’s preseason roster before next weekend’s opener.",
-      "excerpt_ja": "来週末の開幕戦に向けて、Kansas City のプレシーズンロスターについてさらに知ろう",
+      "excerpt_ja": "来週末の開幕戦に向けて、Kansas Cityのプリシーズンロスターをもっと知ろう。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -342,9 +454,9 @@
     {
       "kind": "other",
       "title": "Will the Giants run more or pass more under John Harbaugh?",
-      "title_ja": "Giants は John Harbaugh 体制下でランが増えるか、パスが増えるか",
+      "title_ja": "Giants は John Harbaughのもとで走るオフェンスが増えるか、パスが増えるか？",
       "excerpt": "You probably think you know the answer. Don’t be so sure.",
-      "excerpt_ja": "答えは分かっていると思うかもしれない。でも甘く見ない方がいい",
+      "excerpt_ja": "おそらくあなたは答えを知っていると思うだろう。そうとは限らない。",
       "sources": [
         "Yahoo Sports NFL"
       ],
@@ -357,126 +469,78 @@
     },
     {
       "kind": "injury",
-      "title": "5 things we have learned through 8 days of Broncos Camp",
-      "title_ja": "Broncos Camp 8日間を通じて学んだ5つのこと",
-      "excerpt": "The Denver Broncos just wrapped up their 8th day of Broncos Camp, and the intensity has started to pick up. They practiced for six straight days, had the pads on for all but one day, and had their most intense and physical practices yet. During these practices, we learned a lot about the Broncos and",
-      "excerpt_ja": "Denver Broncos は Broncos Camp の8日目を終えたばかりで、強度が上がり始めた。6日連続で練習し、1日を除いてパッドを装着し、これまでで最も激しく身体的な練習を行った",
+      "title": "Kyle Shanahan's recent concussion changes his perspective on head injuries",
+      "title_ja": "Kyle Shannahの最近の脳震盪が頭部外傷に対する彼の見方を変えた",
+      "excerpt": "For most coaches, the issue of player concussions requires sympathy.",
+      "excerpt_ja": "ほとんどのコーチにとって、選手の脳震盪問題は同情を要する。",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DEN",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sun, 09 Aug 2026 16:44:42 +0000",
-      "url": "https://sports.yahoo.com/articles/5-things-learned-8-days-164442088.html"
+      "published_at": "Sun, 09 Aug 2026 15:15:11 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahans-recent-concussion-changes-his-perspective-on-head-injuries"
     },
     {
-      "kind": "other",
-      "title": "Aaron Rodgers lost his &#39;deep love&#39; for football. Mike Tomlin brought it back",
-      "title_ja": "Aaron Rodgers はフットボールへの「深い愛情」を失った。Mike Tomlin がそれを取り戻させた",
-      "excerpt": "Pittsburgh Steelers quarterback Aaron Rodgers might have retired if not for former Steelers head coach Mike Tomlin.",
-      "excerpt_ja": "Pittsburgh Steelers QB Aaron Rodgers は、元 Steelers HC Mike Tomlin がいなければ引退していたかもしれない",
+      "kind": "injury",
+      "title": "2026 NFL Offseason Buzz: Bears' WR Luther Burden III Sidelined With Groin Injury",
+      "title_ja": "2026 NFL オフシーズン速報：Bearsの WR Luther Burden III が鼠蹊部の怪我で離脱",
+      "excerpt": "Here's the latest offseason buzz and rumors around the NFL.",
+      "excerpt_ja": "NFLの最新オフシーズン速報とうわさをお届けします。",
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PIT",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 09 Aug 2026 16:26:26 +0000",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-lost-deep-love-162626084.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cash, Stash, or Slash: Jonah Jackson",
-      "title_ja": "Cash, Stash, or Slash：Jonah Jackson",
-      "excerpt": "Jonah Jackson turned in a spectacular 2025 for the Bears can the Bears keep him around for years to come?",
-      "excerpt_ja": "Jonah Jackson は 2025 年に Bears で素晴らしいシーズンを過ごした。Bears は彼を長期的に確保できるか",
-      "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sun, 09 Aug 2026 16:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cash-stash-slash-jonah-jackson-160000755.html"
+      "published_at": "Sun, 09 Aug 2026 15:06:15 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors"
     },
     {
-      "kind": "other",
-      "title": "Cowboys add UFL player continuing an offseason pattern",
-      "title_ja": "Cowboys、UFL 選手を獲得、オフシーズンの継続パターン",
-      "excerpt": "The Cowboys try again by adding UFL free agent",
-      "excerpt_ja": "Cowboys は UFL フリーエージェントの獲得で再び動いた",
+      "kind": "injury",
+      "title": "Panthers starters will play Saturday night against the Bills",
+      "title_ja": "Panthersのスターターは土曜夜のBillsとの試合に出場予定",
+      "excerpt": "The Panthers opened their preseason slate in the Pro Football Hall of Fame.",
+      "excerpt_ja": "Panthersはプロフットボール殿堂でプリシーズンを開幕させた",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
+      "reliability": 0.54,
+      "team_abbrev": "BUF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sun, 09 Aug 2026 16:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-add-ufl-player-continuing-160000038.html"
+      "published_at": "Sun, 09 Aug 2026 14:55:10 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-starters-will-play-saturday-night-against-the-bills"
     },
     {
-      "kind": "other",
-      "title": "The Cold, Hard Truth – Life more difficult for Commanders without Laremy Tunsil",
-      "title_ja": "冷徹な現実─Laremy Tunsil なき Washington Commanders の厳しい状況",
-      "excerpt": "Losing Laremy Tunsil was a big loss for the Washington Commanders",
-      "excerpt_ja": "Laremy Tunsil の喪失は Washington Commanders にとって大きな痛手だった",
+      "kind": "signing",
+      "title": "Colts bring back WR D.J. Montgomery",
+      "title_ja": "ColtsがWR D.J. Montgomeryを再契約",
+      "excerpt": "The Colts signed free agent wide receiver D.J.",
+      "excerpt_ja": "ColtsはフリーエージェントのWR D.J. Montgomeryと契約した。",
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "WAS",
+      "reliability": 0.54,
+      "team_abbrev": "IND",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sun, 09 Aug 2026 16:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cold-hard-truth-life-more-160000165.html"
-    },
-    {
-      "kind": "other",
-      "title": "Aaron Rodgers’ advice to Drew Allar already paying off",
-      "title_ja": "Aaron Rodgers のアドバイスが Drew Allar に早速実を結んでいる",
-      "excerpt": "Drew Allar has taken Aaron Rodgers’ advice and ran with it",
-      "excerpt_ja": "Drew Allar は Aaron Rodgers のアドバイスを受けて実行している",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 09 Aug 2026 15:36:43 +0000",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-advice-drew-allar-153643401.html"
-    },
-    {
-      "kind": "presser",
-      "title": "&#39;He&#39;s going to burn every bridge&#39;: HOFers react to Adam Vinatieri&#39;s speech",
-      "title_ja": "「すべての橋を焼く」：Adam Vinatieri のスピーチに HOFers が反応",
-      "excerpt": "Adam Vinatieri made headlines with his Hall of Fame speech. Here&#39;s what fellow HOFers Warren Sapp, Peyton Manning said backstage.",
-      "excerpt_ja": "Adam Vinatieri は Hall of Fame スピーチで話題をさらった。Warren Sapp や Peyton Manning を含む同僚 HOFers が舞台裏で何を語ったか",
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 09 Aug 2026 15:26:39 +0000",
-      "url": "https://sports.yahoo.com/articles/hes-going-burn-every-bridge-152639556.html"
+      "published_at": "Sun, 09 Aug 2026 14:46:27 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-bring-back-wr-d-j-montgomery"
     },
     {
       "kind": "injury",
       "title": "Saints guard Dillon Radunz is out for the year with torn ACL",
-      "title_ja": "Saints G Dillon Radunz、ACL 損傷で通年欠場",
+      "title_ja": "Saints ガード Dillon Radunzがアキレス腱断裂で今季離脱",
       "excerpt": "The Saints have lost another player to a torn ACL.",
-      "excerpt_ja": "Saints はまた別の選手を ACL 損傷で失った",
+      "excerpt_ja": "Saintsはまた1人、アキレス腱断裂で選手を失った。",
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.5,
+      "reliability": 0.54,
       "team_abbrev": "NO",
       "player_name": null,
       "coach_name": null,
@@ -486,13 +550,13 @@
     {
       "kind": "signing",
       "title": "Bucs sign S Xavier Williams",
-      "title_ja": "Bucs、S Xavier Williams を獲得",
+      "title_ja": "BucsがセーフティXavier Williamsと契約",
       "excerpt": "The Buccaneers signed safety Xavier Williams on Sunday, the team announced.",
-      "excerpt_ja": "Buccaneers は日曜日、S Xavier Williams の獲得を発表した",
+      "excerpt_ja": "Buccaneersは日曜日、セーフティXavier Williamsと契約したことを発表した。",
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.5,
+      "reliability": 0.54,
       "team_abbrev": "TB",
       "player_name": null,
       "coach_name": null,
@@ -502,9 +566,9 @@
     {
       "kind": "signing",
       "title": "Cardinals sign former UFL players Shawn Bowman, Eugene Asante",
-      "title_ja": "Cardinals、元 UFL 選手の Shawn Bowman、Eugene Asante を獲得",
+      "title_ja": "Cardinalsが元UFL選手Shawn BowmanとEugene Asanteと契約",
       "excerpt": "The Cardinals signed tight end Shawn Bowman and linebacker Eugene Asante on Sunday, the team announced.",
-      "excerpt_ja": "Cardinals は日曜日、TE Shawn Bowman と LB Eugene Asante の獲得を発表した",
+      "excerpt_ja": "Cardinalsは日曜日、タイトエンドShawn BowmanとラインバッカーEugene Asanteと契約したことを発表した。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -518,9 +582,9 @@
     {
       "kind": "other",
       "title": "QB Teddy Bridgewater Steps Away From Lions, Retiring From NFL Once Again",
-      "title_ja": "QB Teddy Bridgewater、Lions から退団、NFL からの引退も視野",
+      "title_ja": "QB Teddy Bridgewaterが Lions から身を引き、NFLからの引退を予定",
       "excerpt": "After more than a decade in the NFL, quarterback Teddy Bridgewater is stepping away from football once again.",
-      "excerpt_ja": "NFL で10年以上のキャリアを積んだ QB Teddy Bridgewater が再びフットボールから身を引く",
+      "excerpt_ja": "NFLで10年以上キャリアを積んだQB Teddy Bridgewaterが、再びフットボールから身を引く。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -534,9 +598,9 @@
     {
       "kind": "signing",
       "title": "Panthers Sign Former Bucs QB Kyle Trask Following Haynes King's Hamstring Injury",
-      "title_ja": "Panthers、元 Bucs QB Kyle Trask を獲得、Haynes King のハムストリング損傷に対応",
+      "title_ja": "Panthers：Hall of Fameゲームの英雄 Haynes King のハムストリング怪我に伴い、元 Bucs QB Kyle Traskを獲得",
       "excerpt": "The Carolina Panthers signed Kyle Trask as a third quarterback with Hall of Fame game hero Haynes King expected to miss time with a hamstring injury.",
-      "excerpt_ja": "Carolina Panthers は Hall of Fame ゲームのヒーロー Haynes King がハムストリング損傷で出場予定時間に影響を受けることに対応し、3番目の QB Kyle Trask を獲得した",
+      "excerpt_ja": "Carolina Panthersは、Hall of Fameゲームの英雄Haynes Kingがハムストリングの怪我でしばらく出場できなくなるため、第3QBとしてKyle Traskを獲得した。",
       "sources": [
         "FOX Sports NFL"
       ],
@@ -550,9 +614,9 @@
     {
       "kind": "injury",
       "title": "Report: Luther Burden to miss time with groin injury",
-      "title_ja": "レポート：Luther Burden、鼠径部損傷で出場予定時間に影響",
+      "title_ja": "報道：Luther Burdenが鼠蹊部の怪我で時間を要する",
       "excerpt": "Bears receiver Luther Burden exited practice early on Saturday, and now there is more information about his status.",
-      "excerpt_ja": "Bears WR Luther Burden は土曜日の練習を早退した。彼の状態についてさらに情報が判明した",
+      "excerpt_ja": "Bears WR Luther Burdenが土曜日の練習を途中で退出し、その状態についてさらに詳しい情報が明かされた。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -566,9 +630,9 @@
     {
       "kind": "other",
       "title": "Mike Tomlin: Mike Vrabel-Dianna Russini scandal will get quiet if Patriots win games, loud if they lose",
-      "title_ja": "Mike Tomlin：Mike Vrabel・Dianna Russini 騒動は Patriots が勝つと静かになり、負けると大きくなる",
+      "title_ja": "Mike Tomlin：Mike Vrabel-Dianna RussiniのスキャンダルはPatriotsが試合に勝てば静まり、負ければ大きくなる",
       "excerpt": "In the same week that Steelers quarterback Aaron Rodgers literally crapped on ESPN, while appearing on ESPN, for not sufficiently covering the Mike Vrabel-Dianna Russini situation, former Steelers coach Mike Tomlin addressed the issue during his debut on NBC.",
-      "excerpt_ja": "Steelers QB Aaron Rodgers が ESPN 出演中に ESPN を酷評し Mike Vrabel・Dianna Russini 問題の報道が不十分だと指摘した同じ週に、元 Steelers HC Mike Tomlin が NBC デビューで同問題に言及した",
+      "excerpt_ja": "Steelers QBのAaron RodgersがESPN出演中に、Mike Vrabel-Dianna Russini問題の報道が不十分だとしてESPNを強く批判した同じ週に、元Steelers HC Mike Tomlinがテレビ放送での初出演となるNBC番組でこの問題に言及した。",
       "sources": [
         "Pro Football Talk"
       ],
@@ -582,9 +646,9 @@
     {
       "kind": "injury",
       "title": "Josh Downs' groin injury is not considered serious",
-      "title_ja": "Josh Downs の鼠径部損傷は重大ではないと判断されている",
+      "title_ja": null,
       "excerpt": "There is some positive news on the injury front for the Colts.",
-      "excerpt_ja": "Colts にはケガの面で朗報がある",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -598,9 +662,9 @@
     {
       "kind": "injury",
       "title": "Grass at new Bills stadium drew rave reviews (some of the sight lines did not)",
-      "title_ja": "Bills の新スタジアムの芝が称賛される（ただし視界はそうではない箇所もある）",
+      "title_ja": null,
       "excerpt": "The Buffalo Bills had a soft launch of their new stadium this weekend, with a practice there on Saturday night.",
-      "excerpt_ja": "Buffalo Bills は週末に新スタジアムのソフトローンチを行い、土曜夜に練習を実施した",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -614,9 +678,9 @@
     {
       "kind": "other",
       "title": "2026 NASCAR Odds: Pole-sitter Ryan Blaney Favorite For Iowa",
-      "title_ja": "2026 NASCAR オッズ：ポール・ポジション Ryan Blaney、Iowa で優勝候補筆頭",
+      "title_ja": null,
       "excerpt": "Can pole-sitter Ryan Blaney get his third win of the season this weekend? Here are the latest odds for NASCAR at Iowa.",
-      "excerpt_ja": "ポール・ポジション Ryan Blaney は今週末シーズン3勝目を挙げることができるか。Iowa での NASCAR オッズの最新情報",
+      "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
       ],
@@ -630,9 +694,9 @@
     {
       "kind": "other",
       "title": "Teddy Bridgewater steps away from Lions, retirement likely",
-      "title_ja": "Teddy Bridgewater、Lions から退団、引退の見通し",
+      "title_ja": null,
       "excerpt": "Detroit needs a new backup QB, with HC Dan Campbell saying the team may bring someone in as soon as Monday.",
-      "excerpt_ja": "Detroit はバックアップ QB を必要としており、HC Dan Campbell は月曜日にも誰かを招く可能性があると述べた",
+      "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
@@ -642,22 +706,6 @@
       "coach_name": null,
       "published_at": "Sun, 09 Aug 2026 13:12:03 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/teddy-bridgewater-steps-away-from-lions-retirement-likely"
-    },
-    {
-      "kind": "injury",
-      "title": "2026 NFL Offseason Buzz: Saints’ Dillon Radunz Out For Season With Torn ACL",
-      "title_ja": null,
-      "excerpt": "Here's the latest offseason buzz and rumors around the NFL.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 09 Aug 2026 12:49:47 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors"
     },
     {
       "kind": "other",
@@ -1042,54 +1090,6 @@
       "coach_name": null,
       "published_at": "Sat, 08 Aug 2026 17:35:15 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-sign-defensive-backs-brandon-hill-and-william-wright"
-    },
-    {
-      "kind": "signing",
-      "title": "Texans sign RB Owen Wright",
-      "title_ja": null,
-      "excerpt": "The Texans brought a new player into their backfield mix on Saturday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "HOU",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 17:08:36 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-rb-owen-wright"
-    },
-    {
-      "kind": "signing",
-      "title": "Seahawks sign RB Justin Jones",
-      "title_ja": null,
-      "excerpt": "The Seahawks announced a pair of roster moves on Saturday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 16:59:50 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-rb-justin-jones"
-    },
-    {
-      "kind": "presser",
-      "title": "Kyle Shanahan says his Tesla was on autopilot before accident",
-      "title_ja": null,
-      "excerpt": "Shanahan said he doesn't know whether it malfunctioned or he accidentally turned it off.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 08 Aug 2026 16:59:03 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-says-his-tesla-was-on-autopilot-before-accident"
     },
     {
       "kind": "other",

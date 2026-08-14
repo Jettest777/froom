@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T21:27:16.249716+00:00",
+  "generated_at": "2026-08-14T21:51:56.114508+00:00",
   "count": 111,
   "items": [
     {
@@ -18,22 +18,6 @@
       "coach_name": null,
       "published_at": "Thu, 13 Aug 2026 23:57:52 -0400",
       "url": "https://www.foxsports.com/stories/nfl/mendoza-mania-has-arrived-3-takeaways-from-fernando-mendozas-preseason-debut"
-    },
-    {
-      "kind": "injury",
-      "title": "George McCaskey: Team will be \"Chicago Bears\" if new stadium is built in Indiana",
-      "title_ja": null,
-      "excerpt": "The Bears say their \"sole focus\" when it comes to a new stadium is on Hammond, Indiana.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 22:29:59 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-mccaskey-team-will-be-chicago-bears-if-new-stadium-is-built-in-indiana"
     },
     {
       "kind": "other",
@@ -68,20 +52,116 @@
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-preseason-schedule-whos-playing-live-updates-today-152512676.html"
     },
     {
-      "kind": "rumor",
-      "title": "Troy Aikman: Dolphins are not expected to be good, so no MNF games and no conflict for me",
+      "kind": "other",
+      "title": "Sam Darnold won&#39;t play Saturday, as Drew Lock, Jalen Milroe will rotate series",
       "title_ja": null,
-      "excerpt": "Troy Aikman is both the color commentator on Monday Night Football and a consultant for the Miami Dolphins.",
+      "excerpt": "Seahawks quarterback Sam Darnold will not play the team&#39;s preseason opener against the Cowboys on Saturday.",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 21:39:33 +0000",
+      "url": "https://sports.yahoo.com/articles/sam-darnold-wont-play-saturday-213933399.html"
+    },
+    {
+      "kind": "other",
+      "title": "Deebo Samuel is officially back to wearing No. 19 in San Francisco",
+      "title_ja": null,
+      "excerpt": "New 49ers wide receiver Deebo Samuel&#39;s new number will be the same as old 49ers wide receiver Deebo Samuel&#39;s old number.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 21:36:50 +0000",
+      "url": "https://sports.yahoo.com/articles/deebo-samuel-officially-back-wearing-213650926.html"
+    },
+    {
+      "kind": "other",
+      "title": "The good, the bad, and the s—t that gets you beat from Patriots’ tie with the Colts",
+      "title_ja": null,
+      "excerpt": "Let’s use Mike Vrabel’s categorizations to break down the Patriots’ 13-13 in the preseason opener.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 21:32:04 +0000",
+      "url": "https://sports.yahoo.com/articles/good-bad-t-gets-beat-213204724.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL Preseason Week 1: Washington Commanders vs Miami Dolphins",
+      "title_ja": null,
+      "excerpt": "Commanders football is back!",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": "MIA",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 15:11:03 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/troy-aikman-dolphins-are-not-expected-to-be-good-so-no-mnf-games-and-no-conflict-for-me"
+      "published_at": "Fri, 14 Aug 2026 21:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-preseason-week-1-washington-213000383.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Titans DB gets 6-game suspension for violating league&#39;s PED policy",
+      "title_ja": null,
+      "excerpt": "The Titans signed Nazeeh Johnson to provide depth in their secondary on eve of training camp. He is facing a 6-game suspension.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 21:28:31 +0000",
+      "url": "https://sports.yahoo.com/articles/titans-db-gets-6-game-212831387.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Bills sign DB Wande Owens",
+      "title_ja": null,
+      "excerpt": "Defensive back Wande Owens is back with the Bills.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 21:27:48 +0000",
+      "url": "https://sports.yahoo.com/articles/bills-sign-db-wande-owens-212748556.html"
+    },
+    {
+      "kind": "other",
+      "title": "DeMarcus Lawrence says 2026 season will be his last",
+      "title_ja": null,
+      "excerpt": "The veteran pass rusher will play out the final chapter of his career in Seattle.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 21:22:35 +0000",
+      "url": "https://sports.yahoo.com/articles/demarcus-lawrence-says-2026-season-212235931.html"
     },
     {
       "kind": "other",
@@ -98,6 +178,38 @@
       "coach_name": null,
       "published_at": "Fri, 14 Aug 2026 21:20:58 +0000",
       "url": "https://sports.yahoo.com/articles/jordan-van-den-berg-t-212058794.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Jordyn Tyson injury update as Saints WR (hamstring) set to miss time",
+      "title_ja": null,
+      "excerpt": "Saints WR Jordyn Tyson is dealing with a hamstring injury. Here&#39;s what to know about its severity and how long the first-round rookie may be out.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NO",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 21:16:57 +0000",
+      "url": "https://sports.yahoo.com/articles/jordyn-tyson-injury-saints-wr-211657580.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Josh Jacobs could return to Packers practice next week",
+      "title_ja": null,
+      "excerpt": "Packers running back Josh Jacobs has missed more than a week of practice with a groin injury, but his return could be around the corner.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 21:16:53 +0000",
+      "url": "https://sports.yahoo.com/articles/josh-jacobs-could-return-packers-211653994.html"
     },
     {
       "kind": "injury",
@@ -405,151 +517,7 @@
     },
     {
       "kind": "other",
-      "title": "Bills DT Phidarian Mathis suspended three games",
-      "title_ja": null,
-      "excerpt": "The NFL has suspended defensive tackle Phidarian Mathis for the first three games of the season for violating its substances of abuse policy.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 19:47:33 +0000",
-      "url": "https://sports.yahoo.com/articles/bills-dt-phidarian-mathis-suspended-194733060.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Nazeeh Johnson suspended six games for violating PED policy",
-      "title_ja": null,
-      "excerpt": "The Titans will not have one of their cornerbacks at the beginning of the regular season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "TEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 19:45:44 +0000",
-      "url": "https://sports.yahoo.com/articles/nazeeh-johnson-suspended-six-games-194544891.html"
-    },
-    {
-      "kind": "other",
-      "title": "Eagles vs Ravens Predictions, Picks & Odds for Tonight&#39;s NFL Preseason Game",
-      "title_ja": null,
-      "excerpt": "Fade the new-look Ravens out of the gate in our NFL preseason expert picks, odds & predictions for Saturday, Aug. 15 against the Eagles.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 19:37:00 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-vs-ravens-predictions-picks-193700423.html"
-    },
-    {
-      "kind": "other",
-      "title": "Packers fans still favor Anthony Belton to start at right guard",
-      "title_ja": null,
-      "excerpt": "Despite some shuffling in the last week, Belton still got the most votes in this week’s poll.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 19:35:00 +0000",
-      "url": "https://sports.yahoo.com/articles/packers-fans-still-favor-anthony-193500844.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Best and worst Chargers PFF grades vs. the Texans",
-      "title_ja": null,
-      "excerpt": "Kayode Awosika and Marlowe Wax were the highest-graded Chargers from their win against the Texans, per PFF.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "HOU",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 19:25:49 +0000",
-      "url": "https://sports.yahoo.com/articles/best-worst-chargers-pff-grades-192549019.html"
-    },
-    {
-      "kind": "other",
-      "title": "Reacts Survey Results: The NFL Preseason is Upon Us",
-      "title_ja": null,
-      "excerpt": "24 hours to go…",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 19:22:06 +0000",
-      "url": "https://sports.yahoo.com/articles/reacts-survey-results-nfl-preseason-192206889.html"
-    },
-    {
-      "kind": "other",
-      "title": "How long should Dolphins starters play against Commanders tonight? You answered",
-      "title_ja": null,
-      "excerpt": "Are you happy with the direction of the Miami Dolphins? It seems like the fan base is.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 19:20:02 +0000",
-      "url": "https://sports.yahoo.com/articles/long-dolphins-starters-play-against-192002486.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Cowboys vs Seahawks Predictions, Picks & Odds for Saturday&#39;s NFL Preseason Game",
-      "title_ja": null,
-      "excerpt": "Our Cowboys vs. Seahawks predictions and picks for Saturday are backing the defending Super Bowl champions at home in their preseason opener.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 19:19:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-vs-seahawks-predictions-picks-191900768.html"
-    },
-    {
-      "kind": "other",
-      "title": "Falcons&#39; sack leader suspended by NFL after felony weapon charge",
-      "title_ja": null,
-      "excerpt": "The Falcons edge rusher was involved in a domestic incident involving his ex-girlfriend, Chicago Sky forward Rickea Jackson, and arrested in February. What we know.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 19:17:07 +0000",
-      "url": "https://sports.yahoo.com/articles/falcons-sack-leader-suspended-nfl-191707322.html"
-    },
-    {
-      "kind": "other",
-      "title": "With Fernando Mendoza, The Raiders Don't Have A Long-Shot Franchise QB",
+      "title": "With Fernando Mendoza, The Odds Are On The Raiders' Side That They Have Franchise QB",
       "title_ja": null,
       "excerpt": "Fernando Mendoza took his first NFL steps Thursday, and there were glimpses of the potential he brings to a franchise trying to restore its glory.",
       "excerpt_ja": null,
@@ -560,8 +528,88 @@
       "team_abbrev": "LV",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 17:25:33 -0400",
+      "published_at": "Fri, 14 Aug 2026 17:45:48 -0400",
       "url": "https://www.foxsports.com/stories/nfl/fernando-mendoza-raiders-dont-have-long-shot-franchise-qb"
+    },
+    {
+      "kind": "injury",
+      "title": "Bucs QB Jake Browning will not play against the Jets",
+      "title_ja": null,
+      "excerpt": "The Buccaneers have scrapped their plan to have Jake Browning start at quarterback against the Jets on Friday night.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 17:45:24 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-qb-jake-browning-will-not-play-against-the-jets"
+    },
+    {
+      "kind": "other",
+      "title": "Commanders announce Jayden Daniels, many others won't play on Friday night",
+      "title_ja": null,
+      "excerpt": "There won't be anyone wearing No. 5 for the Commanders on Friday night.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "WAS",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 17:39:45 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-announce-jayden-daniels-many-others-wont-play-on-friday-night"
+    },
+    {
+      "kind": "other",
+      "title": "Sam Darnold won't play Saturday, as Drew Lock, Jalen Milroe will rotate series",
+      "title_ja": null,
+      "excerpt": "Seahawks quarterback Sam Darnold will not play the team's preseason opener against the Cowboys on Saturday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 17:39:33 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-wont-play-saturday-as-drew-lock-jalen-milroe-will-rotate-series"
+    },
+    {
+      "kind": "other",
+      "title": "Deebo Samuel is officially back to wearing No. 19 in San Francisco",
+      "title_ja": null,
+      "excerpt": "New 49ers wide receiver Deebo Samuel's new number will be the same as old 49ers wide receiver Deebo Samuel's old number.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 17:36:50 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deebo-samuel-is-officially-back-to-wearing-no-19-in-san-francisco"
+    },
+    {
+      "kind": "signing",
+      "title": "Bills sign DB Wande Owens",
+      "title_ja": null,
+      "excerpt": "Defensive back Wande Owens is back with the Bills.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 17:27:48 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-sign-db-wande-owens"
     },
     {
       "kind": "injury",
@@ -572,7 +620,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.5,
+      "reliability": 0.54,
       "team_abbrev": "GB",
       "player_name": null,
       "coach_name": null,
@@ -668,7 +716,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "BUF",
       "player_name": null,
       "coach_name": null,
@@ -684,7 +732,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "TEN",
       "player_name": null,
       "coach_name": null,
@@ -1124,22 +1172,6 @@
       "url": "https://www.foxsports.com/stories/motor/2027-indycar-schedule-tracker"
     },
     {
-      "kind": "other",
-      "title": "Team USA's 14-year unbeaten streak in flag football ends, thanks to American Samoa",
-      "title_ja": null,
-      "excerpt": "Sometimes, the Globetrotters lose to the Washington Generals.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 10:31:41 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/team-usas-14-year-unbeaten-streak-in-flag-football-ends-thanks-to-american-samoa"
-    },
-    {
       "kind": "signing",
       "title": "NASCAR Silly Season Tracker: Noah Gragson Extends With Front Row Motorsports",
       "title_ja": null,
@@ -1154,38 +1186,6 @@
       "coach_name": null,
       "published_at": "Fri, 14 Aug 2026 10:29:23 -0400",
       "url": "https://www.foxsports.com/stories/nascar/nascar-silly-season-tracker-2026-2027"
-    },
-    {
-      "kind": "other",
-      "title": "Fernando Mendoza: It was a good experience to get my feet wet",
-      "title_ja": null,
-      "excerpt": "No. 1 overall pick Fernando Mendoza had a solid preseason debut on Thursday night, tossing a touchdown to cap his second possession.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 10:12:52 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fernando-mendoza-it-was-a-good-experience-to-get-my-feet-wet"
-    },
-    {
-      "kind": "rumor",
-      "title": "49ers WR De'Zhaun Stribling: I felt like I was really clicking with the offense",
-      "title_ja": null,
-      "excerpt": "Many 49ers who are expected to play roles for the team this fall did not play on Thursday night, but rookie wide receiver De'Zhaun Stribling was on the field and the second-round pick took advantage of the opportunity.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 10:11:15 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-wr-dezhaun-stribling-i-felt-like-i-was-really-clicking-with-the-offense"
     },
     {
       "kind": "other",

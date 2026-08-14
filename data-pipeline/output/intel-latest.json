@@ -1,215 +1,135 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T02:08:19.488686+00:00",
-  "count": 106,
+  "generated_at": "2026-08-14T04:22:27.349194+00:00",
+  "count": 108,
   "items": [
     {
-      "kind": "injury",
-      "title": "Jordan Love plays one series, leads Packers to a field goal",
+      "kind": "other",
+      "title": "Mendoza Mania Has Arrived: 3 Takeaways From Fernando Mendoza's Preseason Debut",
       "title_ja": null,
-      "excerpt": "The Packers made a different choice than the Steelers when it came to playing their starting quarterback on Thursday night, but they didn&#39;t leave Jordan Love in the game for long.",
+      "excerpt": "Fernando Mendoza made his case to be the Raiders' QB1 as he had a few strong moments playing around an improved Las Vegas offense.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 13 Aug 2026 23:57:52 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/mendoza-mania-has-arrived-3-takeaways-from-fernando-mendozas-preseason-debut"
+    },
+    {
+      "kind": "other",
+      "title": "Joe Burrow has no thoughts about the LSU, Jayden Daniels number fracas",
+      "title_ja": null,
+      "excerpt": "The sudden and surprising scuffle between Commanders quarterback Jayden Daniels and LSU over the re-issuance of his number (5) has implicated Bengals quarterback Joe Burrow, given that the school has to date honored its vow to not use his number (9) again.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 13 Aug 2026 23:40:17 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-has-no-thoughts-about-the-lsu-jayden-daniels-number-fracas"
+    },
+    {
+      "kind": "other",
+      "title": "Drew Allar leads Steelers' offense to three touchdowns in three drives",
+      "title_ja": null,
+      "excerpt": "Third-rounder looks the part in his preseason debut.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 13 Aug 2026 23:04:26 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-allar-leads-steelers-offense-to-three-touchdowns-in-three-drives"
+    },
+    {
+      "kind": "other",
+      "title": "With suspension looming, Falcons list James Pearce Jr. as third-stringer",
+      "title_ja": null,
+      "excerpt": "Falcons defensive end James Pearce Jr., who entered a diversion program earlier this year to resolve multiple felonies arising from a February 2026 domestic violence incident, most likely will be suspended by the league before Week 1.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ATL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 13 Aug 2026 22:49:50 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-suspension-looming-falcons-list-james-pearce-jr-as-third-stringer"
+    },
+    {
+      "kind": "other",
+      "title": "Cam Ward has tough night vs. 49ers backups",
+      "title_ja": null,
+      "excerpt": "Cam Ward completed 59.8 percent of his passes for 3,169 yards with 15 touchdowns and seven interceptions as a rookie.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
       ],
       "reliability": 0.54,
-      "team_abbrev": "GB",
+      "team_abbrev": "SF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 23:57:22 +0000",
-      "url": "https://sports.yahoo.com/articles/jordan-love-plays-one-series-235722435.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Rams’ rivals sign CB facing 8 felony charges",
-      "title_ja": null,
-      "excerpt": "Seahawks are signing Terrion Arnold",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 23:51:44 +0000",
-      "url": "https://sports.yahoo.com/articles/rams-rivals-sign-cb-facing-235144138.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Terrion Arnold set to sign with Seahawks",
-      "title_ja": null,
-      "excerpt": "The Seahawks were quickly linked to Arnold after his release from Detroit, and now it appears Seattle has another first round cornerback.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 23:44:27 +0000",
-      "url": "https://sports.yahoo.com/articles/terrion-arnold-set-sign-seahawks-234427521.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Super Bowl champion Seahawks signing CB charged with kidnapping",
-      "title_ja": null,
-      "excerpt": "A former first-round pick by the Detroit Lions, Terrion Arnold is facing the possibility of life in prison on kidnapping and armed robbery charges.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 23:36:51 +0000",
-      "url": "https://sports.yahoo.com/articles/super-bowl-champion-seahawks-signing-233651743.html"
-    },
-    {
-      "kind": "other",
-      "title": "Colts vs. Patriots discussion",
-      "title_ja": null,
-      "excerpt": "It’s time for Colts football yet again.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 23:30:50 +0000",
-      "url": "https://sports.yahoo.com/articles/colts-vs-patriots-discussion-233050583.html"
-    },
-    {
-      "kind": "other",
-      "title": "NFL Moneyline Picks for Every Week 1 Preseason Game",
-      "title_ja": null,
-      "excerpt": "Looking for NFL moneyline picks for every Week 1 preseason game? We&#39;ve got you covered for all 16 matchups ahead of kickoff.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 23:29:00 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-moneyline-picks-every-week-000100624.html"
-    },
-    {
-      "kind": "signing",
-      "title": "CB Terrion Arnold agrees to terms with Seahawks",
-      "title_ja": null,
-      "excerpt": "The NFL now must decide whether to place Arnold on the Commissioner&#39;s Exempt List.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 23:26:45 +0000",
-      "url": "https://sports.yahoo.com/articles/cb-terrion-arnold-agrees-terms-232645993.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Patriots vs. Colts live updates: Andy Borregales extends Patriots lead 13-7 in the third",
-      "title_ja": null,
-      "excerpt": "The Patriots open their preseason on Thursday night.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 23:21:28 +0000",
-      "url": "https://sports.yahoo.com/articles/patriots-vs-colts-live-updates-232128695.html"
-    },
-    {
-      "kind": "other",
-      "title": "Kansas City Chiefs roster",
-      "title_ja": null,
-      "excerpt": "The up-to-date team roster, including contract and salary cap information.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 23:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/kansas-city-chiefs-roster-003019778.html"
+      "published_at": "Thu, 13 Aug 2026 22:37:04 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-ward-has-tough-night-vs-49ers-backups"
     },
     {
       "kind": "injury",
-      "title": "Aaron Rodgers will not play tonight against the Packers",
+      "title": "George McCaskey: Team will be \"Chicago Bears\" if new stadium is built in Indiana",
       "title_ja": null,
-      "excerpt": "The Steelers did not announce their quarterback plans for Thursday night&#39;s preseason game against the Packers.",
+      "excerpt": "The Bears say their \"sole focus\" when it comes to a new stadium is on Hammond, Indiana.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 13 Aug 2026 22:29:59 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-mccaskey-team-will-be-chicago-bears-if-new-stadium-is-built-in-indiana"
+    },
+    {
+      "kind": "injury",
+      "title": "49ers third-string QB Kurtis Rourke leaves with rib injury",
+      "title_ja": null,
+      "excerpt": "The 49ers have four quarterbacks on their roster, but only two dressed Thursday night.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
       ],
       "reliability": 0.54,
-      "team_abbrev": "GB",
+      "team_abbrev": "SF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 22:43:50 +0000",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-not-play-tonight-224350079.html"
+      "published_at": "Thu, 13 Aug 2026 22:19:23 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-third-string-qb-kurtis-rourke-leaves-with-rib-injury"
     },
     {
-      "kind": "other",
-      "title": "Packers vs. Steelers Preseason Week 1 Game Discussion",
+      "kind": "injury",
+      "title": "Falcons ' QB depth chart has Tua Tagovailoa as starter, Michael Penix Jr. omitted as \"injured player\"",
       "title_ja": null,
-      "excerpt": "Join APC to discuss Green Bay’s opening exhibition game in Pittsburgh!",
+      "excerpt": "From the outside, there's a quarterback competition in Atlanta.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "GB",
+      "team_abbrev": "ATL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 22:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/packers-vs-steelers-preseason-week-223000423.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 31",
-      "title_ja": null,
-      "excerpt": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 31",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 22:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-countdown-kickoff-top-100-223000032.html"
-    },
-    {
-      "kind": "other",
-      "title": "Steelers vs. Packers: Preseason Week 1 open thread",
-      "title_ja": null,
-      "excerpt": "The Steelers take the field for the first time in the 2026 season. Come join us!",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 22:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/steelers-vs-packers-preseason-week-223000793.html"
+      "published_at": "Thu, 13 Aug 2026 22:18:28 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-qb-depth-chart-has-tua-tagovailoa-as-starter-michael-penix-jr-omitted-as-injured-player"
     },
     {
       "kind": "injury",
@@ -268,7 +188,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
@@ -284,7 +204,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "IND",
       "player_name": null,
       "coach_name": null,
@@ -316,7 +236,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "LV",
       "player_name": null,
       "coach_name": null,
@@ -364,7 +284,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "GB",
       "player_name": null,
       "coach_name": null,
@@ -396,7 +316,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "SEA",
       "player_name": null,
       "coach_name": null,
@@ -492,7 +412,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "GB",
       "player_name": null,
       "coach_name": null,
@@ -757,7 +677,7 @@
     },
     {
       "kind": "signing",
-      "title": "NFL news, live updates: Fernando Mendoza leads TD drive in preseason opener; Joe Burrow, Ja&#39;Marr Chase see action; Terrion Arnold plans to sign with Seahawks",
+      "title": "NFL news, live updates: Fernando Mendoza leads TD drive in preseason opener; Drew Allar shines in Steelers debut; Terrion Arnold to sign with Seahawks",
       "title_ja": null,
       "excerpt": "Follow along with the latest NFL news and updates as the preseason plays out.",
       "excerpt_ja": null,
@@ -765,7 +685,7 @@
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "SEA",
+      "team_abbrev": "PIT",
       "player_name": null,
       "coach_name": null,
       "published_at": "Thu, 13 Aug 2026 15:25:12 +0000",
@@ -786,22 +706,6 @@
       "coach_name": null,
       "published_at": "Thu, 13 Aug 2026 15:18:54 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-gets-left-foot-ankle-checked-out-at-eagles-practice"
-    },
-    {
-      "kind": "rumor",
-      "title": "Troy Aikman: Dolphins are not expected to be good, so no MNF games and no conflict for me",
-      "title_ja": null,
-      "excerpt": "Troy Aikman is both the color commentator on Monday Night Football and a consultant for the Miami Dolphins.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 15:11:03 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/troy-aikman-dolphins-are-not-expected-to-be-good-so-no-mnf-games-and-no-conflict-for-me"
     },
     {
       "kind": "other",
@@ -852,116 +756,436 @@
       "url": "https://www.foxsports.com/stories/nascar/kyle-busch-bristol-tribute-nascar-cup-series"
     },
     {
-      "kind": "presser",
-      "title": "Jayden Daniels addresses LSU squabble: \"My sole personal focus is on Commanders' football\"",
-      "title_ja": null,
-      "excerpt": "The news that former LSU quarterback Jayden Daniels has told the school to stop using his name, image, and likeness after his No. 5 was reissued has made everyone involved look bad.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "WAS",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 14:56:54 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-addresses-lsu-squabble-my-sole-personal-focus-is-on-commanders-football"
-    },
-    {
       "kind": "other",
-      "title": "Fernando Mendoza treats the Las Vegas Strip like a \"haunted house\"",
+      "title": "Mike Vrabel provides update on Christian Gonzalez’s recent absence",
       "title_ja": null,
-      "excerpt": "When the NFL allowed a franchise to relocate to Sin City, many were concerned that the players would fall prey to one or more of the various available vices.",
+      "excerpt": "Gonzalez was not present for the preseason opener for a physical issue.",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 14:31:53 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fernando-mendoza-treats-the-las-vegas-strip-like-a-haunted-house"
+      "published_at": "Fri, 14 Aug 2026 04:11:21 +0000",
+      "url": "https://sports.yahoo.com/articles/mike-vrabel-provides-christian-gonzalez-041121869.html"
     },
     {
       "kind": "other",
-      "title": "Puka Nacua, Myles Garrett not practicing for Rams on Thursday",
+      "title": "49ers fall to the Titans, but De’Zhaun Stribling steals the show",
       "title_ja": null,
-      "excerpt": "Two of the Rams key players are not participating in Thursday's practice.",
+      "excerpt": "The 49ers lost on the scoreboard, but we saw some highlights from key players",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "LAR",
+      "team_abbrev": "SF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 14:29:01 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-myles-garrett-not-practicing-for-rams-on-thursday"
+      "published_at": "Fri, 14 Aug 2026 04:07:28 +0000",
+      "url": "https://sports.yahoo.com/articles/49ers-fall-titans-zhaun-stribling-040728880.html"
     },
     {
       "kind": "injury",
-      "title": "Carson Beck will not play vs. Raiders due to rib injury",
+      "title": "Colts have plenty to evaluate after preseason opener tie with Patriots",
       "title_ja": null,
-      "excerpt": "Carson Beck impressed in his preseason debut during last week’s Hall of Fame Game.",
+      "excerpt": "For the Indianapolis Colts, the 13-13 final score of the preseason opener does not reflect the numerous missed opportunities to step on the neck of the reining AFC-champions, punch the ball into the end zone, or claim their job on the depth chart. The Colts turned the ball over four times through th",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:59:52 +0000",
+      "url": "https://sports.yahoo.com/articles/colts-plenty-evaluate-preseason-opener-035952361.html"
+    },
+    {
+      "kind": "other",
+      "title": "Instant analysis from Patriots’ 13-13 preseason tie against Colts",
+      "title_ja": null,
+      "excerpt": "Observations from Thursday night’s preseason opener at Gillette Stadium.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:39:08 +0000",
+      "url": "https://sports.yahoo.com/articles/instant-analysis-patriots-13-13-033908142.html"
+    },
+    {
+      "kind": "other",
+      "title": "49ers rookie WR De&#39;Zhaun Stribling introduces himself with 63 receiving yards in preseason opener",
+      "title_ja": null,
+      "excerpt": "The Niners are facing some wide receiver questions. De&#39;Zhaun Stribling is looking like an answer.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:29:14 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/49ers-rookie-wr-dezhaun-stribling-introduces-himself-with-63-receiving-yards-in-preseason-opener-032914128.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Detroit Lions injury updates: Good news on Ennis Rakestraw",
+      "title_ja": null,
+      "excerpt": "Detroit Lions injury updates on Ennis Rakestraw and Mekhi Wingo after the preseason opener.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:26:52 +0000",
+      "url": "https://sports.yahoo.com/articles/detroit-lions-injury-updates-good-032652768.html"
+    },
+    {
+      "kind": "other",
+      "title": "Mike Vrabel expresses confidence in Andy Borregales after 3-miss performance",
+      "title_ja": null,
+      "excerpt": "The Patriots’ kicker went 2-of-5 in the preseason opener.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:26:25 +0000",
+      "url": "https://sports.yahoo.com/articles/mike-vrabel-expresses-confidence-andy-032625604.html"
+    },
+    {
+      "kind": "other",
+      "title": "Third-string Cardinals WR makes one-handed catch too good for the preseason",
+      "title_ja": null,
+      "excerpt": "A fourth-string QB and a third-string wide receiver connected for one of the best plays of the NFL preseason so far.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:09:41 +0000",
+      "url": "https://sports.yahoo.com/articles/third-string-cardinals-wr-makes-030941693.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chargers-Texans Game Recap: RB Amar Johnson scores twice as Bolts beat Houston 27-7",
+      "title_ja": null,
+      "excerpt": "RB Amar Johnson score two rushing touchdowns and D.J. Uiagalelei threw another as the Chargers beat Houston 27-7.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "HOU",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:06:47 +0000",
+      "url": "https://sports.yahoo.com/articles/chargers-texans-game-recap-rb-030647011.html"
+    },
+    {
+      "kind": "other",
+      "title": "Drew Allar leads Steelers&#39; offense to three touchdowns in three drives",
+      "title_ja": null,
+      "excerpt": "Third-rounder looks the part in his preseason debut.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:04:26 +0000",
+      "url": "https://sports.yahoo.com/articles/drew-allar-leads-steelers-offense-030426335.html"
+    },
+    {
+      "kind": "other",
+      "title": "6 takeaways from Detroit Lions’ 16-14 loss to the Bengals",
+      "title_ja": null,
+      "excerpt": "6 takeaways from the Detroit Lions’ 16-14 loss to the Cincinnati Bengals in preseason Week 1.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:02:51 +0000",
+      "url": "https://sports.yahoo.com/articles/6-takeaways-detroit-lions-16-030251409.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cam Ward struggles in Titans preseason opener",
+      "title_ja": null,
+      "excerpt": "A tough 2026 debut for Titans QB Cam Ward",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:02:42 +0000",
+      "url": "https://sports.yahoo.com/articles/cam-ward-struggles-titans-preseason-030242170.html"
+    },
+    {
+      "kind": "other",
+      "title": "Arizona Cardinals get first win of preseason in Las Vegas",
+      "title_ja": null,
+      "excerpt": "The Arizona Cardinals get a win over the Las Vegas Raiders.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:02:33 +0000",
+      "url": "https://sports.yahoo.com/articles/arizona-cardinals-first-win-preseason-030233657.html"
+    },
+    {
+      "kind": "other",
+      "title": "Rookie QB Drew Allar throws 2 passing TDs, rushes for another in Steelers&#39; preseason debut",
+      "title_ja": null,
+      "excerpt": "Between Allar&#39;s 3 total touchdowns and a solid outing from Kaden Wetjen, it was a good night for Pittsburgh&#39;s rookies.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 03:00:57 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/rookie-qb-drew-allar-throws-2-passing-tds-rushes-for-another-in-steelers-preseason-debut-030057693.html"
+    },
+    {
+      "kind": "other",
+      "title": "Fernando Mendoza makes some plays in Raiders’ preseason debut",
+      "title_ja": null,
+      "excerpt": "A breakdown of Las Vegas’ preseason loss to Arizona",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": "LV",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 14:25:03 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-beck-will-not-play-vs-raiders-due-to-rib-injury"
+      "published_at": "Fri, 14 Aug 2026 02:57:59 +0000",
+      "url": "https://sports.yahoo.com/articles/fernando-mendoza-makes-plays-raiders-025759679.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chargers preseason opener takeaways: Amar Johnson adds intrigue to running back battle",
+      "title_ja": null,
+      "excerpt": "Jake Slaughter performs well in his first audition for the Chargers&#39; starting left-tackle role and the Mike McDaniel-guided running game puts on a show.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 02:57:56 +0000",
+      "url": "https://sports.yahoo.com/articles/chargers-preseason-opener-takeaways-amar-025756711.html"
+    },
+    {
+      "kind": "other",
+      "title": "Colts’ key takeaways from preseason opener, 13-13 tie, against Patriots",
+      "title_ja": null,
+      "excerpt": "There was some good and bad from this Week 1 of preseason stalemate against the Patriots.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 02:51:56 +0000",
+      "url": "https://sports.yahoo.com/articles/colts-key-takeaways-preseason-opener-025156494.html"
+    },
+    {
+      "kind": "other",
+      "title": "Fernando Mendoza&#39;s Raiders debut proved Kirk Cousins value – and that&#39;s OK",
+      "title_ja": null,
+      "excerpt": "Fernando Mendoza encountered a few rough patches in his NFL preseason debut, but the Raiders QB reinforced that he can push through adversity.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 02:45:43 +0000",
+      "url": "https://sports.yahoo.com/articles/fernando-mendozas-raiders-debut-proved-024543360.html"
     },
     {
       "kind": "injury",
-      "title": "Ravens hope to have Marlon Humphrey, Nate Wiggins back next week",
+      "title": "Steelers stock report after their 28-9 preseason win over the Green Bay Packers",
       "title_ja": null,
-      "excerpt": "The Ravens had their top two corners leave practices early this week, but the team does not expect either player to be out for an extended period of time.",
+      "excerpt": "Who impressed and who disappointed in the Steelers first preseason action?",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "BAL",
+      "team_abbrev": "GB",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 14:16:25 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-hope-to-have-marlon-humphrey-nate-wiggins-back-next-week"
+      "published_at": "Fri, 14 Aug 2026 02:45:00 +0000",
+      "url": "https://sports.yahoo.com/articles/steelers-stock-report-28-9-024500822.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cam Ward has tough night vs. 49ers backups",
+      "title_ja": null,
+      "excerpt": "Cam Ward completed 59.8 percent of his passes for 3,169 yards with 15 touchdowns and seven interceptions as a rookie.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 02:37:04 +0000",
+      "url": "https://sports.yahoo.com/articles/cam-ward-tough-night-vs-023704948.html"
     },
     {
       "kind": "injury",
-      "title": "Puka Nacua was cut by a glass window pane at Michael Rubin's white party",
+      "title": "George McCaskey: Team will be &quot;Chicago Bears&quot; if new stadium is built in Indiana",
       "title_ja": null,
-      "excerpt": "Playing football presents a constant risk of injury.",
+      "excerpt": "The Bears say their &quot;sole focus&quot; when it comes to a new stadium is on Hammond, Indiana.",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 14:16:16 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-was-cut-by-a-glass-window-pane-at-michael-rubins-white-party"
+      "published_at": "Fri, 14 Aug 2026 02:29:59 +0000",
+      "url": "https://sports.yahoo.com/articles/george-mccaskey-team-chicago-bears-022959515.html"
+    },
+    {
+      "kind": "other",
+      "title": "Packers-Steelers Score, Recap: Trey Smack goes perfect in an otherwise sloppy game",
+      "title_ja": null,
+      "excerpt": "Green Bay rookie kicker Trey Smack hit from 58, 57, 38 and 37 yards out on Thursday",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 02:28:52 +0000",
+      "url": "https://sports.yahoo.com/articles/packers-steelers-score-recap-trey-022852554.html"
     },
     {
       "kind": "signing",
-      "title": "Giants sign DB Ugochukwu Amadi, DB Sam Webb",
+      "title": "10 winners and 4 losers in Cincinnati Bengals’ preseason win vs. Detroit Lions",
       "title_ja": null,
-      "excerpt": "The Giants have announced a series of transactions on Thursday.",
+      "excerpt": "The Bengals came out victorious in their opener, and while there were signs of optimism, improvements are also needed.",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NYG",
+      "team_abbrev": "CIN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 13 Aug 2026 14:04:34 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-sign-db-ugochukwu-amadi-db-sam-webb"
+      "published_at": "Fri, 14 Aug 2026 02:21:48 +0000",
+      "url": "https://sports.yahoo.com/articles/10-winners-4-losers-cincinnati-022148322.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Raiders QB Fernando Mendoza, No. 1 pick of the NFL Draft, makes some nice plays in preseason debut",
+      "title_ja": null,
+      "excerpt": "Raiders fans were excited to get their first look at Fernando Mendoza.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 02:21:44 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/raiders-qb-fernando-mendoza-no-1-pick-of-the-nfl-draft-makes-some-nice-plays-in-preseason-debut-022144246.html"
+    },
+    {
+      "kind": "injury",
+      "title": "49ers third-string QB Kurtis Rourke leaves with rib injury",
+      "title_ja": null,
+      "excerpt": "The 49ers have four quarterbacks on their roster, but only two dressed Thursday night.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 02:19:23 +0000",
+      "url": "https://sports.yahoo.com/articles/49ers-third-string-qb-kurtis-021923880.html"
+    },
+    {
+      "kind": "other",
+      "title": "Drew Allar shines with 3 total TDs in Steelers’ 28-9 win over Packers",
+      "title_ja": null,
+      "excerpt": "Steelers QB Drew Allar shines in 28-9 win in preseason opener.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 02:17:55 +0000",
+      "url": "https://sports.yahoo.com/articles/drew-allar-shines-3-total-021755515.html"
+    },
+    {
+      "kind": "presser",
+      "title": "Saints Reacts Results: Which side of the ball are you most excited to watch against the Jaguars?",
+      "title_ja": null,
+      "excerpt": "80% of Saints fans said…",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "JAX",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 14 Aug 2026 02:15:37 +0000",
+      "url": "https://sports.yahoo.com/articles/saints-reacts-results-side-ball-021537341.html"
     },
     {
       "kind": "other",
@@ -981,38 +1205,6 @@
     },
     {
       "kind": "other",
-      "title": "Breaking down Anthony Richardson’s game vs the Patriots",
-      "title_ja": null,
-      "excerpt": "Breaking down Anthony Richardson’s first half performance against the New England Patriots.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 01:38:38 +0000",
-      "url": "https://sports.yahoo.com/articles/breaking-down-anthony-richardson-game-013838681.html"
-    },
-    {
-      "kind": "other",
-      "title": "Fernando Mendoza throws TD on his second possession",
-      "title_ja": null,
-      "excerpt": "Fernando Mendoza threw his first completion to Jack Bech, and now has thrown his first touchdown pass to the second-year wide receiver.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 01:22:09 +0000",
-      "url": "https://sports.yahoo.com/articles/fernando-mendoza-throws-td-second-012209105.html"
-    },
-    {
-      "kind": "other",
       "title": "NFL Preseason Blitz: Colts QB Anthony Richardson Sr. rallies after a slow start in outing that included 2 turnovers",
       "title_ja": null,
       "excerpt": "Anthony Richardson&#39;s future with the Colts has been up in the air.",
@@ -1028,196 +1220,36 @@
       "url": "https://sports.yahoo.com/nfl/article/nfl-preseason-blitz-colts-qb-anthony-richardson-sr-rallies-after-a-slow-start-in-outing-that-included-2-turnovers-012108115.html"
     },
     {
-      "kind": "injury",
-      "title": "Ben Brown leaves Patriots preseason opener with injury",
+      "kind": "signing",
+      "title": "NFL Catchup: Mendoza, Love, Allar Shine In Preseason Debuts; Seahawks Sign Arnold",
       "title_ja": null,
-      "excerpt": "Ben Brown left the game against the Colts in the first quarter.",
+      "excerpt": "Here's what you need to know from Thursday around the NFL.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "IND",
+      "team_abbrev": "SEA",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 01:10:37 +0000",
-      "url": "https://sports.yahoo.com/articles/ben-brown-leaves-patriots-preseason-011037741.html"
+      "published_at": "Fri, 14 Aug 2026 00:18:55 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-rookies-mendoza-love-shine-preseason-debuts-more"
     },
     {
       "kind": "other",
-      "title": "Watch Raiders&#39; Fernando Mendoza throw first NFL TD pass to Jack Bech",
+      "title": "Mike Vrabel won't be delegating challenge-flag duties",
       "title_ja": null,
-      "excerpt": "Fernando Mendoza threw his first NFL TD during his preseason debut with the Raiders. Here&#39;s a look at his second quarter strike to Jack Bech.",
+      "excerpt": "The NFL has tweaked the rules to allow head coaches to delegate before each game the task of physically throwing the red challenge flag.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 01:09:20 +0000",
-      "url": "https://sports.yahoo.com/articles/watch-raiders-fernando-mendoza-throw-010920655.html"
-    },
-    {
-      "kind": "other",
-      "title": "Anthony Richardson completes 11 of 14 passes in first half of preseason opener",
-      "title_ja": null,
-      "excerpt": "As Colts quarterback Anthony Richardson prepares for his fourth season, he&#39;s fighting to avoid falling to third on the Indy depth chart behind Daniel Jones and Riley Leonard.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 01:07:29 +0000",
-      "url": "https://sports.yahoo.com/articles/anthony-richardson-completes-11-14-010729467.html"
-    },
-    {
-      "kind": "other",
-      "title": "McVay to hand over play calling duties on Saturday",
-      "title_ja": null,
-      "excerpt": "Nate Scheelhaase will call plays in a preseason game for the second time in as many years",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 01:06:35 +0000",
-      "url": "https://sports.yahoo.com/articles/mcvay-hand-over-play-calling-010635119.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Terrion Arnold will sign with Seattle Seahawks, sparing Giants a decision",
-      "title_ja": null,
-      "excerpt": "New York had Arnold in for a vist, but he will not be coming to New Jersey.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 00:47:39 +0000",
-      "url": "https://sports.yahoo.com/articles/terrion-arnold-sign-seattle-seahawks-004739061.html"
-    },
-    {
-      "kind": "other",
-      "title": "49ers-Titans preseason game thread: It’s Kurtis Rourke time",
-      "title_ja": null,
-      "excerpt": "Our first game thread of the 2026 season",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 00:45:00 +0000",
-      "url": "https://sports.yahoo.com/articles/49ers-titans-preseason-game-thread-004500639.html"
-    },
-    {
-      "kind": "other",
-      "title": "Kirk Cousins throws TD on his only drive before Fernando Mendoza replaces him",
-      "title_ja": null,
-      "excerpt": "Kirk Cousins will start the season opener for the Raiders as No. 1 overall pick Fernando Mendoza begins his career on the bench.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 00:42:47 +0000",
-      "url": "https://sports.yahoo.com/articles/kirk-cousins-throws-td-only-004247996.html"
-    },
-    {
-      "kind": "other",
-      "title": "Instant recap of the Bengals starters vs. Lions",
-      "title_ja": null,
-      "excerpt": "Burrow plays two offensive series against the Lions.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 00:16:01 +0000",
-      "url": "https://sports.yahoo.com/articles/instant-recap-bengals-starters-vs-001601091.html"
-    },
-    {
-      "kind": "other",
-      "title": "Joe Burrow plays two series in Bengals&#39; preseason opener",
-      "title_ja": null,
-      "excerpt": "Bengals quarterback Joe Burrow started the team&#39;s first preseason game Thursday night against the Lions.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 00:02:57 +0000",
-      "url": "https://sports.yahoo.com/articles/joe-burrow-plays-two-series-000257111.html"
-    },
-    {
-      "kind": "other",
-      "title": "What You Are Looking For: Dolphins Vs. Commanders",
-      "title_ja": null,
-      "excerpt": "Miami Dolphins fans sound off on what they are hoping to see in the preseason contest against the Washington Commanders.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 00:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/looking-dolphins-vs-commanders-000000142.html"
-    },
-    {
-      "kind": "other",
-      "title": "Dallas Cowboys named most valuable professional sports franchise again",
-      "title_ja": null,
-      "excerpt": "The Cowboys are worth a lot of money and that is shocking to no one.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 00:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/dallas-cowboys-named-most-valuable-000000014.html"
-    },
-    {
-      "kind": "other",
-      "title": "Titans vs. 49ers preseason game one open thread",
-      "title_ja": null,
-      "excerpt": "Your place to discuss the Titans preseason opener.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 14 Aug 2026 00:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/titans-vs-49ers-preseason-game-000000572.html"
+      "published_at": "Fri, 14 Aug 2026 00:07:17 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-wont-be-delegating-challenge-flag-duties"
     },
     {
       "kind": "other",
@@ -1349,22 +1381,6 @@
     },
     {
       "kind": "rumor",
-      "title": "NFL preseason arrives: 10 storylines that could shape the 2026 regular season",
-      "title_ja": null,
-      "excerpt": "The preseason may not count in the standings, but it could determine starting jobs, roster spots and the outlook for several contenders",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Wed, 12 Aug 2026 12:53:31 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/nfl-preseason-storylines-2026-qb-injuries-aaron-donald/"
-    },
-    {
-      "kind": "rumor",
       "title": "Jayden Daniels' camp picked a fight with LSU and may have overplayed his hand in Baton Rouge",
       "title_ja": null,
       "excerpt": "The former LSU quarterback is reportedly upset his No. 5 jersey was reissued while Joe Burrow's No. 9 remains untouched in Baton Rouge",
@@ -1410,22 +1426,6 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 13 Aug 2026 21:20:41 +0000\n                    ",
       "url": "https://www.cbssports.com/betting/news/steelers-2026-nfl-futures-odds-will-aaron-rodgers-last-hurrah-work-in-reunion-with-coach-mike-mccarthy/"
-    },
-    {
-      "kind": "other",
-      "title": "NFL preseason Week 1 schedule: One reason to watch each game",
-      "title_ja": null,
-      "excerpt": "A look at some of the biggest storylines as Week 1 of preseason action kicks off",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 13 Aug 2026 20:45:41 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-schedule-one-reason-to-watch-each-game/"
     },
     {
       "kind": "injury",
@@ -1682,6 +1682,38 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 13 Aug 2026 12:53:06 +0000\n                    ",
       "url": "https://www.cbssports.com/nba/news/russell-westbrook-retires-after-18-nba-seasons-ohio-state-oregon-1-2-in-cbs-sports-138/"
+    },
+    {
+      "kind": "other",
+      "title": "Steelers rookie QB Drew Allar exceeds expectations in NFL debut vs. Packers",
+      "title_ja": null,
+      "excerpt": "Allar scored three touchdowns in three series of work",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 14 Aug 2026 03:49:27 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/steelers-rookie-qb-drew-allar-impressive-nfl-debut-packers/"
+    },
+    {
+      "kind": "other",
+      "title": "Fernando Mendoza looked the part in his NFL preseason debut, will he force the Raiders' hand?",
+      "title_ja": null,
+      "excerpt": "Mendoza flashed stellar playmaking ability, but remains the backup to Kirk Cousins",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 14 Aug 2026 03:16:18 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/fernando-mendoza-nfl-debut-will-he-force-the-raiders-hand/"
     },
     {
       "kind": "signing",

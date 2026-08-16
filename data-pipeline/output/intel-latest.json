@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-16T22:47:44.670396+00:00",
+  "generated_at": "2026-08-16T23:21:53.768385+00:00",
   "count": 100,
   "items": [
     {
@@ -36,6 +36,38 @@
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-preseason-schedule-whos-playing-live-updates-today-152512676.html"
     },
     {
+      "kind": "injury",
+      "title": "Rams report 2nd workout for Aaron Donald",
+      "title_ja": null,
+      "excerpt": "Aaron Donald puts the pads on again for Rams…",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 16 Aug 2026 23:03:05 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-report-2nd-workout-aaron-230305270.html"
+    },
+    {
+      "kind": "other",
+      "title": "Rams make surprising addition to roster on Sunday",
+      "title_ja": null,
+      "excerpt": "Jack Bouwmeester will not count against L.A.’s practice squad limit if he makes it there",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 16 Aug 2026 22:51:43 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-surprising-addition-roster-sunday-225143886.html"
+    },
+    {
       "kind": "other",
       "title": "Myth busting narratives surrounding Ty Simpson’s NFL debut",
       "title_ja": null,
@@ -50,6 +82,22 @@
       "coach_name": null,
       "published_at": "Sun, 16 Aug 2026 22:36:20 +0000",
       "url": "https://sports.yahoo.com/articles/myth-busting-narratives-surrounding-ty-223620358.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Report: Kyle Monangai to have MRI on knee, Bears believe he avoided serious injury",
+      "title_ja": null,
+      "excerpt": "Running back Kyle Monangai made an early exit from Bears practice on Sunday after hurting his knee, but the team&#39;s current belief is that he avoided a major injury.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 16 Aug 2026 22:36:07 +0000",
+      "url": "https://sports.yahoo.com/articles/report-kyle-monangai-mri-knee-223607237.html"
     },
     {
       "kind": "injury",
@@ -436,54 +484,6 @@
       "url": "https://sports.yahoo.com/articles/nfl-preseason-ducks-roundup-week-193000738.html"
     },
     {
-      "kind": "other",
-      "title": "Snap Judgments: Cowboys snap counts vs Seahawks",
-      "title_ja": null,
-      "excerpt": "Here are the snap counts from Saturday night’s game.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 19:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/snap-judgments-cowboys-snap-counts-190000331.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Detroit Lions waive 2 injured players, add new cornerback",
-      "title_ja": null,
-      "excerpt": "The Detroit Lions waived two injured players and signed a new cornerback from the UFL",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 18:59:34 +0000",
-      "url": "https://sports.yahoo.com/articles/detroit-lions-waive-2-injured-185934629.html"
-    },
-    {
-      "kind": "other",
-      "title": "Minnesota Vikings News and Links: What Did You Take Away From The First Preseason Game?",
-      "title_ja": null,
-      "excerpt": "The first preseason game is in the books and it was nice to see the players get out there and compete against an opponent. I do not put a lot of stock into the performances at this point. After the joint practices and next week’s game, we should have a better idea. From what I […]",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 18:58:19 +0000",
-      "url": "https://sports.yahoo.com/articles/minnesota-vikings-news-links-did-185819835.html"
-    },
-    {
       "kind": "injury",
       "title": "Report: Kyle Monangai to have MRI on knee, Bears believe he avoided serious injury",
       "title_ja": null,
@@ -492,7 +492,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.5,
+      "reliability": 0.54,
       "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T19:29:57.004239+00:00",
+  "generated_at": "2026-08-17T19:53:59.687443+00:00",
   "count": 116,
   "items": [
     {
@@ -34,6 +34,70 @@
       "coach_name": null,
       "published_at": "Sun, 16 Aug 2026 23:22:45 +0000",
       "url": "https://sports.yahoo.com/nfl/breaking-news/article/vikings-lb-jamal-adams-out-for-season-with-torn-quad-after-being-carted-off-in-preseason-opener-232245548.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Browns vs Bears went worse than expected for Cleveland",
+      "title_ja": null,
+      "excerpt": "The Cleveland Browns vs Chicago Bears didn’t go as well as fans expected, including the QB competition",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 17 Aug 2026 19:45:20 +0000",
+      "url": "https://sports.yahoo.com/articles/browns-vs-bears-went-worse-194520004.html"
+    },
+    {
+      "kind": "other",
+      "title": "Myles Garrett, Puka Nacua absences will be prolonged",
+      "title_ja": null,
+      "excerpt": "Rams’ McVay won’t get back Garrett or Puka in practice this week",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 17 Aug 2026 19:41:28 +0000",
+      "url": "https://sports.yahoo.com/articles/myles-garrett-puka-nacua-absences-194128032.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cowboys have history of UDFA receivers succeeding in camp",
+      "title_ja": null,
+      "excerpt": "The Cowboys have found yet another UDFA receiver we all love.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 17 Aug 2026 19:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-history-udfa-receivers-succeeding-193000840.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Report: Bears to sign Marcus Davenport",
+      "title_ja": null,
+      "excerpt": "Marcus Davenport is headed elsewhere in the NFC North.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 17 Aug 2026 19:24:31 +0000",
+      "url": "https://sports.yahoo.com/articles/report-bears-sign-marcus-davenport-192431052.html"
     },
     {
       "kind": "other",
@@ -420,68 +484,20 @@
       "url": "https://sports.yahoo.com/articles/florio-49ers-rb-christian-mccaffrey-174605055.html"
     },
     {
-      "kind": "other",
-      "title": "Does Quinn Ewers’ performance this year matter?",
-      "title_ja": null,
-      "excerpt": "Miami Dolphins backup quarterback Quinn Ewers struggled in Friday’s preseason game. But does it matter?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 17 Aug 2026 17:27:30 +0000",
-      "url": "https://sports.yahoo.com/articles/does-quinn-ewers-performance-matter-172730627.html"
-    },
-    {
       "kind": "injury",
-      "title": "Washington Commanders transaction: Kicker Jake Moody reportedly released",
+      "title": "Jamal Adams tore his quad",
       "title_ja": null,
-      "excerpt": "The Commanders will roll with undrafted rookie Drew Stevens as their kicker after releasing Jake Moody on Monday",
+      "excerpt": "The Vikings placed safety/linebacker Jamal Adams on season-ending injured reserve on Monday and head coach Kevin O'Connell detailed the specific injury that landed him on the list a little later in the day.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "WAS",
+      "team_abbrev": "MIN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 17 Aug 2026 17:20:27 +0000",
-      "url": "https://sports.yahoo.com/articles/washington-commanders-transaction-kicker-jake-172027784.html"
-    },
-    {
-      "kind": "other",
-      "title": "Steelers news: We’re onto the Jets",
-      "title_ja": null,
-      "excerpt": "Steelers, news, notes, and more from Monday, August 17",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 17 Aug 2026 17:16:50 +0000",
-      "url": "https://sports.yahoo.com/articles/steelers-news-onto-jets-171650224.html"
-    },
-    {
-      "kind": "other",
-      "title": "Broncos at Falcons: The No Bull Preseason Review",
-      "title_ja": null,
-      "excerpt": "Denver Broncos at Atlanta Falcons review with ‘No Bull’ thoughts, opinions, and analysis.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 17 Aug 2026 17:16:27 +0000",
-      "url": "https://sports.yahoo.com/articles/broncos-falcons-no-bull-preseason-110000562.html"
+      "published_at": "Mon, 17 Aug 2026 15:29:08 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal-adams-tore-his-quad"
     },
     {
       "kind": "signing",
@@ -492,7 +508,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.5,
+      "reliability": 0.54,
       "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
@@ -1301,22 +1317,6 @@
     },
     {
       "kind": "injury",
-      "title": "Falcons waive OL Layden Robinson, P Matthew Hayball",
-      "title_ja": null,
-      "excerpt": "The Falcons have moved on from a pair of players.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 17 Aug 2026 11:19:05 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-waive-ol-layden-robinson-p-matthew-hayball"
-    },
-    {
-      "kind": "injury",
       "title": "Last Night In Baseball: The AL Central Is Looking Different Now",
       "title_ja": null,
       "excerpt": "The White Sox strengthen their grip, the Twins and Guardians slip, the Phillies and Padres keep pace, the Dodgers struggle, how did he even hit that and more from this weekend's MLB action.",
@@ -1570,6 +1570,22 @@
       "coach_name": null,
       "published_at": "\n                        Sat, 15 Aug 2026 12:50:51 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/j-j-mccarthy-what-next-for-vikings-qb/"
+    },
+    {
+      "kind": "injury",
+      "title": "NFL preseason injuries tracker: Latest updates on Breece Hall and Jeremiyah Love",
+      "title_ja": null,
+      "excerpt": "We track the biggest injury updates and recovery timelines as teams navigate a brutal start to the NFL preseason",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Mon, 17 Aug 2026 19:33:19 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injury-tracker/"
     },
     {
       "kind": "trade",
@@ -1842,22 +1858,6 @@
       "coach_name": null,
       "published_at": "\n                        Fri, 14 Aug 2026 13:04:41 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/one-takeaway-from-each-nfl-teams-first-depth-chart/"
-    },
-    {
-      "kind": "other",
-      "title": "Fernando Mendoza, Drew Allar impress in NFL preseason; College football's top 150 players",
-      "title_ja": null,
-      "excerpt": "Plus picks and predictions for UFC 330",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Fri, 14 Aug 2026 12:52:47 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/fernando-mendoza-drew-allar-impress-in-preseason-debuts-college-footballs-top-150-players/"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T01:24:06.741998+00:00",
+  "generated_at": "2026-08-17T02:42:51.219658+00:00",
   "count": 102,
   "items": [
     {
-      "kind": "injury",
-      "title": "NFL news, live updates: Vikings S Jamal Adams out for season and more preseason takeaways",
+      "kind": "signing",
+      "title": "NFL news, live updates: Von Miller to sign with Cowboys; Vikings S Jamal Adams out for season",
       "title_ja": null,
       "excerpt": "Follow along with the latest NFL news and updates as the preseason plays out.",
       "excerpt_ja": null,
@@ -13,7 +13,7 @@
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "MIN",
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
       "published_at": "Thu, 13 Aug 2026 15:25:12 +0000",
@@ -213,6 +213,22 @@
     },
     {
       "kind": "injury",
+      "title": "NFL Catchup: Rookie QBs Shine In Debuts, Another Donald Update, Cowboys Make A Splash",
+      "title_ja": null,
+      "excerpt": "The first full weekend of NFL preseason action provided a pair of standout rookie quarterback performances.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 16 Aug 2026 22:31:27 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-rookie-qbs-shine-debuts-another-donald-update-cowboys-make-splash"
+    },
+    {
+      "kind": "injury",
       "title": "NFL Preseason: Which Former FCS Rookies Helped Their Chances in Week 1?",
       "title_ja": null,
       "excerpt": "The job interviews have begun.",
@@ -226,6 +242,22 @@
       "coach_name": null,
       "published_at": "Sun, 16 Aug 2026 22:24:46 +0000",
       "url": "https://sports.yahoo.com/articles/nfl-preseason-former-fcs-rookies-222446094.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Cowboys Bolster Their Pass Rush, Reportedly Agree To Deal With Von Miller",
+      "title_ja": null,
+      "excerpt": "The Dallas Cowboys have signed two-time Super Bowl champion edge rusher and Texas native Von Miller.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 16 Aug 2026 21:49:39 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/allas-cowboys-reportedly-sign-two-time-super-bowl-champion-von-miller"
     },
     {
       "kind": "signing",
@@ -260,6 +292,22 @@
       "url": "https://sports.yahoo.com/articles/aaron-banks-did-not-knee-214824460.html"
     },
     {
+      "kind": "other",
+      "title": "Remembering Tommy John: 5 Pitchers Who Redefined Career After Tommy John Surgery",
+      "title_ja": null,
+      "excerpt": "Here are five of the most impactful Tommy John surgery recoveries in baseball history.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 16 Aug 2026 21:46:09 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/five-mlb-pitchers-who-redefined-careers-after-tommy-john-surgery"
+    },
+    {
       "kind": "signing",
       "title": "RB Jonathan Ward signs with Ravens",
       "title_ja": null,
@@ -276,100 +324,20 @@
       "url": "https://sports.yahoo.com/articles/rb-jonathan-ward-signs-ravens-214225892.html"
     },
     {
-      "kind": "other",
-      "title": "Marcus Davenport visits the Bears",
+      "kind": "injury",
+      "title": "Carson Beck remains day-to-day with rib injury",
       "title_ja": null,
-      "excerpt": "Free agent defensive end Marcus Davenport has spent the last three seasons with NFC North teams and he met with another club in the division as he looks for a spot to play in 2026.",
+      "excerpt": "Cardinals rookie quarterback Carson Beck is not yet ready to practice.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.54,
-      "team_abbrev": "CHI",
+      "team_abbrev": "ARI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 21:41:28 +0000",
-      "url": "https://sports.yahoo.com/articles/marcus-davenport-visits-bears-214128530.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Todd Monken: Shedeur Sanders has &quot;improved so much&quot;",
-      "title_ja": null,
-      "excerpt": "After Deshaun Watson started against the Bears on Saturday, Browns head coach Todd Monken detailed how he&#39;ll divide the QB reps between Watson and second-year signal-caller Shedeur Sanders on Sunday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 21:37:17 +0000",
-      "url": "https://sports.yahoo.com/articles/todd-monken-shedeur-sanders-improved-213717002.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "C.J. Daniels is no Puka Nacua",
-      "title_ja": null,
-      "excerpt": "Daniels is right where he’s expected to be, but not the next Puka Nacua",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 21:23:20 +0000",
-      "url": "https://sports.yahoo.com/articles/c-j-daniels-no-puka-212320756.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Two ex-Vol QBs have a good first preseason showings on Saturday",
-      "title_ja": null,
-      "excerpt": "It’s mid-August, and that means preseason NFL football is in full swing. A number of former Tennessee Vols are looking for jobs in the league, and among them are two quarterbacks in Joe Milton and Joey Aguilar. Milton was traded last offseason to the Dallas Cowboys, where he spent the 2025 season on",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 21:21:50 +0000",
-      "url": "https://sports.yahoo.com/articles/two-ex-vol-qbs-good-212150573.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cornerback retires after 4 days with NY Giants",
-      "title_ja": null,
-      "excerpt": "New York is back in the market for cornerback help.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 21:20:55 +0000",
-      "url": "https://sports.yahoo.com/articles/cornerback-retires-4-days-ny-212055396.html"
-    },
-    {
-      "kind": "other",
-      "title": "Aaron Donald works out with Rams again as decision to return to NFL looms",
-      "title_ja": null,
-      "excerpt": "Former defensive tackle Aaron Donald worked out with the Los Angeles Rams again on Aug. 16 as the team awaits decision from the future Hall of Famer.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 21:20:37 +0000",
-      "url": "https://sports.yahoo.com/articles/aaron-donald-works-rams-again-212037697.html"
+      "published_at": "Sun, 16 Aug 2026 21:16:55 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-beck-remains-day-to-day-with-rib-injury"
     },
     {
       "kind": "trade",
@@ -380,7 +348,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.5,
+      "reliability": 0.54,
       "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
@@ -588,7 +556,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
@@ -916,22 +884,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-believes-that-in-2026-he-can-george-pickens-can-be-the-best-ever"
     },
     {
-      "kind": "other",
-      "title": "2026 NFL Preseason Odds Week 1: Results For All 16 Games",
-      "title_ja": null,
-      "excerpt": "Check out the odds, spreads and totals for all 16 preseason Week 1 games.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 12:26:27 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-preseason-odds-week-1-lines-spreads-all-16-games"
-    },
-    {
       "kind": "signing",
       "title": "Report: Browns are expected to sign Za'Darius Smith",
       "title_ja": null,
@@ -996,58 +948,106 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marcus-mariota-to-miss-rest-of-preseason-with-sprained-mcl"
     },
     {
-      "kind": "other",
-      "title": "As fifth-year chaos continues, some colleges are planning to pounce on rookies who are cut",
+      "kind": "signing",
+      "title": "3 reasons why Von Miller signing is awesome for Cowboys",
       "title_ja": null,
-      "excerpt": "The NCAA wants long-term order. The schools want short-term wins.",
+      "excerpt": "Here are 3 reasons why the Von Miller signing is awesome",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 11:22:15 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-fifth-year-chaos-continues-some-colleges-are-planning-to-pounce-on-rookies-who-are-cut"
+      "published_at": "Mon, 17 Aug 2026 02:22:29 +0000",
+      "url": "https://sports.yahoo.com/articles/3-reasons-why-von-miller-022229840.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Cowboys free agency rumors: Cornerback Adoree Jackson could be next after Von Miller",
+      "title_ja": null,
+      "excerpt": "The Cowboys appear ready to add at cornerback, too.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 17 Aug 2026 01:42:43 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-free-agency-rumors-cornerback-014243138.html"
     },
     {
       "kind": "other",
-      "title": "2026 INDYCAR Odds: Alex Palou Favored At Markham",
+      "title": "Von Miller announces he&#39;s joining Cowboys for 16th NFL season",
       "title_ja": null,
-      "excerpt": "Alex Palou is favored for INDYCAR's race at Markham. Here are the odds for the entire field.",
+      "excerpt": "Von Miller has found a new NFL team. The veteran linebacker announced the move on his Instagram account.",
       "excerpt_ja": null,
       "sources": [
-        "FOX Sports NFL"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 10:25:47 -0400",
-      "url": "https://www.foxsports.com/stories/motor/2026-indycar-odds-markham-ontario-honda-dealers"
+      "published_at": "Mon, 17 Aug 2026 01:31:38 +0000",
+      "url": "https://sports.yahoo.com/articles/von-miller-announces-hes-joining-013138392.html"
     },
     {
-      "kind": "other",
-      "title": "4 Takeaways From Surging Joey Logano's Victory At Richmond",
+      "kind": "signing",
+      "title": "Veteran pass rusher Von Miller to sign with Cowboys",
       "title_ja": null,
-      "excerpt": "Joey Logano is surging at the right time. Here's how his big win at Richmond puts him in better position for the postseason.",
+      "excerpt": "Von Miller is joining the Dallas Cowboys!",
       "excerpt_ja": null,
       "sources": [
-        "FOX Sports NFL"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sun, 16 Aug 2026 10:02:33 -0400",
-      "url": "https://www.foxsports.com/stories/nascar/4-takeaways-from-surging-joey-logano-victory-richmond"
+      "published_at": "Mon, 17 Aug 2026 01:24:01 +0000",
+      "url": "https://sports.yahoo.com/articles/veteran-pass-rusher-von-miller-012401924.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Carson Beck remains day-to-day with rib injury",
+      "title_ja": null,
+      "excerpt": "Cardinals rookie quarterback Carson Beck is not yet ready to practice.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 17 Aug 2026 01:16:55 +0000",
+      "url": "https://sports.yahoo.com/articles/carson-beck-remains-day-day-011655457.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Von Miller agrees to deal with Cowboys",
+      "title_ja": null,
+      "excerpt": "Miller finally gets to play at home, having grown up in DeSoto, Texas, 24 miles from AT&T Stadium.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 17 Aug 2026 01:14:27 +0000",
+      "url": "https://sports.yahoo.com/articles/von-miller-agrees-deal-cowboys-011427807.html"
     },
     {
       "kind": "other",
       "title": "Veteran LB Von Miller set to join Cowboys for 15th NFL season",
       "title_ja": null,
-      "excerpt": "The Dallas Cowboys defense is getting a new veteran presence.",
+      "excerpt": "The Dallas Cowboys&#39; defense is getting a new veteran presence.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -1093,7 +1093,7 @@
     },
     {
       "kind": "other",
-      "title": "Re-setting the Rams depth chart after Week 1 of the preseason",
+      "title": "Rams depth chart reset: Has Ty Simpson overtaken Stetson Bennett?",
       "title_ja": null,
       "excerpt": "Prospecting for hidden gems to fill out the roster",
       "excerpt_ja": null,
@@ -1218,54 +1218,6 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 13 Aug 2026 19:57:56 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/bears-owner-responds-to-speculation-of-a-possible-name-change-if-the-team-moves-to-indiana/"
-    },
-    {
-      "kind": "other",
-      "title": "Today's top games to watch, best bets, odds: 49ers vs. Titans, Brewers vs. Dodgers and more",
-      "title_ja": null,
-      "excerpt": "Find best bets and props for the biggest games in sports on Thursday from the SportsLine Projection Model and top CBS Sports experts",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 13 Aug 2026 19:30:49 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-49ers-vs-titans-brewers-vs-dodgers-and-more/"
-    },
-    {
-      "kind": "injury",
-      "title": "Carson Beck rib injury: Cardinals rookie quarterback to sit out game vs. Raiders in Fernando Mendoza's debut",
-      "title_ja": null,
-      "excerpt": "Beck sustained the injury during the Hall of Fame Game",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 13 Aug 2026 19:21:48 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/carson-beck-rib-injury-cardinals-quarterback-vs-raiders-preseason/"
-    },
-    {
-      "kind": "other",
-      "title": "Caleb Williams 2026 NFL futures odds, props: Will a Bears quarterback finally have a 4,000-yard passer?",
-      "title_ja": null,
-      "excerpt": "The Chicago Bears have never had a 4,000-yard passer. Can Caleb Williams change that in 2026?",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 13 Aug 2026 18:49:18 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/caleb-williams-2026-nfl-futures-odds-props-will-a-bears-quarterback-finally-have-a-4000-yard-passer/"
     },
     {
       "kind": "signing",
@@ -1474,6 +1426,54 @@
       "coach_name": null,
       "published_at": "\n                        Sat, 15 Aug 2026 12:50:51 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/j-j-mccarthy-what-next-for-vikings-qb/"
+    },
+    {
+      "kind": "signing",
+      "title": "Von Miller to sign with Cowboys: Dallas continues EDGE overhaul with addition of eight-time Pro Bowler",
+      "title_ja": null,
+      "excerpt": "The Cowboys' pass rush could take a step forward with the latest addition",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Mon, 17 Aug 2026 01:59:18 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/von-miller-to-sign-with-cowboys/"
+    },
+    {
+      "kind": "signing",
+      "title": "2026 NFL free agency tracker: Von Miller to join Cowboys; four of top 100 free agents still unsigned",
+      "title_ja": null,
+      "excerpt": "Several notable veterans remain on the market as the NFL offseason continues through the summer months",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Mon, 17 Aug 2026 01:37:51 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfl-free-agency-tracker-best-unsigned-free-agents-2026/"
+    },
+    {
+      "kind": "injury",
+      "title": "Jeremiyah Love injury update: Cardinals rookie has high ankle sprain, team hoping for Week 1 return",
+      "title_ja": null,
+      "excerpt": "Love shined in a big role in preseason Week 1 but didn't leave unscathed",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Mon, 17 Aug 2026 01:35:06 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/jeremiyah-love-injury-update-cardinals-rookie-has-high-ankle-sprain/"
     },
     {
       "kind": "other",

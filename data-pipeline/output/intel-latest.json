@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T03:48:40.781664+00:00",
+  "generated_at": "2026-08-20T04:39:20.353103+00:00",
   "count": 114,
   "items": [
     {
@@ -34,6 +34,38 @@
       "coach_name": null,
       "published_at": "Wed, 19 Aug 2026 23:50:37 +0000",
       "url": "https://sports.yahoo.com/articles/waddle-vs-surtain-must-see-235037077.html"
+    },
+    {
+      "kind": "other",
+      "title": "RB Myles Gaskin announces his retirement",
+      "title_ja": null,
+      "excerpt": "Running back Myles Gaskin announced his retirement from the NFL on Wednesday night.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 19 Aug 2026 23:49:03 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-myles-gaskin-announces-his-retirement"
+    },
+    {
+      "kind": "injury",
+      "title": "Saints lose Alvin Kamara for at least a month in injury blow",
+      "title_ja": null,
+      "excerpt": "The star suffered an MCL sprain during a joint practice with the Cowboys on Tuesday and is expected to miss at least one month, ESPN reported Wednesday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 19 Aug 2026 23:39:38 +0000",
+      "url": "https://sports.yahoo.com/articles/saints-lose-alvin-kamara-least-233938941.html"
     },
     {
       "kind": "rumor",
@@ -293,22 +325,6 @@
     },
     {
       "kind": "injury",
-      "title": "Jameson Williams practiced, Sam LaPorta did not for Lions today",
-      "title_ja": null,
-      "excerpt": "The Lions got wide receiver Jameson Williams back on the practice field today, but they didn&#39;t have their whole first-string offense.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 19 Aug 2026 22:41:40 +0000",
-      "url": "https://sports.yahoo.com/articles/jameson-williams-practiced-sam-laporta-224140776.html"
-    },
-    {
-      "kind": "injury",
       "title": "Commanders RB Rachaad White tweaked his hamstring",
       "title_ja": null,
       "excerpt": "Commanders running back Rachaad White has missed the past few days with an undisclosed injury.",
@@ -322,22 +338,6 @@
       "coach_name": null,
       "published_at": "Wed, 19 Aug 2026 22:34:55 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-rb-rachaad-white-tweaked-his-hamstring"
-    },
-    {
-      "kind": "other",
-      "title": "Cleveland Browns QB training camp battle is hopefully nearing its end",
-      "title_ja": null,
-      "excerpt": "It is an important couple of days as the Browns host the Buffalo Bills for a joint practice and then a game on Saturday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 19 Aug 2026 22:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-qb-training-camp-223000451.html"
     },
     {
       "kind": "injury",
@@ -572,7 +572,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "DET",
       "player_name": null,
       "coach_name": null,
@@ -1109,22 +1109,6 @@
     },
     {
       "kind": "other",
-      "title": "Texans to rest starters Thursday vs. Raiders",
-      "title_ja": null,
-      "excerpt": "Houston head coach DeMeco Ryans has changed his mind when it comes to playing time for Thursday’s preseason matchup with Las Vegas.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "HOU",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 19 Aug 2026 12:52:49 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-to-rest-starters-thursday-vs-raiders"
-    },
-    {
-      "kind": "other",
       "title": "No honeymoon, no problem: Joe Brady is preparing to win right now in Buffalo",
       "title_ja": null,
       "excerpt": "No rookie head coach in NFL history has arrived at his job with quite the pressure Brady has.",
@@ -1157,7 +1141,7 @@
     },
     {
       "kind": "other",
-      "title": "Texans WR Jayden Higgins tears ACL in training camp, will miss entire 2026 season",
+      "title": "Texans WR Jayden Higgins tears ACL in training camp, will miss 2026 NFL season",
       "title_ja": null,
       "excerpt": "Jayden Higgins went down with a torn ACL in a joint practice with the Raiders on Tuesday.",
       "excerpt_ja": null,
@@ -1169,7 +1153,7 @@
       "player_name": null,
       "coach_name": null,
       "published_at": "Thu, 20 Aug 2026 02:52:28 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/texans-wr-jayden-higgins-tears-acl-in-training-camp-will-miss-entire-2026-season-025228261.html"
+      "url": "https://sports.yahoo.com/nfl/article/texans-wr-jayden-higgins-tears-acl-in-training-camp-will-miss-2026-nfl-season-025228261.html"
     },
     {
       "kind": "other",
@@ -1298,6 +1282,22 @@
       "coach_name": null,
       "published_at": "Thu, 20 Aug 2026 00:37:26 +0000",
       "url": "https://sports.yahoo.com/articles/compounding-issue-could-derail-rams-003726020.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Seahawks ‘probably’ would have cut Terrion Arnold if new corner was on roster before kidnapping arrest",
+      "title_ja": null,
+      "excerpt": "The Lions released Arnold in June following his arrest stemming from an alleged February incident. He&#39;s facing charges that could lead to a life sentence in jail.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 20 Aug 2026 00:11:12 +0000",
+      "url": "https://sports.yahoo.com/articles/seahawks-probably-cut-terrion-arnold-001112138.html"
     },
     {
       "kind": "other",

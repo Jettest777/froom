@@ -1,29 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-08-21T23:26:11.245788+00:00",
+  "generated_at": "2026-08-21T23:50:24.744097+00:00",
   "count": 118,
   "items": [
     {
-      "kind": "injury",
-      "title": "Ravens center Danny Pinter carted off the field at joint practice with Vikings",
-      "title_ja": null,
-      "excerpt": "Ravens center Danny Pinter suffered an injury at today's joint practice with the Vikings.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 19 Aug 2026 14:55:42 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-center-danny-pinter-carted-off-the-field-at-joint-practice-with-vikings"
-    },
-    {
       "kind": "other",
-      "title": "2026 Fantasy Football Draft Kit: Strategy, cheat sheets, mock drafts, rankings — everything you need to win your league",
+      "title": "NFL news, live updates: Preseason Friday slate includes Geno Smith, Jordan Love, Bo Nix",
       "title_ja": null,
-      "excerpt": "Fantasy football draft season is upon us. The team at Yahoo has everything you need to know to prep for the 2026 season.",
+      "excerpt": "Follow along with the latest NFL news and updates as the preseason plays out.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -32,24 +16,40 @@
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 04 Aug 2026 20:48:34 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-draft-kit-strategy-cheat-sheets-mock-drafts-rankings--everything-you-need-to-win-your-league-204834810.html"
+      "published_at": "Thu, 20 Aug 2026 14:37:14 +0000",
+      "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-preseason-week-2-schedule-whos-playing-starters-143714619.html"
     },
     {
-      "kind": "signing",
-      "title": "NFL news, live updates: Raiders beat Texans in Fernando Mendoza&#39;s first preseason start; Vita Vea, Bucs agree to 1-year extension",
+      "kind": "other",
+      "title": "Geno Smith perfect in his only drive, throwing a TD",
       "title_ja": null,
-      "excerpt": "Follow along with the latest NFL news and updates as the preseason plays out.",
+      "excerpt": "Jets starting quarterback Geno Smith made his preseason debut on Friday night.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 21 Aug 2026 23:33:14 +0000",
+      "url": "https://sports.yahoo.com/articles/geno-smith-perfect-only-drive-233314989.html"
+    },
+    {
+      "kind": "other",
+      "title": "Jets QB Geno Smith gets first preseason action, looks good in lone drive that ends with TD",
+      "title_ja": null,
+      "excerpt": "Geno Smith didn&#39;t throw an incompletion on a scoring drive.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "HOU",
+      "team_abbrev": "NYJ",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 20 Aug 2026 14:37:14 +0000",
-      "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-preseason-week-2-schedule-whos-playing-starters-143714619.html"
+      "published_at": "Fri, 21 Aug 2026 23:28:07 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/jets-qb-geno-smith-gets-first-preseason-action-looks-good-in-lone-drive-that-ends-with-td-232807609.html"
     },
     {
       "kind": "rumor",
@@ -484,20 +484,36 @@
       "url": "https://sports.yahoo.com/articles/steelers-vs-jets-live-updates-200054185.html"
     },
     {
-      "kind": "rumor",
-      "title": "Why a change of scenery could potentially revive J.J. McCarthy’s NFL career",
+      "kind": "injury",
+      "title": "Mike Macdonald: Tory Horton will be \"out for a period of time\"",
       "title_ja": null,
-      "excerpt": "Despite a rough start to life in the NFL, it might not be too late for former Michigan QB J.J. McCarthy:",
+      "excerpt": "Seahawks receiver Tory Horton's promising rookie year ended with surgery to repair a fractured shin.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "SEA",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 21 Aug 2026 20:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/why-change-scenery-could-potentially-200000000.html"
+      "published_at": "Fri, 21 Aug 2026 19:33:37 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-tory-horton-will-be-out-for-a-period-of-time"
+    },
+    {
+      "kind": "other",
+      "title": "Geno Smith perfect in his only drive, throwing a TD",
+      "title_ja": null,
+      "excerpt": "Jets starting quarterback Geno Smith made his preseason debut on Friday night.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 21 Aug 2026 19:33:14 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/geno-smith-perfect-in-his-only-drive-throwing-a-td"
     },
     {
       "kind": "rumor",
@@ -1396,22 +1412,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-sign-dt-eric-johnson"
     },
     {
-      "kind": "injury",
-      "title": "The Athletic, NFL may deepen their relationship (conflict of interest be damned)",
-      "title_ja": null,
-      "excerpt": "With the NFL selling NFL Network and other media properties to ESPN, the league needs to beef up its digital offerings with new online content.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 21 Aug 2026 10:14:13 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-athletic-nfl-may-deepen-their-relationship-conflict-of-interest-be-damned"
-    },
-    {
       "kind": "signing",
       "title": "NFL rookies returning to college? Some are looking into it amid NCAA eligibility ruling in Colorado",
       "title_ja": null,
@@ -1442,22 +1442,6 @@
       "coach_name": null,
       "published_at": "\n                        Wed, 19 Aug 2026 21:26:48 +0000\n                    ",
       "url": "https://www.cbssports.com/college-football/news/jack-pyburn-buccaneers-nfl-rookies-suing-college-football-return/"
-    },
-    {
-      "kind": "signing",
-      "title": "Agent's Take: Why early extensions for NFL first-round picks are becoming the new normal",
-      "title_ja": null,
-      "excerpt": "With fifth-year options now fully guaranteed and positional markets rising rapidly, NFL teams are showing more urgency than ever to extend top first-round picks after three seasons",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Wed, 19 Aug 2026 20:45:11 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/agents-take-nfl-first-round-pick-contract-extension/"
     },
     {
       "kind": "trade",
@@ -1714,6 +1698,22 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 20 Aug 2026 10:01:24 +0000\n                    ",
       "url": "https://www.cbssports.com/betting/news/cfl-odds-picks-predictions-ottawa-vs-montreal-part-of-experts-best-bets-for-week-12/"
+    },
+    {
+      "kind": "other",
+      "title": "Ravens' Rashod Bateman arrested on charges of family violence stemming from June incident in Georgia",
+      "title_ja": null,
+      "excerpt": "The 26-year-old wide receiver is set to enter his sixth NFL season with Baltimore in 2026",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 21 Aug 2026 23:33:51 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/ravens-rashod-bateman-arrested-family-violence/"
     },
     {
       "kind": "other",

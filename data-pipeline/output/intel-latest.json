@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-24T11:02:36.166815+00:00",
+  "generated_at": "2026-08-24T11:21:54.216157+00:00",
   "count": 106,
   "items": [
     {
@@ -28,7 +28,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "SEA",
       "player_name": null,
       "coach_name": null,
@@ -44,7 +44,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "LV",
       "player_name": null,
       "coach_name": null,
@@ -76,28 +76,12 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "NO",
       "player_name": null,
       "coach_name": null,
       "published_at": "Sun, 23 Aug 2026 23:05:42 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-send-lb-deion-jones-to-49ers-for-rb-zamir-white"
-    },
-    {
-      "kind": "injury",
-      "title": "Raiders RB Ashton Jeanty reportedly leaves practice Sunday with sprained ankle",
-      "title_ja": null,
-      "excerpt": "Specifics on Ashton Jeanty&#39;s ankle injury are not yet known, though it&#39;s reportedly not expected to be a long-term issue at this point.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 23 Aug 2026 23:03:45 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/raiders-rb-ashton-jeanty-reportedly-leaves-practice-sunday-with-sprained-ankle-230345889.html"
     },
     {
       "kind": "injury",
@@ -140,7 +124,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
@@ -741,6 +725,166 @@
     },
     {
       "kind": "other",
+      "title": "Evan McPherson is putting together a statement in training camp and preseason for the Bengals",
+      "title_ja": null,
+      "excerpt": "“Money Mac” has been on full display this summer.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 11:05:00 +0000",
+      "url": "https://sports.yahoo.com/articles/evan-mcpherson-putting-together-statement-110500693.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cowboys news: Winners and losers from the Cowboys second preseason game",
+      "title_ja": null,
+      "excerpt": "Here is today’s Dallas Cowboys news.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-news-winners-losers-cowboys-110000314.html"
+    },
+    {
+      "kind": "other",
+      "title": "With 49 preseason defensive snaps, has Commanders safety Quan Martin answered his doubters? - Daily Slop",
+      "title_ja": null,
+      "excerpt": "NFL rosters must be cut to 53 players by Sunday at 6 pm",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "WAS",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/49-preseason-defensive-snaps-commanders-110000573.html"
+    },
+    {
+      "kind": "signing",
+      "title": "New York Jets News: Jets Sign Three Players; Waive-Injured Three",
+      "title_ja": null,
+      "excerpt": "Your daily links to the New York Jets",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/york-jets-news-jets-sign-110000658.html"
+    },
+    {
+      "kind": "other",
+      "title": "Tennessee Titans news: Win vs. Seahawks sparks hope, exposes flaws",
+      "title_ja": null,
+      "excerpt": "The Tennessee Titans are 2-0 in preseason, but that doesn’t tell the whole story.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SEA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/tennessee-titans-news-win-vs-110000249.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Ravens news: Texans explored trade for Rashod Bateman",
+      "title_ja": null,
+      "excerpt": "Rounding up the latest news and analysis about the Ravens.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/ravens-news-texans-explored-trade-110000125.html"
+    },
+    {
+      "kind": "other",
+      "title": "2026 Season Opener Countdown: 20 Days Remaining",
+      "title_ja": null,
+      "excerpt": "We continue our countdown to the Panthers opening the 2026 season against the Chicago Bears",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/2026-season-opener-countdown-20-110000390.html"
+    },
+    {
+      "kind": "other",
+      "title": "&#39;Nobody wants to tackle that guy.&#39; Chargers&#39; Omarion Hampton is primed for a breakout",
+      "title_ja": null,
+      "excerpt": "The Mike McDaniel-orchestrated offense is looking for a complete revival of the running game in 2026, and Omarion Hampton will be key to making that happen.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nobody-wants-tackle-guy-chargers-110000906.html"
+    },
+    {
+      "kind": "other",
+      "title": "Tampa Bay Buccaneers news: Training camp battles heating up",
+      "title_ja": null,
+      "excerpt": "The Tampa Bay Buccaneers are getting closer to making decisions that will impact who makes the final 53-man roster.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/tampa-bay-buccaneers-news-training-110000300.html"
+    },
+    {
+      "kind": "injury",
+      "title": "NFL Preseason: Which Former FCS Rookies Helped Their Chances in Week 2?",
+      "title_ja": null,
+      "excerpt": "There’s just one week to go before roster trimming.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 10:58:47 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-preseason-former-fcs-rookies-105847168.html"
+    },
+    {
+      "kind": "other",
       "title": "Patriots 53-man roster projection: Thin depth creates uneasy decisions",
       "title_ja": null,
       "excerpt": "A new-look prediction ahead of New England’s final preseason game.",
@@ -933,6 +1077,38 @@
     },
     {
       "kind": "other",
+      "title": "Jeremiah Trotter Jr. has refreshing outlook on challenging situation",
+      "title_ja": null,
+      "excerpt": "Jeremiah Trotter Jr. looks like a starting NFL linebacker but he knows that won&#39;t be his role in 2026.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 07:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/jeremiah-trotter-jr-refreshing-outlook-070000430.html"
+    },
+    {
+      "kind": "other",
+      "title": "In Roob&#39;s Observations: Mike Vrabel&#39;s insight on what makes the Eagles elite",
+      "title_ja": null,
+      "excerpt": "Mike Vrabel on what makes the Eagles such a strong franchise, an unknown but terrific position coach and more in Roob&#39;s Observations.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 07:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/roobs-observations-mike-vrabels-insight-070000599.html"
+    },
+    {
+      "kind": "other",
       "title": "Mike Macdonald wants Emmanuel Henderson thinking of being a great WR and All-Pro returner",
       "title_ja": null,
       "excerpt": "Seahawks rookie receiver Emmanuel Henderson was a sixth-round pick, which means he has to compete just to make the roster.",
@@ -1042,182 +1218,6 @@
       "coach_name": null,
       "published_at": "Mon, 24 Aug 2026 03:51:05 +0000",
       "url": "https://sports.yahoo.com/articles/winners-losers-seahawks-titans-good-035105505.html"
-    },
-    {
-      "kind": "injury",
-      "title": "S Bud Clark, OL Mason Richman out for months after being injured Sunday night",
-      "title_ja": null,
-      "excerpt": "The Seahawks have taken three big losses before the season even starts.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 03:47:37 +0000",
-      "url": "https://sports.yahoo.com/articles/bud-clark-ol-mason-richman-034737376.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Bud Clark injury update: Seahawks rookie out ‘multiple months’",
-      "title_ja": null,
-      "excerpt": "Clark’s season is most likely over after a horrific ankle injury against the Titans.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 03:35:25 +0000",
-      "url": "https://sports.yahoo.com/articles/bud-clark-injury-seahawks-rookie-033525558.html"
-    },
-    {
-      "kind": "other",
-      "title": "Seahawks-Titans instant post-game reaction video: A brutal night for Jalen Milroe",
-      "title_ja": null,
-      "excerpt": "Reaction and analysis from the Seahawks’ preseason game against the Titans.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 03:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/seahawks-titans-instant-post-game-033000159.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Raiders RB Ashton Jeanty diagnosed with sprained ankle",
-      "title_ja": null,
-      "excerpt": "Raiders running back Ashton Jeanty needed help off the practice field on Sunday after injuring his right leg.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 03:25:03 +0000",
-      "url": "https://sports.yahoo.com/articles/raiders-rb-ashton-jeanty-diagnosed-032503843.html"
-    },
-    {
-      "kind": "other",
-      "title": "Titans improve to 2-0 with 19-16 win over Seahawks",
-      "title_ja": null,
-      "excerpt": "It wasn’t a thriller, but the Titans get the win against the Seahawks.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 03:22:34 +0000",
-      "url": "https://sports.yahoo.com/articles/titans-improve-2-0-19-032234225.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Saints send LB Deion Jones to 49ers for RB Zamir White",
-      "title_ja": null,
-      "excerpt": "The Saints are trading veteran linebacker Deion Jones to the 49ers in exchange for running back Zamir White, Adam Schefter of ESPN reports.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 03:05:42 +0000",
-      "url": "https://sports.yahoo.com/articles/saints-send-lb-deion-jones-030542958.html"
-    },
-    {
-      "kind": "trade",
-      "title": "49ers, Saints make trade heading into final week of NFL preseason",
-      "title_ja": null,
-      "excerpt": "The 49ers and Saints made a deal involving some depth pieces heading into the final week of the NFL preseason. Here are the details.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 02:45:24 +0000",
-      "url": "https://sports.yahoo.com/articles/49ers-saints-trade-heading-final-024524306.html"
-    },
-    {
-      "kind": "trade",
-      "title": "49ers trade for veteran linebacker who played under Kyle Shanahan and Raheem Morris",
-      "title_ja": null,
-      "excerpt": "Deion Jones is headed to the 49ers in exchange for Zamir White",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 02:42:45 +0000",
-      "url": "https://sports.yahoo.com/articles/49ers-trade-veteran-linebacker-played-023213025.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Saints trade LB Deion Jones for RB Zamir White",
-      "title_ja": null,
-      "excerpt": "New Orleans does the rare player-for-player swap.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 02:37:22 +0000",
-      "url": "https://sports.yahoo.com/articles/saints-trade-lb-deion-jones-023722227.html"
-    },
-    {
-      "kind": "other",
-      "title": "Christian McCaffrey says recent practice absences were planned as part of load management",
-      "title_ja": null,
-      "excerpt": "Christian McCaffrey returned to practice on Sunday, his first time on the field with his teammates since Aug. 8.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 02:13:42 +0000",
-      "url": "https://sports.yahoo.com/articles/christian-mccaffrey-says-recent-practice-021342081.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cam Ward gets another start after struggling in Titans&#39; preseason opener, and fails to impress again",
-      "title_ja": null,
-      "excerpt": "Ward was attempting to bounce back from an uneven performance in Tennessee&#39;s preseason opener.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 01:14:10 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/cam-ward-gets-another-start-after-struggling-in-titans-preseason-opener-and-fails-to-impress-again-011410569.html"
     },
     {
       "kind": "rumor",

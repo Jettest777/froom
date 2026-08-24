@@ -1,8 +1,24 @@
 {
   "version": 1,
-  "generated_at": "2026-08-24T12:55:40.416739+00:00",
+  "generated_at": "2026-08-24T13:54:21.480672+00:00",
   "count": 107,
   "items": [
+    {
+      "kind": "other",
+      "title": "2026 Fantasy Football Draft Kit: Strategy, cheat sheets, mock drafts, rankings — everything you need to win your league",
+      "title_ja": null,
+      "excerpt": "Fantasy football draft season is upon us. The team at Yahoo has everything you need to know to prep for the 2026 season.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 04 Aug 2026 20:48:34 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-draft-kit-strategy-cheat-sheets-mock-drafts-rankings--everything-you-need-to-win-your-league-204834810.html"
+    },
     {
       "kind": "injury",
       "title": "S Bud Clark, OL Mason Richman out for months after being injured Sunday night",
@@ -613,57 +629,9 @@
     },
     {
       "kind": "injury",
-      "title": "Joe Milton has strong game, but Cowboys backup QB competition \"long from over\"",
+      "title": "It's time for the Browns and Deshaun Watson to go their separate ways",
       "title_ja": null,
-      "excerpt": "The Cowboys know Dak Prescott is their starting quarterback, but they still have a decision to make about who will be the next man up on the depth chart.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 23 Aug 2026 08:47:26 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-milton-has-strong-game-but-cowboys-backup-qb-competition-long-from-over"
-    },
-    {
-      "kind": "signing",
-      "title": "49ers sign TE Khalil Dinkins",
-      "title_ja": null,
-      "excerpt": "The 49ers brought tight end Khalil Dinkins back to the roster on Saturday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 23 Aug 2026 08:37:20 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-te-khalil-dinkins"
-    },
-    {
-      "kind": "injury",
-      "title": "Rashawn Slater returns to Chargers practice",
-      "title_ja": null,
-      "excerpt": "The Chargers got a key piece of their offensive line back at practice on Saturday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 23 Aug 2026 08:32:34 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashawn-slater-returns-to-chargers-practice"
-    },
-    {
-      "kind": "injury",
-      "title": "Nick Sirianni: \"It's still a competition\" between Andy Dalton, Tanner McKee for QB2",
-      "title_ja": null,
-      "excerpt": "As the Browns and Raiders work through their starting quarterbacks for Week 1, the Eagles are still trying to figure out their QB2.",
+      "excerpt": "After Saturday's game and press conference, it's impossible for the Browns to play Watson again.",
       "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
@@ -672,8 +640,168 @@
       "team_abbrev": "CLE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sun, 23 Aug 2026 07:49:24 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-its-still-a-competition-between-andy-dalton-tanner-mckee-for-qb2"
+      "published_at": "Sun, 23 Aug 2026 06:26:14 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/its-time-for-the-browns-and-deshaun-watson-to-go-their-separate-ways"
+    },
+    {
+      "kind": "other",
+      "title": "Stetson Bennett IV seems to be ready to serve as Matthew Stafford's understudy",
+      "title_ja": null,
+      "excerpt": "Two years ago, with Rams backup quarterback Jimmy Garoppolo due to miss the first two games of the regular season because of a PED suspension, the Rams weren't sure Stetson Bennett IV was ready to serve as the understudy to Matthew Stafford.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 23 Aug 2026 05:43:37 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stetson-bennett-iv-seems-to-be-ready-to-serve-as-matthew-staffords-understudy"
+    },
+    {
+      "kind": "other",
+      "title": "Deshaun Watson: Boos are a disrespectful thing, has nothing to do with performance",
+      "title_ja": null,
+      "excerpt": "Watson was booed during his appearance in the third quarter of Saturday's home game.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 22 Aug 2026 17:44:23 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-boos-are-a-disrespectful-thing-has-nothing-to-do-with-performance"
+    },
+    {
+      "kind": "injury",
+      "title": "Rams will be finalizing the roster soon",
+      "title_ja": null,
+      "excerpt": "NFL preseason keeps rolling, the Los Angeles Rams look good as L.A. needs to figure out their final roster",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 13:39:09 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-finalizing-roster-soon-133909081.html"
+    },
+    {
+      "kind": "other",
+      "title": "Yahoo Fantasy Football has a new position option in Team Offense — Here&#39;s everything you need to know, plus top-12 rankings",
+      "title_ja": null,
+      "excerpt": "Team Offense is being added as an optional position for Yahoo Fantasy Football in 2026. Hayden Winks goes over everything you need to know.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 13:19:22 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/yahoo-fantasy-football-has-a-new-position-option-in-team-offense--heres-everything-you-need-to-know-plus-top-12-rankings-131922366.html"
+    },
+    {
+      "kind": "other",
+      "title": "2026 Fantasy Football Instant Mock Draft, No. 5 Pick: Analysis, key takeaways and full roster",
+      "title_ja": null,
+      "excerpt": "We&#39;re into the middle rounds, recapping a Yahoo Instant Mock Draft team out of the No. 5 pick as we prep for 2026.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 13:15:45 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-instant-mock-draft-no-5-pick-analysis-key-takeaways-and-full-roster-131545613.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chiefs fan guide: Ranking the road trips on the 2026 schedule",
+      "title_ja": null,
+      "excerpt": "Traveling to watch your favorite football team from Kansas City? Let’s rank the road trips on this year’s schedule.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 13:15:00 +0000",
+      "url": "https://sports.yahoo.com/articles/chiefs-fan-guide-ranking-road-131500569.html"
+    },
+    {
+      "kind": "other",
+      "title": "Dallas camp standouts are in: Meet the two 2026 camp MVPs",
+      "title_ja": null,
+      "excerpt": "Who would you say were the Cowboys training camp MVPs?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 13:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/dallas-camp-standouts-meet-two-130000118.html"
+    },
+    {
+      "kind": "other",
+      "title": "Saints vs. Rams: Preseason Matchup Review",
+      "title_ja": null,
+      "excerpt": "Catch up on Saturday’s action from Los Angeles.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 13:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/saints-vs-rams-preseason-matchup-130000376.html"
+    },
+    {
+      "kind": "other",
+      "title": "Discussion: overreactions to the Ravens’ preseason win over the Vikings",
+      "title_ja": null,
+      "excerpt": "What’s your overreaction to the Ravens’ preseason win over the Vikings on Saturday?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 13:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/discussion-overreactions-ravens-preseason-win-130000682.html"
+    },
+    {
+      "kind": "other",
+      "title": "Draft an entire offense: A brand-new roster position comes to Yahoo Fantasy",
+      "title_ja": null,
+      "excerpt": "Drafting an offense marks Day 15 of our 29 days of fantasy.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 24 Aug 2026 12:55:39 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/draft-an-entire-offense-a-brand-new-roster-position-comes-to-yahoo-fantasy-125539050.html"
     },
     {
       "kind": "other",
@@ -997,163 +1125,19 @@
     },
     {
       "kind": "other",
-      "title": "Tampa Bay Buccaneers news: Training camp battles heating up",
+      "title": "Mike Vrabel explains his comments about lack of depth on roster",
       "title_ja": null,
-      "excerpt": "The Tampa Bay Buccaneers are getting closer to making decisions that will impact who makes the final 53-man roster.",
+      "excerpt": "After New England's Week 2 preseason game, Patriots coach Mike Vrabel explained that he hasn't been playing key starters in the preseason because \"I do not think we have a very deep team.\"",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 11:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/tampa-bay-buccaneers-news-training-110000300.html"
-    },
-    {
-      "kind": "injury",
-      "title": "NFL Preseason: Which Former FCS Rookies Helped Their Chances in Week 2?",
-      "title_ja": null,
-      "excerpt": "There’s just one week to go before roster trimming.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 10:58:47 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-preseason-former-fcs-rookies-105847168.html"
-    },
-    {
-      "kind": "other",
-      "title": "Patriots 53-man roster projection: Thin depth creates uneasy decisions",
-      "title_ja": null,
-      "excerpt": "A new-look prediction ahead of New England’s final preseason game.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "NE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 10:42:49 +0000",
-      "url": "https://sports.yahoo.com/articles/patriots-53-man-roster-projection-104249257.html"
-    },
-    {
-      "kind": "other",
-      "title": "Chiefs News: Who will be the right tackle for Patrick Mahomes Week 1?",
-      "title_ja": null,
-      "excerpt": "The latest Chiefs news, brought fresh to you every morning!",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 10:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/chiefs-news-tackle-patrick-mahomes-103000780.html"
-    },
-    {
-      "kind": "other",
-      "title": "The Bengals may be ready to find a new swing tackle",
-      "title_ja": null,
-      "excerpt": "The Bengals are in need of consistent play from a swing tackle.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 10:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bengals-may-ready-swing-tackle-103000227.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Which Detroit Lions position group has the most uncertainty?",
-      "title_ja": null,
-      "excerpt": "Which Detroit Lions position group are you still uncertain about heading into their final preseason game?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 10:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/detroit-lions-position-group-most-103000073.html"
-    },
-    {
-      "kind": "other",
-      "title": "We asked AI to predict the NFL season last year. Here&#39;s how bad it went",
-      "title_ja": null,
-      "excerpt": "Last year, we asked Google Gemini AI to predict the 2025 NFL season. This is how it did with record predictions, standings and more.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 10:07:03 +0000",
-      "url": "https://sports.yahoo.com/articles/asked-ai-predict-nfl-season-100703370.html"
-    },
-    {
-      "kind": "other",
-      "title": "Deshaun&#39;s disaster, low RB value and &#39;stupid&#39; NFL practice fights: Monday Morning JB",
-      "title_ja": null,
-      "excerpt": "NFL columnist Jarrett Bell has been covering the league for USA TODAY Sports since 1993. Here&#39;s what stood out to him during NFL preseason Week 2.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 10:06:50 +0000",
-      "url": "https://sports.yahoo.com/articles/deshauns-disaster-low-rb-value-100650267.html"
-    },
-    {
-      "kind": "other",
-      "title": "What Bills vs. Browns actually tells us about Buffalo’s current depth chart",
-      "title_ja": null,
-      "excerpt": "Updating where specific Bills position battles stand",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bills-vs-browns-actually-tells-100000891.html"
-    },
-    {
-      "kind": "other",
-      "title": "Falcons Opening Drive: Michael Penix is medically cleared, but is he actually ready to play?",
-      "title_ja": null,
-      "excerpt": "Michael Penix Jr. has been cleared for full contact — but does that mean he’s ready to start? Let’s talk about it in today’s Falcons Opening Drive.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 24 Aug 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/falcons-opening-drive-michael-penix-100000178.html"
+      "published_at": "Mon, 24 Aug 2026 09:39:04 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-explains-his-comments-about-lack-of-depth-on-roster"
     },
     {
       "kind": "signing",
@@ -1236,36 +1220,20 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-saleh-on-starting-defense-giving-up-tds-glad-it-happened-in-preseason"
     },
     {
-      "kind": "rumor",
-      "title": "NFL fines Cowboys, Saints $500K each after joint practice fights get out of hand, per report",
-      "title_ja": null,
-      "excerpt": "The teams will get another crack at each other in the preseason finale on Aug. 28",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 20 Aug 2026 21:39:46 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-saints-fined-joint-practice-fights/"
-    },
-    {
       "kind": "other",
-      "title": "Renner's 2027 NFL Draft scouting series: Is Leonard Moore the best CB prospect since Jalen Ramsey?",
+      "title": "Oddsmakers rank all 32 NFL starting QBs by point-spread value: Josh Allen is the clear No. 1",
       "title_ja": null,
-      "excerpt": "The Notre Dame star is the Jeremiah Smith of cornerback prospects",
+      "excerpt": "Josh Allen is the most valuable QB in the NFL by value to the point spread, according to oddsmakers.",
       "excerpt_ja": null,
       "sources": [
-        "CBS Sports NFL"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "LAR",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 20 Aug 2026 20:15:53 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-cornerback-rankings-leonard-moore/"
+      "published_at": "Mon, 03 Aug 2026 13:07:25 +0000",
+      "url": "https://sports.yahoo.com/nfl/betting/article/oddsmakers-rank-all-32-nfl-starting-qbs-by-point-spread-value-josh-allen-is-the-clear-no-1-130725555.html"
     },
     {
       "kind": "other",
@@ -1522,6 +1490,38 @@
       "coach_name": null,
       "published_at": "\n                        Sat, 22 Aug 2026 01:49:59 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/nick-chubb-announces-retirement-after-8-nfl-seasons/"
+    },
+    {
+      "kind": "other",
+      "title": "NFL preseason Week 2 takeaways; coaches predict college basketball's best teams",
+      "title_ja": null,
+      "excerpt": "Plus another twist in the Class of 2022's search for college sports eligibility",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Mon, 24 Aug 2026 12:52:43 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-2-takeaways-coaches-predict-college-basketballs-best-teams/"
+    },
+    {
+      "kind": "rumor",
+      "title": "The eight milestones Aaron Rodgers could reach during his final NFL season",
+      "title_ja": null,
+      "excerpt": "Rodgers can pass several Hall of Fame quarterbacks on the NFL's all-time leaderboards during his farewell season in Pittsburgh",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Mon, 24 Aug 2026 12:41:27 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-final-nfl-season-records/"
     },
     {
       "kind": "other",

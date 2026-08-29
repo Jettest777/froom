@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T20:38:22.180481+00:00",
-  "count": 117,
+  "generated_at": "2026-08-29T23:05:00.157958+00:00",
+  "count": 118,
   "items": [
     {
-      "kind": "injury",
-      "title": "NFL news, live updates: Odell Beckham Jr. has done &#39;enough&#39; to make an NFL roster; Packers RB Josh Jacobs charged on 2 misdemeanor counts",
+      "kind": "trade",
+      "title": "NFL news, live updates: Odell Beckham Jr. has done &#39;enough&#39; to make an NFL roster; Cowboys reportedly trade for Steelers OT Broderick Jones",
       "title_ja": null,
       "excerpt": "Follow along with the latest NFL news and injury updates as the preseason wraps up.",
       "excerpt_ja": null,
@@ -13,11 +13,27 @@
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "GB",
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
       "published_at": "Thu, 20 Aug 2026 14:37:14 +0000",
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-preseason-week-3-schedule-whos-playing-starters-tv-channels-143714619.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Report: Jets waive DT Mazi Smith",
+      "title_ja": null,
+      "excerpt": "The Jets are releasing defensive tackle Mazi Smith, Adam Schefter of ESPN reports.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 22:50:27 +0000",
+      "url": "https://sports.yahoo.com/articles/report-jets-waive-dt-mazi-225027368.html"
     },
     {
       "kind": "trade",
@@ -32,46 +48,62 @@
       "team_abbrev": "DEN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:34:41 +0000",
+      "published_at": "Sat, 29 Aug 2026 22:47:48 +0000",
       "url": "https://sports.yahoo.com/articles/tracking-every-denver-broncos-roster-195908403.html"
     },
     {
       "kind": "other",
-      "title": "Denver Broncos have cut center Lecitus Smith",
+      "title": "Bills&#39; new stadium facing another hurdle ahead of home opener",
       "title_ja": null,
-      "excerpt": "According to Zac Stevens of DNVR, the Denver Broncos have cut center Lecitus Smith.",
+      "excerpt": "Before new Highmark Stadium makes its regular season debut, the Buffalo Bills are replacing its grass.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DEN",
+      "team_abbrev": "BUF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:32:45 +0000",
-      "url": "https://sports.yahoo.com/articles/denver-broncos-cut-center-lecitus-203245850.html"
+      "published_at": "Sat, 29 Aug 2026 22:38:41 +0000",
+      "url": "https://sports.yahoo.com/articles/bills-stadium-facing-another-hurdle-223841724.html"
     },
     {
       "kind": "other",
-      "title": "Denver Broncos have waived wide receiver Kyrese Rowan",
+      "title": "Minnesota Vikings Roster Cut Tracker",
       "title_ja": null,
-      "excerpt": "According to Mike Klis of 9News, the Denver Broncos have waived wide receiver Kyrese Rowan.",
+      "excerpt": "Making the moves from 91 to 53",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DEN",
+      "team_abbrev": "MIN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:30:36 +0000",
-      "url": "https://sports.yahoo.com/articles/denver-broncos-waived-wide-receiver-203036202.html"
+      "published_at": "Sat, 29 Aug 2026 22:32:52 +0000",
+      "url": "https://sports.yahoo.com/articles/minnesota-vikings-roster-cut-tracker-041058094.html"
     },
     {
-      "kind": "other",
-      "title": "Jaishawn Barham won the Dallas Cowboys training camp",
+      "kind": "injury",
+      "title": "6 Lions who improved their practice squad chances in preseason finale",
       "title_ja": null,
-      "excerpt": "Who do you think was the overall winner of camp and the preseason?",
+      "excerpt": "Which Detroit Lions players boosted their chances of landing on the practice squad with their final preseason performance?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 22:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/6-lions-improved-practice-squad-223000193.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Steelers reportedly trading OT Broderick Jones to Cowboys for draft picks",
+      "title_ja": null,
+      "excerpt": "Jones, a former first-round pick, heads to Dallas after three seasons in Pittsburgh",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -80,46 +112,126 @@
       "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/jaishawn-barham-won-dallas-cowboys-203000049.html"
+      "published_at": "Sat, 29 Aug 2026 22:15:46 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/steelers-reportedly-trading-ot-broderick-jones-to-cowboys-for-draft-picks-221546092.html"
     },
     {
-      "kind": "other",
-      "title": "Packers Roster Cut Tracker 2026",
+      "kind": "trade",
+      "title": "Grade the trade: Cowboys take a chance on former Steelers first-round pick, OT Broderick Jones",
       "title_ja": null,
-      "excerpt": "Let’s follow along with all the news leading up to the cut-down deadline on Sunday afternoon.",
+      "excerpt": "The Cowboys got some insurance behind their offensive tackles.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "GB",
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:29:20 +0000",
-      "url": "https://sports.yahoo.com/articles/packers-roster-cut-tracker-2026-140000423.html"
+      "published_at": "Sat, 29 Aug 2026 22:14:48 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/grade-the-trade-cowboys-take-a-chance-on-former-steelers-first-round-pick-ot-broderick-jones-221448814.html"
     },
     {
-      "kind": "signing",
-      "title": "Seahawks sign Terrion Arnold to contract. Will he actually play for them?",
+      "kind": "trade",
+      "title": "BREAKING: Cowboys trade with Steelers for OT Broderick Jones",
       "title_ja": null,
-      "excerpt": "Arnold faces several felony charges related to a kidnapping arrest in February. Will he play for the Seattle Seahawks?",
+      "excerpt": "The Cowboys have made a trade for tackle help.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "SEA",
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:27:07 +0000",
-      "url": "https://sports.yahoo.com/articles/seahawks-sign-terrion-arnold-contract-202707934.html"
+      "published_at": "Sat, 29 Aug 2026 22:13:20 +0000",
+      "url": "https://sports.yahoo.com/articles/breaking-cowboys-trade-steelers-ot-221320673.html"
     },
     {
       "kind": "other",
-      "title": "Denver Broncos have cut offensive tackle Foster Sarell",
+      "title": "Here is the ongoing Dallas Cowboys 53-man roster",
       "title_ja": null,
-      "excerpt": "According to Mike Klis of 9News, the Denver Broncos have waived offensive lineman Foster Sarell.",
+      "excerpt": "We are tracking all Dallas Cowboys 53-man roster moves right here.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 22:12:55 +0000",
+      "url": "https://sports.yahoo.com/articles/ongoing-dallas-cowboys-53-man-041500306.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Steelers trade Broderick Jones to Cowboys",
+      "title_ja": null,
+      "excerpt": "The Steelers have traded their 2023 first-round pick to the Dallas Cowboys.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 22:11:48 +0000",
+      "url": "https://sports.yahoo.com/articles/steelers-trade-broderick-jones-cowboys-221148870.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Cowboys acquire former first-round pick in trade with Steelers",
+      "title_ja": null,
+      "excerpt": "The Cowboys traded for former Steelers offensive tackle Broderick Jones on eve of the 2026 NFL season to shore up their tackle depth.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 22:08:40 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-acquire-former-first-round-220840320.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Steelers trade Broderick Jones to Cowboys",
+      "title_ja": null,
+      "excerpt": "After three seasons in Pittsburgh, offensive tackle Broderick Jones will be moving to Dallas.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 22:03:56 +0000",
+      "url": "https://sports.yahoo.com/articles/steelers-trade-broderick-jones-cowboys-220356375.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Colts backup QB battle heads to split decision after preseason finale",
+      "title_ja": null,
+      "excerpt": "There are just 24 hours until all 32 NFL franchises must decrease their rosters from 90 players to a final 53-man roster, by Sunday at 6 p.m.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 22:01:06 +0000",
+      "url": "https://sports.yahoo.com/articles/colts-backup-qb-battle-heads-220106390.html"
+    },
+    {
+      "kind": "other",
+      "title": "Broncos vs Vikings: The No Bull Preseason Review",
+      "title_ja": null,
+      "excerpt": "I always dread the final preseason game of each season. We get decent backups for less than a half, typically, then it is just a bunch of dudes who won’t make the team passing the time by and large. I will say that I sure do prefer seeing the good guys drop a 30-burger on […]",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -128,40 +240,24 @@
       "team_abbrev": "DEN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:20:29 +0000",
-      "url": "https://sports.yahoo.com/articles/denver-broncos-cut-offensive-tackle-202029966.html"
+      "published_at": "Sat, 29 Aug 2026 22:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/broncos-vs-vikings-no-bull-220000251.html"
     },
     {
       "kind": "other",
-      "title": "Cleveland Browns: Is this rookie playing himself into a starter’s role?",
+      "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 15",
       "title_ja": null,
-      "excerpt": "Head coach Todd Monken likes what he has seen from Austin Barber, who might find himself starting at guard soon enough.",
+      "excerpt": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 15",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CLE",
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:18:14 +0000",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-rookie-playing-himself-201814932.html"
-    },
-    {
-      "kind": "other",
-      "title": "Denver Broncos have waived outside linebacker Ron Stone Jr.",
-      "title_ja": null,
-      "excerpt": "According to Mike Klis of 9News, the Denver Broncos have waived outside linebacker Ron Stone, Jr.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:18:05 +0000",
-      "url": "https://sports.yahoo.com/articles/denver-broncos-waived-outside-linebacker-201805905.html"
+      "published_at": "Sat, 29 Aug 2026 22:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-countdown-kickoff-top-100-220000167.html"
     },
     {
       "kind": "rumor",
@@ -176,24 +272,8 @@
       "team_abbrev": "NE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:16:46 +0000",
+      "published_at": "Sat, 29 Aug 2026 21:59:25 +0000",
       "url": "https://sports.yahoo.com/articles/patriots-roster-cuts-tracker-latest-040000073.html"
-    },
-    {
-      "kind": "other",
-      "title": "Denver Broncos have waived wide receiver Joseph Manjack",
-      "title_ja": null,
-      "excerpt": "According to Chris Tomasson of the Denver Gazette, the Denver Broncos have waived wide receiver Joseph Manjack.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:15:47 +0000",
-      "url": "https://sports.yahoo.com/articles/denver-broncos-waived-wide-receiver-201547185.html"
     },
     {
       "kind": "other",
@@ -208,14 +288,46 @@
       "team_abbrev": "NE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:14:28 +0000",
+      "published_at": "Sat, 29 Aug 2026 21:57:57 +0000",
       "url": "https://sports.yahoo.com/articles/patriots-date-depth-chart-roster-202222083.html"
     },
     {
-      "kind": "rumor",
-      "title": "2026 Baltimore Ravens 53-man roster tracker: news and rumors",
+      "kind": "other",
+      "title": "NFL waiver wire rules and order",
       "title_ja": null,
-      "excerpt": "Baltimore Beatdown is tracking all of the Ravens’ moves as they approach Sunday’s 53-man roster cut deadline!",
+      "excerpt": "NFL waiver wire rules and what the Denver Broncos might do on cut day.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 21:47:31 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-waiver-wire-rules-order-214731010.html"
+    },
+    {
+      "kind": "other",
+      "title": "Denver Broncos have waived cornerback Ricardo Hallman",
+      "title_ja": null,
+      "excerpt": "According to Mike Klis if 9News, the Denver Broncos have waived defensive back Ricardo Hallman.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 21:45:05 +0000",
+      "url": "https://sports.yahoo.com/articles/denver-broncos-waived-cornerback-ricardo-214505388.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Chiefs are reportedly trading for a left tackle from the Ravens",
+      "title_ja": null,
+      "excerpt": "Kansas City made another preseason trade to acquire an offensive lineman on Saturday night.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -224,142 +336,110 @@
       "team_abbrev": "BAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:11:45 +0000",
-      "url": "https://sports.yahoo.com/articles/2026-baltimore-ravens-53-man-160000327.html"
+      "published_at": "Sat, 29 Aug 2026 21:45:00 +0000",
+      "url": "https://sports.yahoo.com/articles/chiefs-reportedly-trading-left-tackle-214500415.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Ravens trade UDFA OT Diego Pounds to Chiefs",
+      "title_ja": null,
+      "excerpt": "The Ravens are making another trade before 53-man roster cuts, sending preseason standout Diego Pounds to the Chiefs.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 21:44:28 +0000",
+      "url": "https://sports.yahoo.com/articles/ravens-trade-udfa-ot-diego-214428921.html"
     },
     {
       "kind": "other",
-      "title": "Denver Broncos have waived defensive tackle Jordan Miller",
+      "title": "Did J.J. McCarthy make the Vikings? Latest updates as roster cuts loom",
       "title_ja": null,
-      "excerpt": "According to Mike Klis of 9News, the Denver Broncos have waived defensive lineman Jordan Miller today.",
+      "excerpt": "The Vikings are facing some difficult decisions ahead of the NFL&#39;s 53-man roster deadline. Among them is what to do with J.J. McCarthy.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DEN",
+      "team_abbrev": "MIN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:11:37 +0000",
-      "url": "https://sports.yahoo.com/articles/denver-broncos-waived-defensive-tackle-201137821.html"
+      "published_at": "Sat, 29 Aug 2026 21:44:17 +0000",
+      "url": "https://sports.yahoo.com/articles/did-j-j-mccarthy-vikings-214417715.html"
     },
     {
-      "kind": "other",
-      "title": "Colts fall to Lions, 25-16, in preseason finale, but backups show a bit more fight",
+      "kind": "trade",
+      "title": "Ravens agree to trade OT Diego Pounds to the Chiefs",
       "title_ja": null,
-      "excerpt": "The Colts backups showed a bit more fight in this one, as they await final 53-man roster cuts.",
+      "excerpt": "The Ravens and Chiefs have agreed to a trade ahead of Sunday&#39;s deadline for teams to set their initial 53-man rosters.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
+      "reliability": 0.54,
+      "team_abbrev": "BAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:09:36 +0000",
-      "url": "https://sports.yahoo.com/articles/colts-fall-lions-25-16-200936868.html"
-    },
-    {
-      "kind": "other",
-      "title": "Denver Broncos have waived defensive lineman Israel Antwine",
-      "title_ja": null,
-      "excerpt": "According to Chris Tomasson of the Denver Gazette, the Denver Broncos have waived defensive lineman Israel Antwine.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:08:21 +0000",
-      "url": "https://sports.yahoo.com/articles/denver-broncos-waived-defensive-lineman-200821934.html"
-    },
-    {
-      "kind": "signing",
-      "title": "The Panthers are signing former Giants LB Bobby Okereke amid roster cuts",
-      "title_ja": null,
-      "excerpt": "The Panthers have brought in some linebacker hellp.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:07:22 +0000",
-      "url": "https://sports.yahoo.com/articles/panthers-signing-former-giants-lb-200722866.html"
+      "published_at": "Sat, 29 Aug 2026 21:43:26 +0000",
+      "url": "https://sports.yahoo.com/articles/ravens-agree-trade-ot-diego-214326648.html"
     },
     {
       "kind": "injury",
-      "title": "Bills announce 13 cuts",
+      "title": "Jets roster cutdown tracker with news and live updates",
       "title_ja": null,
-      "excerpt": "The Bills announced their first wave of cuts on Saturday afternoon.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:06:48 +0000",
-      "url": "https://sports.yahoo.com/articles/bills-announce-13-cuts-200648708.html"
-    },
-    {
-      "kind": "other",
-      "title": "Detroit Lions final 53-man roster prediction: Erik Schlitt edition",
-      "title_ja": null,
-      "excerpt": "Erik Schlitt makes his final Detroit Lions 53-man roster projection of the 2026 offseason.",
+      "excerpt": "Cutdown day is upon us. The Jets have until 6:00 pm Sunday evening to cut their roster from 90 players down to 53. With the final preseason game in the books, the Jets will get to work. I think it is fair to say that most of the cuts will not come as a surprise. […]",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DET",
+      "team_abbrev": "NYJ",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 20:02:41 +0000",
-      "url": "https://sports.yahoo.com/articles/detroit-lions-final-53-man-200241844.html"
+      "published_at": "Sat, 29 Aug 2026 21:41:37 +0000",
+      "url": "https://sports.yahoo.com/articles/jets-roster-cutdown-tracker-news-214137259.html"
     },
     {
-      "kind": "other",
-      "title": "Ravens waive 2025 sixth-rounder Robert Longerbeam",
+      "kind": "rumor",
+      "title": "Eagles host rookie free agent on tryout",
       "title_ja": null,
-      "excerpt": "A 2025 draft pick is among the Ravens&#39; cuts as they move toward a 53-man roster.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 19:55:09 +0000",
-      "url": "https://sports.yahoo.com/articles/ravens-waive-2025-sixth-rounder-195509954.html"
-    },
-    {
-      "kind": "other",
-      "title": "Packers Discussion: Who do you think makes the team?",
-      "title_ja": null,
-      "excerpt": "Here’s an open thread where you can fire off any and all thoughts on Green Bay’s 53-man roster heading into cutdowns",
+      "excerpt": "Could be an interesting addition.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "GB",
+      "team_abbrev": "PHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 19:52:04 +0000",
-      "url": "https://sports.yahoo.com/articles/packers-discussion-think-makes-team-195204601.html"
+      "published_at": "Sat, 29 Aug 2026 21:40:18 +0000",
+      "url": "https://sports.yahoo.com/articles/eagles-host-rookie-free-agent-214018428.html"
     },
     {
       "kind": "other",
-      "title": "Do the Dolphins have a punting problem?",
+      "title": "Denver Broncos have waived safety Parker Robertson",
       "title_ja": null,
-      "excerpt": "The Miami Dolphins may have to make a change at punter.",
+      "excerpt": "According to Mike Klis if 9News, the Denver Broncos have waived safety Parker Robertson.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 21:38:16 +0000",
+      "url": "https://sports.yahoo.com/articles/denver-broncos-waived-safety-parker-213816635.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Miami Dolphins 2026 roster cuts tracker: 12 cuts, 1 trade starts moves",
+      "title_ja": null,
+      "excerpt": "The Miami Dolphins must drop to the NFL’s regular season roster limit by Sunday evening. We keep up with all the cuts.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -368,104 +448,216 @@
       "team_abbrev": "MIA",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 19:42:47 +0000",
-      "url": "https://sports.yahoo.com/articles/dolphins-punting-problem-194247608.html"
+      "published_at": "Sat, 29 Aug 2026 21:36:37 +0000",
+      "url": "https://sports.yahoo.com/articles/miami-dolphins-2026-roster-cuts-024700177.html"
     },
     {
       "kind": "other",
-      "title": "John Harbaugh: C.J. Okoye ‘a type of guy we’ve been looking for’",
+      "title": "Jets 53-man roster tracker: Latest on Gang Green&#39;s moves ahead of NFL cutdown day",
       "title_ja": null,
-      "excerpt": "Harbaugh says Okoye “made great strides” in learning the game.",
+      "excerpt": "Tracking all the roster moves the Jets make before the deadline for NFL teams to announce an initial 53-man roster at 6 p.m. on Sunday, Aug. 30.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "NYJ",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 19:41:37 +0000",
-      "url": "https://sports.yahoo.com/articles/john-harbaugh-c-j-okoye-194137127.html"
+      "published_at": "Sat, 29 Aug 2026 21:35:06 +0000",
+      "url": "https://sports.yahoo.com/articles/jets-53-man-roster-tracker-213506005.html"
     },
     {
-      "kind": "other",
-      "title": "Bill Belichick starts Year Two 1-0 as North Carolina beats TCU",
+      "kind": "rumor",
+      "title": "Report: Jets waive DT Mazi Smith",
       "title_ja": null,
-      "excerpt": "Bill Belichick&#39;s second season as a college football head coach is off to a better start than his first season.",
+      "excerpt": "The Jets are releasing defensive tackle Mazi Smith, Adam Schefter of ESPN reports.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.54,
-      "team_abbrev": null,
+      "team_abbrev": "NYJ",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 19:36:55 +0000",
-      "url": "https://sports.yahoo.com/articles/bill-belichick-starts-two-1-193655260.html"
+      "published_at": "Sat, 29 Aug 2026 18:50:27 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jets-waive-dt-mazi-smith"
     },
     {
-      "kind": "other",
-      "title": "Bill Belichick&#39;s UNC outlasts mistake-plagued TCU in slippery Dublin, avenges defeat from last season&#39;s opener",
+      "kind": "trade",
+      "title": "Steelers trade Broderick Jones to Cowboys",
       "title_ja": null,
-      "excerpt": "The Tar Heels were embarrassed 48-14 by the Horned Frogs in Belichick&#39;s inaugural game with the program in 2025.",
+      "excerpt": "After three seasons in Pittsburgh, offensive tackle Broderick Jones will be moving to Dallas.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 19:33:15 +0000",
-      "url": "https://sports.yahoo.com/college-football/breaking-news/article/bill-belichicks-unc-outlasts-mistake-plagued-tcu-in-slippery-dublin-avenges-defeat-from-last-seasons-opener-193315036.html"
-    },
-    {
-      "kind": "other",
-      "title": "VIDEO: Breaking down Cade Klubnik’s Week 3 preseason performance against the New York Giants",
-      "title_ja": null,
-      "excerpt": "In the Jets’ preseason finale against the New York Giants, rookie quarterback Cade Klubnik’s stat line was ugly. The Clemson product finished the night 6 of 13 passing for 59 yards and an interception. How accurate was the stat line? Through the first two weeks of the 2026 preseason, I have done a v",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 19:29:03 +0000",
-      "url": "https://sports.yahoo.com/articles/video-breaking-down-cade-klubnik-192903095.html"
-    },
-    {
-      "kind": "other",
-      "title": "Carolina Panthers 2026 roster cuts tracker",
-      "title_ja": null,
-      "excerpt": "Live updates and discussion of the Carolina Panthers roster cut down",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 19:20:42 +0000",
-      "url": "https://sports.yahoo.com/articles/carolina-panthers-2026-roster-cuts-024733857.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Panthers agree to sign Bobby Okereke, waive seven players",
-      "title_ja": null,
-      "excerpt": "The Panthers are adding a veteran linebacker at the same time as they are cutting their roster down to 53 players.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.54,
-      "team_abbrev": "CAR",
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 19:19:04 +0000",
-      "url": "https://sports.yahoo.com/articles/panthers-agree-sign-bobby-okereke-191904932.html"
+      "published_at": "Sat, 29 Aug 2026 18:03:56 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-trade-broderick-jones-to-cowboys"
+    },
+    {
+      "kind": "trade",
+      "title": "Ravens agree to trade OT Diego Pounds to the Chiefs",
+      "title_ja": null,
+      "excerpt": "The Ravens and Chiefs have agreed to a trade ahead of Sunday's deadline for teams to set their initial 53-man rosters.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 17:43:26 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-agree-to-trade-ot-diego-pounds-to-the-chiefs"
+    },
+    {
+      "kind": "trade",
+      "title": "Jaguars Acquire QB Quinn Ewers In Trade With Dolphins",
+      "title_ja": null,
+      "excerpt": "The Jacksonville Jaguars traded for quarterback Quinn Ewers from the Miami Dolphins on Saturday.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "JAX",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 17:32:26 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/jaguars-acquire-qb-quinn-ewers-trade-dolphins"
+    },
+    {
+      "kind": "trade",
+      "title": "Patriots release RB Hassan Haskins",
+      "title_ja": null,
+      "excerpt": "The Patriots traded for running back Corey Kiner on Saturday and they made space for him by parting ways with another back.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 17:30:21 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-release-rb-hassan-haskins"
+    },
+    {
+      "kind": "other",
+      "title": "Steelers release LB Jamin Davis",
+      "title_ja": null,
+      "excerpt": "Linebacker Jamin Davis did not make it past final cuts with the Steelers.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 17:18:04 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-release-lb-jamin-davis"
+    },
+    {
+      "kind": "injury",
+      "title": "LBs Tomon Fox, Monty Rice among first wave of Rams cuts",
+      "title_ja": null,
+      "excerpt": "A pair of veteran linebackers are among the first players let go by the Rams as they set their initial 53-man roster.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 17:11:49 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lbs-tomon-fox-monty-rice-among-first-wave-of-rams-cuts"
+    },
+    {
+      "kind": "injury",
+      "title": "Falcons waive seven players, release three others",
+      "title_ja": null,
+      "excerpt": "The Falcons have started making moves ahead of Sunday's deadline to cut their roster to 53 players.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ATL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 17:02:51 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-waive-seven-players-release-three-others"
+    },
+    {
+      "kind": "rumor",
+      "title": "Report: 49ers cut Adrian Martinez as Kurtis Rourke wins No. 3 QB job",
+      "title_ja": null,
+      "excerpt": "The 49ers didn't see much of Curtis Rourke in the preseason as he missed the final two games with fractured ribs.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 17:02:46 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-49ers-cut-adrian-martinez-as-kurtis-rourke-wins-no-3-qb-job"
+    },
+    {
+      "kind": "other",
+      "title": "Bills will replace grass field at new stadium before home opener",
+      "title_ja": null,
+      "excerpt": "Large divots were a problem during the preseason.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 16:48:33 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-will-replace-grass-field-at-new-stadium-before-home-opener"
+    },
+    {
+      "kind": "trade",
+      "title": "Dolphins trade QB Quinn Ewers to Jaguars",
+      "title_ja": null,
+      "excerpt": "Quinn Ewers is on the move.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "JAX",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 16:47:56 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-trade-qb-quinn-ewers-to-jaguars"
+    },
+    {
+      "kind": "trade",
+      "title": "Packers waive DB Travion Fluellen to make room for Jonnu Smith",
+      "title_ja": null,
+      "excerpt": "Free agent tight end Jonnu Smith agreed to a one-year deal with the Packers earlier this week.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 16:38:32 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-waive-db-travion-fluellen-to-make-room-for-jonnu-smith"
     },
     {
       "kind": "signing",
@@ -508,7 +700,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "BUF",
       "player_name": null,
       "coach_name": null,
@@ -540,7 +732,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "BAL",
       "player_name": null,
       "coach_name": null,
@@ -556,7 +748,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
@@ -588,7 +780,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "CAR",
       "player_name": null,
       "coach_name": null,
@@ -980,22 +1172,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jason-licht-very-optimistic-about-baker-mayfield-staying-beyond-2026"
     },
     {
-      "kind": "rumor",
-      "title": "Big Ten will have four \"availability reports\" per week",
-      "title_ja": null,
-      "excerpt": "As sports betting continues to proliferate, college football is taking more steps aimed at minimizing inside information.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 07:32:47 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/big-ten-will-have-four-availability-reports-per-week"
-    },
-    {
       "kind": "other",
       "title": "Underdog Promo Code FOXSPORTS: Play $5 Get $50 in Bonus Entries",
       "title_ja": null,
@@ -1010,22 +1186,6 @@
       "coach_name": null,
       "published_at": "Sat, 29 Aug 2026 07:30:24 -0400",
       "url": "https://www.foxsports.com/stories/betting/underdog-promo-code"
-    },
-    {
-      "kind": "other",
-      "title": "Bill Belichick's second season in college football starts today",
-      "title_ja": null,
-      "excerpt": "Two NFL seasons have transpired without should-be Hall of Fame head coach Bill Belichick, who had spent half of a century in pro football.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 07:14:40 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichicks-second-season-in-college-football-starts-today"
     },
     {
       "kind": "other",
@@ -1125,22 +1285,6 @@
     },
     {
       "kind": "other",
-      "title": "The annual frenzy of NFL transactions happens this weekend",
-      "title_ja": null,
-      "excerpt": "Rosters must cut from 90 to 53 by Sunday at 4:00 p.m. ET.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 06:46:36 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-annual-frenzy-of-nfl-transactions-happens-this-weekend"
-    },
-    {
-      "kind": "other",
       "title": "Best Sports Betting Apps 2026: Top Betting Sites Reviewed",
       "title_ja": null,
       "excerpt": "Compare the best sports betting apps and sites for 2026. See reviews, bonuses, and features to help choose the right sportsbook for your needs.",
@@ -1154,54 +1298,6 @@
       "coach_name": null,
       "published_at": "Sat, 29 Aug 2026 06:30:58 -0400",
       "url": "https://www.foxsports.com/stories/betting/best-sports-betting-apps"
-    },
-    {
-      "kind": "rumor",
-      "title": "Cowboys linebacker and special teamer Marist Liufau suffers broken forearm",
-      "title_ja": null,
-      "excerpt": "Cowboys outside linebacker and special teams contributor Marist Liufau exited Friday night's preseason finale early, returned with his arm in a cast and sling, and is now expected to get surgery and miss time.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 06:19:08 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-linebacker-and-special-teamer-marist-liufau-suffers-broken-forearm"
-    },
-    {
-      "kind": "other",
-      "title": "Tyler Loop is suddenly on shaky ground in Baltimore",
-      "title_ja": null,
-      "excerpt": "Last year, with the Ravens planning to move on from former All-Pro kicker Justin Tucker (who has completely fallen off the map after his Personal Conduct Policy suspension), they invested a sixth-round pick in his replacement, Tyler Loop.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 06:17:11 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-loop-is-suddenly-on-shaky-ground-in-baltimore"
-    },
-    {
-      "kind": "other",
-      "title": "Sean Payton explains social-media defense of Bo Nix against analyst",
-      "title_ja": null,
-      "excerpt": "Broncos coach Sean Payton used Twitter this week to defend quarterback Bo Nix against a community-noted take from former NFL player and current Fox analyst Geoff Schwartz.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 06:00:29 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-explains-social-media-defense-of-bo-nix-against-analyst"
     },
     {
       "kind": "other",
@@ -1218,22 +1314,6 @@
       "coach_name": null,
       "published_at": "Sat, 29 Aug 2026 06:00:17 -0400",
       "url": "https://www.foxsports.com/stories/betting/draftkings-promo-code"
-    },
-    {
-      "kind": "other",
-      "title": "Kevin O'Connell doesn't rule out keeping four quarterbacks on 53-man roster",
-      "title_ja": null,
-      "excerpt": "J.J. McCarthy isn't guaranteed the backup job, or a roster spot.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 05:37:57 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-doesnt-rule-out-keeping-four-quarterbacks-on-53-man-roster"
     },
     {
       "kind": "other",
@@ -1266,54 +1346,6 @@
       "coach_name": null,
       "published_at": "Sat, 29 Aug 2026 05:00:48 -0400",
       "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code"
-    },
-    {
-      "kind": "presser",
-      "title": "Matt LaFleur: I fully anticipate Josh Jacobs being a member of our team",
-      "title_ja": null,
-      "excerpt": "Jacobs is facing charges of battery and criminal damage to property, and LaFleur said he doesn't know if Jacobs will be on the field Week One.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 03:56:07 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-i-fully-anticipate-josh-jacobs-being-a-member-of-our-team"
-    },
-    {
-      "kind": "other",
-      "title": "Jordan Love served as Packers' play caller for second half of preseason finale",
-      "title_ja": null,
-      "excerpt": "Packers third-string quarterback Kyle McCord had an excellent game in the preseason finale, throwing for four touchdown passes and leading a fourth-quarter comeback as the Packers beat the Cardinals 42-38.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 03:35:52 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-served-as-packers-play-caller-for-second-half-of-preseason-finale"
-    },
-    {
-      "kind": "other",
-      "title": "Odell Beckham says it would mean everything to make the Giants' roster",
-      "title_ja": null,
-      "excerpt": "Giants head coach John Harbaugh did not say whether Beckham will make the team after the preseason finale.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 03:18:36 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-says-it-would-mean-everything-to-make-the-giants-roster"
     },
     {
       "kind": "other",
@@ -1364,22 +1396,6 @@
       "url": "https://www.foxsports.com/stories/collegesports/nebraska-volleyball-something-to-prove-exit-elite-eight-regional"
     },
     {
-      "kind": "rumor",
-      "title": "New Seahawks owner Vinod Khosla bristles at reaction to his Steelers fandom",
-      "title_ja": null,
-      "excerpt": "Khosla complains that \"reporters will make every molehill into a mountain.\"",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PIT",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 28 Aug 2026 17:03:08 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-seahawks-owner-vinod-khosla-bristles-at-reaction-to-his-steelers-fandom"
-    },
-    {
       "kind": "other",
       "title": "NFL roster cuts 2026: Look at how 53-man rosters are taking shape at the cutdown deadline",
       "title_ja": null,
@@ -1410,22 +1426,6 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 27 Aug 2026 23:03:55 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/latest-nfl-injury-updates/"
-    },
-    {
-      "kind": "trade",
-      "title": "What's next for Shedeur Sanders? NFL sources question whether Browns QB has a starting future",
-      "title_ja": null,
-      "excerpt": "After Deshaun Watson won Cleveland's starting job, NFL coaches and front-office officials explain why Sanders faces an uncertain future -- and why some teams wouldn't trade for him even if he became available",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 27 Aug 2026 21:29:58 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/shedeur-sanders-future-browns-qb-job-deshaun-watson/"
     },
     {
       "kind": "other",
@@ -1492,52 +1492,68 @@
       "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-dodgers-vs-braves-rams-vs-chargers-and-more/"
     },
     {
-      "kind": "rumor",
-      "title": "Renner's 2027 NFL Draft scouting series: Who's the No. 1 EDGE between Dylan Stewart and Colin Simmons?",
+      "kind": "trade",
+      "title": "Cowboys acquire former first-round OT Broderick Jones in trade with Steelers, trade grades",
       "title_ja": null,
-      "excerpt": "Stewart and Simmons could both sit out the 2026 season and still be first-round picks in April",
+      "excerpt": "Pittsburgh is moving on from Jones after declining his fifth-year option and selecting Max Ihenachor in the first round",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 27 Aug 2026 17:26:10 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-edge-rankings-dylan-stewart-colin-simmons/"
+      "published_at": "\n                        Sat, 29 Aug 2026 23:01:01 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-steelers-trade-broderick-jones/"
+    },
+    {
+      "kind": "rumor",
+      "title": "Raiders expected to name Kirk Cousins Week 1 starter over No. 1 pick Fernando Mendoza",
+      "title_ja": null,
+      "excerpt": "The Raiders plan to open the season with the 38-year-old Cousins under center while Mendoza begins his NFL career as a backup",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Sat, 29 Aug 2026 21:56:23 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/raiders-starting-qb-kirk-cousins-fernando-mendoza/"
     },
     {
       "kind": "trade",
-      "title": "NFL trade candidates for cutdown day, plus Pro Bowl gets canceled and ranking every roster 1-32",
+      "title": "Dolphins trade QB Quinn Ewers to Jaguars: Miami, Jacksonville earn middling grades",
       "title_ja": null,
-      "excerpt": "Here's everything you need to know about the NFL for Aug. 27",
+      "excerpt": "Miami is sending Ewers to Jacksonville for a Day 3 selection in the 2028 NFL Draft",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "JAX",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 27 Aug 2026 16:57:49 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-candidates-for-cutdown-day-plus-pro-bowl-gets-canceled-and-ranking-every-roster-1-32/"
+      "published_at": "\n                        Sat, 29 Aug 2026 21:33:10 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/dolphins-trade-qb-quinn-ewers-jaguars/"
     },
     {
-      "kind": "injury",
-      "title": "Patrick Mahomes' status for Week 1 is still up in the air: Why Chiefs QB isn't a lock to play vs. the Broncos",
+      "kind": "rumor",
+      "title": "NFL places new Seahawks cornerback Terrion Arnold on the commissioner's exempt list, per report",
       "title_ja": null,
-      "excerpt": "Patrick Mahomes is still waiting for full medical clearance after a December knee injury, leaving Justin Fields in line to start if he is not ready for Week 1",
+      "excerpt": "Arnold is not permitted to practice or play while on the commissioner's exempt list",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DEN",
+      "team_abbrev": "SEA",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 27 Aug 2026 16:40:09 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/patrick-mahomes-status-week-1-chiefs-qb/"
+      "published_at": "\n                        Sat, 29 Aug 2026 20:48:15 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/terrion-arnold-nfl-commissioners-exempt-list-seahawks/"
     },
     {
       "kind": "injury",

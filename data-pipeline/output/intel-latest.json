@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T23:05:00.157958+00:00",
-  "count": 118,
+  "generated_at": "2026-08-29T23:49:52.316746+00:00",
+  "count": 116,
   "items": [
     {
       "kind": "trade",
@@ -18,6 +18,70 @@
       "coach_name": null,
       "published_at": "Thu, 20 Aug 2026 14:37:14 +0000",
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-preseason-week-3-schedule-whos-playing-starters-tv-channels-143714619.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Giants cut eight, including WR Isaiah Hodgins",
+      "title_ja": null,
+      "excerpt": "The Giants have begun reducing their roster to 53 players.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 23:13:35 +0000",
+      "url": "https://sports.yahoo.com/articles/giants-cut-eight-including-wr-231335678.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Raiders cut tracker 2026: News and rumors on cutdown day",
+      "title_ja": null,
+      "excerpt": "All the latest roster moves here",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 23:03:42 +0000",
+      "url": "https://sports.yahoo.com/articles/raiders-cut-tracker-2026-news-052700161.html"
+    },
+    {
+      "kind": "other",
+      "title": "2026 Detroit Lions roster cuts tracker: Latest news, moves to 53-man roster",
+      "title_ja": null,
+      "excerpt": "BOOKMARK! A live-updating post on the Detroit Lions 2026 roster cuts and the players remaining on the 53-man roster.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 23:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/2026-detroit-lions-roster-cuts-230000438.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Breaking Down The Jaguars Trade for Dolphins QB Quinn Ewers",
+      "title_ja": null,
+      "excerpt": "The Jacksonville Jaguars have acquired Quinn Ewers from the Miami Dolphins, adding a young developmental quarterback with starting experience ahead of Sunday&#39;s 53-man roster deadline. We break down the move.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "JAX",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 29 Aug 2026 22:56:08 +0000",
+      "url": "https://sports.yahoo.com/articles/breaking-down-jaguars-trade-dolphins-225608693.html"
     },
     {
       "kind": "rumor",
@@ -404,68 +468,20 @@
       "url": "https://sports.yahoo.com/articles/jets-roster-cutdown-tracker-news-214137259.html"
     },
     {
-      "kind": "rumor",
-      "title": "Eagles host rookie free agent on tryout",
+      "kind": "injury",
+      "title": "Giants cut eight, including WR Isaiah Hodgins",
       "title_ja": null,
-      "excerpt": "Could be an interesting addition.",
+      "excerpt": "The Giants have begun reducing their roster to 53 players.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
+      "reliability": 0.54,
+      "team_abbrev": "NYG",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 21:40:18 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-host-rookie-free-agent-214018428.html"
-    },
-    {
-      "kind": "other",
-      "title": "Denver Broncos have waived safety Parker Robertson",
-      "title_ja": null,
-      "excerpt": "According to Mike Klis if 9News, the Denver Broncos have waived safety Parker Robertson.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 21:38:16 +0000",
-      "url": "https://sports.yahoo.com/articles/denver-broncos-waived-safety-parker-213816635.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Miami Dolphins 2026 roster cuts tracker: 12 cuts, 1 trade starts moves",
-      "title_ja": null,
-      "excerpt": "The Miami Dolphins must drop to the NFL’s regular season roster limit by Sunday evening. We keep up with all the cuts.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 21:36:37 +0000",
-      "url": "https://sports.yahoo.com/articles/miami-dolphins-2026-roster-cuts-024700177.html"
-    },
-    {
-      "kind": "other",
-      "title": "Jets 53-man roster tracker: Latest on Gang Green&#39;s moves ahead of NFL cutdown day",
-      "title_ja": null,
-      "excerpt": "Tracking all the roster moves the Jets make before the deadline for NFL teams to announce an initial 53-man roster at 6 p.m. on Sunday, Aug. 30.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 21:35:06 +0000",
-      "url": "https://sports.yahoo.com/articles/jets-53-man-roster-tracker-213506005.html"
+      "published_at": "Sat, 29 Aug 2026 19:13:35 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-cut-eight-including-wr-isaiah-hodgins"
     },
     {
       "kind": "rumor",
@@ -1156,22 +1172,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-mims-bruised-his-foot-broncos-think-hell-be-fine"
     },
     {
-      "kind": "signing",
-      "title": "Jason Licht \"very optimistic\" about Baker Mayfield staying beyond 2026",
-      "title_ja": null,
-      "excerpt": "Baker Mayfield said he felt disrespected and undervalued by the contract offers that came from the Buccaneers this offseason, so the quarterback is now set to play out the final year of his current deal.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 29 Aug 2026 08:06:04 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jason-licht-very-optimistic-about-baker-mayfield-staying-beyond-2026"
-    },
-    {
       "kind": "other",
       "title": "Underdog Promo Code FOXSPORTS: Play $5 Get $50 in Bonus Entries",
       "title_ja": null,
@@ -1362,38 +1362,6 @@
       "coach_name": null,
       "published_at": "Fri, 28 Aug 2026 23:59:42 -0400",
       "url": "https://www.foxsports.com/stories/mlb/cam-schlittler-yankees-win-game-1-pivotal-rivalry-series-against-red-sox"
-    },
-    {
-      "kind": "other",
-      "title": "Memphis vs. UNLV Prediction, Odds, Pick For College Football Week 0",
-      "title_ja": null,
-      "excerpt": "Get the latest odds, prediction and pick for the Week 0 Memphis-UNLV game, as well as information on how to watch.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 28 Aug 2026 22:00:11 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/memphis-vs-unlv-prediction-odds-picks-college-football-week-0"
-    },
-    {
-      "kind": "other",
-      "title": "After Last Season's Early Exit, Nebraska Volleyball Has Something To Prove",
-      "title_ja": null,
-      "excerpt": "Nebraska volleyball was upset in the Elite Eight last season. Can the Cornhuskers climb back on top the women's college volleyball world?",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 28 Aug 2026 20:25:04 -0400",
-      "url": "https://www.foxsports.com/stories/collegesports/nebraska-volleyball-something-to-prove-exit-elite-eight-regional"
     },
     {
       "kind": "other",

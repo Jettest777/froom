@@ -1,7 +1,7 @@
 {
   "version": 1,
   "season": 2026,
-  "generated_at": "2026-09-10T11:39:16.815618+00:00",
+  "generated_at": "2026-09-11T11:40:22.956267+00:00",
   "teams": {
     "ARI": {
       "teamId": "ARI",
@@ -713,7 +713,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:21.991475+00:00"
+      "updatedAt": "2026-09-11T11:39:34.054877+00:00"
     },
     "ATL": {
       "teamId": "ATL",
@@ -1425,7 +1425,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:23.642931+00:00"
+      "updatedAt": "2026-09-11T11:39:35.608697+00:00"
     },
     "BAL": {
       "teamId": "BAL",
@@ -2137,7 +2137,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:25.430092+00:00"
+      "updatedAt": "2026-09-11T11:39:37.150346+00:00"
     },
     "BUF": {
       "teamId": "BUF",
@@ -2849,7 +2849,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:27.419228+00:00"
+      "updatedAt": "2026-09-11T11:39:38.721024+00:00"
     },
     "CAR": {
       "teamId": "CAR",
@@ -3561,7 +3561,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:29.007431+00:00"
+      "updatedAt": "2026-09-11T11:39:40.299859+00:00"
     },
     "CHI": {
       "teamId": "CHI",
@@ -4273,7 +4273,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:30.746780+00:00"
+      "updatedAt": "2026-09-11T11:39:41.855131+00:00"
     },
     "CIN": {
       "teamId": "CIN",
@@ -4985,7 +4985,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:32.346953+00:00"
+      "updatedAt": "2026-09-11T11:39:43.334354+00:00"
     },
     "CLE": {
       "teamId": "CLE",
@@ -5697,7 +5697,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:34.090641+00:00"
+      "updatedAt": "2026-09-11T11:39:44.961071+00:00"
     },
     "DAL": {
       "teamId": "DAL",
@@ -6409,7 +6409,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:36.063715+00:00"
+      "updatedAt": "2026-09-11T11:39:46.529671+00:00"
     },
     "DEN": {
       "teamId": "DEN",
@@ -7121,14 +7121,14 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:37.993197+00:00"
+      "updatedAt": "2026-09-11T11:39:48.130732+00:00"
     },
     "DET": {
       "teamId": "DET",
       "season": 2026,
       "salaryCap": 255.4,
-      "totalCapSpent": 1371.0,
-      "activeContracts": 52,
+      "totalCapSpent": 1401.0,
+      "activeContracts": 53,
       "deadCap": 0,
       "capSpace": 0,
       "topCapHits": [
@@ -7235,6 +7235,20 @@
           "season": 2026,
           "playerName": "MaddoxAvonte MaddoxVSB",
           "position": "CB",
+          "jerseyNumber": null,
+          "capHit": 30.0,
+          "baseSalary": null,
+          "signingBonusProration": null,
+          "restructureBonus": null,
+          "roster": "active",
+          "isDeadMoney": false,
+          "isTopHeavy": false
+        },
+        {
+          "teamId": "DET",
+          "season": 2026,
+          "playerName": "KennedyTom KennedyVSB",
+          "position": "WR",
           "jerseyNumber": null,
           "capHit": 30.0,
           "baseSalary": null,
@@ -7817,23 +7831,9 @@
           "roster": "active",
           "isDeadMoney": false,
           "isTopHeavy": false
-        },
-        {
-          "teamId": "DET",
-          "season": 2026,
-          "playerName": "MillerBlake Miller",
-          "position": "RT",
-          "jerseyNumber": null,
-          "capHit": 22.0,
-          "baseSalary": null,
-          "signingBonusProration": null,
-          "restructureBonus": null,
-          "roster": "active",
-          "isDeadMoney": false,
-          "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:39.710596+00:00"
+      "updatedAt": "2026-09-11T11:39:49.763444+00:00"
     },
     "GB": {
       "teamId": "GB",
@@ -8545,7 +8545,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:41.412795+00:00"
+      "updatedAt": "2026-09-11T11:39:51.339527+00:00"
     },
     "HOU": {
       "teamId": "HOU",
@@ -9257,7 +9257,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:43.336463+00:00"
+      "updatedAt": "2026-09-11T11:39:52.877497+00:00"
     },
     "IND": {
       "teamId": "IND",
@@ -9859,6 +9859,20 @@
         {
           "teamId": "IND",
           "season": 2026,
+          "playerName": "SmithTim Smith",
+          "position": "DL",
+          "jerseyNumber": null,
+          "capHit": 24.0,
+          "baseSalary": null,
+          "signingBonusProration": null,
+          "restructureBonus": null,
+          "roster": "active",
+          "isDeadMoney": false,
+          "isTopHeavy": false
+        },
+        {
+          "teamId": "IND",
+          "season": 2026,
           "playerName": "ChambersTahj Chambers",
           "position": "LB",
           "jerseyNumber": null,
@@ -9875,20 +9889,6 @@
           "season": 2026,
           "playerName": "GushikenKapena Gushiken",
           "position": "S",
-          "jerseyNumber": null,
-          "capHit": 24.0,
-          "baseSalary": null,
-          "signingBonusProration": null,
-          "restructureBonus": null,
-          "roster": "active",
-          "isDeadMoney": false,
-          "isTopHeavy": false
-        },
-        {
-          "teamId": "IND",
-          "season": 2026,
-          "playerName": "SmithTim Smith",
-          "position": "DL",
           "jerseyNumber": null,
           "capHit": 24.0,
           "baseSalary": null,
@@ -9969,7 +9969,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:45.030784+00:00"
+      "updatedAt": "2026-09-11T11:39:54.446387+00:00"
     },
     "JAX": {
       "teamId": "JAX",
@@ -10681,7 +10681,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:46.695080+00:00"
+      "updatedAt": "2026-09-11T11:39:56.089117+00:00"
     },
     "KC": {
       "teamId": "KC",
@@ -11393,13 +11393,13 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:48.588739+00:00"
+      "updatedAt": "2026-09-11T11:39:57.613148+00:00"
     },
     "LV": {
       "teamId": "LV",
       "season": 2026,
       "salaryCap": 255.4,
-      "totalCapSpent": 1402.0,
+      "totalCapSpent": 1401.0,
       "activeContracts": 53,
       "deadCap": 0,
       "capSpace": 0,
@@ -11813,20 +11813,6 @@
         {
           "teamId": "LV",
           "season": 2026,
-          "playerName": "MafiAtonio Mafi",
-          "position": "G",
-          "jerseyNumber": null,
-          "capHit": 26.0,
-          "baseSalary": null,
-          "signingBonusProration": null,
-          "restructureBonus": null,
-          "roster": "active",
-          "isDeadMoney": false,
-          "isTopHeavy": false
-        },
-        {
-          "teamId": "LV",
-          "season": 2026,
           "playerName": "LauluJonah Laulu",
           "position": "DL",
           "jerseyNumber": null,
@@ -11941,6 +11927,20 @@
           "season": 2026,
           "playerName": "PeguesJJ Pegues",
           "position": "DL",
+          "jerseyNumber": null,
+          "capHit": 25.0,
+          "baseSalary": null,
+          "signingBonusProration": null,
+          "restructureBonus": null,
+          "roster": "active",
+          "isDeadMoney": false,
+          "isTopHeavy": false
+        },
+        {
+          "teamId": "LV",
+          "season": 2026,
+          "playerName": "CabeldueBryce Cabeldue",
+          "position": "G",
           "jerseyNumber": null,
           "capHit": 25.0,
           "baseSalary": null,
@@ -12105,7 +12105,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:50.491736+00:00"
+      "updatedAt": "2026-09-11T11:39:59.145850+00:00"
     },
     "LAC": {
       "teamId": "LAC",
@@ -12817,7 +12817,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:52.304068+00:00"
+      "updatedAt": "2026-09-11T11:40:00.579075+00:00"
     },
     "LAR": {
       "teamId": "LAR",
@@ -13529,7 +13529,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:53.962778+00:00"
+      "updatedAt": "2026-09-11T11:40:02.220085+00:00"
     },
     "MIA": {
       "teamId": "MIA",
@@ -14241,7 +14241,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:55.655554+00:00"
+      "updatedAt": "2026-09-11T11:40:03.738728+00:00"
     },
     "MIN": {
       "teamId": "MIN",
@@ -14953,7 +14953,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:57.389246+00:00"
+      "updatedAt": "2026-09-11T11:40:05.277802+00:00"
     },
     "NE": {
       "teamId": "NE",
@@ -15665,7 +15665,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:38:59.043035+00:00"
+      "updatedAt": "2026-09-11T11:40:06.866356+00:00"
     },
     "NO": {
       "teamId": "NO",
@@ -16377,7 +16377,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:39:00.550313+00:00"
+      "updatedAt": "2026-09-11T11:40:08.448885+00:00"
     },
     "NYG": {
       "teamId": "NYG",
@@ -17089,7 +17089,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:39:02.269495+00:00"
+      "updatedAt": "2026-09-11T11:40:09.976923+00:00"
     },
     "NYJ": {
       "teamId": "NYJ",
@@ -17801,7 +17801,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:39:03.875516+00:00"
+      "updatedAt": "2026-09-11T11:40:11.491421+00:00"
     },
     "PHI": {
       "teamId": "PHI",
@@ -18513,7 +18513,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:39:05.531910+00:00"
+      "updatedAt": "2026-09-11T11:40:12.991806+00:00"
     },
     "PIT": {
       "teamId": "PIT",
@@ -19225,14 +19225,14 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:39:07.147215+00:00"
+      "updatedAt": "2026-09-11T11:40:14.481078+00:00"
     },
     "SF": {
       "teamId": "SF",
       "season": 2026,
       "salaryCap": 255.4,
-      "totalCapSpent": 1464.0,
-      "activeContracts": 53,
+      "totalCapSpent": 1439.0,
+      "activeContracts": 52,
       "deadCap": 0,
       "capSpace": 0,
       "topCapHits": [
@@ -19715,20 +19715,6 @@
         {
           "teamId": "SF",
           "season": 2026,
-          "playerName": "CollinsAlfred Collins",
-          "position": "DL",
-          "jerseyNumber": null,
-          "capHit": 25.0,
-          "baseSalary": null,
-          "signingBonusProration": null,
-          "restructureBonus": null,
-          "roster": "active",
-          "isDeadMoney": false,
-          "isTopHeavy": false
-        },
-        {
-          "teamId": "SF",
-          "season": 2026,
           "playerName": "HeightRomello Height",
           "position": "ED",
           "jerseyNumber": null,
@@ -19935,9 +19921,23 @@
           "roster": "active",
           "isDeadMoney": false,
           "isTopHeavy": false
+        },
+        {
+          "teamId": "SF",
+          "season": 2026,
+          "playerName": "HaltonGracen Halton",
+          "position": "DL",
+          "jerseyNumber": null,
+          "capHit": 22.0,
+          "baseSalary": null,
+          "signingBonusProration": null,
+          "restructureBonus": null,
+          "roster": "active",
+          "isDeadMoney": false,
+          "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:39:08.755388+00:00"
+      "updatedAt": "2026-09-11T11:40:15.958421+00:00"
     },
     "SEA": {
       "teamId": "SEA",
@@ -20649,7 +20649,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:39:10.648290+00:00"
+      "updatedAt": "2026-09-11T11:40:17.477232+00:00"
     },
     "TB": {
       "teamId": "TB",
@@ -21361,7 +21361,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:39:12.521478+00:00"
+      "updatedAt": "2026-09-11T11:40:18.950871+00:00"
     },
     "TEN": {
       "teamId": "TEN",
@@ -21949,7 +21949,7 @@
         {
           "teamId": "TEN",
           "season": 2026,
-          "playerName": "Smith Jr.Melvin Smith Jr.",
+          "playerName": "JonesJaylon Jones",
           "position": "CB",
           "jerseyNumber": null,
           "capHit": 24.0,
@@ -22073,7 +22073,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:39:14.161411+00:00"
+      "updatedAt": "2026-09-11T11:40:20.413432+00:00"
     },
     "WAS": {
       "teamId": "WAS",
@@ -22785,7 +22785,7 @@
           "isTopHeavy": false
         }
       ],
-      "updatedAt": "2026-09-10T11:39:15.813330+00:00"
+      "updatedAt": "2026-09-11T11:40:21.954183+00:00"
     }
   }
 }

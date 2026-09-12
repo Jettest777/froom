@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T23:47:29.419312+00:00",
-  "count": 111,
+  "generated_at": "2026-09-12T01:23:32.580403+00:00",
+  "count": 109,
   "items": [
     {
       "kind": "injury",
@@ -18,6 +18,134 @@
       "coach_name": null,
       "published_at": "Tue, 08 Sep 2026 15:42:33 +0000",
       "url": "https://sports.yahoo.com/fantasy/live/nfl-injury-tracker-week-1-latest-news-fantasy-implications-as-tua-tagovailoa-oblique-ruled-out-brock-bowers-knee-expected-to-miss-time-154233236.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Chiefs practice report for Friday",
+      "title_ja": null,
+      "excerpt": "The Chiefs have posted their practice report for Friday",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 12 Sep 2026 00:55:04 +0000",
+      "url": "https://sports.yahoo.com/articles/chiefs-practice-report-friday-005504026.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Vikings convert CB Isaiah Rodgers&#39;s playing-time incentives into a signing bonus",
+      "title_ja": null,
+      "excerpt": "Cornerback Isaiah Rodgers had a solid 2025 season for the Vikings.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 12 Sep 2026 00:51:53 +0000",
+      "url": "https://sports.yahoo.com/articles/vikings-convert-cb-isaiah-rodgerss-005153839.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Bills&#39; initial grass field had &quot;major deformations&quot;",
+      "title_ja": null,
+      "excerpt": "In six days, the Bills will host the first regular-season game at their new stadium.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 12 Sep 2026 00:37:44 +0000",
+      "url": "https://sports.yahoo.com/articles/bills-initial-grass-field-had-003744226.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Week 1 injury report for Giants",
+      "title_ja": null,
+      "excerpt": "The Giants have released their injury report for Week 1",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 12 Sep 2026 00:33:01 +0000",
+      "url": "https://sports.yahoo.com/articles/week-1-injury-report-giants-003301155.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Week 1 injury report for Cowboys",
+      "title_ja": null,
+      "excerpt": "The Cowboys have posted their Week 1 injury report",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 12 Sep 2026 00:25:32 +0000",
+      "url": "https://sports.yahoo.com/articles/week-1-injury-report-cowboys-002532471.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL Week 1 Bears-Panthers Predictions: Which run defense will step up?",
+      "title_ja": null,
+      "excerpt": "This feels like a lot of ground-and-pound upcoming for the Bears and Panthers. @BryanOrenchuk explores it here.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 12 Sep 2026 00:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-week-1-bears-panthers-000000284.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Week 1 injury report for Titans",
+      "title_ja": null,
+      "excerpt": "Tennessee lists two defensive players on final injury report of week",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 11 Sep 2026 23:47:51 +0000",
+      "url": "https://sports.yahoo.com/articles/week-1-injury-report-titans-234751190.html"
+    },
+    {
+      "kind": "other",
+      "title": "Packers release WR Bo Melton, intend to retain him on practice squad",
+      "title_ja": null,
+      "excerpt": "Melton’s release appears to be procedural to open up a roster spot, but the mechanics remain a bit unclear.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 11 Sep 2026 23:34:11 +0000",
+      "url": "https://sports.yahoo.com/articles/packers-release-wr-bo-melton-191843993.html"
     },
     {
       "kind": "other",
@@ -308,20 +436,20 @@
       "url": "https://sports.yahoo.com/articles/titans-postpone-chris-johnson-induction-212215882.html"
     },
     {
-      "kind": "other",
-      "title": "Titans postpone Chris Johnson induction one day after he shared ALS struggles",
+      "kind": "rumor",
+      "title": "Perry: Why A.J. Brown&#39;s high ankle sprain is ‘major concern&#39; for Patriots",
       "title_ja": null,
-      "excerpt": "The Titans announced Chris Johnson, who shared his ALS diagnosis in June, and his family are unable to travel to Nashville for his induction ceremony.",
+      "excerpt": "The loss of A.J. Brown hurts in the present but could be a future problem, too.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "TEN",
+      "team_abbrev": "NE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 21:22:15 +0000",
-      "url": "https://sports.yahoo.com/articles/titans-postpone-chris-johnson-induction-212215882.html"
+      "published_at": "Fri, 11 Sep 2026 21:10:28 +0000",
+      "url": "https://sports.yahoo.com/articles/perry-why-j-browns-high-211028451.html"
     },
     {
       "kind": "other",
@@ -340,132 +468,52 @@
       "url": "https://sports.yahoo.com/articles/myles-garrett-rebound-going-hell-210251615.html"
     },
     {
-      "kind": "other",
-      "title": "Jaguars vs. Browns: Predictions, picks, odds",
+      "kind": "signing",
+      "title": "Vikings convert CB Isaiah Rodgers's playing-time incentives into a signing bonus",
       "title_ja": null,
-      "excerpt": "You won’t believe how low Deshaun Watson’s passing projection is for Week 1.",
+      "excerpt": "Cornerback Isaiah Rodgers had a solid 2025 season for the Vikings.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CLE",
+      "team_abbrev": "MIN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 21:02:34 +0000",
-      "url": "https://sports.yahoo.com/articles/jaguars-vs-browns-predictions-picks-210234060.html"
+      "published_at": "Fri, 11 Sep 2026 20:51:53 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-convert-cb-isaiah-rodgerss-playing-time-incentives-into-a-signing-bonus"
     },
     {
       "kind": "other",
-      "title": "2026 NFL QB Rankings",
+      "title": "Where to Bet on Ryan Garcia vs. Connor Benn This Weekend",
       "title_ja": null,
-      "excerpt": "Here is the first installment of the 2026 QB Rankings. A familiar face stays at the top, but someone is nipping at his heels.",
+      "excerpt": "Where to Bet on Ryan Garcia vs. Connor Benn This Weekend.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 21:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/2026-nfl-qb-rankings-210000355.html"
+      "published_at": "Fri, 11 Sep 2026 20:48:12 -0400",
+      "url": "https://www.foxsports.com/stories/betting/where-bet-ryan-garcia-vs-connor-benn-weekend"
     },
     {
       "kind": "injury",
-      "title": "Panthers Injury Report & Transactions – Week 1",
+      "title": "Bills' initial grass field had \"major deformations\"",
       "title_ja": null,
-      "excerpt": "Let’s take a look at the Panthers key roster moves and the injury report heading into this week’s matchup.",
+      "excerpt": "In six days, the Bills will host the first regular-season game at their new stadium.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 21:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/panthers-injury-report-transactions-week-210000436.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Vikings-Packers Final Injury Report",
-      "title_ja": null,
-      "excerpt": "The Minnesota Vikings and Green Bay Packers released their injury final reports, along with injury designations, after Friday’s practice in advance of their Sunday afternoon matchup at US Bank Stadium. Here they are. Minnesota Vikings Green Bay Packers Injury Report Terms and Glossary Injury designa",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 20:55:32 +0000",
-      "url": "https://sports.yahoo.com/articles/vikings-packers-final-injury-report-205532952.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Cowboys RB Malik Davis will miss time with a &quot;pretty serious&quot; hip injury",
-      "title_ja": null,
-      "excerpt": "The Cowboys have ruled out running back Malik Davis for Sunday&#39;s season opener, and they are bracing for him to miss significant time.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 20:54:36 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-rb-malik-davis-miss-205436847.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Chiefs list Chris Jones as limited with a calf injury",
-      "title_ja": null,
-      "excerpt": "Defensive lineman Chris Jones was added to the Chiefs&#39; injury report on Friday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "KC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 20:54:22 +0000",
-      "url": "https://sports.yahoo.com/articles/chiefs-list-chris-jones-limited-205422732.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Bold predictions for Buffalo Bills at Houston Texans, Week 1",
-      "title_ja": null,
-      "excerpt": "The Buffalo Bills have to bring their A-game to finally claim victory at NRG Stadium against the Houston Texans",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "BUF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 20:52:34 +0000",
-      "url": "https://sports.yahoo.com/articles/bold-predictions-buffalo-bills-houston-205234753.html"
-    },
-    {
-      "kind": "other",
-      "title": "Titans postponing Chris Johnson&#39;s Ring of Honor induction ceremony since former RB, family unable to travel for opener",
-      "title_ja": null,
-      "excerpt": "Johnson is battling ALS, a diagnosis he revealed in June.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 20:25:50 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/titans-postponing-chris-johnsons-ring-of-honor-induction-ceremony-since-former-rb-family-unable-to-travel-for-opener-202550258.html"
+      "published_at": "Fri, 11 Sep 2026 20:37:44 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-initial-grass-field-had-major-deformations"
     },
     {
       "kind": "signing",
@@ -620,7 +668,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "KC",
       "player_name": null,
       "coach_name": null,
@@ -1092,22 +1140,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-cooper-rush-knows-how-to-prepare"
     },
     {
-      "kind": "other",
-      "title": "Matt LaFleur defends Josh Jacobs: \"I know the character of the guy\"",
-      "title_ja": null,
-      "excerpt": "Packers running back Josh Jacobs will miss the first game of the season, and likely at least five more, after pleading no contest to misdemeanor charges of battery and criminal damage to property.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 14:07:11 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-defends-josh-jacobs-i-know-the-character-of-the-guy"
-    },
-    {
       "kind": "signing",
       "title": "Falcons Name Cooper Rush Week 1 QB; Tua Tagovailoa Has Oblique Issue",
       "title_ja": null,
@@ -1122,22 +1154,6 @@
       "coach_name": null,
       "published_at": "Fri, 11 Sep 2026 14:01:01 -0400",
       "url": "https://www.foxsports.com/stories/nfl/tua-tagovailoa-injury-falcons-quarterbacks-cooper-rush"
-    },
-    {
-      "kind": "other",
-      "title": "Jeremiyah Love \"trending well\" to play Sunday",
-      "title_ja": null,
-      "excerpt": "The chances of Cardinals running back Jeremiyah Love making his NFL debut against the Chargers on Sunday are looking pretty strong.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 13:55:51 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiyah-love-trending-well-to-play-sunday"
     },
     {
       "kind": "rumor",
@@ -1252,68 +1268,20 @@
       "url": "https://www.foxsports.com/stories/nfl/myles-garrett-postgame-quotes-49ers-rams-australia-game"
     },
     {
-      "kind": "other",
-      "title": "2026 World Series Odds: Dodgers, Brewers Remain Favored",
-      "title_ja": null,
-      "excerpt": "Check out the latest World Series odds, as the Dodgers remain favored with the regular season hurling toward its end.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 10:22:23 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/2026-world-series-odds"
-    },
-    {
-      "kind": "other",
-      "title": "Rams Coach Sean McVay Brutally Honest About 'Humbling' Loss To 49ers",
-      "title_ja": null,
-      "excerpt": "Los Angeles Rams head coach Sean McVay called the team's Week 1 loss to the San Francisco 49ers \"a humbling day.\"",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 10:14:00 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/sean-mcvay-postgame-quotes-49ers-rams-australia-game"
-    },
-    {
-      "kind": "other",
-      "title": "2026 NFL DPOY Odds: Myles Garrett Favored To Repeat",
-      "title_ja": null,
-      "excerpt": "Check out how the latest odds to win the 2026 NFL Defensive Player of the Year award.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 11 Sep 2026 10:08:21 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds"
-    },
-    {
       "kind": "injury",
-      "title": "Patriots' A.J. Brown believed to have suffered high ankle sprain, expected to miss four weeks",
+      "title": "NFL Week 1 injuries: Giants' Malik Nabers, Bears' Rome Odunze listed as questionable",
       "title_ja": null,
-      "excerpt": "Brown will have an MRI today to determine the severity of the injury",
+      "excerpt": "Malik Nabers and Rome Odunze are questionable for the season opener, while Cameron Jordan is ruled out and Jonathon Brooks is cleared to return for the Panthers",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NE",
+      "team_abbrev": "CAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 10 Sep 2026 23:58:23 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/patriots-a-j-brown-injures-ankle-ruled-out/"
+      "published_at": "\n                        Fri, 11 Sep 2026 23:50:55 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-injuries-tracker-rome-odunze-alvin-kamara/"
     },
     {
       "kind": "other",

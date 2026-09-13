@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T14:34:53.913771+00:00",
+  "generated_at": "2026-09-13T14:46:19.696303+00:00",
   "count": 113,
   "items": [
     {
@@ -37,22 +37,6 @@
     },
     {
       "kind": "other",
-      "title": "2026 Fantasy Football Full-PPR Rankings: Week 1 FLEX options from Justin Boone",
-      "title_ja": null,
-      "excerpt": "Here&#39;s a look at Justin Boone&#39;s FLEX rankings for fantasy football Week 1 of the 2026 NFL season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 08 Sep 2026 17:07:35 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-flex-rankings-full-ppr-nfl-week-1-justin-boone-start-sit-advice-170735946.html"
-    },
-    {
-      "kind": "other",
       "title": "NFL Week 1: How to watch every football game this week during the 2026 season",
       "title_ja": null,
       "excerpt": "How you can keep up with every NFL game, from the season opener to the 2027 Super Bowl.",
@@ -85,19 +69,35 @@
     },
     {
       "kind": "other",
-      "title": "2026 NFL season preview, betting, odds: 1 bet I like for every NFC team",
+      "title": "Raiders News: Raiders elevated TE Chris Myarick and WR Cody White from the practice squad.",
       "title_ja": null,
-      "excerpt": "Matt Russell gives a wager he likes for all 16 NFC teams heading into the upcoming season.",
+      "excerpt": "The Las Vegas Raiders elevated two players from the practice squad to help out on Sunday",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "LV",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 03 Sep 2026 17:58:38 +0000",
-      "url": "https://sports.yahoo.com/nfl/betting/article/2026-nfl-season-preview-betting-odds-1-bet-i-like-for-every-nfc-team-175838964.html"
+      "published_at": "Sun, 13 Sep 2026 14:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/raiders-news-raiders-elevated-te-143000097.html"
+    },
+    {
+      "kind": "injury",
+      "title": "How long is Sam Darnold out? Return date, injury update for Seahawks QB",
+      "title_ja": null,
+      "excerpt": "The Seattle Seahawks passer is out with an injury he suffered in Week 1 vs. the New England Patriots. How long is he out?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sun, 13 Sep 2026 14:29:20 +0000",
+      "url": "https://sports.yahoo.com/articles/long-sam-darnold-return-date-142920199.html"
     },
     {
       "kind": "injury",
@@ -1332,6 +1332,22 @@
       "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-start-em-sit-em-week-1-lineup-picks-from-justin-boone-142129166.html"
     },
     {
+      "kind": "rumor",
+      "title": "Rams pursued Maxx Crosby after failed Ravens blockbuster, but EDGE chose to stay with Raiders, per report",
+      "title_ja": null,
+      "excerpt": "L.A. checked in on possibly landing the Raiders' star pass rusher",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Sun, 13 Sep 2026 14:32:16 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/rams-pursued-maxx-crosby-trade-raiders/"
+    },
+    {
       "kind": "other",
       "title": "Week 1 NFL odds, picks, predictions: Computer model backs Eagles and Jaguars",
       "title_ja": null,
@@ -1794,22 +1810,6 @@
       "coach_name": null,
       "published_at": "\n                        Fri, 11 Sep 2026 18:04:36 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/jayden-daniels-c-j-stroud-quarterbacks-at-crossroads-2026-nfl-season/"
-    },
-    {
-      "kind": "other",
-      "title": "Week 1 2026 bold predictions: Can Josh Allen finally overcome his Houston woes?",
-      "title_ja": null,
-      "excerpt": "Four bold predictions to start the NFL season, from Josh Allen ending his Texans' losing streak to Trey Hendrickson's sack-heavy debut",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "HOU",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Fri, 11 Sep 2026 17:51:53 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/week-1-2026-bold-predictions-tua-tagovailoa-aaron-rodgers/"
     }
   ]
 }

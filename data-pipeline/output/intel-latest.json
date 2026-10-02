@@ -1,8 +1,24 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T10:56:33.287738+00:00",
-  "count": 108,
+  "generated_at": "2026-10-02T16:27:36.603574+00:00",
+  "count": 113,
   "items": [
+    {
+      "kind": "presser",
+      "title": "Drake Maye: I love playing for Mike Vrabel, that's not going to change",
+      "title_ja": null,
+      "excerpt": "Patriots head coach Mike Vrabel dismissed a report that he has issues with quarterback Drake Maye during a Wednesday press conference by saying that coaching Maye is the reason he's in New England and Maye got his chance to comment on it later in the day.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 30 Sep 2026 18:26:36 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-i-love-playing-for-mike-vrabel-thats-not-going-to-change"
+    },
     {
       "kind": "other",
       "title": "Thursday Night Football: Deshaun Watson leads Browns to 27-24 win over Steelers",
@@ -12,7 +28,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "CLE",
       "player_name": null,
       "coach_name": null,
@@ -68,86 +84,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-second-td-draws-steelers-to-within-21-16"
     },
     {
-      "kind": "other",
-      "title": "Nick Saban says he was offered Giants job in 1997",
-      "title_ja": null,
-      "excerpt": "Nick Saban's two-year stint as an NFL head coach began in 2005.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 22:55:57 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-saban-says-he-was-offered-giants-job-in-1997"
-    },
-    {
-      "kind": "other",
-      "title": "Deshaun Watson rallies Browns to a field goal in final seconds to beat the Steelers",
-      "title_ja": null,
-      "excerpt": "The Steelers rallied after a bad first half against the Browns.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 22:30:00 +0000",
-      "url": "https://sports.yahoo.com/nfl/live/steelers-browns-score-live-updates-inactives-highlights-stats-where-to-watch-week-4-thursday-night-football-224500412.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Puka Nacua is \"taking it one day at a time\" in his return from hip injury",
-      "title_ja": null,
-      "excerpt": "Rams receiver Puka Nacua has missed the last two games with a hip injury.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 22:16:58 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-is-taking-it-one-day-at-a-time-in-his-return-from-hip-injury"
-    },
-    {
-      "kind": "injury",
-      "title": "Mike Hall questionable with an ankle injury; Mason Graham ruled out",
-      "title_ja": null,
-      "excerpt": "Browns defensive tackle Mike Hall, who replaced the injured Mason Graham in the first quarter, left late in the second quarter.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 22:12:25 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-hall-questionable-with-an-ankle-injury-mason-graham-ruled-out"
-    },
-    {
-      "kind": "other",
-      "title": "Thursday Night Football: Deshaun Watson, Browns lead Steelers 21-10 at halftime",
-      "title_ja": null,
-      "excerpt": "The Browns quarterback is 14-of-17 for 181 yards and a touchdown.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 21:57:07 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-deshaun-watson-browns-lead-steelers-21-10-at-halftime"
-    },
-    {
       "kind": "injury",
       "title": "Steelers DE Derrick Harmon carted with foot injury",
       "title_ja": null,
@@ -180,86 +116,6 @@
       "url": "https://www.foxsports.com/stories/college-football/hank-brown-iowa-auburn-michigan-upset"
     },
     {
-      "kind": "other",
-      "title": "Quinshon Judkins gives Browns 14-7 lead",
-      "title_ja": null,
-      "excerpt": "The Browns have taken a 14-7 lead on the Steelers.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 21:20:14 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quinshon-judkins-gives-browns-14-7-lead"
-    },
-    {
-      "kind": "other",
-      "title": "Fantasy Football Rankings: Hayden Winks&#39; WR Blueprint for Week 4",
-      "title_ja": null,
-      "excerpt": "Fantasy football analyst Hayden Winks reveals the blueprint to the WR position in Week 4.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 21:17:24 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-wr-blueprint-for-week-4-211724629.html"
-    },
-    {
-      "kind": "other",
-      "title": "Browns convert Aaron Rodgers' INT into TD",
-      "title_ja": null,
-      "excerpt": "Browns defensive end Sam Williams hit Steelers quarterback Aaron Rodgers' arm, forcing an errant throw toward Michael Pittman.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 21:09:37 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-convert-aaron-rodgers-int-into-td"
-    },
-    {
-      "kind": "other",
-      "title": "Josh McDaniels: Drake Maye doesn't have an issue with confidence or \"yips\"",
-      "title_ja": null,
-      "excerpt": "The focus of the moment in New England is the stunning regression of quarterback Drake Maye.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 20:48:05 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-mcdaniels-drake-maye-doesnt-have-an-issue-with-confidence-or-yips"
-    },
-    {
-      "kind": "injury",
-      "title": "Browns DL Mason Graham questionable to return with knee injury",
-      "title_ja": null,
-      "excerpt": "The second-round player has four sacks this season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 20:47:42 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-dl-mason-graham-questionable-to-return-with-knee-injury"
-    },
-    {
       "kind": "injury",
       "title": "Last Man Standing: Which 3-0 Team Will Be The NFL's Last Undefeated?",
       "title_ja": null,
@@ -274,22 +130,6 @@
       "coach_name": null,
       "published_at": "Thu, 01 Oct 2026 20:45:05 -0400",
       "url": "https://www.foxsports.com/stories/nfl/chiefs-bills-49ers-raiders-vikings-nfl-last-undefeated-team"
-    },
-    {
-      "kind": "injury",
-      "title": "RB Jadarian Price did not practice; RB Zach Charbonnet limited in his return",
-      "title_ja": null,
-      "excerpt": "Seahawks running back Jadarian Price was downgraded to out of practice Thursday, missing the session with a chest injury.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 20:22:05 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-jadarian-price-did-not-practice-rb-zach-charbonnet-limited-in-his-return"
     },
     {
       "kind": "other",
@@ -338,6 +178,22 @@
       "coach_name": null,
       "published_at": "Thu, 01 Oct 2026 19:51:59 -0400",
       "url": "https://www.foxsports.com/stories/betting/bet365-bonus-code-fox365-unlocks-200-bonus-bets-win-lose-thursday-night-football"
+    },
+    {
+      "kind": "other",
+      "title": "Fantasy Football Week 4 Toolkit: Rankings, sleepers, start/sit advice and more",
+      "title_ja": null,
+      "excerpt": "Here you&#39;ll find all our Week 4 fantasy football content, from rankings to analysis, buzzy conversations and more.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 01 Oct 2026 19:39:12 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-4-toolkit-rankings-sleepers-startsit-advice-and-more-193912465.html"
     },
     {
       "kind": "other",
@@ -404,22 +260,6 @@
       "url": "https://www.foxsports.com/stories/mlb/2026-mlb-nlds-brewers-padres-odds"
     },
     {
-      "kind": "injury",
-      "title": "Aaron Donald remains out of practice; Puka Nacua still limited",
-      "title_ja": null,
-      "excerpt": "The Rams' injury report remained the same as on Wednesday aside from wide receiver Davante Adams returning from a rest day and nose tackle Poona Ford taking a rest day.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 19:09:49 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-remains-out-of-practice-puka-nacua-still-limited"
-    },
-    {
       "kind": "other",
       "title": "2026 College Football Week 5: Best Games To Watch This Weekend",
       "title_ja": null,
@@ -434,54 +274,6 @@
       "coach_name": null,
       "published_at": "Thu, 01 Oct 2026 19:02:04 -0400",
       "url": "https://www.foxsports.com/stories/college-football/2026-college-football-week-5-best-games-watch-weekend"
-    },
-    {
-      "kind": "other",
-      "title": "Thursday Night Football: Steelers CB Jalen Ramsey is active vs. Browns",
-      "title_ja": null,
-      "excerpt": "Steelers cornerback Jalen Ramsey is active for Thursday Night Football.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 18:59:37 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-steelers-cb-jalen-ramsey-is-active-vs-browns"
-    },
-    {
-      "kind": "other",
-      "title": "49ers LT Trent Williams returns to limited participation Thursday",
-      "title_ja": null,
-      "excerpt": "49ers left tackle Trent Williams returned to practice Thursday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 18:48:19 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-lt-trent-williams-returns-to-limited-participation-thursday"
-    },
-    {
-      "kind": "injury",
-      "title": "WR DeVonta Smith, LB Zack Baun remain out of practice",
-      "title_ja": null,
-      "excerpt": "Eagles linebacker Zack Baun (concussion) and wide receiver DeVonta Smith (hamstring) remained out of Thursday's practice.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 18:26:34 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-devonta-smith-lb-zack-baun-remain-out-of-practice"
     },
     {
       "kind": "other",
@@ -580,202 +372,234 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-im-not-living-in-hope-im-living-in-reality-about-our-offense"
     },
     {
-      "kind": "trade",
-      "title": "Joey Porter Jr. felt \"disrespected\" and \"underappreciated\" by Steelers",
+      "kind": "injury",
+      "title": "Roger Goodell met with Gov. JB Pritzker, Illinois lawmakers about Bears stadium on Thursday",
       "title_ja": null,
-      "excerpt": "Cornerback Joey Porter Jr. was at the movies, watching Brad Pitt's Heart of the Beast, on Wednesday night when he received news that the Steelers had traded him to the Cowboys.",
+      "excerpt": "Publicly, the Bears have said their \"sole focus\" for the site of their new stadium site is Hammond, Ind.",
       "excerpt_ja": null,
       "sources": [
         "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DAL",
+      "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 17:13:32 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-felt-disrespected-and-underappreciated-by-steelers"
-    },
-    {
-      "kind": "other",
-      "title": "Bucs get Chris Godwin, Yaya Diaby back at practice",
-      "title_ja": null,
-      "excerpt": "Buccaneers wide receiver Chris Godwin returned to practice on Thursday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 16:57:25 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-get-chris-godwin-yaya-diaby-back-at-practice"
+      "published_at": "Thu, 01 Oct 2026 16:17:03 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-met-with-gov-jb-pritzker-illinois-lawmakers-about-bears-stadium-on-thursday"
     },
     {
       "kind": "injury",
-      "title": "Keon Coleman returns to practice as limited participant on Thursday",
+      "title": "NFL injury tracker Week 4: Latest news, fantasy implications as Puka Nacua (hip) is expected to return, Justin Jefferson (ankle) misses practice, Jayden Daniels (elbow) ruled out",
       "title_ja": null,
-      "excerpt": "The Bills got one of their key offensive players back on the field on Thursday.",
+      "excerpt": "Here&#39;s everything you need to know injury-wise for Week 4 of the NFL season.",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 28 Sep 2026 15:18:29 +0000",
+      "url": "https://sports.yahoo.com/fantasy/live/nfl-injury-tracker-week-4-latest-news-fantasy-implications-as-puka-nacua-hip-is-expected-to-return-justin-jefferson-ankle-misses-practice-jayden-daniels-elbow-ruled-out-151829331.html"
+    },
+    {
+      "kind": "other",
+      "title": "CBS and Tony Romo mutually part ways more than two months after Romo&#39;s OWI arrest",
+      "title_ja": null,
+      "excerpt": "Romo was pulled over and charged with OWI on July 23.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 16:11:38 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/cbs-and-tony-romo-mutually-part-ways-more-than-two-months-after-romos-owi-arrest-161138328.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Week 4 NFL odds, picks, predictions: Best bets for the weekend&#39;s games",
+      "title_ja": null,
+      "excerpt": "Our NFL handicappers give out their favorite bets for Week 4 games.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 16:11:16 +0000",
+      "url": "https://sports.yahoo.com/nfl/betting/article/week-4-nfl-odds-picks-predictions-best-bets-for-the-weekends-games-161116344.html"
+    },
+    {
+      "kind": "other",
+      "title": "Tony Romo out as NFL broadcaster amid CBS leave",
+      "title_ja": null,
+      "excerpt": "The Tony Romo era at CBS Sports has ended. What we know.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 16:07:41 +0000",
+      "url": "https://sports.yahoo.com/articles/tony-romo-nfl-broadcaster-amid-160741410.html"
+    },
+    {
+      "kind": "other",
+      "title": "Raiders roster 2026: The Cody White file",
+      "title_ja": null,
+      "excerpt": "Wide receiver is new to roster, but has already made an impact",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 16:01:00 +0000",
+      "url": "https://sports.yahoo.com/articles/raiders-roster-2026-cody-white-160100118.html"
+    },
+    {
+      "kind": "other",
+      "title": "What to know about Falcons – Saints on Monday Night Football",
+      "title_ja": null,
+      "excerpt": "Someone’s getting a leg up in the NFC South with a win in primetime. What do the Falcons have to do to earn it?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ATL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 16:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/know-falcons-saints-monday-night-160000155.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Packers DT Warren Brinson to miss &quot;significant time&quot; with groin injury",
+      "title_ja": null,
+      "excerpt": "Packers defensive tackle Warren Brinson missed the first three games of the season with a calf injury and he&#39;s set to miss a lot more action with a new ailment.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 15:58:29 +0000",
+      "url": "https://sports.yahoo.com/articles/packers-dt-warren-brinson-miss-155829983.html"
+    },
+    {
+      "kind": "other",
+      "title": "MTSU Preview",
+      "title_ja": null,
+      "excerpt": "Kansas returns home Saturday for the first time in three weeks, which sounds normal until you remember the Jayhawks spent part of that time traveling roughly 9,000 miles round trip to play a home conference game in London. Anyway, the Jayhawks had a week off to recover from that adventure, think abo",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 15:55:29 +0000",
+      "url": "https://sports.yahoo.com/articles/mtsu-preview-155529799.html"
+    },
+    {
+      "kind": "other",
+      "title": "No Bull Perspective: Early season woes",
+      "title_ja": null,
+      "excerpt": "The Broncos early game woes have more to do with the offensive line and running backs than Davis Webb or Bo Nix",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 15:52:34 +0000",
+      "url": "https://sports.yahoo.com/articles/no-bull-perspective-early-season-155234561.html"
+    },
+    {
+      "kind": "other",
+      "title": "Can the 49ers wear down the Broncos in 90-degree weather?",
+      "title_ja": null,
+      "excerpt": "There will be high temperatures in Santa Clara this Sunday. Can the 49ers make the Broncos pay?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 15:52:00 +0000",
+      "url": "https://sports.yahoo.com/articles/49ers-wear-down-broncos-90-155200319.html"
+    },
+    {
+      "kind": "other",
+      "title": "The Bills on the verge of having an abundance of defensive line depth",
+      "title_ja": null,
+      "excerpt": "The new-look defensive line is set to be very deep",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": "BUF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 16:51:17 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keon-coleman-returns-to-practice-as-limited-participant-on-thursday"
-    },
-    {
-      "kind": "other",
-      "title": "Christian Gonzalez, Christian Barmore remain out of practice for Patriots",
-      "title_ja": null,
-      "excerpt": "Patriots cornerback Christian Gonzalez missed his second practice of the week on Thursday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 16:49:49 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-christian-barmore-remain-out-of-practice-for-patriots"
+      "published_at": "Fri, 02 Oct 2026 15:45:00 +0000",
+      "url": "https://sports.yahoo.com/articles/bills-verge-having-abundance-defensive-154500693.html"
     },
     {
       "kind": "signing",
-      "title": "49ers sign WR Brandin Cooks to active roster",
+      "title": "Travis Kelce set to surpass Tim Brown, move into No. 7 on NFL&#39;s all-time receptions list",
       "title_ja": null,
-      "excerpt": "The 49ers signed wide receiver Brandin Cooks to the active roster from the practice squad, the team announced Thursday.",
+      "excerpt": "Chiefs tight end Travis Kelce&#39;s next catch will be a significant one for his place in NFL history.",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "SF",
+      "team_abbrev": "KC",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 16:46:50 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-wr-brandin-cooks-to-active-roster"
-    },
-    {
-      "kind": "injury",
-      "title": "Saints put Travis Etienne on injured reserve",
-      "title_ja": null,
-      "excerpt": "Saints head coach Kellen Moore said earlier this week that running back Travis Etienne would miss time with a hamstring injury and Moore revealed just how much time on Thursday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 16:41:47 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-put-travis-etienne-on-injured-reserve"
-    },
-    {
-      "kind": "injury",
-      "title": "Lamar Jackson, Zay Flowers upgraded to full participants on Thursday",
-      "title_ja": null,
-      "excerpt": "There is some positive news on the injury front for the Ravens.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 01 Oct 2026 16:35:57 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-zay-flowers-upgraded-to-full-participants-on-thursday"
+      "published_at": "Fri, 02 Oct 2026 15:43:43 +0000",
+      "url": "https://sports.yahoo.com/articles/travis-kelce-set-surpass-tim-154343375.html"
     },
     {
       "kind": "other",
-      "title": "How to watch every Sunday NFL football game during Week 4 of the 2026 season",
+      "title": "Patriots vs. Bills predictions: Will the Pats manage another upset in Buffalo?",
       "title_ja": null,
-      "excerpt": "How you can keep up with every NFL game this Sunday.",
+      "excerpt": "The Patriots are entering Week 4 as underdogs.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "BUF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Sat, 12 Sep 2026 19:30:00 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/how-to-watch-every-sunday-nfl-football-game-during-week-4-of-the-2026-season-193000003.html"
+      "published_at": "Fri, 02 Oct 2026 15:43:00 +0000",
+      "url": "https://sports.yahoo.com/articles/patriots-vs-bills-predictions-pats-154300667.html"
     },
     {
       "kind": "other",
-      "title": "Joe Burrow pushes back on ‘not clutch’ narrative",
+      "title": "Case Keenum is a nice story, but Bears should pivot to Tyson Bagent | Opinion",
       "title_ja": null,
-      "excerpt": "As if Joe Burrow needed to say this, but perhaps those who needed to hear the truth got just that.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/joe-burrow-pushes-back-not-103000507.html"
-    },
-    {
-      "kind": "trade",
-      "title": "9 Detroit Lions trade targets after missing out on Joey Porter Jr.",
-      "title_ja": null,
-      "excerpt": "Detroit Lions trade targets Brad Holmes should consider to bolster the secondary now that Joey Porter Jr. is unavailable",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/9-detroit-lions-trade-targets-103000888.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Keep the permanent ink handy: The record book could change again Sunday",
-      "title_ja": null,
-      "excerpt": "Josh Allen is one score from history, and he’s not the only Bill with a record within reach against New England.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/keep-permanent-ink-handy-record-103000411.html"
-    },
-    {
-      "kind": "other",
-      "title": "5 takeaways from the Steelers’ 27-24 loss to the Cleveland Browns",
-      "title_ja": null,
-      "excerpt": "Takeaways, overreactions and analysis from the Steelers’ Week 4 loss.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/5-takeaways-steelers-27-24-100000024.html"
-    },
-    {
-      "kind": "injury",
-      "title": "The Bear’s Den: Injury lists are always scary, this week’s is no different",
-      "title_ja": null,
-      "excerpt": "The Chicago Bears are banged up going into this weekend’s game against the New York Jets, who have injuries as well.",
+      "excerpt": "The 38-year-old third-stringer was spectacular in a win over the Eagles. But there are multiple reasons Case Keenum should return to the bench.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -784,78 +608,110 @@
       "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bear-den-injury-lists-always-100000588.html"
+      "published_at": "Fri, 02 Oct 2026 15:33:05 +0000",
+      "url": "https://sports.yahoo.com/articles/case-keenum-nice-story-bears-153305278.html"
     },
     {
       "kind": "other",
-      "title": "‘Dynamic’ Dalton Kincaid a focal point for Patriots defense this week",
+      "title": "Marcus Mariota to Start vs the Colts",
       "title_ja": null,
-      "excerpt": "The Bills tight end is in the middle of a productive season.",
+      "excerpt": "An Old foe makes his return to face the Colts for the first time since 2019. Can the Colts beat Mariota for a 6th time?",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "BUF",
+      "team_abbrev": "IND",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/dynamic-dalton-kincaid-focal-point-100000101.html"
+      "published_at": "Fri, 02 Oct 2026 15:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/marcus-mariota-start-vs-colts-153000755.html"
     },
     {
-      "kind": "other",
-      "title": "Cleveland Browns news: Who is that team in first place in the AFC North?",
+      "kind": "injury",
+      "title": "Bears vs. Jets: Keys to a Chicago victory",
       "title_ja": null,
-      "excerpt": "The latest Cleveland Browns news and notes from around the NFL in the October 2 edition of the Daily Dawg Chow.",
+      "excerpt": "The Bears will once again start a backup QB. Our crew shares their keys to a Chicago victory.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CLE",
+      "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-team-first-100000300.html"
+      "published_at": "Fri, 02 Oct 2026 15:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/bears-vs-jets-keys-chicago-153000243.html"
     },
     {
       "kind": "other",
-      "title": "Bengals News: Why Andrew Whitworth is irritated with the Bengals",
+      "title": "Browns and Steelers mismanaged the final seconds of the game",
       "title_ja": null,
-      "excerpt": "The Bengal great doesn’t hold back about the nonsense from Sunday.",
+      "excerpt": "On Sunday, the Ravens and the Cowboys provided stark examples on how to handle, and how not to handle, the final seconds of a close game in light of the current kickoff rules.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 15:24:23 +0000",
+      "url": "https://sports.yahoo.com/articles/browns-steelers-mismanaged-final-seconds-152423365.html"
+    },
+    {
+      "kind": "other",
+      "title": "Week 4 NFL betting, odds: Picks against the spread, winners for every game from a blended AI model",
+      "title_ja": null,
+      "excerpt": "We asked an AI model with four sets of NFL power ratings blended together to pick the against-the-spread winner of every Week 4 NFL game. Here are the results.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CIN",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 10:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bengals-news-why-andrew-whitworth-100000608.html"
+      "published_at": "Fri, 02 Oct 2026 15:23:53 +0000",
+      "url": "https://sports.yahoo.com/nfl/betting/article/week-4-nfl-betting-odds-picks-against-the-spread-winners-for-every-game-from-a-blended-ai-model-152353357.html"
     },
     {
-      "kind": "trade",
-      "title": "Giants&#39; John Harbaugh gets candid on &#39;shock sandwich&#39; in first season | Exclusive",
+      "kind": "other",
+      "title": "Divine Deablo, Samson Ebukam limited to start the week",
       "title_ja": null,
-      "excerpt": "The Giants traded for QB J.J McCarthy after Jaxson Dart&#39;s season-ending injury. Coach John Harbaugh addressed the possibility of McCarthy starting.",
+      "excerpt": "Samson Ebukam is working his way back.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "NYG",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 09:31:33 +0000",
-      "url": "https://sports.yahoo.com/articles/giants-john-harbaugh-gets-candid-093133995.html"
+      "published_at": "Fri, 02 Oct 2026 15:18:30 +0000",
+      "url": "https://sports.yahoo.com/articles/divine-deablo-samson-ebukam-limited-151830824.html"
     },
     {
       "kind": "other",
-      "title": "Denzel Ward: I hope Aaron Rodgers keeps throwing at me",
+      "title": "Fantasy Football Week 4 Start &#39;Em, Sit &#39;Em: Justin Boone&#39;s lineup advice",
       "title_ja": null,
-      "excerpt": "Ward intercepted Rodgers on Thursday night in the Browns&#39; 27-24 win.",
+      "excerpt": "Justin Boone helps you set those lineups for fantasy football in Week 4.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 15:13:26 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-4-start-em-sit-em-justin-boones-lineup-advice-151326832.html"
+    },
+    {
+      "kind": "other",
+      "title": "T.J. Watt: Steelers made it too easy for Browns to go downfield at the end of the game",
+      "title_ja": null,
+      "excerpt": "Steelers linebacker T.J.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -864,56 +720,536 @@
       "team_abbrev": "CLE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 09:10:53 +0000",
-      "url": "https://sports.yahoo.com/articles/denzel-ward-hope-aaron-rodgers-091053584.html"
+      "published_at": "Fri, 02 Oct 2026 15:09:21 +0000",
+      "url": "https://sports.yahoo.com/articles/t-j-watt-steelers-made-150921107.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Breece Hall, Adonai Mitchell among Jets ruled out for Week 4 vs. Bears",
+      "title_ja": null,
+      "excerpt": "The Jets will be shorthanded when they play the Bears on Sunday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 15:09:21 +0000",
+      "url": "https://sports.yahoo.com/articles/breece-hall-adonai-mitchell-among-150921061.html"
     },
     {
       "kind": "other",
-      "title": "Patriots vs. Bills weather forecast for NFL Week 4",
+      "title": "Raiders-Chiefs Week 4: 5 things to watch",
       "title_ja": null,
-      "excerpt": "Up-to-date weather forecast for this Sunday’s game between the Patriots and Bills.",
+      "excerpt": "Can the Raiders pull off another upset to improve to 4-0?",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "BUF",
+      "team_abbrev": "KC",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 09:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/patriots-vs-bills-weather-forecast-090000641.html"
+      "published_at": "Fri, 02 Oct 2026 15:06:00 +0000",
+      "url": "https://sports.yahoo.com/articles/raiders-chiefs-week-4-5-150600604.html"
     },
     {
       "kind": "other",
-      "title": "Golden Nuggets: Dante Pettis redemption game loading?",
+      "title": "Fantasy Football Matchups to Exploit in Week 4",
       "title_ja": null,
-      "excerpt": "Your daily San Francisco 49ers news for Friday, October 2nd, 2026",
+      "excerpt": "Fantasy football analyst Ray Garvin breaks down key matchups in Week 4.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "SF",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 09:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/golden-nuggets-dante-pettis-redemption-090000782.html"
+      "published_at": "Fri, 02 Oct 2026 15:05:13 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-matchups-to-exploit-in-week-4-150513873.html"
     },
     {
-      "kind": "other",
-      "title": "Browns survive late comeback to defeat Steelers",
+      "kind": "injury",
+      "title": "Jets Week 4 Injury Updates: Breece Hall, AD Mitchell among five players ruled out",
       "title_ja": null,
-      "excerpt": "Andre Szmyt kicks a match-winning 56-yard field goal with 10 seconds remaining as the Cleveland Browns survive a Pittsburgh Steelers comeback.",
+      "excerpt": "Jets head coach Aaron Glenn provided injury updates for Week 4 at Friday&#39;s practice.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 15:05:00 +0000",
+      "url": "https://sports.yahoo.com/articles/jets-week-4-injury-updates-150500242.html"
+    },
+    {
+      "kind": "other",
+      "title": "Seahawks vs. Chargers, Week 4 preview: Can Seattle get back on track at home?",
+      "title_ja": null,
+      "excerpt": "The Seahawks return home for a stretch of five games at Lumen Field over six weeks, starting with Jim Harbaugh’s 0-3 Chargers.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/seahawks-vs-chargers-week-4-150000442.html"
+    },
+    {
+      "kind": "other",
+      "title": "The Deshaun Watson rehabilitation campaign is alive and disgusting",
+      "title_ja": null,
+      "excerpt": "Deshaun Watson allegedly assaulting 27 women isn&#39;t &#39;adversity.’",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 14:53:16 +0000",
+      "url": "https://sports.yahoo.com/articles/deshaun-watson-rehabilitation-campaign-alive-145316993.html"
+    },
+    {
+      "kind": "other",
+      "title": "Fantasy Football: Is Week 4 the last hope for these four polarizing players?",
+      "title_ja": null,
+      "excerpt": "Fantasy football analyst Chris Allen highlights four players who will be under the microscope in Week 4.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 14:48:55 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-is-week-4-the-last-hope-for-these-four-polarizing-players-144855192.html"
+    },
+    {
+      "kind": "other",
+      "title": "Fantasy Football Week 4 Fades: 3 players from Seahawks-Chargers may be worth benching",
+      "title_ja": null,
+      "excerpt": "Matt Okada goes over players to avoid for fantasy football in Week 4.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 14:42:29 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-4-fades-3-players-from-seahawks-chargers-may-be-worth-benching-144229281.html"
+    },
+    {
+      "kind": "presser",
+      "title": "Rams waive returner Xavier Smith",
+      "title_ja": null,
+      "excerpt": "Earlier this week, Rams special teams coordinator Bubba Ventrone told reporters that the team was not considering making a change at punt returner.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 12:22:10 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-waive-returner-xavier-smith"
+    },
+    {
+      "kind": "other",
+      "title": "Christian Parker expresses regret at play call at end of loss to Ravens",
+      "title_ja": null,
+      "excerpt": "Christian Parker is a first-time defensive coordinator who was charged with fixing a unit that allowed the most points in the NFL last season.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 12:10:21 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-parker-expresses-regret-at-play-call-at-end-of-loss-to-ravens"
+    },
+    {
+      "kind": "trade",
+      "title": "Dan Campbell: We were \"very much in on\" Joey Porter Jr.",
+      "title_ja": null,
+      "excerpt": "Prior to Wednesday's trade sending cornerback Joey Porter Jr. from the Steelers to the Cowboys, there were reports of interest in Porter from other teams as well.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 12:08:07 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-we-were-very-much-in-on-joey-porter-jr"
+    },
+    {
+      "kind": "signing",
+      "title": "Packers DT Warren Brinson to miss \"significant time\" with groin injury",
+      "title_ja": null,
+      "excerpt": "Packers defensive tackle Warren Brinson missed the first three games of the season with a calf injury and he's set to miss a lot more action with a new ailment.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 11:58:29 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-dt-warren-brinson-to-miss-significant-time-with-groin-injury"
+    },
+    {
+      "kind": "signing",
+      "title": "Travis Kelce set to surpass Tim Brown, move into No. 7 on NFL's all-time receptions list",
+      "title_ja": null,
+      "excerpt": "Chiefs tight end Travis Kelce's next catch will be a significant one for his place in NFL history.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 11:43:43 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-set-to-surpass-tim-brown-move-into-no-7-on-nfls-all-time-receptions-list"
+    },
+    {
+      "kind": "injury",
+      "title": "Todd Monken on Mason Graham: Hopefully we get good news",
+      "title_ja": null,
+      "excerpt": "Browns defensive tackle Mason Graham had to exit Thursday’s victory over the Steelers with a knee injury.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "CLE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 06:56:49 +0000",
-      "url": "https://sports.yahoo.com/articles/browns-survive-comeback-defeat-steelers-065649433.html"
+      "published_at": "Fri, 02 Oct 2026 11:28:33 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-on-mason-graham-hopefully-we-get-good-news"
+    },
+    {
+      "kind": "injury",
+      "title": "NFLPA names Mack Hollins their Community MVP for Week 4",
+      "title_ja": null,
+      "excerpt": "The NFL Players Association announced on Friday that Patriots wide receiver Mack Hollins has been named their Community MVP for Week 4 of the 2026 season.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 11:27:35 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-names-mack-hollins-their-community-mvp-for-week-4"
+    },
+    {
+      "kind": "other",
+      "title": "Browns and Steelers mismanaged the final seconds of the game",
+      "title_ja": null,
+      "excerpt": "On Sunday, the Ravens and the Cowboys provided stark examples on how to handle, and how not to handle, the final seconds of a close game in light of the current kickoff rules.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 11:24:23 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-and-steelers-mismanaged-the-final-seconds-of-the-game"
+    },
+    {
+      "kind": "other",
+      "title": "T.J. Watt: Steelers made it too easy for Browns to go downfield at the end of the game",
+      "title_ja": null,
+      "excerpt": "Steelers linebacker T.J.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 11:09:21 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/t-j-watt-steelers-made-it-too-easy-for-browns-to-go-downfield-at-the-end-of-the-game"
+    },
+    {
+      "kind": "injury",
+      "title": "Breece Hall, Adonai Mitchell among Jets ruled out for Week 4 vs. Bears",
+      "title_ja": null,
+      "excerpt": "The Jets will be shorthanded when they play the Bears on Sunday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 11:09:21 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breece-hall-adonai-mitchell-among-jets-ruled-out-for-week-4-vs-bears"
+    },
+    {
+      "kind": "other",
+      "title": "Jared Verse Explains Why This Isn't The 'Old Browns,' Calls Steelers 'Dirty'",
+      "title_ja": null,
+      "excerpt": "Cleveland defensive end Jared Verse explained how this isn't the same \"old Browns\" and elaborated on why the Steelers are \"dirty.\"",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 10:59:17 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/jared-verse-steelers-dirty-browns-records"
+    },
+    {
+      "kind": "trade",
+      "title": "Mike McCarthy doesn't know whether the Joey Porter Jr. trade affected the team",
+      "title_ja": null,
+      "excerpt": "The Steelers traded cornerback Joey Porter Jr. to the Cowboys less than 24 hours before their Week 4 game at Cleveland.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 10:17:25 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mccarthy-doesnt-know-whether-the-joey-porter-jr-trade-affected-the-team"
+    },
+    {
+      "kind": "signing",
+      "title": "Jalen Ramsey on Joey Porter Jr.: Unfortunate it didn't work out, but I'm happy for him",
+      "title_ja": null,
+      "excerpt": "After a long, drawn out negotiation, the Steelers dealt cornerback Joey Porter Jr. to the Cowboys on Wednesday night.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 10:15:46 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-ramsey-on-joey-porter-jr-unfortunate-it-didnt-work-out-but-im-happy-for-him"
+    },
+    {
+      "kind": "injury",
+      "title": "Steelers HC Mike McCarthy Explains He, Aaron Rodgers Cursing At Each Other",
+      "title_ja": null,
+      "excerpt": "Steelers coach Mike McCarthy provided context to the broadcast of their Week 2 loss to the Browns showing he and Aaron Rodgers cursing at each other.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 09:54:44 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/aaron-rodgers-mike-mccarthy-video-steelers-browns"
+    },
+    {
+      "kind": "signing",
+      "title": "Signs point to Tyson Bagent for the Bears on Sunday",
+      "title_ja": null,
+      "excerpt": "As Bears coach Ben Johnson prepares for a reunion with fellow former Lions coordinator Aaron Glenn, Johnson is doing his best to keep Glenn and the Jets in the dark about who the starting quarterback will be.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 09:51:10 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/signs-point-to-tyson-bagent-for-the-bears-on-sunday"
+    },
+    {
+      "kind": "other",
+      "title": "Jared Verse after beating Steelers: I don't have respect for anybody who plays dirty",
+      "title_ja": null,
+      "excerpt": "Browns defensive end Jared Verse picked up an unnecessary roughness flag in Thursday night's win over the Steelers, but he says it was Pittsburgh that played dirty.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 09:47:44 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-verse-after-beating-steelers-i-dont-have-respect-for-anybody-who-plays-dirty"
+    },
+    {
+      "kind": "other",
+      "title": "Jayden Daniels out this week, Marcus Mariota starts again",
+      "title_ja": null,
+      "excerpt": "Daniels returned to practice this week, but he won't play against the Colts.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 09:40:22 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-out-this-week-marcus-mariota-starts-again"
+    },
+    {
+      "kind": "trade",
+      "title": "Brian Schottenheimer: Great start for Joey Porter Jr., we'll see about Sunday",
+      "title_ja": null,
+      "excerpt": "Cornerback Joey Porter Jr. was traded to the Cowboys late on Wednesday night and went through his first practice with the team on Thursday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 09:32:17 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-great-start-for-joey-porter-jr-well-see-about-sunday"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Penn State vs. Northwestern: TV Channel, Live Stream, Time",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 5 Penn State Nittany Lions and Northwestern Wildcats game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 09:25:35 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-penn-state-vs-northwestern-tv-channel-live-stream-time-oct-2-2026"
+    },
+    {
+      "kind": "injury",
+      "title": "Falcons announce death of Ring of Honor member Jeff Van Note",
+      "title_ja": null,
+      "excerpt": "The Falcons announced on Friday that their longtime center Jeff Van Note has died at the age of 80.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ATL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 09:13:37 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-announce-death-of-ring-of-honor-member-jeff-van-note"
+    },
+    {
+      "kind": "other",
+      "title": "Penn State vs. Northwestern Prediction, Odds, Pick For College Football Week 5",
+      "title_ja": null,
+      "excerpt": "Get the latest odds, prediction and pick for the Week 5 Penn State vs. Northwestern game, as well as information on how to watch.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 08:00:07 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/penn-state-vs-northwestern-prediction-odds-pick-college-football-week-5"
+    },
+    {
+      "kind": "injury",
+      "title": "Mason Graham left Thursday's game on crutches and wearing a knee brace",
+      "title_ja": null,
+      "excerpt": "One of the only negative developments for the Browns on Thursday night was the left knee injury that knocked defensive tackle Mason Graham out of the game.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 07:59:27 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mason-graham-left-thursdays-game-on-crutches-and-wearing-a-knee-brace"
+    },
+    {
+      "kind": "signing",
+      "title": "Darren Rizzi: Special teams coaches want NFL to change rule for holders on kickoffs",
+      "title_ja": null,
+      "excerpt": "Broncos special teams coach Darren Rizzi says his colleagues around the league almost all agree that holders should be allowed on kickoffs only if the wind is blowing the ball off the tee, and not to give the kicking team an advantage by placing the ball at an unusual angle.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 07:31:43 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/darren-rizzi-special-teams-coaches-want-nfl-to-change-rule-for-holders-on-kickoffs"
+    },
+    {
+      "kind": "other",
+      "title": "Kalen DeBoer Is Unreal vs. Top-25 Teams On The Road — But Ryan Day Isn't Far Behind",
+      "title_ja": null,
+      "excerpt": "Kalen DeBoer leads an impressive group of coaches when it comes to beating ranked teams on the road.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 07:00:14 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/kalen-deboer-alabama-mississippi-state-ryan-day-ohio-state-ranked-team-road-games"
+    },
+    {
+      "kind": "other",
+      "title": "Deshaun Watson: Momentum shifts are part of the NFL, you have to ride the waves",
+      "title_ja": null,
+      "excerpt": "When Thursday night's game got to halftime, it looked like the Browns might roll over the Steelers for an easy win.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Fri, 02 Oct 2026 06:57:46 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-momentum-shifts-are-part-of-the-nfl-you-have-to-ride-the-waves"
     },
     {
       "kind": "other",
@@ -932,70 +1268,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-week-1-was-tough-our-guys-trusted-the-process"
     },
     {
-      "kind": "injury",
-      "title": "Rams Week 4 injury report: Terrance Ferguson expected to miss Sunday’s game",
-      "title_ja": null,
-      "excerpt": "Aaron Donald is questionable to play in Week 4",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 05:50:42 +0000",
-      "url": "https://sports.yahoo.com/articles/rams-week-4-injury-report-055042189.html"
-    },
-    {
-      "kind": "other",
-      "title": "Stop piling on Drake Maye. A deep dive look at his struggles, what&#39;s failing around him and why Patriots should believe he&#39;ll bounce back",
-      "title_ja": null,
-      "excerpt": "Maye and the rest of the Patriots organization have to start rebuilding the floor before it starts sinking even further.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 05:23:55 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/stop-piling-on-drake-maye-a-deep-dive-look-at-his-struggles-whats-failing-around-him-and-why-patriots-should-believe-hell-bounce-back-052355810.html"
-    },
-    {
-      "kind": "other",
-      "title": "Denzel Ward: I hope Aaron Rodgers keeps throwing at me",
-      "title_ja": null,
-      "excerpt": "Ward intercepted Rodgers on Thursday night in the Browns' 27-24 win.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 05:10:53 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/denzel-ward-i-hope-aaron-rodgers-keeps-throwing-at-me"
-    },
-    {
-      "kind": "injury",
-      "title": "Giants rookie Colton Hood ‘baptized by fire’ by intense NFL initiation",
-      "title_ja": null,
-      "excerpt": "The Giants’ plan to slowly integrate their highly touted second-round rookie cornerback was derailed by injury one week into the season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 05:04:53 +0000",
-      "url": "https://sports.yahoo.com/articles/giants-rookie-colton-hood-baptized-050453694.html"
-    },
-    {
       "kind": "other",
       "title": "2026 MLB Divisional Series Odds: What To Know About Each Matchup",
       "title_ja": null,
@@ -1012,22 +1284,6 @@
       "url": "https://www.foxsports.com/stories/mlb/2026-mlb-divisional-series-odds-what-know-about-each-matchup"
     },
     {
-      "kind": "other",
-      "title": "Tom Brady thinks the Raiders are a Top 5 team in the NFL right now",
-      "title_ja": null,
-      "excerpt": "Raiders minority owner Tom Brady believes the Raiders are one of the five best teams in the NFL.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 04:39:23 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-brady-thinks-the-raiders-are-a-top-5-team-in-the-nfl-right-now"
-    },
-    {
       "kind": "injury",
       "title": "2026 MLB NLDS Odds: Dodgers Open As Favorites Over Braves",
       "title_ja": null,
@@ -1042,182 +1298,6 @@
       "coach_name": null,
       "published_at": "Fri, 02 Oct 2026 04:29:53 -0400",
       "url": "https://www.foxsports.com/stories/mlb/2026-mlb-nlds-odds-dodgers-braves"
-    },
-    {
-      "kind": "other",
-      "title": "Mike McCarthy on exchange with Aaron Rodgers: &quot;I wish I wouldn&#39;t use those words&quot;",
-      "title_ja": null,
-      "excerpt": "In the first quarter of Thursday night&#39;s game between the Steelers and the Browns, Pittsburgh quarterback Aaron Rodgers became upset.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 04:23:56 +0000",
-      "url": "https://sports.yahoo.com/articles/mike-mccarthy-exchange-aaron-rodgers-042356181.html"
-    },
-    {
-      "kind": "other",
-      "title": "Browns win battle with Steelers but are losing war with Deshaun Watson | Opinion",
-      "title_ja": null,
-      "excerpt": "The Browns are surprisingly in first place in the AFC North. That should be good news, but let&#39;s fast forward a bit, writes columnist Nate Davis.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 04:03:18 +0000",
-      "url": "https://sports.yahoo.com/articles/browns-win-battle-steelers-losing-040318551.html"
-    },
-    {
-      "kind": "other",
-      "title": "Ranking the NFL&#39;s remaining international games, starting with Sunday&#39;s Colts-Commanders matchup",
-      "title_ja": null,
-      "excerpt": "There are seven international games remaining. Some appear more appealing than others right now.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 04:00:44 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/ranking-the-nfls-remaining-international-games-starting-with-sundays-colts-commanders-matchup-040044766.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Commanders could feast this week against Colts 32nd-ranked defense - All aTwitter",
-      "title_ja": null,
-      "excerpt": "Lou Anarumo’s defense gave up 1,029 total yards (354 rushing; 681 passing) in Weeks 1 & 2",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 04:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/commanders-could-feast-week-against-040000863.html"
-    },
-    {
-      "kind": "other",
-      "title": "Browns vs Steelers: 19 takeaways from big Week 4 AFC North win for Cleveland",
-      "title_ja": null,
-      "excerpt": "The Cleveland Browns and Pittsburgh Steelers faced off in Week 4, and now the home team leads the AFC North.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 03:59:08 +0000",
-      "url": "https://sports.yahoo.com/articles/browns-vs-steelers-19-takeaways-035908717.html"
-    },
-    {
-      "kind": "other",
-      "title": "Steelers allow five sacks on Aaron Rodgers, fall to Browns 27-24",
-      "title_ja": null,
-      "excerpt": "Steelers fall to Browns 27-24, drop to 2-2 on the season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 03:55:48 +0000",
-      "url": "https://sports.yahoo.com/articles/steelers-allow-five-sacks-aaron-035548104.html"
-    },
-    {
-      "kind": "other",
-      "title": "Thursday Night Football: Deshaun Watson leads Browns to 27-24 win over Steelers",
-      "title_ja": null,
-      "excerpt": "Watson drove the Browns 36 yards in seven plays to set up Andre Szmyt&#39;s 56-yard field goal with 10 seconds left.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 03:54:38 +0000",
-      "url": "https://sports.yahoo.com/articles/thursday-night-football-deshaun-watson-035438233.html"
-    },
-    {
-      "kind": "other",
-      "title": "Pittsburgh Steelers vs. Cleveland Browns recap: Big second quarter, clutch kick fuels win and first place in AFC North",
-      "title_ja": null,
-      "excerpt": "The Cleveland Browns are 3-1!",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 03:45:19 +0000",
-      "url": "https://sports.yahoo.com/articles/pittsburgh-steelers-vs-cleveland-browns-034519253.html"
-    },
-    {
-      "kind": "other",
-      "title": "Zach Charbonnet back at practice",
-      "title_ja": null,
-      "excerpt": "Seattle Seahawks RB Zach Charbonnet practices for the first time this season",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 03:17:14 +0000",
-      "url": "https://sports.yahoo.com/articles/zach-charbonnet-back-practice-031714346.html"
-    },
-    {
-      "kind": "other",
-      "title": "Aaron Rodgers&#39; second TD draws Steelers to within 21-16",
-      "title_ja": null,
-      "excerpt": "The Steelers had minus-6 yards passing in the third quarter as the Browns had two sacks of Aaron Rodgers.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 03:05:55 +0000",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-second-td-draws-030555030.html"
-    },
-    {
-      "kind": "other",
-      "title": "Aaron Rodgers, Mike McCarthy exchange F-bombs early in Steelers loss to Browns",
-      "title_ja": null,
-      "excerpt": "Aaron Rodgers and Mike McCarthy had a tense exchange in the middle of a drive. Then the Steelers scored a TD.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 02 Oct 2026 00:50:33 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/aaron-rodgers-mike-mccarthy-exchange-f-bombs-early-in-steelers-loss-to-browns-005033259.html"
     },
     {
       "kind": "other",
@@ -1252,22 +1332,6 @@
       "url": "https://www.foxsports.com/stories/nfl/browns-real-3-takeaways-from-browns-dramatic-win-vs-steelers"
     },
     {
-      "kind": "other",
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Steelers vs. Browns",
-      "title_ja": null,
-      "excerpt": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Browns vs. Steelers on Thursday Night Football",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 23:30:12 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-steelers-vs-browns/"
-    },
-    {
       "kind": "rumor",
       "title": "Joey Porter Jr. embraces fresh start with Cowboys after feeling 'disrespected' by Steelers",
       "title_ja": null,
@@ -1282,38 +1346,6 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 01 Oct 2026 23:22:35 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-embraces-fresh-start-cowboys-steelers/"
-    },
-    {
-      "kind": "other",
-      "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Steelers vs Browns, Thursday Night Football",
-      "title_ja": null,
-      "excerpt": "DraftKings offers $150 in bonus bets after your first $5 wager for Browns vs. Steelers on Thursday Night Football",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 23:21:07 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-steelers-vs-browns-thursday-night-football-betting/"
-    },
-    {
-      "kind": "signing",
-      "title": "Use FanDuel promo code to get $250 in bonus bets by targeting Steelers vs. Browns on Thursday Night Football",
-      "title_ja": null,
-      "excerpt": "Sign up and bet with the latest FanDuel promo code on Thursday to get your bonus bets",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 23:19:55 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-steelers-vs-browns-on-thursday-night-football/"
     },
     {
       "kind": "other",
@@ -1365,9 +1397,9 @@
     },
     {
       "kind": "other",
-      "title": "Steelers vs. Browns odds, picks, prediction: Best bets, top player props for Thursday Night Football in Week 4",
+      "title": "Todd Monken is working his greatest magic yet with Browns, Deshaun Watson",
       "title_ja": null,
-      "excerpt": "First place in the AFC North is up for grabs in a low-scoring divisional battle, creating prime value on the under alongside top props for Jaylen Warren and DK Metcalf",
+      "excerpt": "After helping Lamar Jackson reach historic heights and winning two national championships at Georgia, Monken may be delivering his most impressive coaching performance yet",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
@@ -1376,92 +1408,12 @@
       "team_abbrev": "CLE",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 22:45:45 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/steelers-vs-browns-odds-picks-prediction-best-bets-top-player-props-for-thursday-night-football-in-week-4/"
+      "published_at": "\n                        Fri, 02 Oct 2026 16:15:41 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/todd-monken-deshaun-watson-first-place-browns-2026/"
     },
     {
       "kind": "other",
-      "title": "Steelers vs. Browns odds, predictions, start time, betting preview: Thursday Night Football picks, best bets",
-      "title_ja": null,
-      "excerpt": "Best bets and betting preview for Browns vs. Steelers on Thursday Night Football",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 22:42:33 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/steelers-vs-browns-odds-predictions-start-time-betting-preview-thursday-night-football-picks-best-bets/"
-    },
-    {
-      "kind": "signing",
-      "title": "Use FanDuel promo code to get $250 in bonus bets for Steelers vs. Browns, Thursday Night Football, NFL betting",
-      "title_ja": null,
-      "excerpt": "Sign up with the latest FanDuel promo code and bet on Thursday Night Football to get your bonus bets for Steelers vs. Browns",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 22:35:31 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/use-fanduel-promo-code-to-get-250-bonus-bets-steelers-browns-thursday-night-football-nfl-betting/"
-    },
-    {
-      "kind": "injury",
-      "title": "Saints RB Travis Etienne Jr. headed to IR, opening door for Alvin Kamara",
-      "title_ja": null,
-      "excerpt": "Etienne's hamstring injury could create an opportunity for Kamara to reclaim his former role",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 21:20:31 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/travis-etienne-ir-saints-alvin-kamara-2026/"
-    },
-    {
-      "kind": "injury",
-      "title": "Why Texans can bounce back from 0-3 start for second straight year, return to playoffs in 2026",
-      "title_ja": null,
-      "excerpt": "Misfortune and a key injury make Houston's three-game losing streak look worse than it really is",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "HOU",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 20:49:08 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/why-texans-can-bounce-back-from-0-3-start/"
-    },
-    {
-      "kind": "other",
-      "title": "Today's top games to watch, best bets, odds: Braves-Phillies Game 3, Steelers at Browns and more",
-      "title_ja": null,
-      "excerpt": "Find best bets and props for the biggest games in sports on Thursday from the SportsLine Projection Model and top CBS Sports experts",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 19:33:00 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-braves-phillies-game-3-steelers-at-browns-and-more/"
-    },
-    {
-      "kind": "other",
-      "title": "NFL Week 4 picks: Our experts face off on Steelers at Browns, Cowboys vs. Texans and more",
+      "title": "NFL Week 4 picks: Our experts face off on Cowboys vs. Texans, Rams at Eagles and more",
       "title_ja": null,
       "excerpt": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
       "excerpt_ja": null,
@@ -1469,33 +1421,33 @@
         "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CLE",
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 17:58:45 +0000\n                    ",
+      "published_at": "\n                        Fri, 02 Oct 2026 16:12:27 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-our-experts-predictions/"
     },
     {
-      "kind": "trade",
-      "title": "Regrading the Travis Hunter trade: Did Browns easily win this deal with Mason Graham?",
+      "kind": "other",
+      "title": "NFL Week 4 schedule: Why Rams vs. Eagles is make or break for both teams",
       "title_ja": null,
-      "excerpt": "Cleveland capitalized on extra draft capital to build a deep core led by Mason Graham, while Jacksonville has seen limited returns from its two-way superstar",
+      "excerpt": "A look at some under-the-radar games you should be tuning into, including a battle of unbeatens no one saw coming",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CLE",
+      "team_abbrev": "LAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 17:46:44 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/regrading-travis-hunter-trade-browns-easily-win-deal-mason-graham/"
+      "published_at": "\n                        Fri, 02 Oct 2026 16:10:14 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4s-most-underrated-games-rams-eagles-chiefs-raiders/"
     },
     {
       "kind": "other",
-      "title": "CFL odds, picks, predictions: B.C. vs. Toronto part of expert's best bets for Week 18",
+      "title": "Road warriors: One NFL team won't play a single game at home during the month of October",
       "title_ja": null,
-      "excerpt": "SportsLine football expert Emory Hunt delivers his best bets for Week 18 of the 2026 CFL season",
+      "excerpt": "Half of the team's month will actually be spent outside of the United States",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
@@ -1504,62 +1456,14 @@
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 17:30:09 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/cfl-odds-picks-predictions-b-c-vs-toronto-part-of-experts-best-bets-for-week-18/"
+      "published_at": "\n                        Fri, 02 Oct 2026 16:04:34 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-trevor-lawrence-wont-play-at-home-during-october/"
     },
     {
       "kind": "other",
-      "title": "Former Steelers coach Mike Tomlin reveals massive Minecraft city he's spent over 12 years building",
+      "title": "Week 4 NFL betting promos: Pocket almost $3,000 in bonuses from top online betting apps, sportsbooks",
       "title_ja": null,
-      "excerpt": "Tomlin built a truly colossal virtual city, but at least one former Steelers player had some thoughts on the project",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PIT",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 16:40:01 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/former-steelers-mike-tomlin-reveals-massive-minecraft-city/"
-    },
-    {
-      "kind": "trade",
-      "title": "Browns-Steelers predictions for Thursday night, plus Joey Porter Jr. trade grades and NFL Week 4 picks",
-      "title_ja": null,
-      "excerpt": "Here's everything you need to know about the NFL for Oct. 1",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 16:11:30 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/pick-six-browns-steelers-predictions-nfl-week-4-picks/"
-    },
-    {
-      "kind": "other",
-      "title": "Steelers trying to end this nightmare 46-year Thursday night losing streak in Week 4 against Browns",
-      "title_ja": null,
-      "excerpt": "This streak doesn't even seem possible",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 14:17:16 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/steelers-trying-to-end-nightmare-46-year-thursday-night-losing-streak/"
-    },
-    {
-      "kind": "rumor",
-      "title": "It wouldn't shock me IF ... NFL Week 4: Josh Allen continues historic streak, Cam Ward gets benched",
-      "title_ja": null,
-      "excerpt": "Could Tennessee pull the plug on Cam Ward? Will Josh Allen extend his historic rushing touchdown streak?",
+      "excerpt": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
@@ -1568,24 +1472,40 @@
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 14:06:02 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-bold-predictions-josh-allen-cam-ward/"
+      "published_at": "\n                        Fri, 02 Oct 2026 15:40:35 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-promos-pocket-almost-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/"
     },
     {
-      "kind": "other",
-      "title": "Seahawks Jaxon Smith-Njigba reveals the most difficult cornerback he's ever played against",
+      "kind": "injury",
+      "title": "Cowboys' Dak Prescott, CeeDee Lamb have been nearly perfect this season. Why it's still not enough",
       "title_ja": null,
-      "excerpt": "On CBS Sports' 'Set Hut,' JSN discusses who is the toughest defender to face, his game plan at the line of scrimmage, and having Sam Darnold back",
+      "excerpt": "Both Prescott and Lamb profile as top-five players at their positions while leading a top 10 scoring offense, but Dallas is 1-2",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "SEA",
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 13:44:02 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/seahawks-jaxon-smith-njigba-reveals-most-difficult-cb/"
+      "published_at": "\n                        Fri, 02 Oct 2026 15:19:47 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-dak-prescott-ceedee-lamb-nearly-perfect-defense-not-enough/"
+    },
+    {
+      "kind": "injury",
+      "title": "Browns star Jared Verse makes bold statement after win over Steelers on 'TNF'",
+      "title_ja": null,
+      "excerpt": "The Browns sit atop the AFC North four games into their season",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 14:38:57 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/browns-jared-verse-bold-statement-after-win-over-steelers/"
     },
     {
       "kind": "other",
@@ -1600,72 +1520,232 @@
       "team_abbrev": "NYG",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 13:40:36 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/week-4-2026-nfl-odds-lines-spread-picks-predictions-best-bets/"
-    },
-    {
-      "kind": "injury",
-      "title": "Joey Porter Jr. reportedly has 'a chance' to suit up for Cowboys this week vs. Texans",
-      "title_ja": null,
-      "excerpt": "Porter has been sitting out with what the Steelers described as a back injury",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 13:32:10 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-joey-porter-jr-reportedly-chance-to-play-week-4/"
-    },
-    {
-      "kind": "trade",
-      "title": "Yankees on to ALDS after Red Sox sweep; Cowboys win trade with Steelers for Joey Porter Jr.",
-      "title_ja": null,
-      "excerpt": "Plus, our game-by-game Week 4 NFL picks are here",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 12:46:44 +0000\n                    ",
-      "url": "https://www.cbssports.com/mlb/news/yankees-on-to-alds-after-red-sox-sweep-cowboys-win-trade-with-steelers-for-joey-porter-jr/"
+      "published_at": "\n                        Fri, 02 Oct 2026 14:34:15 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/week-4-2026-nfl-odds-betting-lines-spreads-picks-predictions/"
     },
     {
       "kind": "other",
-      "title": "Brian Flores' diabolical blitz rates -- equaling nearly 100 tons of pressure -- fueling Vikings' 2026 rampage",
+      "title": "How to bet on 2026 NFL Week 4: Betting odds, trends, tips, schedule, game previews, sportsbook promos, offers",
       "title_ja": null,
-      "excerpt": "The coordinator is sending nearly five pass rushers per snap at a historic 71% rate as Minnesota's dominant unit prepares to face his former team in Miami",
+      "excerpt": "Our NFL betting guide tells you where to bet on NFL Week 4, while providing odds, betting trends, schedule, promo offers, and more",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "MIN",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 12:38:34 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/minnesota-blitz-rate-brian-flores-faces-dolphins/"
+      "published_at": "\n                        Fri, 02 Oct 2026 14:30:47 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/how-to-bet-on-2026-nfl-week-4-betting-odds-trends-tips-schedule-game-previews-sportsbook-promos-offers/"
     },
     {
-      "kind": "rumor",
-      "title": "NFL Week 4 upset alert: Why these five favorites could easily lose, including the 49ers",
+      "kind": "other",
+      "title": "Week 4 NFL odds, betting lines, spreads, totals, for every game, including Texans-Cowboys, Chiefs-Raiders",
       "title_ja": null,
-      "excerpt": "After correctly identifying four major upsets last week, we examine five more for Week 4",
+      "excerpt": "The Week 4 NFL schedule is here, featuring pivotal matchups like Cowboys vs. Texans, Raiders vs. Chiefs and Lions vs. Panthers",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "SF",
+      "team_abbrev": "CAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Thu, 01 Oct 2026 12:04:11 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-upset-alert-five-favorites-that-could-lose-49ers/"
+      "published_at": "\n                        Fri, 02 Oct 2026 14:04:26 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-odds-betting-lines-totals-spreads/"
+    },
+    {
+      "kind": "other",
+      "title": "'I'm personally not judging him yet': NFL sources see progress in Titans QB Cam Ward",
+      "title_ja": null,
+      "excerpt": "Ward's mechanics remain a concern, but NFL sources see improvement from 2025's No. 1 draft pick and reasons for patience",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 13:59:37 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/cam-ward-titans-development-nfl-insiders-early-struggles/"
+    },
+    {
+      "kind": "other",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Penn State-Northwestern, Friday football",
+      "title_ja": null,
+      "excerpt": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for college football, NFL betting on Friday",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 13:56:34 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-penn-state-northwestern-friday-football/"
+    },
+    {
+      "kind": "other",
+      "title": "Will Brinson's NFL Week 4 best bets: Odds, player props, anytime touchdown scorers from expert on Sunday games",
+      "title_ja": null,
+      "excerpt": "Back live underdogs, ride Derrick Henry in a revenge spot, and target value on Brock Bowers and Puka Nacua to find the end zone",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 13:49:39 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-4-best-bets-odds-player-props-anytime-touchdown-scorers-from-expert-on-sunday-games/"
+    },
+    {
+      "kind": "trade",
+      "title": "NFL trade rumors: Browns would 'welcome deal at right price' for Shedeur Sanders, Dillon Gabriel, per report",
+      "title_ja": null,
+      "excerpt": "Cleveland may have options within its quarterback room now that Deshaun Watson has solidified himself as QB1 after a 3-1 start",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 13:49:38 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trades-browns-could-welcome-deal-shedeur-sanders-dillon-gabriel/"
+    },
+    {
+      "kind": "other",
+      "title": "Why 49ers' Brock Purdy vs. Broncos' pass rush is set to be one of NFL's best Week 4 showdowns",
+      "title_ja": null,
+      "excerpt": "Purdy has already made NFL history this season, but he'll be put to the test against Denver's defense",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 13:03:14 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/why-49ers-brock-purdy-broncos-is-among-best-week-4-showdowns/"
+    },
+    {
+      "kind": "other",
+      "title": "Browns fend off Aaron Rodgers and Steelers for third straight win; Braves advance in MLB playoffs",
+      "title_ja": null,
+      "excerpt": "Plus UFC 332, NFL and college football picks",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 12:54:02 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/browns-aaron-rodgers-steelers-braves-phillies-mlb-playoffs/"
+    },
+    {
+      "kind": "other",
+      "title": "Week 4 NFL bold predictions: Raiders upset Chiefs, Kyler Murray sets Vikings' single-game record",
+      "title_ja": null,
+      "excerpt": "Plus, the Jets finally intercept the Bears, and the Patriots have an running back that breaks free",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 12:35:13 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/week-4-nfl-bold-predictions-raiders-chiefs-kyler-murray-vikings/"
+    },
+    {
+      "kind": "other",
+      "title": "NFL Week 4 ATS picks, odds, best bets: Chiefs struggle in Vegas, Lions eviscerate Panthers",
+      "title_ja": null,
+      "excerpt": "Jordan Dajani gives his picks for Week 4 of the 2026 NFL season",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 12:07:36 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-odds-best-bets-chiefs-vegas-lions-panthers/"
+    },
+    {
+      "kind": "other",
+      "title": "NFL odds: Week 4 parlays featuring favorites, underdogs include Rams vs. Eagles, Falcons vs. Saints",
+      "title_ja": null,
+      "excerpt": "SportsLine football expert Mike Tierney gives out his favorite parlays for Week 4 of the NFL season",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ATL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 12:00:53 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/nfl-odds-week-4-parlays-featuring-favorites-underdogs-include-rams-vs-eagles-falcons-vs-saints/"
+    },
+    {
+      "kind": "other",
+      "title": "Where Dolphins rookie class ranks among play-time over last decade and how others fared",
+      "title_ja": null,
+      "excerpt": "A look back at how previous NFL teams that relied heavily on first-year players fared in the standings and whether those massive draft classes built lasting foundations",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 11:55:07 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/where-dolphins-rookie-class-ranks-among-play-time/"
+    },
+    {
+      "kind": "other",
+      "title": "NFL Week 4 odds, predictions, expert picks: Who wins 49ers-Broncos showdown? Colts or Commanders in London?",
+      "title_ja": null,
+      "excerpt": "CBSSports.com and SportsLine break down every single NFL game in Week 4",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 11:53:50 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-odds-predictions-expert-picks-49ers-broncos/"
+    },
+    {
+      "kind": "other",
+      "title": "Week 4 best bets: Cowboys to bounce back; Josh Downs, Aaron Jones in line for big days",
+      "title_ja": null,
+      "excerpt": "Plus, the Jaguars and the Bengals are in for a good one",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Fri, 02 Oct 2026 11:52:28 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/week-4-best-bets-cowboys-josh-downs-aaron-jones/"
     },
     {
       "kind": "other",

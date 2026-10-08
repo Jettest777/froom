@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T17:41:05.101229+00:00",
-  "count": 116,
+  "generated_at": "2026-10-08T20:03:15.197998+00:00",
+  "count": 119,
   "items": [
     {
       "kind": "signing",
@@ -36,20 +36,20 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-johnsons-retirement-could-create-a-cap-mess-for-the-eagles-in-2027"
     },
     {
-      "kind": "other",
-      "title": "Saquon Barkley, DeVonta Smith did not practice Wednesday",
+      "kind": "injury",
+      "title": "Bengals&#39; Ja&#39;Marr Chase (concussion) back at practice, Tee Higgins (adductor/neck) remains sidelined",
       "title_ja": null,
-      "excerpt": "Eagles running back Saquon Barkley did not practice Wednesday.",
+      "excerpt": "Chase remains in concussion protocol, while Higgins did an individual workout on Thursday.",
       "excerpt_ja": null,
       "sources": [
-        "Pro Football Talk"
+        "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "PHI",
+      "team_abbrev": "CIN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 07 Oct 2026 19:13:21 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-devonta-smith-did-not-practice-wednesday"
+      "published_at": "Wed, 07 Oct 2026 17:20:23 +0000",
+      "url": "https://sports.yahoo.com/nfl/breaking-news/article/bengals-jamarr-chase-concussion-back-at-practice-tee-higgins-adductorneck-remains-sidelined-181113772.html"
     },
     {
       "kind": "other",
@@ -84,22 +84,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-joint-statement-nfl-and-nflpa-say-drinking-celebrations-will-be-permitted"
     },
     {
-      "kind": "presser",
-      "title": "DeMeco Ryans taking back defensive play-calling for Texans",
-      "title_ja": null,
-      "excerpt": "Texans head coach DeMeco Ryans is taking back defensive play-calling duties, he told reporters in his Wednesday press conference.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "HOU",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 07 Oct 2026 15:57:27 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/demeco-ryans-taking-back-defensive-play-calling-for-texans"
-    },
-    {
       "kind": "injury",
       "title": "Cowboys rule out three, list LG Tyler Smith as questionable",
       "title_ja": null,
@@ -114,22 +98,6 @@
       "coach_name": null,
       "published_at": "Wed, 07 Oct 2026 15:13:01 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-rule-out-three-list-lg-tyler-smith-as-questionable"
-    },
-    {
-      "kind": "trade",
-      "title": "Howie Roseman: Cam Jurgens trade can help us compete for a long period of time",
-      "title_ja": null,
-      "excerpt": "The Eagles traded Jurgens to the Ravens on Wednesday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 07 Oct 2026 14:50:06 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-cam-jurgens-trade-can-help-us-compete-for-a-long-period-of-time"
     },
     {
       "kind": "trade",
@@ -149,41 +117,89 @@
     },
     {
       "kind": "other",
-      "title": "Week 5 Fantasy Football Rankings from Hayden Winks",
+      "title": "D&#39;Andre Swift upgraded to limited practice",
       "title_ja": null,
-      "excerpt": "Here&#39;s a look at Hayden Winks&#39; Week 5 fantasy football rankings for half-PPR formats in 2026.",
+      "excerpt": "Bears RB D&#39;Andre Swift returned to practice after sitting out the first one of the week",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 08 Sep 2026 19:34:39 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-week-5-hayden-winks-161800237.html"
+      "published_at": "Thu, 08 Oct 2026 19:42:51 +0000",
+      "url": "https://sports.yahoo.com/articles/dandre-swift-upgraded-limited-practice-194251968.html"
+    },
+    {
+      "kind": "injury",
+      "title": "D&#39;Andre Swift returns to practice, Kyle Monangai still out",
+      "title_ja": null,
+      "excerpt": "The Bears got one of their running backs back on the practice field Thursday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 19:26:08 +0000",
+      "url": "https://sports.yahoo.com/articles/dandre-swift-returns-practice-kyle-192608872.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Miami Dolphins re-sign practice squad defender",
+      "title_ja": null,
+      "excerpt": "Amari Gainer joins Dolphins’ practice squad while Keith Cooper Jr. is released.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIA",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 19:23:31 +0000",
+      "url": "https://sports.yahoo.com/articles/miami-dolphins-sign-practice-squad-192331476.html"
     },
     {
       "kind": "other",
-      "title": "Week 5 Fantasy Football Rankings from Joel Smyth",
+      "title": "NFL Week 5 preview & bold predictions: Can Stafford get right vs. Bills? 49ers-Seahawks hoss fight",
       "title_ja": null,
-      "excerpt": "Here&#39;s a look at Joel Smyth&#39;s Week 5 fantasy football rankings for half-PPR and full-PPR formats in 2026.",
+      "excerpt": "Nate Tice & Matt Harmon preview the biggest games of Week 5 of the NFL season.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "BUF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 08 Sep 2026 19:32:06 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-week-5-joel-smyth-161711320.html"
+      "published_at": "Thu, 08 Oct 2026 19:15:27 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/nfl-week-5-preview--bold-predictions-can-stafford-get-right-vs-bills-49ers-seahawks-hoss-fight-191527798.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Who has the edge between the Patriots and Raiders?",
+      "title_ja": null,
+      "excerpt": "A head-to-head comparison between the Patriots and Raiders ahead of their Sunday meeting.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 19:12:47 +0000",
+      "url": "https://sports.yahoo.com/articles/edge-between-patriots-raiders-191247811.html"
     },
     {
       "kind": "other",
-      "title": "Week 5 Fantasy Football Rankings from Matt Harmon",
+      "title": "Randall Cobb named to the 2026 SEC Football Legends class",
       "title_ja": null,
-      "excerpt": "Here&#39;s a look at Matt Harmon&#39;s Week 5 fantasy football rankings for half-PPR and full-PPR formats in 2026.",
+      "excerpt": "One of the best athletes to ever play at UK.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -192,30 +208,94 @@
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 08 Sep 2026 19:26:42 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-week-5-matt-harmon-161659927.html"
+      "published_at": "Thu, 08 Oct 2026 19:12:39 +0000",
+      "url": "https://sports.yahoo.com/articles/randall-cobb-named-2026-sec-191239869.html"
     },
     {
       "kind": "other",
-      "title": "Week 5 Fantasy Football Rankings from Scott Pianowski",
+      "title": "NFL predictions: Will underdog Giants keep first place in NFC East?",
       "title_ja": null,
-      "excerpt": "Here are Scott Pianowski&#39;s Week 5 fantasy football rankings for half-PPR and full-PPR formats in 2026.",
+      "excerpt": "See our picks for Giants at Commanders, and more.",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "NYG",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 08 Sep 2026 19:04:17 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-week-5-scott-pianowski-161519253.html"
+      "published_at": "Thu, 08 Oct 2026 19:07:31 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-predictions-underdog-giants-keep-190731510.html"
     },
     {
       "kind": "other",
-      "title": "Justin Boone&#39;s Fantasy Football Full PPR FLEX Rankings for Week 5",
+      "title": "Kelvin Sheppard on Lions&#39; defense: &quot;Something has to change&quot;",
       "title_ja": null,
-      "excerpt": "Here&#39;s a look at Boone&#39;s FLEX rankings for full PPR formats in fantasy football Week 5.",
+      "excerpt": "The Lions are 2-2, in large part because the defense isn&#39;t good enough.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 19:06:39 +0000",
+      "url": "https://sports.yahoo.com/articles/kelvin-sheppard-lions-defense-something-190639795.html"
+    },
+    {
+      "kind": "other",
+      "title": "Maxx Crosby, Las Vegas Raiders’ pass rush must get to Drake Maye in Week 5 key matchups vs. New England Patriots",
+      "title_ja": null,
+      "excerpt": "A few battles to keep tabs on this Sunday",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 19:03:00 +0000",
+      "url": "https://sports.yahoo.com/articles/maxx-crosby-las-vegas-raiders-190300411.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cowboys vs Bucs: 2 players to buy, 2 to sell",
+      "title_ja": null,
+      "excerpt": "We place a buy or sell on some Cowboys before the game",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 19:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-vs-bucs-2-players-190000474.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Cowboys waive RB Emeri Demercado",
+      "title_ja": null,
+      "excerpt": "The Cowboys officially announced the activation of left guard Tyler Smith from injured reserve on Thursday afternoon and they also announced the corresponding move they made to create space for him on the active roster.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 18:48:17 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-waive-rb-emeri-demercado-184817282.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL Power Rankings: Week 5 Edition",
+      "title_ja": null,
+      "excerpt": "﻿﻿100% accurate ranking of all 32 NFL teams.﻿",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -224,8 +304,184 @@
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Tue, 06 Oct 2026 18:36:47 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-full-ppr-flex-rankings-week-5-justin-boone-161433929.html"
+      "published_at": "Thu, 08 Oct 2026 18:46:19 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-power-rankings-week-5-184619461.html"
+    },
+    {
+      "kind": "injury",
+      "title": "The 4 biggest surprises about the 49ers a month into the season",
+      "title_ja": null,
+      "excerpt": "From not allowing sacks to playing through injuries, we highlight the biggest surprises about the 49ers",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 18:45:00 +0000",
+      "url": "https://sports.yahoo.com/articles/4-biggest-surprises-49ers-month-184500439.html"
+    },
+    {
+      "kind": "other",
+      "title": "Arizona Cardinals offense one of the most boring in NFL",
+      "title_ja": null,
+      "excerpt": "Arizona Cardinals offense lacks anything exciting through four games.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 18:42:16 +0000",
+      "url": "https://sports.yahoo.com/articles/arizona-cardinals-offense-one-most-184216333.html"
+    },
+    {
+      "kind": "other",
+      "title": "Sean McVay loves this running play. The Bills haven’t let it beat them.",
+      "title_ja": null,
+      "excerpt": "The Rams lead the NFL in man-concept rushing attempts, but Buffalo has yet to allow an explosive run against the scheme.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 18:30:42 +0000",
+      "url": "https://sports.yahoo.com/articles/sean-mcvay-loves-running-play-183042762.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL Expert Picks for Week 5",
+      "title_ja": null,
+      "excerpt": "Stay ahead of the game with our weekly picks.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 18:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-expert-picks-week-5-180000645.html"
+    },
+    {
+      "kind": "other",
+      "title": "What to know about Falcons – Ravens Week 5 on Sunday Night Football",
+      "title_ja": null,
+      "excerpt": "The Ravens are Atlanta’s toughest opponent yet…but they’re a diminished, depleted version of a great team.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ATL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 18:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/know-falcons-ravens-week-5-180000567.html"
+    },
+    {
+      "kind": "other",
+      "title": "Bears-Packers: Can Tyson Bagent keep the ball away from Xavier McKinney?",
+      "title_ja": null,
+      "excerpt": "Bears QB Tyson Bagent will need to stay efficient against Green Bay. That starts with keeping the ball out of harm&#39;s way.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 18:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/bears-packers-tyson-bagent-keep-180000519.html"
+    },
+    {
+      "kind": "presser",
+      "title": "5 takeaways from Kelvin Sheppard’s presser: Lions DC stands by scheme, blitzes",
+      "title_ja": null,
+      "excerpt": "Detroit Lions DC Kelvin Sheppard staunchly defended the defense’s scheme in his weekly press conference.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 18:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/5-takeaways-kelvin-sheppard-presser-180000577.html"
+    },
+    {
+      "kind": "other",
+      "title": "Fantasy Football Kicker Streamers: The 3 best pickups for Week 5",
+      "title_ja": null,
+      "excerpt": "An analysis of which waiver wire kickers have the best matchups headed into Week 5.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 17:57:10 +0000",
+      "url": "https://sports.yahoo.com/articles/fantasy-football-kicker-streamers-3-175710097.html"
+    },
+    {
+      "kind": "other",
+      "title": "Giants’ Arvell Reese named NFL Rookie of the Week",
+      "title_ja": null,
+      "excerpt": "Another Giants’ defender earns an honor.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 17:52:31 +0000",
+      "url": "https://sports.yahoo.com/articles/giants-arvell-reese-named-nfl-175231602.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL today: How to watch Buccaneers v Cowboys, TV channels & live stream Thursday 8 October",
+      "title_ja": null,
+      "excerpt": "How will the Buccaneers and Cowboys fare today? Here is what to know, including kick-off time, TV channels and live stream options",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 17:41:37 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-today-watch-buccaneers-v-174137526.html"
+    },
+    {
+      "kind": "other",
+      "title": "Steelers open S DeShon Elliott&#39;s practice window",
+      "title_ja": null,
+      "excerpt": "Safety DeShon Elliott is back on the practice field for the Steelers.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PIT",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 17:30:18 +0000",
+      "url": "https://sports.yahoo.com/articles/steelers-open-deshon-elliotts-practice-173018071.html"
     },
     {
       "kind": "other",
@@ -293,102 +549,6 @@
     },
     {
       "kind": "other",
-      "title": "Revisiting the 49ers schedule after 4 weeks: Does the back half look easier or harder now?",
-      "title_ja": null,
-      "excerpt": "The Niners had a tough schedule coming into the year. Is that still the case?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 17:15:00 +0000",
-      "url": "https://sports.yahoo.com/articles/revisiting-49ers-schedule-4-weeks-171500375.html"
-    },
-    {
-      "kind": "other",
-      "title": "Baby steps for Packers run game",
-      "title_ja": null,
-      "excerpt": "Reinforcements at offensive line should, in theory, help Green Bay’s run game, followed by the pass.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 17:14:44 +0000",
-      "url": "https://sports.yahoo.com/articles/baby-steps-packers-run-game-171444569.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Texans sign WR Bryce Oliver to their active roster",
-      "title_ja": null,
-      "excerpt": "Wide receiver Bryce Oliver spent a couple of weeks on the Texans&#39; practice squad in September, but his second stint with the team will come on their active roster.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "HOU",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 17:10:07 +0000",
-      "url": "https://sports.yahoo.com/articles/texans-sign-wr-bryce-oliver-171007546.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Could Chris Goodwin be a fit for Raiders?",
-      "title_ja": null,
-      "excerpt": "Veteran wide receiver has ties to Raiders",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 17:07:00 +0000",
-      "url": "https://sports.yahoo.com/articles/could-chris-goodwin-fit-raiders-170700509.html"
-    },
-    {
-      "kind": "trade",
-      "title": "2027 NFL mock draft: First version includes a huge trade that powers Arch Manning to No. 1 spot",
-      "title_ja": null,
-      "excerpt": "I typically avoid trades in early mock drafts, but with the Jets armed with a war chest full of draft capital, they decide to move to the top and take Manning as their quarterback of the future.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 17:06:53 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/2027-nfl-mock-draft-first-version-includes-a-huge-trade-that-powers-arch-manning-to-no-1-spot-170653524.html"
-    },
-    {
-      "kind": "other",
-      "title": "Eagles-Jaguars Game Preview: 5 questions and answers with the Week 5 enemy",
-      "title_ja": null,
-      "excerpt": "﻿﻿Opponent insight on Philadelphia’s upcoming matchup.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "JAX",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 17:04:52 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-jaguars-game-preview-5-170452858.html"
-    },
-    {
-      "kind": "other",
       "title": "Fantasy Football Rankings: Hayden Winks&#39; QB, TE, D/ST, kicker Blueprint for Week 5",
       "title_ja": null,
       "excerpt": "Fantasy football analyst Hayden Winks reveals the Blueprint to Week 5 for QBs, TEs, defenses and kickers.",
@@ -405,211 +565,387 @@
     },
     {
       "kind": "rumor",
-      "title": "David Blough: “As an offense, we did not play winning football.”",
+      "title": "2027 NFL Draft No. 1 Pick Odds: Jeremiah Smith Overtakes Arch Manning As Favorite",
       "title_ja": null,
-      "excerpt": "The Washington Commanders coordinators talked to reporters before practice",
+      "excerpt": "Could Jeremiah Smith become the first wide receiver drafted No. 1 overall since 1996? See the latest odds.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "WAS",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 17:01:00 +0000",
-      "url": "https://sports.yahoo.com/articles/david-blough-offense-did-not-170100638.html"
+      "published_at": "Thu, 08 Oct 2026 15:42:08 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick"
     },
     {
-      "kind": "other",
-      "title": "Tyson Bagent doesn&#39;t care if he gets the credit as the starting QB for last week&#39;s win",
+      "kind": "injury",
+      "title": "D'Andre Swift returns to practice, Kyle Monangai still out",
       "title_ja": null,
-      "excerpt": "Bears quarterback Tyson Bagent played every snap in Sunday&#39;s win over the Jets.",
+      "excerpt": "The Bears got one of their running backs back on the practice field Thursday.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 17:00:51 +0000",
-      "url": "https://sports.yahoo.com/articles/tyson-bagent-doesnt-care-gets-170051184.html"
+      "published_at": "Thu, 08 Oct 2026 15:26:08 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dandre-swift-returns-to-practice-kyle-monangai-still-out"
+    },
+    {
+      "kind": "rumor",
+      "title": "Broncos Sean Payton Reportedly Taking More Active Role In Offensive Play-Calling",
+      "title_ja": null,
+      "excerpt": "Broncos' coach Sean Payton is reportedly taking a larger role in offensive play-calling alongside offensive coordinator Davis Webb.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 15:24:36 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/denver-broncos-sean-payton-offensive-playcalling"
+    },
+    {
+      "kind": "trade",
+      "title": "NFL Trade Deadline: League Execs Expect A Handful Of Standout WRs To Be Targets",
+      "title_ja": null,
+      "excerpt": "Here's who we're hearing could be moved ahead of the NFL's trade deadline.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 15:22:44 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-marvin-harrison-brian-thomas-chris-godwin-quentin-johnston-jerry-jeudy"
     },
     {
       "kind": "other",
-      "title": "Looking ahead to the rest of the Chiefs’ schedule after the bye",
+      "title": "MLB Proposes Shorter Season, Higher-Seed Teams To Pick Playoff Opponents",
       "title_ja": null,
-      "excerpt": "Here are the remaining games on Kansas City’s regular-season schedule.",
+      "excerpt": "Major League Baseball proposed to shorten the regular season to 154 games starting in 2029, and some major playoff changes.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 15:21:08 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-proposes-shortening-regular-season-to-154-games-in-2029-expanding-division-series-to-bestof7"
+    },
+    {
+      "kind": "other",
+      "title": "Kelvin Sheppard on Lions' defense: \"Something has to change\"",
+      "title_ja": null,
+      "excerpt": "The Lions are 2-2, in large part because the defense isn't good enough.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 15:06:39 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kelvin-sheppard-on-lions-defense-something-has-to-change"
+    },
+    {
+      "kind": "injury",
+      "title": "Cowboys waive RB Emeri Demercado",
+      "title_ja": null,
+      "excerpt": "The Cowboys officially announced the activation of left guard Tyler Smith from injured reserve on Thursday afternoon and they also announced the corresponding move they made to create space for him on the active roster.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 14:48:17 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-waive-rb-emeri-demercado"
+    },
+    {
+      "kind": "other",
+      "title": "College Football Week 6 Odds, 5 Sleeper Games To Watch",
+      "title_ja": null,
+      "excerpt": "Check out the odds for five sleeper games as Week 6 of the college football season kicks off.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 14:34:55 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/college-football-week-6-odds-5-sleeper-games-watch"
+    },
+    {
+      "kind": "other",
+      "title": "Erling Haaland Wants Manchester City Fans To Be United Amid Guilty Verdict",
+      "title_ja": null,
+      "excerpt": "Erling Haaland has called on everyone at Manchester City to “stick together\" in his first public comments since the club was found guilty of large-scale financial rule-breaking.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 14:02:48 -0400",
+      "url": "https://www.foxsports.com/stories/soccer/haaland-calls-for-unity-in-first-comments-after-the-man-city-guilty-verdict"
+    },
+    {
+      "kind": "other",
+      "title": "Layne Riggs Among Regular-Season Champs Hoping To Rally At Charlotte",
+      "title_ja": null,
+      "excerpt": "Layne Riggs claims his team can \"flip the script pretty fast.\" He'll need to do exactly that if he wants a shot at winning The Chase in the trucks series.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 14:02:44 -0400",
+      "url": "https://www.foxsports.com/stories/nascar/trucks-series-layne-riggs-hoping-to-rally-at-charlotte"
+    },
+    {
+      "kind": "injury",
+      "title": "Ja'Marr Chase returns to practice for Bengals",
+      "title_ja": null,
+      "excerpt": "Bengals wide receiver Ja'Marr Chase has taken a step toward clearing the concussion protocol.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:56:44 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-returns-to-practice-for-bengals"
+    },
+    {
+      "kind": "other",
+      "title": "Caesars Promo Code FOXDYW: Bet $1, Double Your Winnings Your Next 10 Wagers",
+      "title_ja": null,
+      "excerpt": "Caesars Sportsbook Promo Code 'FOXDYW' Bet $1, Double Your Winnings Your Next 10 Wagers.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:55:14 -0400",
+      "url": "https://www.foxsports.com/stories/betting/caesars-sportsbook-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Fanatics Sportsbook Promo Code FOX350: Bet $20, Get $350 Bonus Bets",
+      "title_ja": null,
+      "excerpt": "Fanatics Sportsbook Promo: Bet $20 and Get $350 in Bonus Bets using promo code FOX350.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:50:51 -0400",
+      "url": "https://www.foxsports.com/stories/betting/fanatics-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "BetMGM Bonus Code FOXSPORTS: $1500 in Bonus Bets if Your First Bet Loses",
+      "title_ja": null,
+      "excerpt": "Use BetMGM Bonus Code FOXSPORTS to get up to $1,500 back in Bonus Bets if your first wager loses. Claim your BetMGM welcome offer today.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:50:50 -0400",
+      "url": "https://www.foxsports.com/stories/betting/betmgm-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "FanDuel Promo Code: Get $250 in Bonus Bets when you wager $5 for 5 days",
+      "title_ja": null,
+      "excerpt": "Get $1,000 in Bonus Bets when you bet $5 for five days with our FanDuel sportsbook offer for new users.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:50:44 -0400",
+      "url": "https://www.foxsports.com/stories/betting/fanduel-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "DraftKings Promo Code: Bet $5 and Get $150 in Bonus Bets Instantly",
+      "title_ja": null,
+      "excerpt": "Bet $5 and Get $150 in Bonus Bets Instantly on DraftKings for New Users.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:50:17 -0400",
+      "url": "https://www.foxsports.com/stories/betting/draftkings-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "theScore Bet Promo Code: Get $1,000 Bet Reset",
+      "title_ja": null,
+      "excerpt": "theScore Bet Promo Code: Get $1,000 Bet Reset.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:49:58 -0400",
+      "url": "https://www.foxsports.com/stories/betting/thescore-bet-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Best DFS Apps 2026: Daily Fantasy Sports Platforms Reviewed",
+      "title_ja": null,
+      "excerpt": "Compare the best DFS apps for 2026. Explore reviews of UnderDog, DraftKings, Sleeper, and more, including bonuses, features, and contest types.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:49:07 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-dfs-apps"
+    },
+    {
+      "kind": "other",
+      "title": "2026 College Football Week 6: Best Games To Watch This Weekend",
+      "title_ja": null,
+      "excerpt": "Here are the five must-watch games for college football Week 6, including the UCLA-Oregon tilt and a huge Georgia-Bama showdown.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:48:53 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/2026-college-football-week-6-best-games-watch-weekend"
+    },
+    {
+      "kind": "trade",
+      "title": "Kalshi promo code FOXSPORTS55: Trade $25 get up to $55 on October 2026",
+      "title_ja": null,
+      "excerpt": "Use Kalshi promo code FOXSPORTS55 to get up to $55 in bonuses. Learn how Kalshi works, where it’s legal, and how prediction markets differ from sportsbooks.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:46:10 -0400",
+      "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Polymarket promo code FOX: Deposit $10, Get a $25 bonus for October Sports",
+      "title_ja": null,
+      "excerpt": "Use Polymarket promo code FOX to deposit $10 and get a $25 trading bonus on the world's largest prediction market platform. New users only. 18+. Not available in AZ, IL, MA, MD, MI, MT, NJ, NV, OH.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:45:48 -0400",
+      "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "bet365 Bonus Code: Bet $10, Get $200 in Bonus Bets Win or Lose with Promo Code FOX365",
+      "title_ja": null,
+      "excerpt": "Claim the bet365 Sportsbook promo code which give you $365 in bonus bets.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:45:39 -0400",
+      "url": "https://www.foxsports.com/stories/betting/bet365-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Underdog Promo: Play $5 For a $10 in Bonus Entry for 10 Days Using Code 'FOXSPORTS'",
+      "title_ja": null,
+      "excerpt": "Claim the Underdog Fantasy promo code and unlock $50 in bonus cash when you play just $5. Learn how to claim, terms, app features, and more.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 08 Oct 2026 13:45:24 -0400",
+      "url": "https://www.foxsports.com/stories/betting/underdog-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Kenneth Walker has most rushing yards in first four games over last 15 years",
+      "title_ja": null,
+      "excerpt": "Kenneth Walker has gotten off to a hot start in his first season with the Chiefs, running the club to a 4-0 record at the Week 5 bye.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "KC",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 17:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/looking-ahead-rest-chiefs-schedule-170000276.html"
-    },
-    {
-      "kind": "other",
-      "title": "Fantasy Football 2026: Week 5 preview — Start/sit and more",
-      "title_ja": null,
-      "excerpt": "Fantasy football advice - Rides, Fades, and Sleepers to help you set your lineup",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 17:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/fantasy-football-2026-week-5-170000516.html"
-    },
-    {
-      "kind": "other",
-      "title": "Is it time to have the Kellen Moore conversation?",
-      "title_ja": null,
-      "excerpt": "A disappointing performance on MNF should open the discussion with some tough questions about the Saints head coach",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 17:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/time-kellen-moore-conversation-170000975.html"
-    },
-    {
-      "kind": "other",
-      "title": "Sean Payton taking back Broncos play-calling. It&#39;s about time | Opinion",
-      "title_ja": null,
-      "excerpt": "After four weeks of anemic offense under Davis Webb, Denver Broncos head coach and offensive guru Sean Payton has seen enough. He&#39;ll call the shots.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 16:56:59 +0000",
-      "url": "https://sports.yahoo.com/articles/sean-payton-taking-back-broncos-165659599.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cheers! NFL now says it&#39;s OK to celebrate by pretending to drink a beverage",
-      "title_ja": null,
-      "excerpt": "The NFL and players union say celebrations that mimic drinking a beverage are allowed, reversing recent fines for 49ers&#39; Kyle Juszczyk and Cowboys&#39; Jake Ferguson and Colts&#39; Matt Goncalves.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 16:45:37 +0000",
-      "url": "https://sports.yahoo.com/articles/cheers-nfl-now-says-ok-164537300.html"
-    },
-    {
-      "kind": "other",
-      "title": "NFL odds, betting, storylines: 3 underdogs to back in Week 5",
-      "title_ja": null,
-      "excerpt": "Let&#39;s look at three spots where some &#39;dogs are in position to bark.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 16:40:15 +0000",
-      "url": "https://sports.yahoo.com/nfl/betting/article/nfl-odds-betting-storylines-3-underdogs-to-back-in-week-5-164015769.html"
-    },
-    {
-      "kind": "other",
-      "title": "Five Good Questions with Canal Street Chronicles",
-      "title_ja": null,
-      "excerpt": "Another sit down with the enemy",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 16:33:19 +0000",
-      "url": "https://sports.yahoo.com/articles/five-good-questions-canal-street-163319691.html"
-    },
-    {
-      "kind": "other",
-      "title": "Tyson Bagent Week 4 QB Grade: Jets @ Bears Film Breakdown",
-      "title_ja": null,
-      "excerpt": "A deeper look with @iamcogs at Tyson Bagent and the Chicago Bears’ dominant 23-12 win over the New York Jets!",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 16:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/tyson-bagent-week-4-qb-163000589.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Sean Payton will be more heavily involved in the play-calling vs. the Chargers",
-      "title_ja": null,
-      "excerpt": "There have been multiple confirmation reports that Denver Broncos head coach Sean Payton will become more active in playcalling over offensive coordinator Davis Webb.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 16:21:27 +0000",
-      "url": "https://sports.yahoo.com/articles/sean-payton-more-heavily-involved-162127464.html"
-    },
-    {
-      "kind": "other",
-      "title": "NFL Secret Superstars, Week 4: Kyle Monangai, Alim McNeill, and Banana the Corgi are NFC standouts",
-      "title_ja": null,
-      "excerpt": "Ben Johnson rode Kyle Monangai to an old-school win, Alim McNeill was a rare bright spot in Detroit’s defense, and Banana the corgi ran the perfect post route.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 16:20:51 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-secret-superstars-week-4-162051731.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Sean Payton to reportedly take an increased role in offense after team&#39;s slow start under Davis Webb",
-      "title_ja": null,
-      "excerpt": "The Broncos have struggled on offense to open the 2026 NFL season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 16:06:59 +0000",
-      "url": "https://sports.yahoo.com/nfl/breaking-news/article/sean-payton-to-reportedly-take-an-increased-role-in-offense-after-teams-slow-start-under-davis-webb-160659562.html"
+      "published_at": "Thu, 08 Oct 2026 13:41:50 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenneth-walker-has-most-rushing-yards-in-first-four-games-over-last-15-years"
     },
     {
       "kind": "other",
@@ -716,7 +1052,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "HOU",
       "player_name": null,
       "coach_name": null,
@@ -948,22 +1284,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/david-blough-jayden-daniels-is-full-go-looking-forward-to-having-him-back-sunday"
     },
     {
-      "kind": "injury",
-      "title": "A-Rod, Jeter Explain 'Philosophy' Change Yankees, Who Got 'Exposed,' Need",
-      "title_ja": null,
-      "excerpt": "Following the Yankees being swept by the Rays, Derek Jeter and Alex Rodriguez gave a candid assessment of their former team's future.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 10:53:11 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/arod-jeter-yankees-takes-aaron-judge-boone"
-    },
-    {
       "kind": "other",
       "title": "Jacoby Brissett: Last three losses have upped urgency, but there's no panic",
       "title_ja": null,
@@ -1029,22 +1349,6 @@
     },
     {
       "kind": "other",
-      "title": "Just Hand Jeremiah Smith The 2026 Heisman Trophy Already",
-      "title_ja": null,
-      "excerpt": "Ohio State's star wide receiver is cruising to another jaw-dropping season, but can he win the Heisman?",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 09:40:05 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/ohio-state-jeremiah-smith-2026-heisman-stats-odds"
-    },
-    {
-      "kind": "other",
       "title": "Sean Payton will resume calling offensive plays for Broncos",
       "title_ja": null,
       "excerpt": "With the Seahawks looming, Payton will get his play-calling sea legs against the Chargers.",
@@ -1092,198 +1396,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jesse-minter-our-offense-doesnt-have-to-change-much-with-tyler-huntley"
     },
     {
-      "kind": "rumor",
-      "title": "College Football Week 6 Betting Report: Hurricane Isaias Impactin UGA-Bama Lines",
-      "title_ja": null,
-      "excerpt": "Potential weather is making things not-so-straightforward for bettors ahead of the huge Georgia-Alabama showdown. Patrick Everson has more.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 09:24:57 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/college-football-week-6-betting-report-hurricane-isaias-impacting-uga-bama-lines"
-    },
-    {
-      "kind": "presser",
-      "title": "Malik Nabers spoke to John Harbaugh about \"trying to give me the ball down the field\"",
-      "title_ja": null,
-      "excerpt": "Giants wide receiver Malik Nabers had his most productive day of the season in last Sunday's win over the Cardinals, but he said on Wednesday that he feels \"like that was a basic game\" rather than a breakthrough as he continues working his way back from last season's torn ACL.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 09:06:56 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-nabers-spoke-to-john-harbaugh-about-trying-to-give-me-the-ball-down-the-field"
-    },
-    {
-      "kind": "other",
-      "title": "2026 MLB ALDS Odds: White Sox Lead 2-1, Favored Over Guardians",
-      "title_ja": null,
-      "excerpt": "Check out the odds and what to know for the Guardians-White Sox ALDS series.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 09:00:26 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-alds-odds-guardians-white-sox"
-    },
-    {
-      "kind": "other",
-      "title": "2026 World Series Odds: Brewers, Rays Still Chasing Dodgers",
-      "title_ja": null,
-      "excerpt": "The last three-peat took place from 1998-2000. Can the Dodgers make history? See the latest World Series odds.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 08:58:47 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/2026-world-series-odds"
-    },
-    {
-      "kind": "injury",
-      "title": "Titans fire three executives, including the V.P. who oversaw the uniform change",
-      "title_ja": null,
-      "excerpt": "The Titans changed their logos and uniforms this year, and now they're making changes in their front office — including firing the executive who oversaw the uniform changes.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 08:57:54 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-fire-three-executives-including-the-v-p-who-oversaw-the-uniform-change"
-    },
-    {
-      "kind": "other",
-      "title": "2026 AL, NL Pennant Odds: Which Teams Will Meet In Fall Classic?",
-      "title_ja": null,
-      "excerpt": "The pennant races are as close as can be now that we're inching toward baseball's final four. See the latest odds.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 08:54:36 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/2026-al-nl-pennant-odds"
-    },
-    {
-      "kind": "other",
-      "title": "2026 MLB NLCS Odds: Dodgers Slightly Favored Over Brewers",
-      "title_ja": null,
-      "excerpt": "It's a rematch of last year's NLCS. Check out the odds and what to know ahead of Brewers-Dodgers.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 08:47:56 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-nlcs-odds-dodgers-brewers"
-    },
-    {
-      "kind": "other",
-      "title": "How to Watch Nebraska vs. Indiana Volleyball: TV Channel, Streaming, Time",
-      "title_ja": null,
-      "excerpt": "No. 1 Nebraska takes its unbeaten record on the road to No. 15 Indiana on Thursday night. Here's the TV channel, streaming and start time.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 08:31:24 -0400",
-      "url": "https://www.foxsports.com/stories/college-sports/how-watch-nebraska-vs-indiana-volleyball-tv-channel-streaming-time"
-    },
-    {
-      "kind": "other",
-      "title": "How to Watch Buccaneers vs. Cowboys: TV Channel, Live Stream, Time",
-      "title_ja": null,
-      "excerpt": "Learn which TV channel or how to live stream the NFL Week 5 Buccaneers and Cowboys game.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 08:25:37 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-buccaneers-vs-cowboys-tv-channel-live-stream-time-2026-week-5"
-    },
-    {
-      "kind": "other",
-      "title": "2026 MLB Divisional Series Odds: What To Know About Each Matchup",
-      "title_ja": null,
-      "excerpt": "Get prepared for the second round of the MLB postseason with FOX Sports' divisional series hub.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 08:21:56 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-divisional-series-odds-what-know-about-each-matchup"
-    },
-    {
-      "kind": "rumor",
-      "title": "2027 NFL Mock Draft: Arch Manning First QB Selected, Jeremiah Smith No. 1 Overall",
-      "title_ja": null,
-      "excerpt": "An unexpected first month of the NFL season has shaken up the projected draft order and shifted priorities for several teams across the league.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 08:00:25 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-mock-draft-arch-manning-first-qb-selected-jeremiah-smith-no-1-overall"
-    },
-    {
-      "kind": "other",
-      "title": "College Football Week 6 Expert Picks, Predictions For Alabama-Georgia And More",
-      "title_ja": null,
-      "excerpt": "Here are FOX Sports' expert picks for Week 6 of the college football season.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 07:00:17 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/picks-predictions-alabama-georgia-texas-oklahoma-odds-week-6"
-    },
-    {
       "kind": "other",
       "title": "Sean Payton: Offensive focus needs to be on details, not who calls plays",
       "title_ja": null,
@@ -1300,72 +1412,8 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-offensive-focus-needs-to-be-on-details-not-who-calls-plays"
     },
     {
-      "kind": "other",
-      "title": "'Daaa Yankees Lose!': Tampa Bay Rays Players Enjoying Sweep Over Rivals",
-      "title_ja": null,
-      "excerpt": "The Tampa Bay Rays are making sure you know one thing: 'Daaaa Yankees lose!\"",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 03:00:27 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/daaa-yankees-lose-papi-david-ortiz-junior-caminero-tampa-bay-rays-sweep"
-    },
-    {
-      "kind": "other",
-      "title": "The Way This Yankees Season Ended Was All Too Familar",
-      "title_ja": null,
-      "excerpt": "This was the third consecutive year the Yankees saw the better team win and advance. It was also the third straight year the Yankees made countless, avoidable mistakes that always — always — came back to haunt them.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 02:44:19 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/way-yankees-season-ended-all-too-familar"
-    },
-    {
-      "kind": "other",
-      "title": "2026 MLB Playoff Schedule: Dates, Rounds, World Series",
-      "title_ja": null,
-      "excerpt": "See the complete 2026 MLB playoff schedule by round, including Wild Card, Division Series, LCS and World Series dates and TV channels.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 02:25:11 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-playoff-schedule-dates-rounds-how-watch"
-    },
-    {
-      "kind": "other",
-      "title": "MLB Division Series Roundup: Dodgers, Brewers, Rays Advance; Guardians Stay Alive",
-      "title_ja": null,
-      "excerpt": "Here is what stood out from Day 5 of the MLB Division Series.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 08 Oct 2026 02:11:35 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-division-series-roundup-dodgers-brewers-advance-nlcs-rays-sweep-yankees"
-    },
-    {
       "kind": "rumor",
-      "title": "NFL news, live updates: Jayden Daniels a &#39;full go&#39; ahead; Sean Payton will reportedly have &#39;increased role&#39; in offensive play-calling with OC Davis Webb in Week 5",
+      "title": "NFL news, live updates: Jayden Daniels a &#39;full go&#39; and Ja&#39;Marr Chase is practicing; Sean Payton to reportedly have &#39;increased role&#39; in offensive play-calling with OC Davis Webb in Week 5",
       "title_ja": null,
       "excerpt": "Follow along with the latest NFL news coming out of Week 4.",
       "excerpt_ja": null,
@@ -1412,20 +1460,68 @@
       "url": "https://www.cbssports.com/nfl/news/nfl-bye-weeks-2026/"
     },
     {
-      "kind": "injury",
-      "title": "NFL, NFLPA clarify celebration penalties, say imitating drinking won't be penalty or subject to fine",
+      "kind": "other",
+      "title": "Today's top games to watch, best bets, odds: Buccaneers at Cowboys, Guardians vs. White Sox Game 4 and more",
       "title_ja": null,
-      "excerpt": "Kyle Juszczyk and Jake Ferguson had their fines rescinded Wednesday",
+      "excerpt": "Find best bets and props for the biggest games in sports on Thursday from the SportsLine Projection Model and top CBS Sports experts",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "DAL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Wed, 07 Oct 2026 21:20:09 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/nfl-nflpa-clarify-celebration-penalties-fines/"
+      "published_at": "\n                        Thu, 08 Oct 2026 19:30:49 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-buccaneers-at-cowboys-guardians-vs-white-sox-game-4-and-more/"
+    },
+    {
+      "kind": "signing",
+      "title": "Use FanDuel promo code to get $250 bonus bets by targeting Cowboys vs. Buccaneers on Thursday Night Football",
+      "title_ja": null,
+      "excerpt": "Sign up and bet with the latest FanDuel promo code on Thursday to get your bonus bets",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Thu, 08 Oct 2026 18:37:55 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-cowboys-vs-buccaneers-thursday-night-football/"
+    },
+    {
+      "kind": "other",
+      "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Buccaneers-Cowboys, Thursday Night Football",
+      "title_ja": null,
+      "excerpt": "DraftKings offers $150 in bonus bets after your first $5 wager for Cowboys vs. Buccaneers on Thursday Night Football",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Thu, 08 Oct 2026 18:34:35 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/use-draftkings-promo-code-to-claim-150-bonus-bets-buccaneers-cowboys-thursday-night-football/"
+    },
+    {
+      "kind": "injury",
+      "title": "It wouldn't shock me IF ... NFL Week 5: Nick Sirianni's seat heats up, Sean Payton takes back playcalling",
+      "title_ja": null,
+      "excerpt": "Could the 49ers plant their flag as the Super Bowl favorites? Will Jacoby Brissett be the latest QB to light up the Lions?",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Thu, 08 Oct 2026 17:48:57 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/it-wouldnt-shock-me-if-nfl-week-5-nick-siriannis-sean-payton/"
     },
     {
       "kind": "signing",
@@ -1493,22 +1589,6 @@
     },
     {
       "kind": "other",
-      "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Cowboys-Buccaneers, Thursday Night Football",
-      "title_ja": null,
-      "excerpt": "DraftKings offers $150 in bonus bets after your first $5 wager for Cowboys vs. Buccaneers on Thursday Night Football",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 08 Oct 2026 15:53:21 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/use-draftkings-promo-code-to-claim-150-bonus-bets-cowboys-buccaneers-thursday-night-football/"
-    },
-    {
-      "kind": "other",
       "title": "Use BetMGM bonus code CBSSPORTS to get $1500 bonus bets by betting Cowboys-Buccaneers Thursday Night Football",
       "title_ja": null,
       "excerpt": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Cowboys vs. Buccaneers on Thursday Night Football",
@@ -1522,22 +1602,6 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 08 Oct 2026 15:34:14 +0000\n                    ",
       "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-betting-cowboys-buccaneers-thursday-night-football/"
-    },
-    {
-      "kind": "signing",
-      "title": "Use FanDuel promo code to get $250 bonus bets by targeting Buccaneers vs. Cowboys on Thursday Night Football",
-      "title_ja": null,
-      "excerpt": "Sign up and bet with the latest FanDuel promo code on Thursday to get your bonus bets",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 08 Oct 2026 15:18:32 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-buccaneers-cowboys-thursday-night-football/"
     },
     {
       "kind": "other",
@@ -1762,22 +1826,6 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 08 Oct 2026 12:12:53 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-5-picks-buccaneers-at-cowboys-49ers-at-seahawks/"
-    },
-    {
-      "kind": "injury",
-      "title": "It wouldn't shock me IF ... NFL Week 5: Nick Sirianni's seat heats up, Sean Payton takes back playcalling",
-      "title_ja": null,
-      "excerpt": "Could the 49ers plant their flag as the Super Bowl favorites? Will Jacoby Brissett be the latest QB to light up the Lions?",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 08 Oct 2026 11:58:30 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/it-wouldnt-shock-me-if-nfl-week-5-nick-siriannis-sean-payton/"
     },
     {
       "kind": "other",

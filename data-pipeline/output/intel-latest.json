@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T18:44:26.609344+00:00",
-  "count": 119,
+  "generated_at": "2026-10-12T20:05:00.435975+00:00",
+  "count": 118,
   "items": [
     {
       "kind": "injury",
@@ -34,22 +34,6 @@
       "coach_name": null,
       "published_at": "Sun, 11 Oct 2026 21:00:49 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dre-greenlaw-could-be-facing-another-suspension"
-    },
-    {
-      "kind": "presser",
-      "title": "Packers LB Zaire Franklin: Luther Burden said he'd make us quit, but he quit Sunday",
-      "title_ja": null,
-      "excerpt": "The Packers blew leads late in losses to the Bears in both the regular season and playoffs last season, which would have provided Green Bay with plenty of motivation for Sunday's game at Lambeau Field all by itself.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sun, 11 Oct 2026 20:40:55 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-lb-zaire-franklin-luther-burden-said-hed-make-us-quit-but-he-quit-sunday"
     },
     {
       "kind": "other",
@@ -132,10 +116,26 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-throws-for-160-yards-and-two-tds-in-first-half-as-patriots-roll-over-raiders"
     },
     {
-      "kind": "injury",
-      "title": "UCLA QB Nico Iamaleava reportedly sidelined &#39;indefinitely,&#39; could miss &#39;remainder of season&#39;",
+      "kind": "other",
+      "title": "Who’s to blame for Washington’s season-defining blunder?",
       "title_ja": null,
-      "excerpt": "Iamaleava suffered the injury during UCLA&#39;s upset win over Oregon last weekend.",
+      "excerpt": "The Commanders blunder Sunday was an all-timer, and there is plenty of blame to go around.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "WAS",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 19:50:41 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/whos-to-blame-for-washingtons-season-defining-blunder-195041970.html"
+    },
+    {
+      "kind": "other",
+      "title": "Why has Matthew Stafford’s season been so “weird”?",
+      "title_ja": null,
+      "excerpt": "Nate Tice has been perplexed by the start of Matthew Stafford’s 2026",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -144,8 +144,216 @@
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 18:29:58 +0000",
-      "url": "https://sports.yahoo.com/college-football/breaking-news/article/ucla-qb-nico-iamaleava-reportedly-sidelined-indefinitely-could-miss-remainder-of-season-182958904.html"
+      "published_at": "Mon, 12 Oct 2026 19:47:35 +0000",
+      "url": "https://sports.yahoo.com/articles/why-matthew-stafford-season-weird-194735734.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Deebo Samuel is expected to miss a ‘couple of weeks’ with a hamstring injury",
+      "title_ja": null,
+      "excerpt": "The 49ers&#39; depth at wide receiver takes another hit",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 19:41:19 +0000",
+      "url": "https://sports.yahoo.com/articles/deebo-samuel-expected-miss-couple-194119623.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Confident Caleb Lomu ready for starting role after Will Campbell injury",
+      "title_ja": null,
+      "excerpt": "The rookie is in line to take over as the Patriots’ left tackle.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 19:37:52 +0000",
+      "url": "https://sports.yahoo.com/articles/confident-caleb-lomu-ready-starting-193752460.html"
+    },
+    {
+      "kind": "other",
+      "title": "Mike Norvell on the collapse versus Louisville, looking ahead to Miami: “None of us were good enough”",
+      "title_ja": null,
+      "excerpt": "FSU’s coaching staff kicks off rivalry week ahead of a stiff road test Saturday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 19:24:53 +0000",
+      "url": "https://sports.yahoo.com/articles/mike-norvell-collapse-versus-louisville-192453661.html"
+    },
+    {
+      "kind": "other",
+      "title": "Honeymoon period for Rob Leonard is over after Las Vegas Raiders give up 45 points in loss to New England Patriots",
+      "title_ja": null,
+      "excerpt": "Winners and losers (mostly losers) from an embarrassing loss.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 19:10:00 +0000",
+      "url": "https://sports.yahoo.com/articles/honeymoon-period-rob-leonard-over-191000639.html"
+    },
+    {
+      "kind": "presser",
+      "title": "Dan Quinn: “Furious about our execution in the crucial moments in the game.”",
+      "title_ja": null,
+      "excerpt": "Dan Quinn&#39;s tries to explain what happened during his &#39;Tell the Truth Monday&#39; presser",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 19:08:48 +0000",
+      "url": "https://sports.yahoo.com/articles/dan-quinn-furious-execution-crucial-190848710.html"
+    },
+    {
+      "kind": "other",
+      "title": "Colts Monday Morning Awards: Week 5 @ Steelers",
+      "title_ja": null,
+      "excerpt": "At this point, is there an argument for anyone other than Jonathan Taylor or Spencer Shrader who have been the Colts’ most valuable player this season?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 19:00:37 +0000",
+      "url": "https://sports.yahoo.com/articles/monday-morning-awards-week-5-190037586.html"
+    },
+    {
+      "kind": "other",
+      "title": "After slow growth, Cowboys defense struggles vs lowly Bucs",
+      "title_ja": null,
+      "excerpt": "The Cowboys defense is unbelievably bad.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 19:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/slow-growth-cowboys-defense-struggles-190000680.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Report: Dre Greenlaw will appeal his one-game suspension",
+      "title_ja": null,
+      "excerpt": "As of now, 49ers linebacker Dre Greenlaw is not eligible to play in San Francisco&#39;s Week 6 game against Washington on Monday night.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 18:51:10 +0000",
+      "url": "https://sports.yahoo.com/articles/report-dre-greenlaw-appeal-one-185110217.html"
+    },
+    {
+      "kind": "other",
+      "title": "What are your boldest takes for Bills-Rams ‘MNF’ showdown in Week 5?",
+      "title_ja": null,
+      "excerpt": "The Buffalo Bills may need to employee some bold strategies against the Los Angeles Rams during Monday Night Football",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 18:49:35 +0000",
+      "url": "https://sports.yahoo.com/articles/boldest-takes-bills-rams-mnf-184935783.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Deep dive into the Cardinals’ trade of Marv Harrison",
+      "title_ja": null,
+      "excerpt": "The when, who, why, and why not",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 18:41:15 +0000",
+      "url": "https://sports.yahoo.com/articles/deep-dive-cardinals-trade-marv-184115604.html"
+    },
+    {
+      "kind": "other",
+      "title": "Eagles vs. Jaguars: 8 winners, 8 losers, 6 IDKs",
+      "title_ja": null,
+      "excerpt": "Let’s talk about that Week 5 loss in London.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "JAX",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 18:39:26 +0000",
+      "url": "https://sports.yahoo.com/articles/eagles-vs-jaguars-8-winners-183926599.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Report: Steelers WR Roman Wilson is expected to miss time with finger injury",
+      "title_ja": null,
+      "excerpt": "Steelers wide receiver Roman Wilson had to leave Sunday&#39;s win over the Colts with a finger injury and it looks like he won&#39;t be making an immediate return to action.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 18:35:01 +0000",
+      "url": "https://sports.yahoo.com/articles/report-steelers-wr-roman-wilson-183501334.html"
+    },
+    {
+      "kind": "other",
+      "title": "Joe Burrow gives stern warning to Bengals following mistake-filled win vs. Dolphins",
+      "title_ja": null,
+      "excerpt": "Good enough to beat Miami, but not good enough to beat good teams.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 18:33:09 +0000",
+      "url": "https://sports.yahoo.com/articles/joe-burrow-gives-stern-warning-183309635.html"
     },
     {
       "kind": "injury",
@@ -340,54 +548,6 @@
       "url": "https://sports.yahoo.com/articles/fernando-mendoza-gets-feet-wet-180300448.html"
     },
     {
-      "kind": "presser",
-      "title": "Video, Transcript: Jeff Brohm Weekly Press Conference",
-      "title_ja": null,
-      "excerpt": "Video: Transcript: (Opening statement) “Ready to get back to work, going on the road. Syracuse is a tough place to play – always has been. We’ve got to have a good week of prac?ce and I think it’s important for our team to find ways to con?nue to improve, get beCer at the things that […]",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 18:02:35 +0000",
-      "url": "https://sports.yahoo.com/articles/video-transcript-jeff-brohm-weekly-180235499.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Fantasy football buy, sell: 10 trade candidates for Week 6",
-      "title_ja": null,
-      "excerpt": "Whether you&#39;re 5-0 or trying to save your fantasy football season, there are plenty of trades to make in Week 6.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 18:02:09 +0000",
-      "url": "https://sports.yahoo.com/articles/fantasy-football-buy-sell-10-180209441.html"
-    },
-    {
-      "kind": "other",
-      "title": "3 lessons we learned from the 49ers’ win over Seattle: The bullies are back",
-      "title_ja": null,
-      "excerpt": "The 49ers took it to Seattle and sent a strong message",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 18:01:00 +0000",
-      "url": "https://sports.yahoo.com/articles/3-lessons-learned-49ers-win-180100478.html"
-    },
-    {
       "kind": "rumor",
       "title": "Micah Parsons reportedly not expected to return from ACL tear for Packers-Cowboys game Sunday night",
       "title_ja": null,
@@ -404,180 +564,148 @@
       "url": "https://sports.yahoo.com/nfl/breaking-news/article/micah-parsons-reportedly-not-expected-to-return-from-acl-tear-for-packers-cowboys-game-sunday-night-175934497.html"
     },
     {
-      "kind": "other",
-      "title": "Chargers Week 5 PFF Grades: Scott Matlock returns with a bang, Akheem Mesidor nearly elite",
+      "kind": "presser",
+      "title": "Jesse Minter: Lamar Jackson is \"definitely doing better\"",
       "title_ja": null,
-      "excerpt": "Scott Matlock was the best player on the Chargers offense against the Broncos in Week 5.",
+      "excerpt": "Baltimore's HC said the QB is doing everything he can to get back on the field.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DEN",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 17:57:26 +0000",
-      "url": "https://sports.yahoo.com/articles/chargers-week-5-pff-grades-175726104.html"
+      "published_at": "Mon, 12 Oct 2026 15:40:33 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jesse-minter-lamar-jackson-is-definitely-doing-better"
+    },
+    {
+      "kind": "injury",
+      "title": "No. 12 UCLA QB Nico Iamaleava Reportedly Out Indefinitely With Knee Injury",
+      "title_ja": null,
+      "excerpt": "Nico Iamaleava is expected to remain out indefinitely with the knee injury. While a final timeline remains pending a full medical evaluation, there is a real chance he could miss the rest of the season.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 15:34:42 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/ucla-bruins-qb-nico-iamaleava-knee-injury"
+    },
+    {
+      "kind": "other",
+      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
+      "title_ja": null,
+      "excerpt": "The Chiefs have returned to form and the Niners are taking control of the NFC West. See the latest NFL postseason odds.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 15:34:42 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds"
+    },
+    {
+      "kind": "other",
+      "title": "Chris 'The Bear' Fallica's 2026 College Football Top 10 — Week 7",
+      "title_ja": null,
+      "excerpt": "The former No. 1 has gone down. Who does 'The Bear' have in the top spot this week? See Chris Fallica's latest CFB rankings.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 15:22:30 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/chris-the-bear-fallicas-2026-college-football-top-10-week-7"
+    },
+    {
+      "kind": "other",
+      "title": "Polymarket promo code FOX: Deposit $10, Get a $25 bonus for October Sports",
+      "title_ja": null,
+      "excerpt": "Use Polymarket promo code FOX to deposit $10 and get a $25 trading bonus on the world's largest prediction market platform. New users only. 18+. Not available in AZ, IL, MA, MD, MI, MT, NJ, NV, OH.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 15:10:19 -0400",
+      "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "'I Don’t Get Paid Overtime': Kyle Hamilton’s Ice-Cold Line After Sealing Ravens W",
+      "title_ja": null,
+      "excerpt": "Kyle Hamilton wasn't trying to stay late.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 12 Oct 2026 15:07:34 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/baltimore-ravens-atlanta-falcons-overtime-kyle-hamilton"
     },
     {
       "kind": "rumor",
-      "title": "Micah Parsons expected to remain sidelined",
+      "title": "Report: Dre Greenlaw will appeal his one-game suspension",
       "title_ja": null,
-      "excerpt": "Packers DE Micah Parsons not ready to return to practice at this time",
+      "excerpt": "As of now, 49ers linebacker Dre Greenlaw is not eligible to play in San Francisco's Week 6 game against Washington on Monday night.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 17:57:08 +0000",
-      "url": "https://sports.yahoo.com/articles/micah-parsons-expected-remain-sidelined-175708321.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Eagles reportedly bring back defensive tackle on the practice squad",
-      "title_ja": null,
-      "excerpt": "The Eagles were able to bring back Zion Wilson to the practice squad.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 17:47:12 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-reportedly-bring-back-defensive-174712782.html"
-    },
-    {
-      "kind": "other",
-      "title": "Should the Rams have made a bigger push for Mike Evans?",
-      "title_ja": null,
-      "excerpt": "The Rams should have targeted Evans instead of Jaylen Watson",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 17:45:00 +0000",
-      "url": "https://sports.yahoo.com/articles/rams-made-bigger-push-mike-174500143.html"
-    },
-    {
-      "kind": "other",
-      "title": "Panthers opening practice windows for Taylor Moton, Turk Wharton",
-      "title_ja": null,
-      "excerpt": "The Panthers are getting a couple of players back on the practice field this week.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.54,
-      "team_abbrev": "CAR",
+      "team_abbrev": "SF",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 17:38:37 +0000",
-      "url": "https://sports.yahoo.com/articles/panthers-opening-practice-windows-taylor-173837619.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Serious knee injury for Tom Kennedy",
-      "title_ja": null,
-      "excerpt": "Lions WR Tom Kennedy expected to have surgery after Week 5 injury",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 17:35:16 +0000",
-      "url": "https://sports.yahoo.com/articles/serious-knee-injury-tom-kennedy-173516616.html"
+      "published_at": "Mon, 12 Oct 2026 14:51:10 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dre-greenlaw-will-appeal-his-one-game-suspension"
     },
     {
       "kind": "other",
-      "title": "Colts have more questions than answers",
+      "title": "Jags' DaVon Hamilton on filling it at long snapper: \"You've got to do a job? Get it done\"",
       "title_ja": null,
-      "excerpt": "We need better out of both to succeed.",
+      "excerpt": "When Jaguars long snapper Ross Matiscik got hurt on his first snap on Sunday in London, nose tackle DaVon Hamilton filled in.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 17:32:00 +0000",
-      "url": "https://sports.yahoo.com/articles/colts-more-questions-answers-173200602.html"
-    },
-    {
-      "kind": "other",
-      "title": "3 things we learned from the Bengals’ bounce back win over the Dolphins",
-      "title_ja": null,
-      "excerpt": "The offense is alive and well.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 17:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/3-things-learned-bengals-bounce-173000066.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Carson Schwesinger uncertain for Week 6",
-      "title_ja": null,
-      "excerpt": "Browns LB Carson Schwesinger injured ankle in Week 5 and may miss time",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 17:29:01 +0000",
-      "url": "https://sports.yahoo.com/articles/carson-schwesinger-uncertain-week-6-172901764.html"
-    },
-    {
-      "kind": "other",
-      "title": "Nick Sirianni&#39;s mistake was confirmed by his kick-coverage unit",
-      "title_ja": null,
-      "excerpt": "Eagles coach Nick Sirianni took the blame for the failure to put the final kickoff of Sunday&#39;s London game against the Jaguars into the end zone.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "JAX",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 17:22:57 +0000",
-      "url": "https://sports.yahoo.com/articles/nick-siriannis-mistake-confirmed-kick-172257533.html"
+      "published_at": "Mon, 12 Oct 2026 14:48:12 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jags-davon-hamilton-on-filling-it-at-long-snapper-youve-got-to-do-a-job-get-it-done"
     },
     {
-      "kind": "trade",
-      "title": "Marvin Harrison Jr. trade: Fantasy football impact for Texans&#39; Nico Collins, C.J. Stroud and more",
+      "kind": "other",
+      "title": "2026 NFL Odds Week 5: Lines, Spreads, Results For All 15 Games",
       "title_ja": null,
-      "excerpt": "Hayden Winks examines the fantasy fallout of Marvin Harrison Jr. joining the Texans.",
+      "excerpt": "Check out the odds for every Week 5 matchup in the NFL.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "HOU",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 17:22:04 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/marvin-harrison-jr-trade-fantasy-football-impact-for-texans-nico-collins-cj-stroud-and-more-172204735.html"
+      "published_at": "Mon, 12 Oct 2026 14:42:58 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-5-lines-spreads-results-all-15-games"
     },
     {
       "kind": "injury",
@@ -588,7 +716,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.5,
+      "reliability": 0.54,
       "team_abbrev": "IND",
       "player_name": null,
       "coach_name": null,
@@ -716,7 +844,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "CAR",
       "player_name": null,
       "coach_name": null,
@@ -978,22 +1106,6 @@
       "coach_name": null,
       "published_at": "Mon, 12 Oct 2026 13:00:51 -0400",
       "url": "https://www.foxsports.com/stories/betting/sportsbook-promo-bonus"
-    },
-    {
-      "kind": "other",
-      "title": "Polymarket promo code FOX: Deposit $10, Get a $25 bonus for October Sports",
-      "title_ja": null,
-      "excerpt": "Use Polymarket promo code FOX to deposit $10 and get a $25 trading bonus on the world's largest prediction market platform. New users only. 18+. Not available in AZ, IL, MA, MD, MI, MT, NJ, NV, OH.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 13:00:48 -0400",
-      "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code"
     },
     {
       "kind": "injury",
@@ -1269,70 +1381,6 @@
     },
     {
       "kind": "other",
-      "title": "CFB Superlatives: Indiana Perseveres, Kirby Smart's Tuscaloosa Win, CFP Impacts",
-      "title_ja": null,
-      "excerpt": "Breaking down the game, coach and player of the week — plus CFP impacts of Week 6's madness.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 10:32:53 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/week-6-superlatives-indiana-georgia-alabama-texas-oklahoma"
-    },
-    {
-      "kind": "other",
-      "title": "Sean Payton: Offense was good enough to win, but things we need to improve on",
-      "title_ja": null,
-      "excerpt": "Broncos head coach Sean Payton's return to calling the team's offensive plays didn't result in a transformation on that side of the ball against the Chargers on Sunday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 10:08:58 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-offense-was-good-enough-to-win-but-things-we-need-to-improve-on"
-    },
-    {
-      "kind": "injury",
-      "title": "Mike LaFleur on possible QB change after latest loss: \"Jacoby [Brissett] was not the problem\"",
-      "title_ja": null,
-      "excerpt": "The Cardinals lost their franchise-record ninth straight home game on Sunday, in blowout fashion to the Lions.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ARI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 10:04:41 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-lafleur-on-possible-qb-change-after-latest-loss-jacoby-brissett-was-not-the-problem"
-    },
-    {
-      "kind": "other",
-      "title": "NFL, CFB Weekend Betting Recap: Cowboys Doom Bettors In 'Season's Biggest Upset'",
-      "title_ja": null,
-      "excerpt": "NFL Week 5 got off to an unimaginable start for bettors on Thursday night. Patrick Everson has that and more.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 10:00:36 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-cfb-weekend-betting-recap-cowboys-doom-bettors-seasons-biggest-upset"
-    },
-    {
-      "kind": "other",
       "title": "Buffalo Bills vs. Los Angeles Rams: How to watch Monday Night Football, start time, where to stream free and more",
       "title_ja": null,
       "excerpt": "Tune in to tonight&#39;s Buffalo Bills vs. Los Angeles Rams MNF action without cable — here&#39;s how.",
@@ -1346,70 +1394,6 @@
       "coach_name": null,
       "published_at": "Mon, 12 Oct 2026 10:00:00 +0000",
       "url": "https://sports.yahoo.com/nfl/article/buffalo-bills-vs-los-angeles-rams-how-to-watch-monday-night-football-start-time-where-to-stream-free-and-more-100000791.html"
-    },
-    {
-      "kind": "other",
-      "title": "2026 College Football Rankings: Georgia Stays At The Top, Texas Tumbles",
-      "title_ja": null,
-      "excerpt": "Now that six weeks of college football are in the books, here are Klatt’s 10 best teams in the country.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 09:56:51 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/joel-klatt-show-top-10-rankings-georgia-bulldogs-texas-longhorns"
-    },
-    {
-      "kind": "other",
-      "title": "Mike Evans Was Right About Being 49ers’ Missing Piece; Nick Sirianni In Trouble?",
-      "title_ja": null,
-      "excerpt": "Just like he predicted, 49ers WR Mike Evans has been one of the NFL's best additions. Plus, what happened to the Eagles and Commanders?",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 09:35:27 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/mike-evans-49ers-missing-piece-eagles-coach-nick-sirianni-on-hot-seat"
-    },
-    {
-      "kind": "other",
-      "title": "Monday Morning NFL Top 10 Rankings: 49ers Stand Tall; 3 Teams Move In",
-      "title_ja": null,
-      "excerpt": "The San Francisco 49ers remain in the top spot, but there were three teams that broke into the top 10 this week.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 09:33:19 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/monday-morning-nfl-top-10-rankings-49ers-stand-strong-5-teams-drop-out"
-    },
-    {
-      "kind": "other",
-      "title": "How to Watch Bills vs. Rams: MNF TV Channel, Live Stream, Time",
-      "title_ja": null,
-      "excerpt": "Learn which TV channel or how to live stream the NFL Week 5 Buffalo Bills and Los Angeles Rams game.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Mon, 12 Oct 2026 09:11:25 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bills-vs-rams-tv-channel-live-stream-time-oct-12-2026"
     },
     {
       "kind": "injury",
@@ -1460,10 +1444,74 @@
       "url": "https://www.cbssports.com/nfl/news/commanders-giants-overtime-clock-management-magic-johnson/"
     },
     {
-      "kind": "other",
-      "title": "Robert Saleh backs Cam Ward as Titans' starting QB despite 0-5 start",
+      "kind": "injury",
+      "title": "Michael Penix Jr. injury: Falcons QB's injury not considered serious but Week 6 status unclear, per report",
       "title_ja": null,
-      "excerpt": "Robert Saleh says Tennessee will give Ward \"every opportunity to be successful\" despite the quarterback's limited second-year progress",
+      "excerpt": "Penix might be available for Sunday's game against the Bears",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ATL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Mon, 12 Oct 2026 19:46:21 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/michael-penix-jr-injury-update-falcons-qb-ravens-bears/"
+    },
+    {
+      "kind": "other",
+      "title": "Today's top games to watch, best bets, odds: Dodgers vs. Brewers, Bills vs. Rams on MNF and more",
+      "title_ja": null,
+      "excerpt": "Find best bets for the biggest games in sports on Monday from the SportsLine Projection Model and top CBS Sports experts",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Mon, 12 Oct 2026 19:11:36 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-dodgers-vs-brewers-bills-vs-rams-on-mnf-and-more/"
+    },
+    {
+      "kind": "other",
+      "title": "NFL suspends Dre Greenlaw one game after head-butting incident in 49ers' win over Seahawks",
+      "title_ja": null,
+      "excerpt": "The discipline stems from a second-quarter incident where the linebacker drew a late-hit flag on Sam Darnold and headbutted a helmetless Ernest Jones IV",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "SF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Mon, 12 Oct 2026 18:34:12 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfl-suspends-49ers-dre-greenlaw-seahawks/"
+    },
+    {
+      "kind": "trade",
+      "title": "Javon Hargrave out for season with torn Achilles: Three trade targets for Packers",
+      "title_ja": null,
+      "excerpt": "Green Bay is running short on healthy defensive linemen after losing Hargrave and Edgerrin Cooper to season-ending Achilles injuries",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Mon, 12 Oct 2026 18:28:11 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/javon-hargrave-injury-update-packers-trade-targets/"
+    },
+    {
+      "kind": "other",
+      "title": "Should winless Titans bench Cam Ward? Why abandoning the former No. 1 pick will not fix Tennessee's' turmoil",
+      "title_ja": null,
+      "excerpt": "Turning to Mitch Trubisky will not fix an offense averaging just 11.6 points or an expensive, revamped defense that has disappointed",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
@@ -1472,72 +1520,24 @@
       "team_abbrev": "TEN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Sun, 11 Oct 2026 23:25:24 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/titans-robert-saleh-cam-ward-starting-qb-2026/"
+      "published_at": "\n                        Mon, 12 Oct 2026 18:22:59 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/why-titans-should-not-bench-cam-ward-robert-saleh/"
     },
     {
-      "kind": "signing",
-      "title": "Use FanDuel promo code to get $250 in bonus bets for Ravens vs. Falcons on Sunday Night Football",
+      "kind": "trade",
+      "title": "2026 NFL trade deadline candidates: Khalil Mack leads five Pro Bowl players who could be moved next",
       "title_ja": null,
-      "excerpt": "Sign up and bet on the NFL Week 5 Ravens vs. Falcons SNF matchup with the latest FanDuel promo code",
+      "excerpt": "The winless Chargers have little reason to retain Mack, an aging pass rusher on an expiring contract who could help a playoff contender",
       "excerpt_ja": null,
       "sources": [
         "CBS Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "ATL",
+      "team_abbrev": "LAC",
       "player_name": null,
       "coach_name": null,
-      "published_at": "\n                        Sun, 11 Oct 2026 23:19:59 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-ravens-vs-falcons-sunday-night-football/"
-    },
-    {
-      "kind": "other",
-      "title": "Falcons vs. Ravens odds, predictions, start time, betting preview: Sunday Night Football picks, best bets",
-      "title_ja": null,
-      "excerpt": "Best bets and betting preview for Ravens vs. Falcons on Sunday Night Football",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Sun, 11 Oct 2026 23:02:37 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/falcons-vs-ravens-odds-predictions-start-time-betting-preview-sunday-night-football-picks-best-bets/"
-    },
-    {
-      "kind": "other",
-      "title": "Ravens vs. Falcons odds, picks, predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus on NFL Week 5",
-      "title_ja": null,
-      "excerpt": "With Atlanta hosting Baltimore in NFL Week 5 action on Sunday Night Football, here are different trading markets available at Kalshi",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Sun, 11 Oct 2026 23:01:30 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/ravens-vs-falcons-odds-picks-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus-on-nfl-week-5/"
-    },
-    {
-      "kind": "other",
-      "title": "Falcons vs. Ravens picks, prediction, player props: Expert's best bets for Sunday Night Football NFL Week 5",
-      "title_ja": null,
-      "excerpt": "With Lamar Jackson sidelined, expect a run-heavy clash between Derrick Henry and Bijan Robinson that keeps the scoring low and creates prime value on player props",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Sun, 11 Oct 2026 23:00:56 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/falcons-vs-ravens-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-nfl-week-5/"
+      "published_at": "\n                        Mon, 12 Oct 2026 18:07:01 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-big-name-candidates-khalil-mack-jerry-jeudy/"
     },
     {
       "kind": "other",
@@ -1810,22 +1810,6 @@
       "coach_name": null,
       "published_at": "\n                        Mon, 12 Oct 2026 12:11:40 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-6-early-odds-spreads-full-schedule/"
-    },
-    {
-      "kind": "injury",
-      "title": "Michael Penix Jr. injury: Falcons QB hurts ribs late in regulation on 'SNF,' says he'll be ready for Week 6",
-      "title_ja": null,
-      "excerpt": "Penix initially only left the game for one play but then couldn't play in overtime",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Mon, 12 Oct 2026 04:47:52 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/michael-penix-jr-injury-update-falcons-qb-ravens-bears/"
     },
     {
       "kind": "other",

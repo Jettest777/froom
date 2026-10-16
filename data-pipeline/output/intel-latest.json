@@ -1,8 +1,40 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T23:45:32.090718+00:00",
+  "generated_at": "2026-10-16T00:00:16.820442+00:00",
   "count": 112,
   "items": [
+    {
+      "kind": "injury",
+      "title": "Rams add S Kam Curl to practice report with an ankle injury",
+      "title_ja": null,
+      "excerpt": "The Rams added safety Kam Curl to the practice report Thursday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 15 Oct 2026 23:43:17 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-add-kam-curl-practice-234317817.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Jeremiyah Love missed practice again on Thursday",
+      "title_ja": null,
+      "excerpt": "Cardinals running back Jeremiyah Love&#39;s ankle injury continues to create uncertainty about the first-round pick&#39;s availability for Sunday&#39;s game against the Rams.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 15 Oct 2026 23:41:30 +0000",
+      "url": "https://sports.yahoo.com/articles/jeremiyah-love-missed-practice-again-234130920.html"
+    },
     {
       "kind": "other",
       "title": "Seahawks at Broncos Thursday Night Football Discussion Thread",
@@ -279,7 +311,7 @@
       "kind": "rumor",
       "title": "Rams could see debut of rookie Keagen Trost this week",
       "title_ja": null,
-      "excerpt": "Trost has 21 days to return to the team, but McVay thinks it won’t take nearly that long",
+      "excerpt": "Keagen Trost could be suiting up on gameday for the Los Angeles Rams at a great time for the team",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -437,35 +469,19 @@
     },
     {
       "kind": "injury",
-      "title": "Texans&#39; Tank Dell, David Montgomery, Jalen Pitre will not travel to London to play Jaguars",
+      "title": "Rams add S Kam Curl to practice report with an ankle injury",
       "title_ja": null,
-      "excerpt": "Three injured Texans will stay home rather than make the trip to London to face the Jaguars on Sunday.",
+      "excerpt": "The Rams added safety Kam Curl to the practice report Thursday.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "HOU",
+      "reliability": 0.54,
+      "team_abbrev": "LAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Thu, 15 Oct 2026 21:48:36 +0000",
-      "url": "https://sports.yahoo.com/articles/texans-tank-dell-david-montgomery-214836793.html"
-    },
-    {
-      "kind": "presser",
-      "title": "Cowboys DC Christian Parker: Mike Pettine a &quot;right-hand man&quot; not a &quot;save the day&quot; hire",
-      "title_ja": null,
-      "excerpt": "The Cowboys hired longtime NFL defensive coordinator and former Browns head coach Mike Pettine as a senior defensive assistant this week and defensive coordinator Christian Parker was asked at a Thursday press conference if Pettine is a &quot;save the day&quot; hire after a rough start.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 15 Oct 2026 21:46:20 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-dc-christian-parker-mike-214620399.html"
+      "published_at": "Thu, 15 Oct 2026 19:43:17 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-add-s-kam-curl-to-practice-report-with-an-ankle-injury"
     },
     {
       "kind": "injury",
@@ -476,12 +492,44 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.5,
+      "reliability": 0.54,
       "team_abbrev": "ARI",
       "player_name": null,
       "coach_name": null,
       "published_at": "Thu, 15 Oct 2026 19:41:30 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiyah-love-missed-practice-again-on-thursday"
+    },
+    {
+      "kind": "other",
+      "title": "When Winning Isn't Everything: How Great Coaches Navigate Defeat",
+      "title_ja": null,
+      "excerpt": "One loss can derail a season or become a turning point. Urban Meyer, Steve Sarkisian and Chris Petersen explain how great coaches help teams overcome defeat.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 15 Oct 2026 19:36:10 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/when-winning-isnt-everything-urban-meyer-steve-sarkisian-chris-petersen"
+    },
+    {
+      "kind": "other",
+      "title": "Novig Promo Code FOXSPORTS Unlocks $50 Bonus for Broncos vs. Seahawks",
+      "title_ja": null,
+      "excerpt": "Novig Promo Code FOXSPORTS Unlocks $50 Bonus for Broncos vs. Seahawks.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Thu, 15 Oct 2026 19:35:02 -0400",
+      "url": "https://www.foxsports.com/stories/betting/novig-promo-code-foxsports-unlocks-50-bonus-broncos-vs-seahawks"
     },
     {
       "kind": "other",
@@ -1188,22 +1236,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tanner-mckee-set-for-the-first-meaningful-start-of-his-nfl-career-with-jalen-hurts-out"
     },
     {
-      "kind": "signing",
-      "title": "Philadelphia Eagles Detail Blood Clot In QB Jalen Hurts' Calf",
-      "title_ja": null,
-      "excerpt": "The Philadelphia Eagles revealed that quarterback Jalen Hurts is dealing with a blood clot in his calf.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 15 Oct 2026 13:33:15 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-injury-panthers-eagles-schedule-tanner-mckee"
-    },
-    {
       "kind": "other",
       "title": "Mason Graham, Quinshon Judkins, Carson Schwesinger remain out of Browns practice",
       "title_ja": null,
@@ -1220,22 +1252,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mason-graham-quinshon-judkins-carson-schwesinger-remain-out-of-browns-practice"
     },
     {
-      "kind": "other",
-      "title": "Lamar Jackson remains out of practice on Thursday for Week 6",
-      "title_ja": null,
-      "excerpt": "It looks like Tyler Huntley is likely to start another game.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 15 Oct 2026 13:20:28 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-remains-out-of-practice-on-thursday-for-week-6"
-    },
-    {
       "kind": "injury",
       "title": "Jalen Hurts is out for Sunday with a blood clot in his leg",
       "title_ja": null,
@@ -1250,22 +1266,6 @@
       "coach_name": null,
       "published_at": "Thu, 15 Oct 2026 13:00:13 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-hurts-is-out-for-sunday-with-a-blood-clot-in-his-leg"
-    },
-    {
-      "kind": "other",
-      "title": "College Football Rankings: My Preseason 138 Hits, Misses And Head-Scratchers",
-      "title_ja": null,
-      "excerpt": "RJ Young looked back on his preseason rankings of 138 teams midway through the college football season.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Thu, 15 Oct 2026 12:44:17 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/rankings-138-preseason-week-7-indiana-northwestern-michigan-kiffin"
     },
     {
       "kind": "rumor",
@@ -1314,6 +1314,54 @@
       "coach_name": null,
       "published_at": "Mon, 12 Oct 2026 14:15:35 +0000",
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-live-week-6-152344178.html"
+    },
+    {
+      "kind": "other",
+      "title": "Broncos' cheating accusation against Seahawks almost led to lawsuit in 2024, according to Mike Macdonald",
+      "title_ja": null,
+      "excerpt": "This is one of the wildest stories you'll ever hear in the NFL",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Thu, 15 Oct 2026 23:53:10 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/broncos-cheating-accusation-seahawks-mike-macdonald/"
+    },
+    {
+      "kind": "injury",
+      "title": "Caleb Williams responds to critics after hamstring injury: 'My character's been attacked'",
+      "title_ja": null,
+      "excerpt": "Williams participated fully in consecutive practices, but the Bears quarterback said he has not yet been cleared to return to game action",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Thu, 15 Oct 2026 23:41:38 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/caleb-williams-injury-update-hamstring-tear-return-timeline/"
+    },
+    {
+      "kind": "other",
+      "title": "Use BetMGM bonus code CBSSPORTS to land $1,500 bonus bets for Broncos vs. Seahawks on Thursday Night Football",
+      "title_ja": null,
+      "excerpt": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Broncos vs. Seahawks on Thursday Night Football",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Thu, 15 Oct 2026 23:21:35 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-land-1500-bonus-bets-for-broncos-vs-seahawks-thursday-night-football/"
     },
     {
       "kind": "other",
@@ -1746,54 +1794,6 @@
       "coach_name": null,
       "published_at": "\n                        Thu, 15 Oct 2026 12:54:44 +0000\n                    ",
       "url": "https://www.cbssports.com/mlb/news/brewers-bash-champion-dodgers-to-brink-of-nlcs-sweep-cbs-sports-preseason-all-america-team-revealed/"
-    },
-    {
-      "kind": "other",
-      "title": "NFL reduces suspension of Rams' Alaric Jackson for punching Bills' Bradley Chubb",
-      "title_ja": null,
-      "excerpt": "Alaric Jackson hit the Bills' pass-rusher with an apparent sucker-punch following Buffalo's wild Monday night win",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 15 Oct 2026 12:26:25 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/rams-left-tackle-punches-bills-bradley-chubb-mnf/"
-    },
-    {
-      "kind": "trade",
-      "title": "Revisiting the Micah Parsons trade: Who got the better of the deal between Cowboys, Packers?",
-      "title_ja": null,
-      "excerpt": "It hasn't been a lose-lose situation, but it's not going the way either team planned",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 15 Oct 2026 11:23:57 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/revisiting-the-micah-parsons-trade-packers-cowboys/"
-    },
-    {
-      "kind": "rumor",
-      "title": "Super Bowl stock report for NFL Week 6: 49ers emerge as new favorites, Bears await Caleb Williams' return",
-      "title_ja": null,
-      "excerpt": "We assess the NFL title race after Week 5 and identify three upcoming games that could reshape the Super Bowl picture",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Thu, 15 Oct 2026 11:22:54 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/super-bowl-stock-report-for-nfl-week-6/"
     }
   ]
 }

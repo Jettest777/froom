@@ -1,13 +1,445 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T15:48:03.513303+00:00",
+  "generated_at": "2026-10-21T18:10:09.347467+00:00",
   "count": 120,
   "items": [
     {
-      "kind": "other",
-      "title": "T.J. Watt’s wife calls out NFL for Paris game",
+      "kind": "injury",
+      "title": "Rams put Kobie Turner on injured reserve",
       "title_ja": null,
-      "excerpt": "Wife of Steelers star T.J. Watt questions NFL going to Paris.",
+      "excerpt": "The Rams put a player on injured reserve for the fourth time this week on Wednesday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 18:03:30 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-put-kobie-turner-injured-180330636.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Adonai Mitchell limited in practice",
+      "title_ja": null,
+      "excerpt": "The Jets could have one of their more underrated receivers in the lineup in Week 7.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYJ",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:51:29 +0000",
+      "url": "https://sports.yahoo.com/articles/adonai-mitchell-limited-practice-175129749.html"
+    },
+    {
+      "kind": "other",
+      "title": "The Bears are feeling themselves. The Patriots are about to test that confidence",
+      "title_ja": null,
+      "excerpt": "The Bears are fired up with Caleb Williams back. The challenge now is keeping the good vibes going against New England.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:45:29 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/the-bears-are-feeling-themselves-the-patriots-are-about-to-test-that-confidence-174529334.html"
+    },
+    {
+      "kind": "signing",
+      "title": "Titans coach says other NFL teams should sign cut DT after gun incident",
+      "title_ja": null,
+      "excerpt": "The Tennessee Titans released Jordan Elliott after a gun-related incident last week, after which head coach Robert Saleh defended his former player.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:45:02 +0000",
+      "url": "https://sports.yahoo.com/articles/titans-coach-says-other-nfl-174502797.html"
+    },
+    {
+      "kind": "other",
+      "title": "Packers rookies answering the call on defense",
+      "title_ja": null,
+      "excerpt": "The Packers’ defense is enjoying a strong start from the 2026 rookie class.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "GB",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:36:25 +0000",
+      "url": "https://sports.yahoo.com/articles/packers-rookies-answering-call-defense-173625520.html"
+    },
+    {
+      "kind": "other",
+      "title": "Rashee Rice, Jaylon Moore out of Chiefs practice Wednesday",
+      "title_ja": null,
+      "excerpt": "The Chiefs will remain without wide receiver Rashee Rice as they kick off the practice week.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:36:17 +0000",
+      "url": "https://sports.yahoo.com/articles/rashee-rice-jaylon-moore-chiefs-173617006.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Fantasy football injury report: Latest Week 7 updates on Lamar Jackson, Quinshon Judkins",
+      "title_ja": null,
+      "excerpt": "RBs Quinshon Judkins and Jeremiyah Love are looking to return from ankle injuries after sitting out last week. Who else&#39;s health are we monitoring?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:34:02 +0000",
+      "url": "https://sports.yahoo.com/articles/fantasy-football-injury-report-latest-173402744.html"
+    },
+    {
+      "kind": "other",
+      "title": "Week 7 game preview: Chicago Bears vs. New England Patriots",
+      "title_ja": null,
+      "excerpt": "The Bears host the Patriots on Thursday night at Soldier Field. @SamHouseholder has the game preview.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/week-7-game-preview-chicago-173000075.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cowboys are getting dangerously close to thinking about the draft",
+      "title_ja": null,
+      "excerpt": "How many losses would it take for you to move on to the NFL Draft?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-getting-dangerously-close-thinking-173000036.html"
+    },
+    {
+      "kind": "other",
+      "title": "Jaguars drop in NFL power rankings entering Week 7",
+      "title_ja": null,
+      "excerpt": "Where do the Jaguars land in NFL power rankings after losing to the Texans?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "HOU",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:27:09 +0000",
+      "url": "https://sports.yahoo.com/articles/jaguars-drop-nfl-power-rankings-172709826.html"
+    },
+    {
+      "kind": "other",
+      "title": "Texans QB C.J. Stroud bet on himself for a bigger payday, and that might be working out great",
+      "title_ja": null,
+      "excerpt": "C.J. Stroud was named the AFC&#39;s Offensive Player of the Week.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "HOU",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:26:28 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/texans-qb-cj-stroud-bet-on-himself-for-a-bigger-payday-and-that-might-be-working-out-great-172628127.html"
+    },
+    {
+      "kind": "other",
+      "title": "Fantasy Football Dynamic Duos: 7 passing attacks built around two players",
+      "title_ja": null,
+      "excerpt": "Scott Pianowski examines offenses that don&#39;t like to share — and what that means for fantasy managers.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:25:10 +0000",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-dynamic-duos-7-passing-attacks-built-around-two-players-172510660.html"
+    },
+    {
+      "kind": "other",
+      "title": "Lamar Jackson remains out of practice to start Week 7",
+      "title_ja": null,
+      "excerpt": "As the practice week begins, Lamar Jackson is still not ready to practice.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:19:30 +0000",
+      "url": "https://sports.yahoo.com/articles/lamar-jackson-remains-practice-start-171930827.html"
+    },
+    {
+      "kind": "other",
+      "title": "Former Chiefs lineman Allen Bailey dies at 37",
+      "title_ja": null,
+      "excerpt": "Allen Bailey registered 22 sacks over his 10-year NFL career.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:14:22 +0000",
+      "url": "https://sports.yahoo.com/nfl/breaking-news/article/former-chiefs-lineman-allen-bailey-dies-at-37-172205460.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Could the Titans trade CB Alontae Taylor?",
+      "title_ja": null,
+      "excerpt": "Will it be a short stay with the Titans for Taylor?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:12:15 +0000",
+      "url": "https://sports.yahoo.com/articles/could-titans-trade-cb-alontae-171215887.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "NFL looks into reports that ex-Titan Jordan Elliott brought gun to team facility",
+      "title_ja": null,
+      "excerpt": "The NFL is reviewing an incident at the Titans&#39; facility that led Tennessee to release defensive tackle Jordan Elliott, after reports of an altercation and a firearm on the grounds.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:11:49 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-looks-reports-ex-titan-171149206.html"
+    },
+    {
+      "kind": "other",
+      "title": "Roger Goodell on a Jalen Hurts investigation: &quot;We welcome that&quot;",
+      "title_ja": null,
+      "excerpt": "NFLPA has unilateral right to start an investigation.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:09:10 +0000",
+      "url": "https://sports.yahoo.com/articles/roger-goodell-jalen-hurts-investigation-170910612.html"
+    },
+    {
+      "kind": "other",
+      "title": "Mason Graham, Quinshon Judkins appear on track to return Week 7",
+      "title_ja": null,
+      "excerpt": "Cleveland may be getting a boost to its offense and defense for this weekend as the club heads to Nashville to play Tennessee.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:08:49 +0000",
+      "url": "https://sports.yahoo.com/articles/mason-graham-quinshon-judkins-appear-170849796.html"
+    },
+    {
+      "kind": "presser",
+      "title": "NFL, Roger Goodell reverse course on Jalen Hurts’ inquiry after NFLPA demand",
+      "title_ja": null,
+      "excerpt": "The NFL said there&#39;d be no investigation into Jalen Hurts&#39; medical treatment for blood clots. Roger Goodell said that&#39;s changing after a union request.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:07:50 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-roger-goodell-reverse-course-170750857.html"
+    },
+    {
+      "kind": "other",
+      "title": "5 things about the Rams",
+      "title_ja": null,
+      "excerpt": "Disappointing 2-4 Rams coming to Las Vegas in Week 7",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:01:00 +0000",
+      "url": "https://sports.yahoo.com/articles/5-things-rams-170100647.html"
+    },
+    {
+      "kind": "other",
+      "title": "Steelers CB Jalen Ramsey named AFC Defensive Player of the Week",
+      "title_ja": null,
+      "excerpt": "Steelers star Jalen Ramsey named AFC Defensive Player of the Week",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 17:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/steelers-cb-jalen-ramsey-named-170000162.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cleveland Browns vs. Tennessee Titans Week 7 TV Map",
+      "title_ja": null,
+      "excerpt": "See which cities get to watch the Browns vs. Titans game on television this week.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 16:56:19 +0000",
+      "url": "https://sports.yahoo.com/articles/cleveland-browns-vs-tennessee-titans-165619460.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Jaguars Trade Deadline Targets: 10 Defensive Players to Watch",
+      "title_ja": null,
+      "excerpt": "The Jaguars need defensive help before the trade deadline. Here are our top targets to boost Anthony Campanile’s unit.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "JAX",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 16:52:00 +0000",
+      "url": "https://sports.yahoo.com/articles/jaguars-trade-deadline-targets-ten-165200224.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chicago Bears QB Caleb Williams named NFC Offensive Player of the Week",
+      "title_ja": null,
+      "excerpt": "Chicago Bears QB Caleb Williams is the NFC Offensive Player of the Week after his return performance.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 16:49:38 +0000",
+      "url": "https://sports.yahoo.com/articles/chicago-bears-qb-caleb-williams-164938562.html"
+    },
+    {
+      "kind": "other",
+      "title": "The Rams’ real MVP this season hasn’t been Stafford or Puka",
+      "title_ja": null,
+      "excerpt": "The running back has been one of the only bright spots in L.A.’s season",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 16:48:45 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-real-mvp-season-hasn-164845955.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Jerry Jones: We could do something at trade deadline to help the team this year",
+      "title_ja": null,
+      "excerpt": "Cowboys owner Jerry Jones talked a lot about the team being in the market for a trade addition before they swung a deal for cornerback Joey Porter Jr. at the end of September and he may not be done on that front.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 16:37:51 +0000",
+      "url": "https://sports.yahoo.com/articles/jerry-jones-could-something-trade-163751331.html"
+    },
+    {
+      "kind": "other",
+      "title": "Week 8 Tuesday recap: Minicucci returns, Middle Tennessee and Marshall stage upsets",
+      "title_ja": null,
+      "excerpt": "Nick Minicucci returns and leads Delaware to 61 points, while Middle Tennessee and Marshall pull off upsets Tuesday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 16:35:37 +0000",
+      "url": "https://sports.yahoo.com/articles/week-8-tuesday-recap-minicucci-163537031.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Three Rivers Report: Zach Frazier has had tremendous start to season",
+      "title_ja": null,
+      "excerpt": "Steelers news, notes, and more from October 21",
       "excerpt_ja": null,
       "sources": [
         "Yahoo Sports NFL"
@@ -16,12 +448,12 @@
       "team_abbrev": "PIT",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:36:42 +0000",
-      "url": "https://sports.yahoo.com/articles/t-j-watt-wife-calls-153642551.html"
+      "published_at": "Wed, 21 Oct 2026 16:33:46 +0000",
+      "url": "https://sports.yahoo.com/articles/three-rivers-report-zach-frazier-163346163.html"
     },
     {
       "kind": "rumor",
-      "title": "Titans DT Jordan Elliott was released after reportedly going to retrieve a gun after a practice dispute",
+      "title": "Titans&#39; Jordan Elliott was released after reportedly going to retrieve a gun after dispute at practice",
       "title_ja": null,
       "excerpt": "Jordan Elliott lasted just five games with the Titans.",
       "excerpt_ja": null,
@@ -33,439 +465,423 @@
       "player_name": null,
       "coach_name": null,
       "published_at": "Wed, 21 Oct 2026 15:30:41 +0000",
-      "url": "https://sports.yahoo.com/nfl/breaking-news/article/titans-dt-jordan-elliott-was-released-after-reportedly-going-to-retrieve-a-gun-after-a-practice-dispute-153041443.html"
+      "url": "https://sports.yahoo.com/nfl/breaking-news/article/titans-jordan-elliott-was-released-after-reportedly-going-to-retrieve-a-gun-after-dispute-at-practice-155308821.html"
     },
     {
       "kind": "other",
-      "title": "Bears vs. Patriots: Can Grady Jarrett beat the ailing Pats interior?",
+      "title": "2026 NFL OROY Odds: Carnell Tate Emerges As Favorite, Germie Bernard Soars",
       "title_ja": null,
-      "excerpt": "Bears’ Grady Jarrett is likely to face backups this week, and he needs to make them pay.",
+      "excerpt": "A new favorite has emerged on the NFL Offensive Rookie of the Year oddsboard. See the latest.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "CHI",
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:30:00 +0000",
-      "url": "https://sports.yahoo.com/articles/bears-vs-patriots-grady-jarrett-153000568.html"
+      "published_at": "Wed, 21 Oct 2026 14:08:51 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-offensive-rookie-year-odds"
     },
     {
-      "kind": "other",
-      "title": "Duval Dispatch: Jags remain top 5 team despite loss to Texans",
+      "kind": "injury",
+      "title": "Rams put Kobie Turner on injured reserve",
       "title_ja": null,
-      "excerpt": "The Jaguars remained a top 5 team in this week’s NFL power rankings by ESPN.",
+      "excerpt": "The Rams put a player on injured reserve for the fourth time this week on Wednesday.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "HOU",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:23:36 +0000",
-      "url": "https://sports.yahoo.com/articles/duval-dispatch-jags-remain-top-152336150.html"
-    },
-    {
-      "kind": "other",
-      "title": "The Rams and Chargers are both a mess, and it’s only getting worse",
-      "title_ja": null,
-      "excerpt": "Los Angeles has become football’s city of nightmares",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:20:42 +0000",
-      "url": "https://sports.yahoo.com/articles/rams-chargers-both-mess-only-152042908.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Bills news: Assessing Buffalo’s defensive issues at the bye week",
-      "title_ja": null,
-      "excerpt": "The Bills are fortunate to be 5-1 at the bye. If things don’t improve on defense, Super Bowl dreams could be derailed.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:14:40 +0000",
-      "url": "https://sports.yahoo.com/articles/bills-news-assessing-buffalo-defensive-151440247.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Panthers sign Anthony Tyus to 53, open practice window for Bam Martin-Scott",
-      "title_ja": null,
-      "excerpt": "The Panthers have added a running back to their 53-man roster.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.54,
+      "team_abbrev": "LAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 14:03:30 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-put-kobie-turner-on-injured-reserve"
+    },
+    {
+      "kind": "other",
+      "title": "Todd Bowles plans to decide whether Baker Mayfield will start Week 7 on Friday",
+      "title_ja": null,
+      "excerpt": "As the practice week begins, it appears Baker Mayfield has a chance to return for Sunday’s game against the Panthers.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
       "team_abbrev": "CAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:14:05 +0000",
-      "url": "https://sports.yahoo.com/articles/panthers-sign-anthony-tyus-53-151405413.html"
+      "published_at": "Wed, 21 Oct 2026 13:54:04 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-bowles-plans-to-decide-whether-baker-mayfield-will-start-week-7-on-friday"
     },
     {
       "kind": "other",
-      "title": "Ben Johnson wants to see Caleb Williams stack good performances back to back",
+      "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
       "title_ja": null,
-      "excerpt": "Bears quarterback Caleb Williams had a great game in Week 1, then got hurt at the end of a disappointing game in Week 2.",
+      "excerpt": "Check out the lines for every Week 7 matchup in the NFL.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
-      "reliability": 0.54,
-      "team_abbrev": "CHI",
+      "reliability": 0.5,
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:11:17 +0000",
-      "url": "https://sports.yahoo.com/articles/ben-johnson-wants-see-caleb-151117191.html"
+      "published_at": "Wed, 21 Oct 2026 13:48:44 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games"
     },
     {
-      "kind": "trade",
-      "title": "Eagles News: Saquon Barkley included among 3 ESPN trade proposals",
+      "kind": "rumor",
+      "title": "24-Team CFP: What To Know, What Still Needs To Be Resolved For Playoff Expansion",
       "title_ja": null,
-      "excerpt": "Philadelphia Eagles news and links for 10/21/26.",
+      "excerpt": "The College Football Playoff is likely heading for expansion in 2027. Here's what you need to know and how the final plan could play out.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 13:46:31 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/24-team-cfp-playoff-what-to-know-expansion"
+    },
+    {
+      "kind": "other",
+      "title": "What Is MLB's ABS Challenge System? How Baseball's Newest Mechanism Works",
+      "title_ja": null,
+      "excerpt": "What is MLB's Automated Ball-Strike Challenge System? Here's an explainer of baseball's newest fixture.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 13:40:56 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/how-mlb-abs-challenge-system-works-world-series"
+    },
+    {
+      "kind": "other",
+      "title": "Rashee Rice, Jaylon Moore out of Chiefs practice Wednesday",
+      "title_ja": null,
+      "excerpt": "The Chiefs will remain without wide receiver Rashee Rice as they kick off the practice week.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 13:36:17 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashee-rice-jaylon-moore-out-of-chiefs-practice-wednesday"
+    },
+    {
+      "kind": "other",
+      "title": "Roger Goodell Explains Why He's 'Comfortable' With Eagles' Handling Of Jalen Hurts",
+      "title_ja": null,
+      "excerpt": "NFL Commissioner Roger Goodell says the league welcomes an investigation into the Philadelphia Eagles' handling of Jalen Hurts' blood clots.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": "PHI",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:06:03 +0000",
-      "url": "https://sports.yahoo.com/articles/eagles-news-saquon-barkley-included-150603565.html"
+      "published_at": "Wed, 21 Oct 2026 13:20:06 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-roger-goodell-jalen-hurts-update-eagles-medical-staff"
     },
     {
       "kind": "other",
-      "title": "Patriots News: Pats field backup bandaid brigade vs. Bears",
+      "title": "Lamar Jackson remains out of practice to start Week 7",
       "title_ja": null,
-      "excerpt": "Daily news and links for Wednesday, 10/21/26",
+      "excerpt": "As the practice week begins, Lamar Jackson is still not ready to practice.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
+      "reliability": 0.54,
+      "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:05:32 +0000",
-      "url": "https://sports.yahoo.com/articles/patriots-news-pats-field-backup-150532224.html"
+      "published_at": "Wed, 21 Oct 2026 13:19:30 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-remains-out-of-practice-to-start-week-7"
     },
     {
       "kind": "other",
-      "title": "Darien Porter definitely a starter again",
+      "title": "‘Best in Baseball’: How Kyle Snyder Built the Rays’ Pitching Staff",
       "title_ja": null,
-      "excerpt": "How did 2025 draft class fare in Week 6?",
+      "excerpt": "Under pitching coach Kyle Snyder’s direction since 2018, the Tampa Bay Rays have consistently had one of the best pitching staffs in the majors.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:05:00 +0000",
-      "url": "https://sports.yahoo.com/articles/darien-porter-definitely-starter-again-150500285.html"
-    },
-    {
-      "kind": "trade",
-      "title": "2026 Trade Value Charts — Justin Boone&#39;s fantasy football running back breakdown for Week 7",
-      "title_ja": null,
-      "excerpt": "Fantasy football analyst Justin Boone reveals his updated running back trade values.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:00:33 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/2026-trade-value-charts--justin-boones-fantasy-football-running-back-breakdown-for-week-7-150033672.html"
-    },
-    {
-      "kind": "trade",
-      "title": "2026 Trade Value Charts — Justin Boone&#39;s fantasy football wide receiver breakdown for Week 7",
-      "title_ja": null,
-      "excerpt": "Fantasy football analyst Justin Boone reveals his updated wide receiver trade values.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:00:30 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/2026-trade-value-charts--justin-boones-fantasy-football-wide-receiver-breakdown-for-week-7-150030573.html"
-    },
-    {
-      "kind": "trade",
-      "title": "2026 Trade Value Charts — Justin Boone&#39;s fantasy football quarterback breakdown for Week 7",
-      "title_ja": null,
-      "excerpt": "Fantasy football analyst Justin Boone reveals his updated quarterback trade values.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:00:25 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/2026-trade-value-charts--justin-boones-fantasy-football-quarterback-breakdown-for-week-7-150025496.html"
-    },
-    {
-      "kind": "trade",
-      "title": "2026 Trade Value Charts — Justin Boone&#39;s fantasy football tight end breakdown for Week 7",
-      "title_ja": null,
-      "excerpt": "Fantasy football analyst Justin Boone reveals his updated tight end trade values.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:00:18 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/2026-trade-value-charts--justin-boones-fantasy-football-tight-end-breakdown-for-week-7-150018094.html"
+      "published_at": "Wed, 21 Oct 2026 13:14:18 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-playoffs-2026-tampa-bay-rays-pitching-coach-freddy-peralta-drew-rasmussen"
     },
     {
       "kind": "other",
-      "title": "Seahawks All-22 review: The good and bad from Seattle’s frustrating loss to Broncos",
+      "title": "Roger Goodell on a Jalen Hurts investigation: \"We welcome that\"",
       "title_ja": null,
-      "excerpt": "Seattle’s offense collapsed against Denver, exposing major concerns with Sam Darnold, OC’s play-calling, and the OL.",
+      "excerpt": "NFLPA has unilateral right to start an investigation.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 13:09:10 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-on-a-jalen-hurts-investigation-we-welcome-that"
+    },
+    {
+      "kind": "other",
+      "title": "Mason Graham, Quinshon Judkins appear on track to return Week 7",
+      "title_ja": null,
+      "excerpt": "Cleveland may be getting a boost to its offense and defense for this weekend as the club heads to Nashville to play Tennessee.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 13:08:49 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mason-graham-quinshon-judkins-appear-on-track-to-return-week-7"
+    },
+    {
+      "kind": "other",
+      "title": "Building The Ultimate 21st Century World Series Roster",
+      "title_ja": null,
+      "excerpt": "What 26 stars make up the 21st century ultimate World Series lineup?",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 13:07:34 -0400",
+      "url": "https://www.foxsports.com/stories/mlb/building-ultimate-21st-century-world-series-roster"
+    },
+    {
+      "kind": "presser",
+      "title": "Robert Saleh: Jordan Elliott had a terrible lapse in judgment I recognize as a call for help",
+      "title_ja": null,
+      "excerpt": "Titans head coach Robert Saleh spent a large portion of his Wednesday press conference discussing the incident that led to defensive tackle Jordan Elliott's release earlier this week.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 13:05:13 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-saleh-jordan-elliott-had-a-terrible-lapse-in-judgment-i-recognize-as-a-call-for-help"
+    },
+    {
+      "kind": "rumor",
+      "title": "Can Seahawks Be Kenneth Walker's Kryptonite? Why Sunday Could Flip Narrative On Chiefs RB",
+      "title_ja": null,
+      "excerpt": "Sunday could prove why the Seahawks were right in letting Kenneth Walker leave this offseason. Here's why.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 12:57:08 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/kenneth-walker-chiefs-seahawks"
+    },
+    {
+      "kind": "trade",
+      "title": "Jerry Jones: We could do something at trade deadline to help the team this year",
+      "title_ja": null,
+      "excerpt": "Cowboys owner Jerry Jones talked a lot about the team being in the market for a trade addition before they swung a deal for cornerback Joey Porter Jr. at the end of September and he may not be done on that front.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 12:37:51 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-we-could-do-something-at-trade-deadline-to-help-the-team-this-year"
+    },
+    {
+      "kind": "other",
+      "title": "How Did Bo Nix Regress From ‘Kid Clutch’ Into The NFL’s Most Conservative QB?",
+      "title_ja": null,
+      "excerpt": "Broncos QB Bo Nix has been a shell of himself this season, and a change in playcallers hasn't helped. What's going on in Denver?",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
       "team_abbrev": "DEN",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/seahawks-22-review-good-bad-150000115.html"
+      "published_at": "Wed, 21 Oct 2026 12:25:31 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/bo-nix-regress-from-kid-clutch-nfls-most-conservative-qb"
+    },
+    {
+      "kind": "rumor",
+      "title": "Report: Giants to start J.J. McCarthy this week",
+      "title_ja": null,
+      "excerpt": "McCarthy replaced Jameis Winston last week and is now set for his first start as a Giant.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 12:25:01 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-to-start-j-j-mccarthy-this-week"
     },
     {
       "kind": "other",
-      "title": "Week 7 AP NFL Power Rankings: Rams and Eagles are in a free fall",
+      "title": "Chad Ryland wins NFC special teams player of the week",
       "title_ja": null,
-      "excerpt": "The Arrowhead Pride team ranks the league from top to bottom.",
+      "excerpt": "Chad Ryland scored all of Arizona's points on Sunday.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 12:22:48 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chad-ryland-wins-nfc-special-teams-player-of-the-week"
+    },
+    {
+      "kind": "injury",
+      "title": "Titans RB Julius Chestnut is the AFC special teams player of the week",
+      "title_ja": null,
+      "excerpt": "The Titans fell behind the Colts 13-0 in the first half of last Sunday's game against the Colts, but they were able to rally for their first win of the season.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "IND",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 12:16:03 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-rb-julius-chestnut-is-the-afc-special-teams-player-of-the-week"
+    },
+    {
+      "kind": "rumor",
+      "title": "Giants Reportedly Make Week 7 QB Decision on J.J. McCarthy vs. Jameis Winston",
+      "title_ja": null,
+      "excerpt": "The Giants have reportedly decided whether J.J. McCarthy or Jameis Winston will start at quarterback in Week 7 against the Texans.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "HOU",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 12:15:13 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/giants-quarterbacks-john-harbaugh-jj-mccarthy-jameis-winston-stats"
+    },
+    {
+      "kind": "injury",
+      "title": "Martin Emerson wins first career NFC defensive player of the week award",
+      "title_ja": null,
+      "excerpt": "The Saints got their second win of the season last weekend and cornerback Martin Emerson was a big part of why.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NO",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Wed, 21 Oct 2026 12:10:52 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/martin-emerson-wins-first-career-nfc-defensive-player-of-the-week-award"
+    },
+    {
+      "kind": "other",
+      "title": "Jalen Ramsey named the AFC defensive player of the week",
+      "title_ja": null,
+      "excerpt": "Cornerback Jalen Ramsey is not known as a pass rusher, but that aspect of his game came up big for the Steelers in Week 7.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
       "team_abbrev": "LAR",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/week-7-ap-nfl-power-150000095.html"
+      "published_at": "Wed, 21 Oct 2026 12:10:33 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-ramsey-named-the-afc-defensive-player-of-the-week"
     },
     {
       "kind": "other",
-      "title": "State of the NFC South: Week 6",
+      "title": "C.J. Stroud named the AFC offensive player of the week",
       "title_ja": null,
-      "excerpt": "A wild week in the division.",
+      "excerpt": "Texans quarterback C.J.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": null,
+      "team_abbrev": "HOU",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/state-nfc-south-week-6-150000486.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Kerby Joseph posts promising video of progress",
-      "title_ja": null,
-      "excerpt": "Detroit Lions safety Kerby Joseph posted a workout video that shows encouraging progress from his knee injury.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/kerby-joseph-posts-promising-video-150000030.html"
+      "published_at": "Wed, 21 Oct 2026 12:05:35 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-named-the-afc-offensive-player-of-the-week"
     },
     {
       "kind": "other",
-      "title": "Cowboys ‘run it back’ attitude on offense is starting to stumble",
+      "title": "Caleb Williams wins NFC offensive player of the week",
       "title_ja": null,
-      "excerpt": "It’s not very fun being a Cowboys fan these days",
+      "excerpt": "Caleb Williams' return was successful, as the quarterback helped pilot the Bears to a 31-23 victory over the Falcons.",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "Pro Football Talk"
       ],
       "reliability": 0.5,
-      "team_abbrev": "DAL",
+      "team_abbrev": "ATL",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-run-back-attitude-offense-150000520.html"
-    },
-    {
-      "kind": "injury",
-      "title": "The Steelers offense is actually good for fantasy football, and more updated scoring identities to know in Week 7",
-      "title_ja": null,
-      "excerpt": "Fantasy football analyst Chris Allen reviews three offenses that are showing their true colors as we head into Week 7.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PIT",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 14:53:45 +0000",
-      "url": "https://sports.yahoo.com/fantasy/article/the-steelers-offense-is-actually-good-for-fantasy-football-and-more-updated-scoring-identities-to-know-in-week-7-145345099.html"
-    },
-    {
-      "kind": "signing",
-      "title": "NFL exec weighs in on Joe Buck, Troy Aikman ESPN contract drama",
-      "title_ja": null,
-      "excerpt": "Troy Aikman and Joe Buck got into a disagreement over their diverging contract situations at ESPN earlier this season. They will call this season&#39;s Super Bowl.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 14:36:18 +0000",
-      "url": "https://sports.yahoo.com/articles/why-nfl-no-concern-joe-143618358.html"
+      "published_at": "Wed, 21 Oct 2026 12:05:21 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-wins-nfc-offensive-player-of-the-week"
     },
     {
       "kind": "other",
-      "title": "Colts/Vikings Coverage Map: CBS Has Most of the Midwest Covered in Week 7",
+      "title": "Saints GM Addresses Criticism From Team Owner: 'It’s Not Good Enough Yet'",
       "title_ja": null,
-      "excerpt": "And a great broadcast team, to boot",
+      "excerpt": "New Orleans Saints general manager Mickey Loomis says he understands the recent criticism from owner Gayle Benson but asked for patience with what he called a “young developing team.\"",
       "excerpt_ja": null,
       "sources": [
-        "Yahoo Sports NFL"
+        "FOX Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "IND",
+      "team_abbrev": "NO",
       "player_name": null,
       "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 14:23:59 +0000",
-      "url": "https://sports.yahoo.com/articles/colts-vikings-coverage-map-cbs-142359623.html"
-    },
-    {
-      "kind": "other",
-      "title": "NFL is reviewing the Jordan Elliott situation",
-      "title_ja": null,
-      "excerpt": "Titans promptly notified the league office regarding gun incident at facility.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": "TEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 14:23:30 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-reviewing-jordan-elliott-situation-142330194.html"
-    },
-    {
-      "kind": "other",
-      "title": "Dani Watt, wife of Steelers star T.J. Watt, questions NFL plan for Paris game",
-      "title_ja": null,
-      "excerpt": "The NFL’s plans to stage a game in France amid protests in the country are being met with resistance from one of the most famous families in football.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PIT",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 14:18:50 +0000",
-      "url": "https://sports.yahoo.com/articles/dani-watt-wife-steelers-star-141850764.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Jordan Elliott released by Titans after firearm incident. Here’s what we know",
-      "title_ja": null,
-      "excerpt": "A Titans teammate reportedly had to stop Jordan Elliott from getting a gun.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 14:06:04 +0000",
-      "url": "https://sports.yahoo.com/articles/jordan-elliott-released-titans-firearm-140604999.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Colts Interim GM Ed Dodds makes first moves by adding pair of veterans to practice squad",
-      "title_ja": null,
-      "excerpt": "The Colts added two veteran players to their practice squad on Tuesday.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 14:00:37 +0000",
-      "url": "https://sports.yahoo.com/articles/colts-interim-gm-ed-dodds-140037496.html"
-    },
-    {
-      "kind": "other",
-      "title": "NFLSU rookie check-in: Week 7 preview",
-      "title_ja": null,
-      "excerpt": "Some LSU rookies are getting increased snaps.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 14:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/nflsu-rookie-check-week-7-140000122.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Cat Scratch Reader Reacts Survey: Updating your win predictions",
-      "title_ja": null,
-      "excerpt": "The Panthers are not who we expected. What are they going to do with their next twelve games?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 14:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cat-scratch-reader-reacts-survey-140000993.html"
+      "published_at": "Wed, 21 Oct 2026 11:48:34 -0400",
+      "url": "https://www.foxsports.com/stories/nfl/new-orleans-saints-mickey-loomis-gayle-benson"
     },
     {
       "kind": "signing",
@@ -484,10 +900,10 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-has-no-concern-about-joe-buck-troy-aikman-booth-issues"
     },
     {
-      "kind": "rumor",
-      "title": "Maryland Reportedly Fires Head Coach Mike Locksley",
+      "kind": "other",
+      "title": "Maryland Terrapins Part With Head Coach Mike Locksley, Name Interim",
       "title_ja": null,
-      "excerpt": "The Maryland Terrapins have reportedly fired head coach Mike Locksley.",
+      "excerpt": "The Maryland Terrapins have parted ways with head coach Mike Locksley and named an interim coach.",
       "excerpt_ja": null,
       "sources": [
         "FOX Sports NFL"
@@ -524,7 +940,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "CAR",
       "player_name": null,
       "coach_name": null,
@@ -540,7 +956,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "CHI",
       "player_name": null,
       "coach_name": null,
@@ -572,7 +988,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": "TEN",
       "player_name": null,
       "coach_name": null,
@@ -674,54 +1090,6 @@
       "coach_name": null,
       "published_at": "Wed, 21 Oct 2026 09:27:44 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-gm-mickey-loomis-i-understand-where-gayle-bensons-concerns-are-coming-from"
-    },
-    {
-      "kind": "other",
-      "title": "Bills S Sam Franklin suspended one game for spitting at a Raiders player",
-      "title_ja": null,
-      "excerpt": "C.J.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 09:16:32 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-s-sam-franklin-suspended-one-game-for-spitting-at-a-raiders-player"
-    },
-    {
-      "kind": "other",
-      "title": "Dan Campbell: Packers offense will make plays, we have to make more",
-      "title_ja": null,
-      "excerpt": "The Packers offense had some rocky moments in the opening weeks of the season, but the last two weeks have seen the unit find its footing.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "GB",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 08:43:52 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-packers-offense-will-make-plays-we-have-to-make-more"
-    },
-    {
-      "kind": "other",
-      "title": "Kevin Byard sharing \"as much as I can\" with Patriots ahead of return to Chicago",
-      "title_ja": null,
-      "excerpt": "Patriots safety Kevin Byard isn't from Chicago, but Thursday night's game will still be a homecoming of sorts for the veteran.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 07:02:12 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-byard-sharing-as-much-as-i-can-with-patriots-ahead-of-return-to-chicago"
     },
     {
       "kind": "other",
@@ -884,22 +1252,6 @@
       "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code"
     },
     {
-      "kind": "signing",
-      "title": "Report: Steve Tisch was present for NFL quarterly ownership meetings",
-      "title_ja": null,
-      "excerpt": "The NFL is having a less-than-ideal week when it comes to optics.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 06:29:40 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-steve-tisch-was-present-for-nfl-quarterly-ownership-meetings"
-    },
-    {
       "kind": "other",
       "title": "Fanatics Sportsbook Promo Code FOX350: Bet $20, Get $350 Bonus Bets",
       "title_ja": null,
@@ -932,22 +1284,6 @@
       "url": "https://www.foxsports.com/stories/betting/betmgm-promo-code"
     },
     {
-      "kind": "rumor",
-      "title": "Reports: Titans released DT Jordan Elliott after he went to car to get gun",
-      "title_ja": null,
-      "excerpt": "Multiple reports detail a situation that could have turned into a tragedy.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 05:57:56 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-titans-released-dt-jordan-elliott-after-he-went-to-car-to-get-gun"
-    },
-    {
       "kind": "other",
       "title": "Dan Quinn tells Jayden Daniels to \"take your shot\" even when there's a penalty flag on the field",
       "title_ja": null,
@@ -964,22 +1300,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-tells-jayden-daniels-to-take-your-shot-even-then-theres-a-penalty-flag-on-the-field"
     },
     {
-      "kind": "other",
-      "title": "49ers are the heaviest division favorites in the NFL",
-      "title_ja": null,
-      "excerpt": "San Francisco's odds to win the NFC West are at -650",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Wed, 21 Oct 2026 04:48:27 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-are-the-heaviest-division-favorites-in-the-nfl"
-    },
-    {
       "kind": "signing",
       "title": "QB Notebook: Jordan Love Enters The MVP Race; C.J. Stroud Earning Big Extension",
       "title_ja": null,
@@ -994,22 +1314,6 @@
       "coach_name": null,
       "published_at": "Tue, 20 Oct 2026 23:53:03 -0400",
       "url": "https://www.foxsports.com/stories/nfl/nfl-week-6-qb-notebook-jordan-love-mvp-race-cj-stroud-extension"
-    },
-    {
-      "kind": "injury",
-      "title": "Report: Rams TE Terrance Ferguson not ready to come off IR",
-      "title_ja": null,
-      "excerpt": "The Rams placed tight end Terrance Ferguson on injured reserve with an ankle injury on Oct. 2.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 22:10:22 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rams-te-terrance-ferguson-not-ready-to-come-off-ir"
     },
     {
       "kind": "other",
@@ -1029,22 +1333,6 @@
     },
     {
       "kind": "other",
-      "title": "A.J. Brown sends prayers, support to Jalen Hurts",
-      "title_ja": null,
-      "excerpt": "Patriots wide receiver A.J.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 21:43:48 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-sends-prayers-support-to-jalen-hurts"
-    },
-    {
-      "kind": "other",
       "title": "2026 NBA Rookie Of The Year Odds: Boozer Favored, Wilson Rising",
       "title_ja": null,
       "excerpt": "Check out the early season odds to win the NBA's Rookie of the Year award.",
@@ -1058,118 +1346,6 @@
       "coach_name": null,
       "published_at": "Tue, 20 Oct 2026 21:43:18 -0400",
       "url": "https://www.foxsports.com/stories/nba/2026-2027-nba-rookie-of-the-year-odds"
-    },
-    {
-      "kind": "rumor",
-      "title": "Report: Jay-Z selects Jay-Z to do Super Bowl LXI halftime show",
-      "title_ja": null,
-      "excerpt": "For each of the past two Super Bowls, the NFL announced the halftime performer in September.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 21:36:32 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jay-z-selects-jay-z-to-do-super-bowl-lxi-halftime-show"
-    },
-    {
-      "kind": "other",
-      "title": "2026 NBA MVP Odds: Wemby Favored Over SGA, Dončić Entering Season",
-      "title_ja": null,
-      "excerpt": "Is it Wemby's time to win MVP? The odds say he's the early favorite. But he certainly has competition from several previous winners.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 21:16:09 -0400",
-      "url": "https://www.foxsports.com/stories/nba/2026-nba-mvp-odds"
-    },
-    {
-      "kind": "other",
-      "title": "2026 NBA Finals Odds: Spurs, Thunder Favored; Knicks, 76ers Giving Chase",
-      "title_ja": null,
-      "excerpt": "See the updated NBA title odds now that the regular season is set to begin.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 21:08:10 -0400",
-      "url": "https://www.foxsports.com/stories/nba/2026-27-nba-finals-odds"
-    },
-    {
-      "kind": "other",
-      "title": "NFL looking to play 10 international games in 2027, possibly with one in Asia",
-      "title_ja": null,
-      "excerpt": "The NFL will play a record nine international games this season.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 20:58:03 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-looking-to-play-10-international-games-in-2027-possibly-with-one-in-asia"
-    },
-    {
-      "kind": "other",
-      "title": "2026 NFL Coach Of The Year Odds: Shanahan Favored; Monken, Johnson Chasing",
-      "title_ja": null,
-      "excerpt": "There's a new favorite on the Coach Of The Year oddsboard after NFL Week 4. Here's the latest.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 20:51:41 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds"
-    },
-    {
-      "kind": "other",
-      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Miss The Playoffs?",
-      "title_ja": null,
-      "excerpt": "Somehow, the Rams — with a top-five defense and top-five offense — are now favored to miss the playoffs. See the latest odds.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 20:31:45 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-to-miss-playoffs"
-    },
-    {
-      "kind": "other",
-      "title": "Allen Sills dismisses concern about team physician bias as \"nonsense\" (it's not)",
-      "title_ja": null,
-      "excerpt": "When it comes to whether the Eagles properly handled the health care provided to Eagles quarterback Jalen Hurts for his blood clots, the NFL is hardly a neutral, disinterested party.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 20:28:16 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/allen-sills-dismisses-concern-about-team-physician-bias-as-nonsense-its-not"
     },
     {
       "kind": "other",
@@ -1186,182 +1362,6 @@
       "coach_name": null,
       "published_at": "Tue, 20 Oct 2026 20:15:52 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-have-heightened-security-for-game-in-paris-after-recent-civil-unrest"
-    },
-    {
-      "kind": "other",
-      "title": "NFLPA calls for \"full investigation\" into Jalen Hurts situation",
-      "title_ja": null,
-      "excerpt": "Union issues statement regarding the NFL's handling of the case.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 20:02:01 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-calls-for-full-investigation-into-jalen-hurts-situation"
-    },
-    {
-      "kind": "trade",
-      "title": "NFL Trade Deadline: Who Are The 10 Best Players That Could Be Available?",
-      "title_ja": null,
-      "excerpt": "Who could be on the move ahead of the Nov. 10 trade deadline? Here are 10 of the best possible names.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 19:54:25 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-best-available-players"
-    },
-    {
-      "kind": "other",
-      "title": "Upon Further Review: Just How Off We Were On Rams, Chargers; Ashton Jeanty A Bust?",
-      "title_ja": null,
-      "excerpt": "How were we so wrong in expecting big things from Los Angeles teams this year? And how long before you can say Ashton Jeanty isn't very good?",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LAC",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 19:53:46 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/upon-further-review-just-how-off-we-were-rams-chargers-ashton-jeanty-bust"
-    },
-    {
-      "kind": "rumor",
-      "title": "Eagles-Commanders stays in prime time for Week 8",
-      "title_ja": null,
-      "excerpt": "NFL reportedly \"strongly considered\" replacing it with Browns-Steelers.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 19:36:36 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-commanders-stays-in-prime-time-for-week-8"
-    },
-    {
-      "kind": "injury",
-      "title": "Julian Sayin Injury: What We Know About Ohio State's Star Quarterback",
-      "title_ja": null,
-      "excerpt": "What to know about Ohio State quarterback Julian Sayin's injury during the Buckeyes' win vs. Indiana.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 19:24:19 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/ohio-state-julian-sayin-injury-status-what-we-know"
-    },
-    {
-      "kind": "other",
-      "title": "Barcelona Looked Unstoppable; Then They Saw PSG",
-      "title_ja": null,
-      "excerpt": "On Tuesday night, on the outskirts of central Paris, inside Parc des Princes, we witnessed a thrilling six-goal fixture between two formidable clubs.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 19:22:42 -0400",
-      "url": "https://www.foxsports.com/stories/soccer/barcelona-looked-unstoppable-saw-psg"
-    },
-    {
-      "kind": "signing",
-      "title": "Free NBA League Pass Promo Code When You Sign up and Bet $5 on DraftKings on NBA Opening Day",
-      "title_ja": null,
-      "excerpt": "Free NBA League Pass Promo Code When You Sign up and Bet $5 on DraftKings on NBA Opening Day.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 19:20:16 -0400",
-      "url": "https://www.foxsports.com/stories/betting/free-nba-league-pass-promo-code-when-you-sign-up-bet-5-draftkings-nba-opening-day"
-    },
-    {
-      "kind": "other",
-      "title": "2026 NFL OPOY Odds: Kansas City's Kenneth Walker III Back On Top As Favorite",
-      "title_ja": null,
-      "excerpt": "One of Kansas City's best offensive weapons is back atop the oddsboard for the 2026 NFL Offensive Player of the Year. Here's the latest.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 19:18:17 -0400",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year"
-    },
-    {
-      "kind": "rumor",
-      "title": "Carr In, Underwood Out: How Michigan’s Bold QB Move Could Change Its Season",
-      "title_ja": null,
-      "excerpt": "FOX Sports' Brady Quinn breaks down Michigan’s bold QB change, Tommy Carr’s instant impact and whether the freshman can keep it rolling against Indiana.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 19:04:44 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/byrce-underwood-tommy-carr-michigans-bold-qb-move-could-change-its-season"
-    },
-    {
-      "kind": "other",
-      "title": "Sunday's late-afternoon window on CBS averaged 26.368 million viewers",
-      "title_ja": null,
-      "excerpt": "The late-afternoon window on Sunday continues to generate the biggest audiences for NFL viewing.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 19:01:05 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sundays-late-afternoon-window-on-cbs-averaged-26-368-million-viewers"
-    },
-    {
-      "kind": "rumor",
-      "title": "League reportedly concludes Jalen Hurts's blood clot \"was handled appropriately\" before Week 5 game",
-      "title_ja": null,
-      "excerpt": "NFL, Eagles were and are in lockstep on situation that has many unanswered questions.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 20 Oct 2026 16:56:20 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/league-reportedly-concludes-jalen-hurtss-blood-clot-was-handled-appropriately-before-week-5-game"
     },
     {
       "kind": "other",
@@ -1428,8 +1428,8 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/whats-next-for-dan-quinn"
     },
     {
-      "kind": "injury",
-      "title": "NFL news, live updates: Terry McLaurin suffers season-ending knee injury; Eagles QB Jalen Hurts reportedly out for season with blood clots in lungs",
+      "kind": "other",
+      "title": "NFL news, live updates: QB J.J. McCarthy named Giants starter over Jameis Winston for Week 7; Baker Mayfield returns to practice",
       "title_ja": null,
       "excerpt": "Follow along with the latest NFL news ahead of Week 7.",
       "excerpt_ja": null,
@@ -1437,11 +1437,155 @@
         "Yahoo Sports NFL"
       ],
       "reliability": 0.5,
-      "team_abbrev": "PHI",
+      "team_abbrev": "NYG",
       "player_name": null,
       "coach_name": null,
       "published_at": "Mon, 19 Oct 2026 12:04:00 +0000",
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html"
+    },
+    {
+      "kind": "other",
+      "title": "Who will be NFL's last undefeated team? Evaluating odds, schedules for 49ers, Vikings and Chiefs",
+      "title_ja": null,
+      "excerpt": "A Week 8 bye gives San Francisco a massive mathematical edge, while tricky road tests await Kansas City in Seattle and Minnesota down the stretch",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "KC",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Wed, 21 Oct 2026 18:05:26 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/who-will-be-nfls-last-undefeated-team-evaluating-odds-schedules-for-49ers-vikings-and-chiefs/"
+    },
+    {
+      "kind": "rumor",
+      "title": "Titans release DT Jordan Elliott after incident with firearm at team facility, per report",
+      "title_ja": null,
+      "excerpt": "The veteran defensive tackle appeared in five games this season after following Robert Saleh to Tennessee from San Francisco",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "TEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Wed, 21 Oct 2026 17:31:09 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/titans-release-jordan-elliott-after-incident/"
+    },
+    {
+      "kind": "other",
+      "title": "Former NFL security committee member details how league operates amid civil unrest in Paris before Week 7 game",
+      "title_ja": null,
+      "excerpt": "Amy Trask, the former CEO of the Oakland Raiders, served on the NFL's security committee",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Wed, 21 Oct 2026 17:27:44 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/former-nfl-security-committee-member-civil-unrest-in-paris/"
+    },
+    {
+      "kind": "other",
+      "title": "Eagles will not be punished for how team handled Jalen Hurts' blood clots situation, NFLPA responds",
+      "title_ja": null,
+      "excerpt": "The NFL concluded the process to clear Hurts for Week 5 in London was handled appropriately",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Wed, 21 Oct 2026 16:51:24 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/eagles-will-not-be-punished-jalen-hurts-blood-clots-situation/"
+    },
+    {
+      "kind": "trade",
+      "title": "NFL trade deadline: 5 players we'd like to see get a change of scenery, including Jonathan Taylor",
+      "title_ja": null,
+      "excerpt": "These blockbuster moves probably will not happen, but stars like Jonathan Taylor and Jeffery Simmons deserve a chance to play for true contenders",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Wed, 21 Oct 2026 16:41:01 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-5-players-in-need-of-change-of-scenery-jonathan-taylor/"
+    },
+    {
+      "kind": "rumor",
+      "title": "Giants plan to start JJ McCarthy vs. Texans in Week 7, per report",
+      "title_ja": null,
+      "excerpt": "McCarthy is set to make his first career start for Big Blue",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "HOU",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Wed, 21 Oct 2026 16:38:37 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/giants-plan-to-start-jj-mccarthy-vs-texans-in-week-7-per-report/"
+    },
+    {
+      "kind": "injury",
+      "title": "Week 7 NFL betting odds, spreads, totals, lines for every game, including Bears-Patriots, Seahawks-Chiefs",
+      "title_ja": null,
+      "excerpt": "The Week 7 NFL betting lines, including spreads and totals, are out for every game",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Wed, 21 Oct 2026 15:57:52 +0000\n                    ",
+      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-lines-odds-totals-spreads/"
+    },
+    {
+      "kind": "trade",
+      "title": "Joe Thuney trade revisited: How Bears, Chiefs both came out as winners",
+      "title_ja": null,
+      "excerpt": "Chicago acquired the stabilizing force its offense desperately needed, while Kansas City turned the draft capital into a potential star",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Wed, 21 Oct 2026 15:36:06 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/joe-thuney-trade-revisited-bears-caleb-williams-chiefs/"
+    },
+    {
+      "kind": "other",
+      "title": "Full list of 2026 NFL bye weeks for all 32 teams",
+      "title_ja": null,
+      "excerpt": "Here are every team's NFL bye weeks all in one place so you can plan your fantasy lineups and game days.",
+      "excerpt_ja": null,
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "\n                        Wed, 21 Oct 2026 15:34:40 +0000\n                    ",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-bye-weeks/"
     },
     {
       "kind": "other",
@@ -1572,22 +1716,6 @@
       "url": "https://www.cbssports.com/nfl/news/2026-nfl-qb-power-rankings-week-7-brock-purdy-josh-allen/"
     },
     {
-      "kind": "trade",
-      "title": "NFL trade deadline: 5 players we'd like to see get a change of scenery, including Jonathan Taylor",
-      "title_ja": null,
-      "excerpt": "These blockbuster moves probably will not happen, but stars like Jonathan Taylor and Jeffery Simmons deserve a chance to play for true contenders",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Wed, 21 Oct 2026 11:24:30 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-5-players-in-need-of-change-of-scenery-jonathan-taylor/"
-    },
-    {
       "kind": "other",
       "title": "Prisco's Week 7 NFL picks: Patriots upset Bears, Lions edge Packers",
       "title_ja": null,
@@ -1602,22 +1730,6 @@
       "coach_name": null,
       "published_at": "\n                        Wed, 21 Oct 2026 10:00:53 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/priscos-week-7-nfl-picks-odds-expert-picks-upsets/"
-    },
-    {
-      "kind": "other",
-      "title": "Eagles will not be punished for how team handled Jalen Hurts' blood clots situation, NFLPA responds",
-      "title_ja": null,
-      "excerpt": "The NFL concluded the process to clear Hurts for Week 5 in London was handled appropriately",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "PHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Wed, 21 Oct 2026 00:46:53 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/eagles-will-not-be-punished-jalen-hurts-blood-clots-situation/"
     },
     {
       "kind": "other",
@@ -1669,22 +1781,6 @@
     },
     {
       "kind": "other",
-      "title": "Grading and ranking NFL first-year head coaches in new places after Week 6",
-      "title_ja": null,
-      "excerpt": "How the league's 10 new head coaches rank through the first third of the 2026 regular season",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Tue, 20 Oct 2026 19:03:29 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/grading-ranking-nfl-first-year-head-coaches/"
-    },
-    {
-      "kind": "other",
       "title": "Mr. Irrelevant to Mr. Efficient: How Brock Purdy became NFL's all-time passer rating king",
       "title_ja": null,
       "excerpt": "A former seventh-round draft pick is now the greatest per-throw passer in league history",
@@ -1714,22 +1810,6 @@
       "coach_name": null,
       "published_at": "\n                        Tue, 20 Oct 2026 18:26:41 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/inside-look-at-why-rams-are-so-disappointing/"
-    },
-    {
-      "kind": "injury",
-      "title": "Week 7 NFL betting odds, spreads, totals, lines for every game, including Bears-Patriots, Seahawks-Chiefs",
-      "title_ja": null,
-      "excerpt": "The Week 7 NFL betting lines, including spreads and totals, are out for every game",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Tue, 20 Oct 2026 18:23:12 +0000\n                    ",
-      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-odds-lines-totals-spreads/"
     },
     {
       "kind": "other",
@@ -1797,22 +1877,6 @@
     },
     {
       "kind": "other",
-      "title": "6 lessons learned in Week 6: Bears' defense gets a weapon back, lackluster Giants have two superstars",
-      "title_ja": null,
-      "excerpt": "Plus, the NFC East makes unwanted history, and it might not get better",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Tue, 20 Oct 2026 16:53:28 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/6-lessons-learned-in-week-6-bears-defense-giants/"
-    },
-    {
-      "kind": "other",
       "title": "Giants release Najee Harris days after criticizing New York's running back rotation",
       "title_ja": null,
       "excerpt": "The move comes right after the veteran voiced frustration over his limited role and a crowded backfield rotation in Week 6",
@@ -1845,22 +1909,6 @@
     },
     {
       "kind": "other",
-      "title": "Titans release DT Jordan Elliott after 'incident' at team facility",
-      "title_ja": null,
-      "excerpt": "The veteran defensive tackle appeared in all five games this season after following head coach Robert Saleh to Tennessee from San Francisco",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "TEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Tue, 20 Oct 2026 14:48:44 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/titans-release-jordan-elliott-after-incident/"
-    },
-    {
-      "kind": "other",
       "title": "Dan Quinn denies confusion after viral fourth-down clip in Commanders loss to 49ers",
       "title_ja": null,
       "excerpt": "Broadcast cameras appeared to catch Washington's head coach surprised by a turnover on downs against the 49ers, but he insists he was just fielding a question from his staff",
@@ -1874,54 +1922,6 @@
       "coach_name": null,
       "published_at": "\n                        Tue, 20 Oct 2026 13:12:43 +0000\n                    ",
       "url": "https://www.cbssports.com/nfl/news/dan-quinn-viral-fourth-down-clip-commanders-vs-49ers/"
-    },
-    {
-      "kind": "other",
-      "title": "6-0 Niners survive Commanders' late charge; Rays reach World Series; Reese lights up WNBA Finals",
-      "title_ja": null,
-      "excerpt": "Plus, our 2026-27 NBA season predictions are in as the season tips off today",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Tue, 20 Oct 2026 12:53:40 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/49ers-commanders-nfl-rays-world-series-mlb-reese-wnba-finals/"
-    },
-    {
-      "kind": "trade",
-      "title": "NFL trade deadline: Saquon Barkley to Seahawks among 10 moves that need to happen",
-      "title_ja": null,
-      "excerpt": "These needle-moving deals would define the trade deadline",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SEA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Tue, 20 Oct 2026 12:39:16 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-10-moves-saquon-barkley-seahawks/"
-    },
-    {
-      "kind": "other",
-      "title": "Prisco's NFL Week 7 Power Rankings: Rams are a mess, Texans climb eight spots",
-      "title_ja": null,
-      "excerpt": "Pete Prisco shares his Week 7 Power Rankings for the 2026 NFL season, including some big risers and fallers",
-      "excerpt_ja": null,
-      "sources": [
-        "CBS Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "HOU",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "\n                        Tue, 20 Oct 2026 12:03:01 +0000\n                    ",
-      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-7-power-rankings-rams-are-a-mess-texans-climb-eight-spots/"
     }
   ]
 }

@@ -1,8 +1,952 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T08:44:33.409024+00:00",
-  "count": 104,
+  "generated_at": "2026-10-24T13:10:33.648061+00:00",
+  "count": 119,
   "items": [
+    {
+      "kind": "other",
+      "title": "The NFL should relocate the Steelers-Saints game in Paris to London",
+      "title_ja": null,
+      "excerpt": "NFL scraps multiple Saturday events due to ongoing protests.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NO",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 13:01:51 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-relocate-steelers-saints-game-130151833.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Nate Landman out for Rams vs. Raiders",
+      "title_ja": null,
+      "excerpt": "Nate Landman is out and some other NFL news on a Saturday",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 12:54:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nate-landman-rams-vs-raiders-125400855.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Giving Browns DT Mike Hall Jr. even more retroactive respect for Week 4’s sack",
+      "title_ja": null,
+      "excerpt": "Cleveland Browns DT Mike Hall Jr. will miss his 3rd straight game with an injury, putting his Week 4 return into context",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 12:50:49 +0000",
+      "url": "https://sports.yahoo.com/articles/giving-browns-dt-mike-hall-125049789.html"
+    },
+    {
+      "kind": "trade",
+      "title": "Bills news: Previewing potential trade targets and positional needs",
+      "title_ja": null,
+      "excerpt": "Brandon Beane has a few holes to shore up at the trade deadline, including safety, cornerback and inside linebacker.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "BUF",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 12:34:36 +0000",
+      "url": "https://sports.yahoo.com/articles/bills-news-previewing-potential-trade-123436065.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL commissioner Roger Goodell on potential Tokyo game: &#39;It&#39;s coming at some point in the near future&#39;",
+      "title_ja": null,
+      "excerpt": "The NFL previously hosted 14 preseason games in Japan from 1976 to 2005.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 12:31:00 +0000",
+      "url": "https://sports.yahoo.com/nfl/article/nfl-commissioner-roger-goodell-on-potential-tokyo-game-its-coming-at-some-point-in-the-near-future-123100001.html"
+    },
+    {
+      "kind": "other",
+      "title": "Lions vs. Packers 5 Qs preview: Unpacking Jordan Love’s volatile numbers",
+      "title_ja": null,
+      "excerpt": "Here’s our preview with Acme Packing Company about this Week 7 matchup between the Detroit Lions and Green Bay Packers.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 12:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/lions-vs-packers-5-qs-123000016.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cardinals vs. Broncos Week 7 TV Map",
+      "title_ja": null,
+      "excerpt": "Do you have the ability to view the game?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 12:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cardinals-vs-broncos-week-7-120000080.html"
+    },
+    {
+      "kind": "other",
+      "title": "Chicago Bears Week 7 Flashbacks: A GW Drive, NFL History, and More!",
+      "title_ja": null,
+      "excerpt": "Hop aboard the Gridiron Time Machine with @iamcogs and take a trip down Week 7 Bears memory lane!",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 12:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/chicago-bears-week-7-flashbacks-120000330.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL Predictions: Will Steelers get back to feeding Jaylen Warren vs. Saints?",
+      "title_ja": null,
+      "excerpt": "Will Steelers get Jaylen Warren going vs. Saints?",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NO",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 12:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-predictions-steelers-back-feeding-120000622.html"
+    },
+    {
+      "kind": "other",
+      "title": "NFL Week 7: 3 other games for Browns fans to keep an eye on",
+      "title_ja": null,
+      "excerpt": "Week 7 has a few important games for Cleveland Browns fans, including AFC North action, and the Rams struggles",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CLE",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 11:58:17 +0000",
+      "url": "https://sports.yahoo.com/articles/nfl-week-7-3-other-115817679.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Detroit fans pick winner of Lions vs. Packers in Week 7",
+      "title_ja": null,
+      "excerpt": "Detroit Lions fans discuss their confidence level in the team and predict the winner of this week’s game.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DET",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 11:30:00 +0000",
+      "url": "https://sports.yahoo.com/articles/detroit-fans-pick-winner-lions-113000537.html"
+    },
+    {
+      "kind": "other",
+      "title": "Reacts Results: Panthers fans think Carolina is heading to the playoffs",
+      "title_ja": null,
+      "excerpt": "Fan surveys show the Carolinas riding high on recent successes",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CAR",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 11:29:04 +0000",
+      "url": "https://sports.yahoo.com/articles/reacts-results-panthers-fans-think-112904374.html"
+    },
+    {
+      "kind": "injury",
+      "title": "3 NFL Draft prospects of interest for the Bengals in College Football Week 8",
+      "title_ja": null,
+      "excerpt": "The Bengals could look to one of these prospects for their left tackle of the future.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 11:15:00 +0000",
+      "url": "https://sports.yahoo.com/articles/3-nfl-draft-prospects-interest-111500933.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Rams vs. Las Vegas Raiders: How to watch, start time, prediction and odds",
+      "title_ja": null,
+      "excerpt": "Everything you need to know about the Rams facing the Las Vegas Raiders on Sunday, including start time, how to watch, injuries and betting odds.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/rams-vs-las-vegas-raiders-110000654.html"
+    },
+    {
+      "kind": "injury",
+      "title": "Injury-marred Rams don&#39;t want your sympathy. They&#39;re out to prove they can save their season",
+      "title_ja": null,
+      "excerpt": "The Rams will face the Las Vegas Raiders with several players out because of injuries, but the team sees it as an opportunity to shine through adversity.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/injury-marred-rams-dont-want-110000288.html"
+    },
+    {
+      "kind": "other",
+      "title": "Commanders fans choose patience over panic with Dan Quinn & look ahead to a wide-open NFC East",
+      "title_ja": null,
+      "excerpt": "A 1-4-1 start hasn’t killed hope, with 64% of fans backing Jayden Daniels and the Commanders for a second-half division push",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "WAS",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/commanders-fans-choose-patience-over-110000701.html"
+    },
+    {
+      "kind": "other",
+      "title": "The Broncos aren’t overlooking the Cardinals",
+      "title_ja": null,
+      "excerpt": "The Denver Broncos aren’t underestimating the Arizona Cardinals yet believe this can be the game where everything begins to click for them.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "ARI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/broncos-aren-t-overlooking-cardinals-110000235.html"
+    },
+    {
+      "kind": "other",
+      "title": "Rewriting the Narrative: The Vikings’ New Story",
+      "title_ja": null,
+      "excerpt": "Words are words",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "MIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/rewriting-narrative-vikings-story-110000727.html"
+    },
+    {
+      "kind": "other",
+      "title": "Cowboys news: Dak Prescott explains why establishing the run is so important",
+      "title_ja": null,
+      "excerpt": "Here is today&#39;s Dallas Cowboys news.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 11:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/cowboys-news-dak-prescott-explains-110000598.html"
+    },
+    {
+      "kind": "other",
+      "title": "Rhamondre Stevenson says Bears&#39; defensive alignment helped with 48-yard TD",
+      "title_ja": null,
+      "excerpt": "Patriots running back Rhamondre Stevenson made one of the most stunning plays of this NFL season when he turned a short pass at the end of the first half and ran for a 48-yard touchdown against the Bears.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 10:53:04 +0000",
+      "url": "https://sports.yahoo.com/articles/rhamondre-stevenson-says-bears-defensive-105304161.html"
+    },
+    {
+      "kind": "other",
+      "title": "Tee Higgins is in a league of his own vs. man coverage",
+      "title_ja": null,
+      "excerpt": "The Bengals wideout is thriving vs. man coverage.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CIN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 10:40:00 +0000",
+      "url": "https://sports.yahoo.com/articles/tee-higgins-league-own-vs-104000091.html"
+    },
+    {
+      "kind": "other",
+      "title": "College Players to Watch: Week 7",
+      "title_ja": null,
+      "excerpt": "Here are some players to keep an eye on in Week 7 and why they would matter to the Saints.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NO",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 10:11:29 +0000",
+      "url": "https://sports.yahoo.com/articles/college-players-watch-week-7-101129981.html"
+    },
+    {
+      "kind": "rumor",
+      "title": "Giants news: Tremaine Edmunds reportedly headed to IR, special teams issues, more",
+      "title_ja": null,
+      "excerpt": "New York Giants headlines for Saturday.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "NYG",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 10:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/giants-news-tremaine-edmunds-reportedly-100000941.html"
+    },
+    {
+      "kind": "presser",
+      "title": "Bears lead NFL in time of possession, but Ben Johnson would prefer one-play TD drives",
+      "title_ja": null,
+      "excerpt": "&quot;&quot;I&#39;ve never been one for the time of possession stat. I don&#39;t know that that really equates to winning and losing,&quot; Johnson said.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 09:33:48 +0000",
+      "url": "https://sports.yahoo.com/articles/bears-lead-nfl-time-possession-093348163.html"
+    },
+    {
+      "kind": "other",
+      "title": "The NFL should relocate the Steelers-Saints game in Paris to London",
+      "title_ja": null,
+      "excerpt": "NFL scraps multiple Saturday events due to ongoing protests.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "NO",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 09:01:51 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-nfl-should-relocate-the-steelers-saints-game-in-paris-to-london"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Boise State vs. Washington State: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 Boise State Broncos and Washington State Cougars game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DEN",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:54 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-boise-state-vs-washington-state-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Iowa vs. Minnesota: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 Iowa Hawkeyes and Minnesota Golden Gophers game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:49 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-iowa-vs-minnesota-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "UFC 333 Odds and Promos: How to Bet on Volkanovski vs. Evloev or Any Other Fight on the UFC333 Card",
+      "title_ja": null,
+      "excerpt": "UFC 333 Odds and Promos: How to Bet on Volkanovski vs. Evloev or Any Other Fight on the UFC333 Card.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:46 -0400",
+      "url": "https://www.foxsports.com/stories/betting/ufc-333-odds-promos-how-bet-volkanovski-vs-evloev-any-other-fight-ufc333-card"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch California vs. SMU: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 California Golden Bears and SMU Mustangs game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:42 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-california-vs-smu-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Ole Miss vs. Texas: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 Ole Miss and Texas game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:42 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-ole-miss-vs-texas-tv-channel-live-stream-time-saturday-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Colorado vs. Oklahoma State: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "This matchup brings a clear contrast into the weekend as Oklahoma State looks to protect its home edge and Colorado tries to stop a slide.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:40 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-colorado-vs-oklahoma-state-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Indiana vs. Michigan: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 Indiana Hoosiers and Michigan Wolverines game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:38 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-indiana-vs-michigan-tv-channel-live-stream-time"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Texas A&M vs. Alabama: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 Texas A&M Aggies and Alabama Crimson Tide game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:37 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-texas-am-vs-alabama-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Oregon vs. Illinois: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "This matchup brings a solid Big Ten measuring stick into focus as the Illinois Fighting Illini host the Oregon Ducks in the 2026 regular season on Saturday,...",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:28 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-oregon-vs-illinois-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Texas Tech vs. Cincinnati: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 Texas Tech Red Raiders and Cincinnati Bearcats game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "LV",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:24 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-texas-tech-vs-cincinnati-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch USC vs. Wisconsin: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 USC Trojans and Wisconsin Badgers game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:17 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-usc-vs-wisconsin-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Vanderbilt vs. Kentucky: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 Vanderbilt Commodores and Kentucky Wildcats game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:15 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-vanderbilt-vs-kentucky-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Houston vs. Utah: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 Houston Cougars and Utah Utes game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:12 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-houston-vs-utah-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Oklahoma vs. Mississippi State: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 Oklahoma Sooners and Mississippi State Bulldogs game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:11 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-oklahoma-vs-mississippi-state-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Rutgers vs. Northwestern: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 Rutgers Scarlet Knights and Northwestern Wildcats game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:08 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-rutgers-vs-northwestern-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch LSU vs. Auburn: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 LSU and Auburn game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:07 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-lsu-vs-auburn-tv-channel-live-stream-time"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch Michigan State vs. UCLA: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 Michigan State Spartans and UCLA Bruins game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:02 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-michigan-state-vs-ucla-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "How to Watch BYU vs. UCF: TV Channel, Live Stream, Time - October 24, 2026",
+      "title_ja": null,
+      "excerpt": "Learn which TV channel or how to live stream the CFB Week 8 BYU and UCF game.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 08:00:00 -0400",
+      "url": "https://www.foxsports.com/stories/college-football/how-to-watch-byu-vs-ucf-tv-channel-live-stream-time-october-24-2026"
+    },
+    {
+      "kind": "other",
+      "title": "Underdog Promo: Play $10 Get $50 Bonus Entries Using Code 'FOXSPORTS'",
+      "title_ja": null,
+      "excerpt": "Claim the Underdog Fantasy promo code and unlock $50 in bonus cash when you play just $5. Learn how to claim, terms, app features, and more.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:35:24 -0400",
+      "url": "https://www.foxsports.com/stories/betting/underdog-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "DraftKings Promo Code: Spend $5, Get $200 in Bonus Bets + 3 Months of NBA League Pass On Us",
+      "title_ja": null,
+      "excerpt": "Bet $5 and Get $150 in Bonus Bets Instantly on DraftKings for New Users.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:35:17 -0400",
+      "url": "https://www.foxsports.com/stories/betting/draftkings-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Kalshi Promo Code FOXSPORTS55: Get a $55 Bonus for UFC333 as Volkanovski vs. Evloev Headline",
+      "title_ja": null,
+      "excerpt": "Kalshi Promo Code FOXSPORTS55: Get a $55 Bonus for UFC333 as Volkanovski vs. Evloev Headline.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:30:59 -0400",
+      "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code-foxsports55-get-55-bonus-ufc333-volkanovski-vs-evloev-headline"
+    },
+    {
+      "kind": "other",
+      "title": "Polymarket promo code FOX: Deposit $10, Get a $25 bonus for October Sports",
+      "title_ja": null,
+      "excerpt": "Use Polymarket promo code FOX to deposit $10 and get a $25 trading bonus on the world's largest prediction market platform. New users only. 18+. Not available in AZ, IL, MA, MD, MI, MT, NJ, NV, OH.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:30:48 -0400",
+      "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code"
+    },
+    {
+      "kind": "trade",
+      "title": "Kalshi promo code FOXSPORTS55: Trade $25 get up to $55 on October 2026",
+      "title_ja": null,
+      "excerpt": "Use Kalshi promo code FOXSPORTS55 to get up to $55 in bonuses. Learn how Kalshi works, where it’s legal, and how prediction markets differ from sportsbooks.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:25:10 -0400",
+      "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "BetMGM Bonus Code FOXSPORTS: $1500 in Bonus Bets if Your First Bet Loses",
+      "title_ja": null,
+      "excerpt": "Use BetMGM Bonus Code FOXSPORTS to get up to $1,500 back in Bonus Bets if your first wager loses. Claim your BetMGM welcome offer today.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:15:50 -0400",
+      "url": "https://www.foxsports.com/stories/betting/betmgm-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Best DFS Apps 2026: Daily Fantasy Sports Platforms Reviewed",
+      "title_ja": null,
+      "excerpt": "Compare the best DFS apps for 2026. Explore reviews of UnderDog, DraftKings, Sleeper, and more, including bonuses, features, and contest types.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:15:00 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-dfs-apps"
+    },
+    {
+      "kind": "other",
+      "title": "Caesars Promo Code FOXDYW: Bet $1, Double Your Winnings Your Next 10 Wagers",
+      "title_ja": null,
+      "excerpt": "Caesars Sportsbook Promo Code 'FOXDYW' Bet $1, Double Your Winnings Your Next 10 Wagers.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:10:14 -0400",
+      "url": "https://www.foxsports.com/stories/betting/caesars-sportsbook-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Best Sportsbook Promos & Bonus Bets - October 2026 Top Offers",
+      "title_ja": null,
+      "excerpt": "Discover the best sportsbook promos and bonus bets for October 2026. Compare welcome offers and top bonuses from leading betting sites.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:05:51 -0400",
+      "url": "https://www.foxsports.com/stories/betting/sportsbook-promo-bonus"
+    },
+    {
+      "kind": "other",
+      "title": "FanDuel Promo Code: Get $350 in Bonus Bets when you wager $5 for 7 days",
+      "title_ja": null,
+      "excerpt": "Get $1,000 in Bonus Bets when you bet $5 for five days with our FanDuel sportsbook offer for new users.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:05:44 -0400",
+      "url": "https://www.foxsports.com/stories/betting/fanduel-promo-code"
+    },
+    {
+      "kind": "other",
+      "title": "Best Sports Betting Apps 2026: Top Betting Sites Reviewed",
+      "title_ja": null,
+      "excerpt": "Compare the best sports betting apps and sites for 2026. See reviews, bonuses, and features to help choose the right sportsbook for your needs.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:00:58 -0400",
+      "url": "https://www.foxsports.com/stories/betting/best-sports-betting-apps"
+    },
+    {
+      "kind": "injury",
+      "title": "Jalyx Hunt explains relief of knowing his season didn&#39;t end in London",
+      "title_ja": null,
+      "excerpt": "Jalyx Hunt avoided major injury in London and is looking forward to getting back to game action.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/jalyx-hunt-explains-relief-knowing-070000551.html"
+    },
+    {
+      "kind": "other",
+      "title": "Makai Lemon facing big opportunity in huge game vs. Cowboys",
+      "title_ja": null,
+      "excerpt": "Eagles rookie Makai Lemon will have a big opportunity on Monday night against the Cowboys.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "DAL",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/makai-lemon-facing-big-opportunity-070000141.html"
+    },
+    {
+      "kind": "other",
+      "title": "You&#39;re not the only one wondering why the Eagles haven&#39;t used Hollywood Brown",
+      "title_ja": null,
+      "excerpt": "Brown has no targets through Week 6.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "PHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 07:00:00 +0000",
+      "url": "https://sports.yahoo.com/articles/youre-not-only-one-wondering-070000790.html"
+    },
+    {
+      "kind": "other",
+      "title": "Rhamondre Stevenson says Bears' defensive alignment helped with 48-yard TD",
+      "title_ja": null,
+      "excerpt": "Patriots running back Rhamondre Stevenson made one of the most stunning plays of this NFL season when he turned a short pass at the end of the first half and ran for a 48-yard touchdown against the Bears.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 06:53:04 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rhamondre-stevenson-says-bears-defensive-alignment-helped-with-48-yard-td"
+    },
+    {
+      "kind": "presser",
+      "title": "Bears lead NFL in time of possession, but Ben Johnson would prefer one-play TD drives",
+      "title_ja": null,
+      "excerpt": "\"\"I've never been one for the time of possession stat. I don't know that that really equates to winning and losing,\" Johnson said.",
+      "excerpt_ja": null,
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "reliability": 0.54,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Sat, 24 Oct 2026 05:33:48 -0400",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-lead-nfl-in-time-of-possession-but-ben-johnson-would-prefer-one-play-td-drives"
+    },
     {
       "kind": "other",
       "title": "UConn tops UMass, 35-16",
@@ -52,406 +996,6 @@
       "url": "https://sports.yahoo.com/articles/seahawks-sent-mixed-signals-whether-034154308.html"
     },
     {
-      "kind": "other",
-      "title": "William Contreras Stole The Show In Brewers' First World Series Win In 44 Years",
-      "title_ja": null,
-      "excerpt": "Through his offense, his defense and an impactful mound visit, William Contreras did all the things to seal a win in the Brewers' first World Series game since 1982",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 03:39:27 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/william-contreras-stole-show-brewers-first-world-series-win-44-years"
-    },
-    {
-      "kind": "other",
-      "title": "Iowa vs. Minnesota Prediction, Odds, Picks For College Football Week 8",
-      "title_ja": null,
-      "excerpt": "Get the latest No. 15 Iowa vs. Minnesota odds, prediction and pick for College Football Week 8, plus kickoff time, TV channel and streaming information.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 03:30:55 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/iowa-vs-minnesota-prediction-odds-picks-college-football-week-8"
-    },
-    {
-      "kind": "other",
-      "title": "BYU vs. UCF Prediction, Odds, Picks for College Football Week 8",
-      "title_ja": null,
-      "excerpt": "Get the latest No. 2 BYU vs. UCF odds, prediction and pick for College Football Week 8, plus kickoff time, TV channel and streaming information.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 03:30:51 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/byu-vs-ucf-prediction-odds-picks-college-football-week-8"
-    },
-    {
-      "kind": "other",
-      "title": "NFL predictions: Jets, Aaron Glenn face a must win game against winless Dolphins",
-      "title_ja": null,
-      "excerpt": "Let’s make some predictions!",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "MIA",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 03:16:54 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-predictions-jets-aaron-glenn-031654913.html"
-    },
-    {
-      "kind": "other",
-      "title": "Oregon vs. Illinois Prediction, Odds, Picks For College Football Week 8",
-      "title_ja": null,
-      "excerpt": "Get the latest Oregon vs. Illinois odds, prediction and pick for College Football Week 8, plus kickoff time, TV channel and streaming information.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 03:00:26 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/oregon-vs-illinois-prediction-odds-picks-college-football-week-8"
-    },
-    {
-      "kind": "rumor",
-      "title": "President Trump on Sunday&#39;s game in Paris: &quot;The NFL probably could have postponed&quot;",
-      "title_ja": null,
-      "excerpt": "The NFL plans to press forward with Sunday&#39;s game between the Steelers and Saints in Paris.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 02:51:06 +0000",
-      "url": "https://sports.yahoo.com/articles/president-trump-sundays-game-paris-025106353.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Buccaneers vs. Panthers: Baker Mayfield expected back as three Bucs ruled out",
-      "title_ja": null,
-      "excerpt": "The Tampa Bay Buccaneers received encouraging news regarding quarterback Baker Mayfield Friday, but will be without several key players for Sunday’s NFC South matchup against the Carolina Panthers. Mayfield, who has missed the last three games with a dislocated right thumb, practiced fully for the t",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CAR",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 02:37:52 +0000",
-      "url": "https://sports.yahoo.com/articles/buccaneers-vs-panthers-baker-mayfield-023752532.html"
-    },
-    {
-      "kind": "other",
-      "title": "2026 World Series MVP: Chourio, Contreras Favored Early; Caminero Third",
-      "title_ja": null,
-      "excerpt": "Two Brewers top the board, with the Rays' star hitter in hot pursuit. See the early World Series MVP odds.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 01:51:05 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/2026-world-series-mvp"
-    },
-    {
-      "kind": "injury",
-      "title": "49ers injury report for Week 7 vs. Falcons: Nick Bosa, Mike Evans, Deebo Samuel all out",
-      "title_ja": null,
-      "excerpt": "The San Francisco 49ers have ruled out several stars for the Week 7 game against the Atlanta Falcons.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 01:50:56 +0000",
-      "url": "https://sports.yahoo.com/articles/49ers-injury-report-week-7-015056201.html"
-    },
-    {
-      "kind": "other",
-      "title": "John Harbaugh makes Tom Brady reference for J.J. McCarthy — but it’s not what you think",
-      "title_ja": null,
-      "excerpt": "Brady, 49, threw his final pass in 2022. And if he wanted to unretire?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 01:44:44 +0000",
-      "url": "https://sports.yahoo.com/articles/john-harbaugh-makes-tom-brady-014444816.html"
-    },
-    {
-      "kind": "other",
-      "title": "2026 World Series Odds: Brewers Up 1-0, Favored Over Rays In Fall Classic",
-      "title_ja": null,
-      "excerpt": "There will be a first-time champion in 2026, with Milwaukee and Tampa Bay set to face off in the World Series.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 01:39:39 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/2026-world-series-odds"
-    },
-    {
-      "kind": "signing",
-      "title": "Adonai Mitchell’s long-awaited Jets return from mystery finger injury gives offense the boost it needs",
-      "title_ja": null,
-      "excerpt": "Adonai Mitchell may have been dealing with more than a finger injury. It appears he also has a case of amnesia — at least when it comes to the finger on his right hand that has kept him out of action for four games.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYJ",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 01:24:08 +0000",
-      "url": "https://sports.yahoo.com/articles/adonai-mitchell-long-awaited-jets-012408210.html"
-    },
-    {
-      "kind": "rumor",
-      "title": "Three teams could be undefeated through seven weeks, which is a rarity",
-      "title_ja": null,
-      "excerpt": "Entering Week 7, three teams are undefeated.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.54,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 01:20:13 +0000",
-      "url": "https://sports.yahoo.com/articles/three-teams-could-undefeated-seven-012013402.html"
-    },
-    {
-      "kind": "injury",
-      "title": "NFL predictions: Can Falcons take advantage of 49ers injuries?",
-      "title_ja": null,
-      "excerpt": "The Falcons enter the unenviable situation of needing a win against an undefeated 49ers team that has pretty consistently looked like one of the NFL’s best units.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "ATL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 01:17:07 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-predictions-falcons-advantage-49ers-011707301.html"
-    },
-    {
-      "kind": "other",
-      "title": "Derek Jeter, David Ortiz Praise 'Fearless' Jackson Chourio After World Series Game 1",
-      "title_ja": null,
-      "excerpt": "Jackson Chourio drove in the (ultimately) decisive run in Game 1 of the 2026 World Series. Here's what stands out about him to the MLB on FOX crew.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 00:47:54 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/derek-jeter-david-ortiz-praise-fearless-jackson-chourio-after-world-series-game-1"
-    },
-    {
-      "kind": "other",
-      "title": "Bengals players weigh in on facing Trey Hendrickson for the first time with the Ravens",
-      "title_ja": null,
-      "excerpt": "The Bengals have respect and love for Trey Hendrickson after he helped this team win a lot of games since 2021.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 00:40:51 +0000",
-      "url": "https://sports.yahoo.com/articles/bengals-players-weigh-facing-trey-004051184.html"
-    },
-    {
-      "kind": "other",
-      "title": "Dallas Cowboys Cheerleaders unionize, will collectively bargain with team",
-      "title_ja": null,
-      "excerpt": "The Dallas Cowboys Cheerleaders Association, the union formed by the team&#39;s entertainment crew, will collectively bargain with the franchise.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 00:32:46 +0000",
-      "url": "https://sports.yahoo.com/articles/dallas-cowboys-cheerleaders-unionize-collectively-003246286.html"
-    },
-    {
-      "kind": "other",
-      "title": "Bills’ Sam Franklin gets spitting suspension overturned after winning appeal",
-      "title_ja": null,
-      "excerpt": "The Bills’ spitting scandal has come to a close.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BUF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 00:25:08 +0000",
-      "url": "https://sports.yahoo.com/articles/bills-sam-franklin-gets-spitting-002508732.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Bears vs. Patriots Game Balls: A Signature Victory",
-      "title_ja": null,
-      "excerpt": "After an exciting win over the Patriots, @ryandroste hands out his Chicago #Bears Week 7 game balls.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 00:16:12 +0000",
-      "url": "https://sports.yahoo.com/articles/bears-vs-patriots-game-balls-001612099.html"
-    },
-    {
-      "kind": "other",
-      "title": "Aaron Glenn faces $250K fine for conduct toward NFL officials",
-      "title_ja": null,
-      "excerpt": "Aaron Glenn was one of three head coaches fined $250,000 by the league for conduct toward game officials, a source confirmed.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 00:15:45 +0000",
-      "url": "https://sports.yahoo.com/articles/aaron-glenn-faces-250k-fine-001545708.html"
-    },
-    {
-      "kind": "other",
-      "title": "NFL predictions: With the defense cooking, will the Browns-Titans matchup be put to bed early?",
-      "title_ja": null,
-      "excerpt": "Can the Browns finally win a game by double digits?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 00:14:51 +0000",
-      "url": "https://sports.yahoo.com/articles/nfl-predictions-defense-cooking-browns-001451480.html"
-    },
-    {
-      "kind": "other",
-      "title": "MLB Rules Expert Explains Overturned Brewers Double Play In Game 1 Of World Series",
-      "title_ja": null,
-      "excerpt": "The Brewers' Game 1 celebrations were delayed by a controversial call at second base.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 00:12:54 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-rules-expert-explains-why-controversial-brewers-call-actually-correct"
-    },
-    {
-      "kind": "other",
-      "title": "CeeDee Lamb has ‘why not us’ attitude for Cowboys’ NFC East chances despite worrying skid",
-      "title_ja": null,
-      "excerpt": "He isn&#39;t phased by the Cowboys’ two-game losing streak.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 00:03:04 +0000",
-      "url": "https://sports.yahoo.com/articles/ceedee-lamb-why-not-us-000304625.html"
-    },
-    {
-      "kind": "other",
-      "title": "Texas Tech vs. Cincinnati Prediction, Odds, Picks For College Football Week 8",
-      "title_ja": null,
-      "excerpt": "Get the latest No. 8 Texas Tech vs. Cincinnati odds, prediction and pick for College Football Week 8, plus kickoff time, TV channel and streaming information.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 00:00:39 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/texas-tech-vs-cincinnati-prediction-odds-picks-college-football-week-8"
-    },
-    {
-      "kind": "other",
-      "title": "Michigan vs. Indiana Prediction, Odds, Pick For College Football Week 8",
-      "title_ja": null,
-      "excerpt": "Get the latest odds, prediction and pick for the Week 8 Michigan vs. Indiana game, as well as information on how to watch.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Sat, 24 Oct 2026 00:00:22 -0400",
-      "url": "https://www.foxsports.com/stories/college-football/michigan-vs-indiana-prediction-odds-pick-college-football-week-8"
-    },
-    {
       "kind": "injury",
       "title": "NFL injury tracker Week 7: Latest news, fantasy implications as Saquon Barkley (hamstring) back at practice; Lamar Jackson (ankle), Puka Nacua (calf) questionable",
       "title_ja": null,
@@ -484,182 +1028,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sent-mixed-signals-about-whether-zach-charbonnet-would-play-on-sunday"
     },
     {
-      "kind": "other",
-      "title": "Advantage, Milwaukee: 4 Takeaways From The Brewers' World Series Game 1 Win",
-      "title_ja": null,
-      "excerpt": "The Brewers have a 1-0 lead in the World Series after holding off the Rays. Here are Deesha Thosar's takeaways.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 23:28:11 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/tampa-bay-rays-vs-milwaukee-brewers-world-series-game-1-takeaways-october-23"
-    },
-    {
-      "kind": "injury",
-      "title": "Raiders’ Dont’e Thornton running out of time as roster deadline looms",
-      "title_ja": null,
-      "excerpt": "Time is running out on Dont’e Thornton. And with each passing week, it becomes harder to point to his health as the reason the Raiders wide receiver remains on injured...",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 23:21:49 +0000",
-      "url": "https://sports.yahoo.com/articles/raiders-dont-e-thornton-running-232149696.html"
-    },
-    {
-      "kind": "other",
-      "title": "Las Vegas Raiders-Los Angeles Rams FEED Topic: Which team will win special teams battle?",
-      "title_ja": null,
-      "excerpt": "The 3rd phase of the game has been the Rams’ Achilles heel and bitten the Raiders at times, making it a key to the game.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "LV",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 23:15:00 +0000",
-      "url": "https://sports.yahoo.com/articles/las-vegas-raiders-los-angeles-231500915.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Giants linebacker Tremaine Edmunds out for remainder of 2026 season with shoulder injury",
-      "title_ja": null,
-      "excerpt": "Edmunds suffered the injury attempting to make a tackle late in Week 6&#39;s loss to the Saints. He was the Giants&#39; leading tackler in their first six games.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NO",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 23:12:11 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/giants-linebacker-tremaine-edmunds-out-for-remainder-of-2026-season-with-shoulder-injury-231211112.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cowboys recognize cheerleaders union after years of fighting for higher pay",
-      "title_ja": null,
-      "excerpt": "The Dallas Cowboys cheerleaders are unionizing.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 23:05:37 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-recognize-cheerleaders-union-years-230537477.html"
-    },
-    {
-      "kind": "signing",
-      "title": "Dallas Cowboys Cheerleaders unionize, to start collective bargaining after pushing for better wages for years",
-      "title_ja": null,
-      "excerpt": "The Dallas Cowboys agreed to recognize the newly formed union as the collective bargaining representative for the Dallas Cowboys Cheerleaders.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 23:04:02 +0000",
-      "url": "https://sports.yahoo.com/nfl/article/dallas-cowboys-cheerleaders-unionize-to-start-collective-bargaining-after-pushing-for-better-wages-for-years-230402215.html"
-    },
-    {
-      "kind": "trade",
-      "title": "5 trade targets for Bears to pursue by the 2026 trade deadline",
-      "title_ja": null,
-      "excerpt": "The 2026 NFL trade deadline is a few weeks away, and @jacobinfante24 shares his top trade targets for the Bears.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CHI",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 23:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/5-trade-targets-bears-pursue-230000029.html"
-    },
-    {
-      "kind": "other",
-      "title": "Cowboys at Eagles: 3 causes for concern in Philadelphia",
-      "title_ja": null,
-      "excerpt": "The Cowboys and Eagles will square off on Monday night.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 23:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/cowboys-eagles-3-causes-concern-230000562.html"
-    },
-    {
-      "kind": "presser",
-      "title": "Do you think Bo Nix is ready to go on a run?",
-      "title_ja": null,
-      "excerpt": "There has been a lot of hand wringing over the Denver Broncos offense and Bo Nix in particular, but the coaching staff has no lost faith in him at all. Offensive coordinator Davis Webb came out and defending him hard this week and even said he feels like Nix is about to go on a […]",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DEN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 23:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/think-bo-nix-ready-run-230000624.html"
-    },
-    {
-      "kind": "other",
-      "title": "theScore Bet Promo Code: Get $1,000 Bet Reset",
-      "title_ja": null,
-      "excerpt": "theScore Bet Promo Code: Get $1,000 Bet Reset.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 22:59:29 -0400",
-      "url": "https://www.foxsports.com/stories/betting/thescore-bet-promo-code"
-    },
-    {
-      "kind": "injury",
-      "title": "Tremaine Edmunds out for season in crushing Giants injury blow",
-      "title_ja": null,
-      "excerpt": "The Giants have maintained all along that they have three starting-caliber inside linebackers, and now Tremaine Edmunds’ season-ending right shoulder injury is going to put that theory to the test.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "NYG",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 22:56:29 +0000",
-      "url": "https://sports.yahoo.com/articles/tremaine-edmunds-season-crushing-giants-225629928.html"
-    },
-    {
       "kind": "rumor",
       "title": "President Trump on Sunday's game in Paris: \"The NFL probably could have postponed\"",
       "title_ja": null,
@@ -674,54 +1042,6 @@
       "coach_name": null,
       "published_at": "Fri, 23 Oct 2026 22:51:06 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/president-trump-on-sundays-game-in-paris-nfl-probably-could-have-postponed"
-    },
-    {
-      "kind": "injury",
-      "title": "Indianapolis Colts Injury Report: Week 7 Who’s In and Who’s Out",
-      "title_ja": null,
-      "excerpt": "Indianapolis colts injury report",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "IND",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 22:42:25 +0000",
-      "url": "https://sports.yahoo.com/articles/indianapolis-colts-injury-report-week-224225447.html"
-    },
-    {
-      "kind": "injury",
-      "title": "Ravens list QB Lamar Jackson as questionable for Sunday vs. Bengals",
-      "title_ja": null,
-      "excerpt": "Lamar Jackson’s status remains up in the air for the Ravens’ Week 7 matchup with the Bengals.",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "BAL",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 22:35:35 +0000",
-      "url": "https://sports.yahoo.com/articles/ravens-list-qb-lamar-jackson-194414874.html"
-    },
-    {
-      "kind": "trade",
-      "title": "Should the Browns trade Jerry Jeudy? Our panel weighs in and is not unanimous",
-      "title_ja": null,
-      "excerpt": "The talented Cleveland Browns receiver has been mentioned in trade rumors, but should Jerry Jeudy be traded?",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CLE",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 22:33:58 +0000",
-      "url": "https://sports.yahoo.com/articles/browns-trade-jerry-jeudy-panel-223358806.html"
     },
     {
       "kind": "signing",
@@ -748,7 +1068,7 @@
       "sources": [
         "Pro Football Talk"
       ],
-      "reliability": 0.54,
+      "reliability": 0.5,
       "team_abbrev": null,
       "player_name": null,
       "coach_name": null,
@@ -770,38 +1090,6 @@
       "coach_name": null,
       "published_at": "Fri, 23 Oct 2026 21:04:07 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-pickens-im-doing-what-they-tell-me-to-do"
-    },
-    {
-      "kind": "other",
-      "title": "Brewers Ace Jacob Misiorowski Breaks World Series Record For Fastest Pitch",
-      "title_ja": null,
-      "excerpt": "Jacob Misiorowski broke the record for fastest World Series pitch with the very first offering of this year's Fall Classic.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 20:57:38 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/brewers-ace-jacob-misiorowski-breaks-world-series-record-fastest-pitch"
-    },
-    {
-      "kind": "injury",
-      "title": "Derek Jeter, David Ortiz And Alex Rodriguez Make Their World Series Predictions",
-      "title_ja": null,
-      "excerpt": "Here is who World Series-winners Derek Jeter, David Ortiz and Alex Rodriguez have taking home the Commissioner's Trophy.",
-      "excerpt_ja": null,
-      "sources": [
-        "FOX Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 20:42:57 -0400",
-      "url": "https://www.foxsports.com/stories/mlb/derek-jeter-david-ortiz-alex-rodriguez-make-world-series-predictions"
     },
     {
       "kind": "other",
@@ -1092,22 +1380,6 @@
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-list-denzel-ward-as-questionable-with-a-hand-injury"
     },
     {
-      "kind": "signing",
-      "title": "Dan Campbell: Sam LaPorta's contract comments aren't a distraction for us",
-      "title_ja": null,
-      "excerpt": "Lions tight end Sam LaPorta is in the market for a new contract and he said this week that \"it sucks\" that one hasn't come together with the team as he plays out the final year of his rookie deal.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "DET",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 15:41:57 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-sam-laportas-contract-comments-arent-a-distraction-for-us"
-    },
-    {
       "kind": "injury",
       "title": "Injuries could increase Aaron Donald's playing time",
       "title_ja": null,
@@ -1125,22 +1397,6 @@
     },
     {
       "kind": "other",
-      "title": "49ers release DL Ogbo Okoronkwo on Friday",
-      "title_ja": null,
-      "excerpt": "The 49ers released defensive lineman Ogbo Okoronkwo on Friday, the team announced.",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "SF",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 15:30:25 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-release-dl-ogbo-okoronkwo-on-friday"
-    },
-    {
-      "kind": "other",
       "title": "A.J. Brown: I've got to put my best foot forward, try to make plays and keep going",
       "title_ja": null,
       "excerpt": "Patriots wide receiver A.J.",
@@ -1154,22 +1410,6 @@
       "coach_name": null,
       "published_at": "Fri, 23 Oct 2026 15:20:40 -0400",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-ive-got-to-put-my-best-foot-forward-try-to-make-plays-and-keep-going"
-    },
-    {
-      "kind": "injury",
-      "title": "D'Andre Swift received no in-game medical treatment for gash on knee",
-      "title_ja": null,
-      "excerpt": "Given the recent talk about the medical care provided to NFL players (I'll now wonder whether any \"calf\" injury is actually a blood clot), more attention will be paid to whether the practices match the principles that were stridently articulated earlier this week by chief medical officer Allen Sills",
-      "excerpt_ja": null,
-      "sources": [
-        "Pro Football Talk"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": null,
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Fri, 23 Oct 2026 15:19:27 -0400",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dandre-swift-received-no-in-game-medical-treatment-for-gash-on-knee"
     },
     {
       "kind": "injury",

@@ -1,8 +1,24 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T05:42:24.864464+00:00",
-  "count": 109,
+  "generated_at": "2026-11-24T06:49:36.287864+00:00",
+  "count": 110,
   "items": [
+    {
+      "kind": "injury",
+      "title": "Bears vs. Lions Injury Report: Chicago has 3 DNP, and Detroit has 4",
+      "title_ja": null,
+      "excerpt": "The Chicago Bears and Detroit Lions issued their first injury report for Thursday’s game. @wiltfongjr has the details here.",
+      "excerpt_ja": null,
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": "CHI",
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Tue, 24 Nov 2026 06:03:44 +0000",
+      "url": "https://sports.yahoo.com/articles/bears-vs-lions-injury-report-060344712.html"
+    },
     {
       "kind": "other",
       "title": "Commanders stun Bengals on walk-off field goal as Jayden Daniels leads improbable drive",
@@ -434,22 +450,6 @@
       "coach_name": null,
       "published_at": "Tue, 24 Nov 2026 01:10:59 +0000",
       "url": "https://sports.yahoo.com/articles/cincinnati-bengals-washington-commanders-week-011059685.html"
-    },
-    {
-      "kind": "injury",
-      "title": "BTSC Monday Night Football thread: Bengals at Commanders",
-      "title_ja": null,
-      "excerpt": "The Bengals are back in primetime after defeating the Steelers last week on Sunday Night Football. This week, 7-2 Cincinnati will close out the NFL’s Week 11 with a road trip to Maryland to take on the 3-5-1 Washington Commanders. After taking the AFC North lead in Week 10, can the Bengals keep thei",
-      "excerpt_ja": null,
-      "sources": [
-        "Yahoo Sports NFL"
-      ],
-      "reliability": 0.5,
-      "team_abbrev": "CIN",
-      "player_name": null,
-      "coach_name": null,
-      "published_at": "Tue, 24 Nov 2026 01:00:00 +0000",
-      "url": "https://sports.yahoo.com/articles/btsc-monday-night-football-thread-010000174.html"
     },
     {
       "kind": "other",
@@ -1154,6 +1154,22 @@
       "coach_name": null,
       "published_at": "Mon, 23 Nov 2026 17:09:10 -0500",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-among-eagles-listed-as-limited-on-monday"
+    },
+    {
+      "kind": "other",
+      "title": "Predicting The 12-Team College Football Playoff Bracket Ahead Of Week 13",
+      "title_ja": null,
+      "excerpt": "What RJ Young's College Football Playoff bracket would look like if the season ended after Week 12.",
+      "excerpt_ja": null,
+      "sources": [
+        "FOX Sports NFL"
+      ],
+      "reliability": 0.5,
+      "team_abbrev": null,
+      "player_name": null,
+      "coach_name": null,
+      "published_at": "Mon, 23 Nov 2026 16:55:25 -0500",
+      "url": "https://www.foxsports.com/stories/college-football/12-team-cfp-bracket-prediction-rankings"
     },
     {
       "kind": "injury",
